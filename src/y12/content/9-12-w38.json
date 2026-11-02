@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Một vấn đề, nhiều góc nhìn",
+   "One issue, many viewpoints"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Sân chung khu nhà An thường chật xe máy, trẻ con không còn chỗ chơi. An nghĩ: “Chỉ cần cấm hẳn xe vào sân là xong.”",
+   "The shared yard on An’s estate is always full of motorbikes, leaving no room for children to play. An thinks, “Just ban bikes from the yard, problem solved.”"
+  ],
+  "cq": [
+   "An nên nghĩ thêm thế nào?",
+   "How should An think it through?"
+  ],
+  "co": [
+   [
+    "Thử nghĩ từ vị trí bác bảo vệ, các cô chú đi làm, ông bà đi dạo và trẻ em, rồi mới đề xuất",
+    "Think from the view of the caretaker, working adults, older people out walking and children, then suggest something",
+    1,
+    "Mỗi người có một nhu cầu thật. Hiểu đủ các góc nhìn giúp con tìm cách mà nhiều người đồng ý.",
+    "Everyone has real needs. Seeing all sides helps you find a fix most people accept."
+   ],
+   [
+    "Giữ ý mình vì trẻ con cũng cần chỗ chơi",
+    "Stick to her idea because children need space too",
+    0,
+    "Nhu cầu của trẻ em là đúng, nhưng cô chú cũng cần chỗ để xe. Nghe thêm sẽ ra cách hay hơn.",
+    "Children’s needs matter, but adults need parking too. Listening more finds a better answer."
+   ],
+   [
+    "Chỉ hỏi ý các bạn cùng tuổi",
+    "Only ask kids her own age",
+    0,
+    "Các bạn sẽ nghĩ giống con. Hỏi cả người lớn tuổi khác nhau mới thấy toàn cảnh.",
+    "Other kids will think like you. Asking different ages shows the whole picture."
+   ]
+  ],
+  "qq": [
+   "Nhìn một vấn đề từ nhiều góc giúp…",
+   "Looking at an issue from many sides helps…"
+  ],
+  "qo": [
+   [
+    "Tìm cách giải hợp lý hơn cho mọi người",
+    "Find a fairer solution for everyone"
+   ],
+   [
+    "Thắng khi tranh luận",
+    "Win arguments"
+   ],
+   [
+    "Kéo dài thời gian bàn bạc",
+    "Make discussions longer"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chọn chỗ đi chơi Chủ nhật. An muốn đi công viên nước, em thích sở thú, ông chỉ muốn chỗ yên tĩnh có ghế ngồi.",
+     "The family is choosing a Sunday outing. An wants the water park, her brother wants the zoo, and Grandad just wants somewhere quiet with benches."
+    ],
+    "q": [
+     "An nên góp ý thế nào?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Nài nỉ đi công viên nước vì mình thích nhất",
+      "Beg for the water park because she loves it most",
+      0,
+      "Muốn điều mình thích là bình thường, nhưng ông có thể rất mệt ở đó. Thử nghĩ cho ông nhé.",
+      "Wanting your favourite is normal, but Grandad might be worn out. Think of him too."
+     ],
+     [
+      "Bốc thăm cho nhanh",
+      "Draw lots to save time",
+      0,
+      "Bốc thăm công bằng nhưng có thể chọn nơi không hợp với ông. Bàn theo nhu cầu sẽ chu đáo hơn.",
+      "Lots are fair but might pick somewhere unsuitable for Grandad. Talking about needs is kinder."
+     ],
+     [
+      "Nghĩ xem mỗi người cần gì, rồi tìm nơi có cả chỗ chơi cho em và chỗ nghỉ cho ông",
+      "Think about what each person needs, then find a place with fun for her brother and rest for Grandad",
+      1,
+      "Nhìn từ nhu cầu của từng người giúp chuyến đi vui cho cả nhà chứ không chỉ cho mình.",
+      "Seeing each person’s needs makes the trip fun for everyone, not just you."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An bàn có nên đổi chỗ ngồi mỗi tháng không. An ngồi cạnh bạn thân nên muốn phản đối ngay.",
+     "An’s class is discussing whether to change seats every month. An sits next to her best friend and wants to object straight away."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Phản đối ngay vì không muốn xa bạn thân",
+      "Object at once because she doesn’t want to move",
+      0,
+      "Cảm xúc của con là thật, nhưng thử nghĩ cho các bạn ngồi xa bảng nữa nhé.",
+      "Your feelings are real, but think about classmates far from the board too."
+     ],
+     [
+      "Im lặng, ai quyết sao cũng được",
+      "Stay silent and accept whatever is decided",
+      0,
+      "Ý kiến của con cũng quan trọng. Nghĩ đủ góc nhìn rồi góp ý sẽ giúp cả lớp.",
+      "Your view matters too. Thinking it through and speaking up helps the class."
+     ],
+     [
+      "Nghĩ thêm về các bạn ngồi cuối lớp, bạn mắt kém và ý của cô, rồi mới nói ý mình",
+      "Think about classmates at the back, those with weak eyesight and the teacher’s view, then give her opinion",
+      1,
+      "Khi hiểu lý do của người khác, ý kiến của con sẽ công bằng và thuyết phục hơn.",
+      "Understanding others’ reasons makes your view fairer and more convincing."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba người, ba suy nghĩ",
+    "Three people, three views"
+   ],
+   "s": [
+    "Con chọn một vấn đề nhỏ ở khu nhà (rác, chỗ để xe, tiếng ồn), viết suy nghĩ của 3 người khác nhau về vấn đề đó (như bác bảo vệ, một cụ già, một bạn nhỏ) rồi đọc cho ba mẹ nghe.",
+    "Choose a small issue where you live (rubbish, parking, noise), write how 3 different people might see it (like the caretaker, an older person, a young child) and read it to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn vấn đề và gợi ý suy nghĩ của từng người.",
+     "Your parent helps choose the issue and suggests each person’s view."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết 3 góc nhìn.",
+     "With one reminder, you write the 3 views yourself."
+    ],
+    [
+     "Con tự viết 3 góc nhìn và đề xuất một cách giải mà cả 3 người đều có thể đồng ý.",
+     "You write 3 views and suggest a solution all three could accept."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nghe con trình bày như một buổi họp nhỏ của gia đình",
+    "The family listens to you present it like a little family meeting"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Số điện thoại khẩn cấp",
+   "Emergency numbers"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba hỏi An: “Nếu thấy cháy thì gọi số nào?” An lúng túng rồi đáp: “Con gọi đại một số trong danh bạ ạ.”",
+   "Dad asks An, “If you saw a fire, which number would you call?” An hesitates, then says, “I’d just call someone in the contacts.”"
+  ],
+  "cq": [
+   "An nên học điều gì?",
+   "What should An learn?"
+  ],
+  "co": [
+   [
+    "Gọi thử 114 một lần cho biết",
+    "Try calling 114 once to see",
+    0,
+    "Số khẩn cấp chỉ dành cho lúc thật cần. Gọi thử làm người đang gặp nạn phải chờ lâu hơn.",
+    "Emergency lines are only for real emergencies. Test calls keep people in danger waiting."
+   ],
+   [
+    "Nhớ 114 cứu hoả, 115 cấp cứu, 113 công an; khi gọi nói rõ địa chỉ và chuyện gì đang xảy ra",
+    "Remember 114 for fire, 115 for ambulance, 113 for police; when calling, give the address and what’s happening",
+    1,
+    "Biết số và biết nói địa chỉ rõ giúp người cứu giúp đến nhanh. Báo ngay cho người lớn ở gần nữa nhé.",
+    "Knowing the number and your address gets help fast. Tell a nearby adult straight away too."
+   ],
+   [
+    "Chỉ nhớ đại khái, lúc cần thì tra",
+    "Remember roughly and look it up when needed",
+    0,
+    "Lúc khẩn cấp rất khó bình tĩnh tra cứu. Học thuộc trước sẽ giúp con nhanh hơn.",
+    "It’s hard to look things up calmly in an emergency. Learning it now makes you faster."
+   ]
+  ],
+  "qq": [
+   "Khi gọi số khẩn cấp, con cần nói…",
+   "When calling an emergency number, you need to say…"
+  ],
+  "qo": [
+   [
+    "Chỉ một câu “Cứu với”",
+    "Just “Help!”"
+   ],
+   [
+    "Hỏi tổng đài có rảnh không",
+    "Whether the operator is free"
+   ],
+   [
+    "Chuyện gì đang xảy ra và địa chỉ thật rõ ràng",
+    "What’s happening and the address, clearly"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ học an toàn, cô giới thiệu các số khẩn cấp. Huy cười bảo tối nay sẽ gọi 113 chơi cho biết.",
+     "In a safety lesson, the teacher goes over the emergency numbers. Huy laughs and says he’ll call 113 tonight just for fun."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "Nhắc Huy số khẩn cấp chỉ gọi khi thật cần, gọi đùa làm người đang gặp nạn khó gọi được",
+      "Remind Huy emergency numbers are only for real need; joke calls can block people who need help",
+      1,
+      "Đường dây khẩn cấp là của mọi người. Giữ cho nó thông suốt là giúp người khác.",
+      "Emergency lines belong to everyone. Keeping them free helps others."
+     ],
+     [
+      "Cười theo vì nghe vui",
+      "Laugh along because it sounds funny",
+      0,
+      "Nghe thì vui nhưng có thể gây hại thật. Một lời nhắc nhẹ giúp bạn hiểu.",
+      "It sounds funny but can cause real harm. A gentle reminder helps him understand."
+     ],
+     [
+      "Rủ Huy gọi cùng",
+      "Offer to call with him",
+      0,
+      "Gọi đùa có thể khiến người cần cứu phải chờ. Hãy cùng bạn nhớ số để dùng đúng lúc.",
+      "Joke calls can delay real rescues. Learn the numbers together for the right moment."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng mẹ, một cụ ông bị ngã không dậy được. Mẹ đỡ cụ và bảo An gọi 115 bằng điện thoại của mẹ.",
+     "At the park with Mum, an elderly man falls and can’t get up. Mum supports him and asks An to call 115 on her phone."
+    ],
+    "q": [
+     "An nên nói gì khi gọi?",
+     "What should An say on the call?"
+    ],
+    "o": [
+     [
+      "Nói rõ: có cụ ông bị ngã không dậy được, ở công viên nào, gần cổng nào, và làm theo hướng dẫn",
+      "Say clearly: an old man has fallen and can’t get up, which park, near which gate, and follow instructions",
+      1,
+      "Nói ai cần giúp, ở đâu, chuyện gì giúp xe cấp cứu đến đúng chỗ nhanh nhất.",
+      "Who, where and what gets the ambulance to the right place fastest."
+     ],
+     [
+      "Nói “Cứu với!” rồi đưa máy lại cho mẹ ngay",
+      "Say “Help!” then hand the phone straight back",
+      0,
+      "Người nghe cần biết địa chỉ để đến. Nói rõ nơi chốn là phần quan trọng nhất.",
+      "They need the location to come. Saying where you are is the key part."
+     ],
+     [
+      "Cúp máy khi được hỏi nhiều câu",
+      "Hang up when asked lots of questions",
+      0,
+      "Câu hỏi giúp người cứu giúp chuẩn bị đúng. Bình tĩnh trả lời và giữ máy.",
+      "The questions help them prepare. Stay calm, answer and stay on the line."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba số khẩn cấp và địa chỉ nhà",
+    "Three numbers and my address"
+   ],
+   "s": [
+    "Con cùng ba mẹ học thuộc 3 số khẩn cấp (113, 114, 115) và tập nói địa chỉ nhà đầy đủ, rõ ràng như khi gọi điện (không gọi thật). Đọc lại cho ba mẹ nghe không cần nhìn giấy.",
+    "Learn the 3 emergency numbers (113, 114, 115) with your parent and practise saying your full address clearly as if on a call (no real calls). Say them to your parent without looking."
+   ],
+   "lv": [
+    [
+     "Ba mẹ viết ra, con đọc theo nhiều lần đến khi nhớ.",
+     "Your parent writes them down and you repeat until you remember."
+    ],
+    [
+     "Ba mẹ hỏi ngẫu nhiên, con tự trả lời số và địa chỉ.",
+     "Your parent quizzes you at random and you answer the numbers and address."
+    ],
+    [
+     "Con tự đóng vai cuộc gọi giả định từ đầu đến cuối và nhớ đúng sau 2 ngày.",
+     "You role-play a full pretend call and still remember correctly two days later."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ khen con trước cả nhà và cùng chơi một ván cờ con chọn",
+    "Praise in front of the family and a board game of your choice"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Dành thời gian giúp người khác",
+   "Making time to help others"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô nhờ An kèm bạn Bảo luyện đọc. An muốn giúp nhưng lo mất hết giờ ra chơi và chưa kịp ôn bài của mình.",
+   "The teacher asks An to help Bảo practise reading. She wants to help but worries about losing every break and not revising her own work."
+  ],
+  "cq": [
+   "An nên sắp xếp thế nào?",
+   "How should An arrange it?"
+  ],
+  "co": [
+   [
+    "Nhận lời giúp mọi giờ ra chơi",
+    "Agree to help every single break",
+    0,
+    "Tốt bụng là đáng quý, nhưng con cũng cần nghỉ và ôn bài. Hẹn lịch vừa sức sẽ bền hơn.",
+    "Kindness is great, but you need rest and revision too. A manageable schedule lasts longer."
+   ],
+   [
+    "Từ chối vì sợ mất thời gian",
+    "Say no because of the time",
+    0,
+    "Chỉ vài phút một tuần có thể giúp bạn nhiều. Thử xếp lịch xem có chỗ trống không.",
+    "A few minutes a week could help him a lot. Check your schedule for a gap."
+   ],
+   [
+    "Hẹn Bảo 10 phút đầu giờ ra chơi thứ Hai và thứ Tư, thời gian còn lại vẫn ôn và chơi",
+    "Book 10 minutes with Bảo at the start of break on Mondays and Wednesdays, keeping the rest for revision and play",
+    1,
+    "Giúp người có giờ hẹn rõ thì con giữ được lời hứa mà không bỏ việc của mình.",
+    "Helping on a clear schedule lets you keep your promise without dropping your own work."
+   ]
+  ],
+  "qq": [
+   "Muốn có thời gian giúp người khác mà không bỏ việc mình, nên…",
+   "To make time to help without dropping your own work, you should…"
+  ],
+  "qo": [
+   [
+    "Bỏ việc của mình đi",
+    "Drop your own tasks"
+   ],
+   [
+    "Lên lịch cụ thể cho cả việc giúp và việc mình",
+    "Schedule both the helping and your own tasks"
+   ],
+   [
+    "Chỉ giúp khi tình cờ rảnh",
+    "Only help if you happen to be free"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An hứa cùng mẹ sang tưới cây giúp bà Mai nhà bên chiều thứ Bảy, nhưng lại hẹn chơi với Tí lúc đó. Bài tập cuối tuần cũng chưa làm.",
+     "An promised to go with Mum to water old Mrs Mai’s plants next door on Saturday afternoon, but has also arranged to play with Tí then. Her weekend homework isn’t done."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đi chơi với Tí, bảo mẹ sang một mình",
+      "Play with Tí and let Mum go alone",
+      0,
+      "Con đã hứa với bà rồi. Xếp lại giờ chơi một chút là giữ được cả hai.",
+      "You promised Mrs Mai. Shifting playtime slightly lets you keep both."
+     ],
+     [
+      "Xếp lịch: sáng làm bài, 4 giờ cùng mẹ sang tưới cây 15 phút, 5 giờ chơi với Tí",
+      "Plan it: homework in the morning, 4pm watering with Mum for 15 minutes, 5pm play with Tí",
+      1,
+      "Viết ra lịch cụ thể thì việc tốt, việc học và việc chơi đều có chỗ.",
+      "A specific plan makes room for helping, studying and playing."
+     ],
+     [
+      "Bỏ bài tập để làm hết các việc khác",
+      "Skip homework to fit everything else in",
+      0,
+      "Giúp người là tốt nhưng không cần bỏ việc của mình. Một buổi sáng là đủ làm bài.",
+      "Helping is great but you don’t need to drop your own work. A morning is enough for homework."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khu phố gom sách cũ tặng thư viện, cần người xếp sách sáng Chủ nhật. An muốn tham gia nhưng có lớp bơi lúc 9 giờ.",
+     "The neighbourhood is collecting old books for the library and needs helpers to sort them on Sunday morning. An wants to join but has swimming at 9."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ lớp bơi để giúp cả buổi",
+      "Skip swimming to help all morning",
+      0,
+      "Bỏ việc đã đăng ký có thể làm thầy và các bạn chờ. Thử tìm giờ không trùng trước.",
+      "Missing something you signed up for lets others down. Look for a non-clashing slot first."
+     ],
+     [
+      "Xin cùng ba đến giúp từ 7 giờ 30 đến 8 giờ 30, rồi đi bơi",
+      "Ask Dad to go with her from 7:30 to 8:30, then go swimming",
+      1,
+      "Không cần giúp cả buổi mới là giúp. Một tiếng đúng giờ, có ba đi cùng, đã rất có ích.",
+      "You don’t need the whole morning to help. One planned hour with Dad is really useful."
+     ],
+     [
+      "Thôi không giúp vì trùng lịch",
+      "Don’t help because of the clash",
+      0,
+      "Trùng một phần thôi, vẫn còn thời gian trước giờ bơi. Xem lại lịch nhé.",
+      "It only partly clashes; there’s time before swimming. Check the schedule."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mười lăm phút giúp đỡ trong lịch tuần",
+    "Fifteen helping minutes in my week"
+   ],
+   "s": [
+    "Con xem lịch tuần, chọn 15 phút để giúp một người thân hoặc hàng xóm (có ba mẹ cùng), ghi vào lịch và làm đúng giờ đã hẹn.",
+    "Look at your week, choose 15 minutes to help a relative or neighbour (with your parent), write it in the calendar and do it at the planned time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn giờ, chọn việc và đi cùng con.",
+     "Your parent helps choose the time and task and goes with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự ghi lịch và nhắc ba mẹ đi cùng.",
+     "With one reminder, you write it in and remind your parent to come along."
+    ],
+    [
+     "Con tự lên lịch, làm đúng giờ mà không bỏ việc của mình, rồi kể người được giúp đã nói gì.",
+     "You plan it, do it on time without dropping your own work, and share what the person said."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con thích vào bữa tối cuối tuần",
+    "The family cooks your favourite dish for a weekend dinner"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Quyên góp đúng chỗ",
+   "Donating wisely"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trường kêu gọi quyên góp đồ dùng học tập cho các bạn nhỏ gặp khó khăn. An định gom luôn mấy cây bút hết mực và quyển vở đã viết gần hết cho nhanh.",
+   "School is collecting stationery for children in need. An plans to quickly gather some dried-up pens and nearly full exercise books."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chọn đồ còn tốt, sạch, hợp với các bạn nhận, như vở mới, bút còn mực",
+    "Choose things in good, clean condition that suit the children, like new books and working pens",
+    1,
+    "Quyên góp là trao đồ mình mong được nhận nếu ở vị trí người kia. Đồ tốt mới thật sự giúp được.",
+    "Give what you’d want to receive in their place. Only good items really help."
+   ],
+   [
+    "Gom hết đồ cũ hỏng cho nhanh",
+    "Gather all the old broken stuff quickly",
+    0,
+    "Đồ hỏng làm người nhận thêm việc phải bỏ đi. Chọn ít mà tốt sẽ có ích hơn.",
+    "Broken things just create work for the receivers. Fewer good items help more."
+   ],
+   [
+    "Cho cả hộp bút mình đang dùng hằng ngày",
+    "Give away the pencil case she uses every day",
+    0,
+    "Hào phóng là đáng quý, nhưng con vẫn cần đồ để học. Chọn đồ dư mà còn tốt là vừa.",
+    "Generosity is lovely, but you still need things for school. Spare good items are right."
+   ]
+  ],
+  "qq": [
+   "Quyên góp đúng chỗ nghĩa là…",
+   "Donating wisely means…"
+  ],
+  "qo": [
+   [
+    "Cho càng nhiều càng tốt, đồ gì cũng được",
+    "Giving as much as possible, whatever it is"
+   ],
+   [
+    "Chọn nơi nhận đáng tin và đồ phù hợp với người cần",
+    "Choosing a trustworthy place and items that suit those in need"
+   ],
+   [
+    "Cho bất kỳ ai xin",
+    "Giving to anyone who asks"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ bảo An dọn tủ quần áo, chọn đồ quyên góp. An muốn cho cả những chiếc áo bị rách và chật đã ố màu.",
+     "Mum asks An to sort her wardrobe and pick clothes to donate. An wants to include torn and stained ones too."
+    ],
+    "q": [
+     "An nên chọn thế nào?",
+     "How should An choose?"
+    ],
+    "o": [
+     [
+      "Cho hết, người nhận tự chọn",
+      "Give everything and let them sort it",
+      0,
+      "Đồ rách, ố khó dùng và làm người nhận vất vả. Chọn lọc trước là chu đáo.",
+      "Torn, stained things are hard to use. Sorting first is thoughtful."
+     ],
+     [
+      "Đặt túi đồ ở bất kỳ góc phố nào",
+      "Leave the bag on any street corner",
+      0,
+      "Để bừa có thể bị bỏ đi hoặc bẩn. Mang đến nơi nhận rõ ràng thì đồ mới có ích.",
+      "Left anywhere, it may be thrown away. A proper collection point makes it useful."
+     ],
+     [
+      "Chọn áo còn lành, sạch; cùng mẹ giặt gấp gọn và tìm hiểu nơi nhận đáng tin",
+      "Pick clean, undamaged clothes; wash and fold them with Mum and find a trustworthy place to give them",
+      1,
+      "Đồ lành, sạch, gấp gọn thể hiện sự tôn trọng người nhận. Nơi nhận đáng tin giúp đồ đến đúng người.",
+      "Clean, intact, folded clothes show respect. A trustworthy place gets them to the right people."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khu nhà An có thùng nhận quần áo cũ. Hôm nay An và mẹ mang đồ đến thì thấy thùng đầy, đồ để tràn ra đất.",
+     "An’s estate has a clothes collection bin. Today, when An and Mum bring their bag, it’s full and clothes are spilling onto the ground."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đặt túi lên đống đồ ngoài thùng",
+      "Add the bag to the pile outside",
+      0,
+      "Đồ ngoài thùng có thể bị mưa hoặc bị dọn đi. Chờ lần sau sẽ an toàn hơn.",
+      "Clothes outside can get rained on or cleared away. Waiting is safer."
+     ],
+     [
+      "Bỏ ý định quyên góp luôn",
+      "Give up on donating",
+      0,
+      "Chỉ cần đổi thời gian, không cần bỏ. Hỏi lịch thu gom là xong.",
+      "Just change the timing, no need to give up. Ask about collection days."
+     ],
+     [
+      "Cùng mẹ hỏi ban quản lý khi nào thu gom, mang đồ về chờ lần sau",
+      "Ask the building office with Mum when it’s emptied, and take the bag home until then",
+      1,
+      "Đồ để tràn ra đất dễ bẩn, hỏng. Hỏi rõ rồi mang đến đúng lúc thì đồ mới đến tay người cần.",
+      "Clothes on the ground get dirty. Checking and coming back at the right time gets them to people."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba món đồ tốt để quyên góp",
+    "Three good things to donate"
+   ],
+   "s": [
+    "Con cùng ba mẹ chọn 3 món đồ còn tốt (sách, quần áo, đồ chơi), làm sạch, gấp gọn, và cùng tìm hiểu một nơi quyên góp đáng tin như trường học hoặc nhà văn hoá khu phố.",
+    "With your parent, choose 3 items still in good condition (books, clothes, toys), clean and fold them, and find out about a trustworthy place to donate, such as school or the community centre."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ và tìm nơi nhận.",
+     "Your parent helps choose items and find the place."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn 3 món và chuẩn bị gọn gàng.",
+     "With one reminder, you choose and prepare the 3 items."
+    ],
+    [
+     "Con tự chọn, giải thích vì sao món đó hợp với người nhận, và cùng ba mẹ mang đến nơi nhận.",
+     "You choose, explain why each suits the receivers and take them there with your parent."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ được người khác giúp đỡ",
+    "Your parent tells you about a time someone helped them"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Giải thích cho người khác hiểu",
+   "Explaining so others understand"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà muốn học cách gọi video trên điện thoại. An bấm thoăn thoắt và nói: “Bà bấm vào đây, rồi đây, xong!” Bà vẫn chưa hiểu.",
+   "Grandma wants to learn to make video calls on her phone. An taps quickly and says, “Press here, then here, done!” Grandma still doesn’t get it."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Làm hộ bà mỗi lần bà cần gọi",
+    "Just make the call for her every time",
+    0,
+    "Làm hộ thì nhanh nhưng bà vẫn chưa tự gọi được. Kiên nhẫn chỉ một lần sẽ giúp bà lâu dài.",
+    "Doing it is quicker, but she still can’t do it alone. Patient teaching helps for good."
+   ],
+   [
+    "Làm chậm từng bước, để bà tự bấm, rồi nhờ bà làm lại một lần",
+    "Go step by step slowly, let Grandma press, then ask her to try it once herself",
+    1,
+    "Người mới học cần từng bước nhỏ và được tự làm. Nhờ bà làm lại giúp con biết bà đã hiểu chưa.",
+    "Beginners need small steps and hands-on practice. Having her try shows if she understood."
+   ],
+   [
+    "Nói “Dễ mà bà” rồi bấm lại nhanh hơn",
+    "Say “It’s easy!” and show it faster",
+    0,
+    "Với mình là dễ, với bà là mới. Nói chậm và chia bước sẽ hiệu quả hơn.",
+    "Easy for you, new for her. Slow, small steps work better."
+   ]
+  ],
+  "qq": [
+   "Giải thích để người khác hiểu nên…",
+   "To explain so others understand, you should…"
+  ],
+  "qo": [
+   [
+    "Nói thật nhanh cho đỡ mất thời gian",
+    "Talk fast to save time"
+   ],
+   [
+    "Dùng nhiều từ khó cho chính xác",
+    "Use lots of difficult words to be precise"
+   ],
+   [
+    "Chia bước, dùng ví dụ và hỏi lại xem người nghe đã hiểu chưa",
+    "Break it into steps, use examples and check they’ve understood"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Vy nhờ An giảng bài toán chia. An đọc lại lời giải trong vở thật nhanh rồi hỏi “Hiểu chưa?”. Vy gật đầu nhưng mặt vẫn băn khoăn.",
+     "Vy asks An to explain a division problem. An reads out the answer from her book quickly and asks, “Got it?” Vy nods but still looks puzzled."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Dùng ví dụ chia kẹo, giảng từng bước rồi nhờ Vy tự làm một bài tương tự",
+      "Use a sharing-sweets example, explain step by step, then ask Vy to try a similar one",
+      1,
+      "Ví dụ quen thuộc giúp bạn dễ hình dung. Nhờ bạn tự làm là cách kiểm tra hiểu thật.",
+      "Familiar examples help it click. Having her try one checks real understanding."
+     ],
+     [
+      "Thấy Vy gật đầu là xong",
+      "She nodded, so that’s that",
+      0,
+      "Gật đầu chưa chắc đã hiểu. Hỏi bạn giải thích lại sẽ biết rõ hơn.",
+      "A nod doesn’t always mean understanding. Asking her to explain back tells you more."
+     ],
+     [
+      "Cho Vy chép lời giải",
+      "Let Vy copy the answer",
+      0,
+      "Chép giúp xong bài hôm nay nhưng bài sau Vy vẫn chưa biết làm.",
+      "Copying finishes today’s work, but she still won’t know how next time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, một cô hỏi đường đến nhà văn hoá phường. Ba đứng ngay cạnh An.",
+     "At the park, a woman asks the way to the community centre. Dad is standing right beside An."
+    ],
+    "q": [
+     "An nên chỉ đường thế nào?",
+     "How should An give directions?"
+    ],
+    "o": [
+     [
+      "Đứng cạnh ba, chỉ từng bước: đi thẳng, đến hiệu sách thì rẽ phải, đi thêm một đoạn ngắn",
+      "Stay by Dad and give steps: straight on, turn right at the bookshop, then a short way further",
+      1,
+      "Chia đường thành mốc dễ nhận giúp người nghe nhớ. Đứng cạnh ba thì vừa giúp được vừa an toàn.",
+      "Easy landmarks help people remember. Staying by Dad keeps you helpful and safe."
+     ],
+     [
+      "Nói “Gần lắm, cứ đi là thấy”",
+      "Say “It’s really close, you’ll see it”",
+      0,
+      "Người lạ đường không biết “gần” là đâu. Nêu mốc cụ thể sẽ giúp hơn.",
+      "Someone new doesn’t know where “close” is. Name specific landmarks."
+     ],
+     [
+      "Rời ba để dẫn cô đi",
+      "Leave Dad to walk her there",
+      0,
+      "Không rời người lớn đi cùng người lạ, dù để giúp. Chỉ đường rõ ràng là đủ.",
+      "Never leave your adult to go with a stranger, even to help. Clear directions are enough."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Con làm thầy giáo nhỏ",
+    "Be the teacher"
+   ],
+   "s": [
+    "Con chọn một việc con làm giỏi (gấp áo, chơi một trò, vẽ con vật), hướng dẫn một người lớn trong nhà làm theo từng bước. Cuối cùng nhờ người đó tự làm lại một lần.",
+    "Choose something you’re good at (folding a T-shirt, a game, drawing an animal) and teach an adult at home step by step. At the end, ask them to do it once on their own."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giúp con chia bước trước khi con hướng dẫn.",
+     "Your parent helps you break it into steps before you teach."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và hướng dẫn.",
+     "With one reminder, you prepare and teach it yourself."
+    ],
+    [
+     "Con tự chọn việc, hướng dẫn, kiểm tra người học hiểu chưa và kể chỗ nào phải giảng lại.",
+     "You choose, teach, check understanding and say which part needed explaining again."
+    ]
+   ],
+   "rw": [
+    "Người được con dạy gọi con là “cô giáo nhỏ” hoặc “thầy giáo nhỏ” cả buổi tối",
+    "Your pupil calls you “little teacher” all evening"
+   ]
+  }
+ }
+]

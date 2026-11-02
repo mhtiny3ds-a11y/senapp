@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Sở thích khác nhau, không ai sai",
+   "Different tastes, no one’s wrong"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na thích màu hồng, Huy thích màu xanh. Huy nói: “Màu hồng là màu của con gái!”",
+   "Na likes pink and Huy likes blue. Huy says, “Pink is a girls’ colour!”"
+  ],
+  "cq": [
+   "Bin nên nói gì?",
+   "What could Bin say?"
+  ],
+  "co": [
+   [
+    "Cười theo Huy",
+    "Laugh along with Huy",
+    0,
+    "Na có thể thấy buồn. Con thử nói rằng ai cũng được thích màu mình chọn.",
+    "Na might feel hurt. Try saying everyone can like any colour."
+   ],
+   [
+    "“Màu nào cũng của tất cả mọi người, ai thích màu gì cũng được”",
+    "“Colours are for everyone. You can like any colour you want”",
+    1,
+    "Sở thích không chia theo con trai hay con gái. Khác nhau không ai sai.",
+    "Likes aren’t for boys or girls. Being different isn’t wrong."
+   ],
+   [
+    "“Màu xanh mới là màu đẹp nhất”",
+    "“Blue is the best colour”",
+    0,
+    "Đó là sở thích của con, các bạn có thể thích màu khác.",
+    "That’s your taste; others may like other colours."
+   ]
+  ],
+  "qq": [
+   "Bạn thích điều khác mình nghĩa là…",
+   "When a friend likes something different, it means…"
+  ],
+  "qo": [
+   [
+    "Mỗi người có sở thích riêng, không ai sai",
+    "Everyone has their own tastes; no one’s wrong"
+   ],
+   [
+    "Bạn đã sai",
+    "Your friend is wrong"
+   ],
+   [
+    "Mình phải đổi theo bạn",
+    "You must change to match"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin thích canh chua, còn chị Mai thích canh bí. Bin nói: “Canh bí chẳng ngon gì, chị thích là sai!”",
+     "Bin likes sour soup; his sister Mai likes squash soup. Bin says, “Squash soup isn’t nice. You’re wrong to like it!”"
+    ],
+    "q": [
+     "Bin nghĩ vậy có đúng không?",
+     "Is Bin right?"
+    ],
+    "o": [
+     [
+      "Mỗi người thích một vị, chị thích canh bí cũng không sai",
+      "Everyone likes different tastes; Mai isn’t wrong",
+      1,
+      "Khác mình không có nghĩa là sai. Mỗi người có sở thích riêng.",
+      "Different from you doesn’t mean wrong. Everyone has their own tastes."
+     ],
+     [
+      "Đúng, món mình thích mới là ngon",
+      "Yes, only what I like is tasty",
+      0,
+      "Món con thích ngon với con, món chị thích ngon với chị. Cả hai đều đúng.",
+      "Your favourite is tasty to you, hers to her. Both are fine."
+     ],
+     [
+      "Bắt chị phải thích canh chua",
+      "Make Mai like sour soup",
+      0,
+      "Mình không bắt ai thích giống mình được. Con hỏi chị vì sao chị thích nhé.",
+      "We can’t make people like what we like. Ask Mai why she likes hers."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng ba mẹ, Bin thích cầu trượt, còn Na thích xích đu. Bin chê: “Xích đu chán lắm!”",
+     "At the park with their parents, Bin loves the slide and Na loves the swings. Bin says, “Swings are boring!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói: “Cậu thích xích đu, tớ thích cầu trượt, mình chơi mỗi trò một lúc nhé”",
+      "Say, “You like swings, I like the slide. Let’s take turns doing both”",
+      1,
+      "Bạn thích khác mình không sao cả. Thử trò của bạn biết đâu con cũng thấy vui.",
+      "It’s fine to like different things. You might enjoy her favourite too."
+     ],
+     [
+      "Bắt Na chơi cầu trượt với mình",
+      "Make Na play on the slide",
+      0,
+      "Na cũng có trò bạn ấy thích. Chia lượt thì cả hai cùng vui.",
+      "Na has her favourite too. Taking turns keeps you both happy."
+     ],
+     [
+      "Giận, đi chơi một mình",
+      "Sulk off to play alone",
+      0,
+      "Khác sở thích vẫn chơi với nhau được. Thử rủ Na chơi mỗi trò một lúc nhé.",
+      "You can still play together. Try doing a bit of each."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hỏi món ăn yêu thích của cả nhà",
+    "Ask everyone’s favourite food"
+   ],
+   "s": [
+    "Con hỏi ba người trong nhà món ăn yêu thích, rồi nói mỗi người thích món gì và vì sao, không chê món của ai.",
+    "Ask three people at home their favourite food, then say what each likes and why, without saying any choice is bad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đi cùng con hỏi từng người và giúp con nhớ câu trả lời.",
+     "Mum or Dad asks with you and helps you remember the answers."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi ba người và kể lại.",
+     "Mum or Dad reminds you once; you ask three people and report back."
+    ],
+    [
+     "Con tự hỏi, kể lại và nói thêm: “Mỗi người thích một món, không ai sai.”",
+     "You ask, report back and add: “Everyone likes something different, and no one’s wrong.”"
+    ]
+   ],
+   "rw": [
+    "Được làm người dẫn chương trình bữa tối",
+    "You get to be the host at dinner"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Mật khẩu gia đình",
+   "Our family password"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ nói: “Nhà mình chọn một từ bí mật. Ai đến đón con mà nói đúng từ đó mới là người ba mẹ nhờ.” Bin muốn khoe với cả lớp.",
+   "Mum and Dad say, “Let’s choose a secret word. Only someone who knows it has been sent by us to pick you up.” Bin wants to tell his whole class."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Kể cho cả lớp nghe",
+    "Tell the whole class",
+    0,
+    "Nhiều người biết thì mật khẩu không còn giúp được con. Chỉ cả nhà biết thôi nhé.",
+    "If lots of people know, it can’t protect you. Keep it in the family."
+   ],
+   [
+    "Chỉ giữ trong nhà và cùng ba mẹ tập hỏi mật khẩu",
+    "Keep it within the family and practise asking for it with Mum and Dad",
+    1,
+    "Mật khẩu chỉ cả nhà biết mới giúp con nhận ra người được ba mẹ nhờ thật.",
+    "A password only your family knows helps you spot who your parents really sent."
+   ],
+   [
+    "Viết lên cặp sách cho khỏi quên",
+    "Write it on your school bag",
+    0,
+    "Ai nhìn thấy cũng biết mất. Con tập nói nhiều lần cho nhớ nhé.",
+    "Anyone could read it. Practise saying it to remember."
+   ]
+  ],
+  "qq": [
+   "Mật khẩu gia đình giúp con…",
+   "A family password helps you…"
+  ],
+  "qo": [
+   [
+    "Mở cửa cho bất kỳ ai",
+    "Open the door to anyone"
+   ],
+   [
+    "Khoe với các bạn",
+    "Show off to friends"
+   ],
+   [
+    "Nhận ra người được ba mẹ nhờ đón thật",
+    "Know who your parents really sent"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tan học, một cô Bin chưa gặp bao giờ đến cổng trường nói: “Mẹ nhờ cô đón con.” Cô không biết mật khẩu.",
+     "After school, a woman Bin has never met says at the gate, “Your mum asked me to collect you.” She doesn’t know the password."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đi theo vì cô biết tên mẹ",
+      "Go because she knows Mum’s name",
+      0,
+      "Biết tên mẹ chưa đủ. Chỉ người biết mật khẩu mới là người ba mẹ nhờ.",
+      "Knowing Mum’s name isn’t enough. Only the password counts."
+     ],
+     [
+      "Đứng nói chuyện với cô ấy thật lâu",
+      "Stand and chat with her for ages",
+      0,
+      "Con không cần nói chuyện thêm. Vào báo cô giáo ngay nhé.",
+      "No need to keep talking. Go and tell your teacher."
+     ],
+     [
+      "Không đi, quay vào báo ngay cô giáo",
+      "Don’t go; go straight back and tell your teacher",
+      1,
+      "Không biết mật khẩu thì không phải người ba mẹ nhờ. Cô giáo sẽ gọi cho ba mẹ.",
+      "No password means your parents didn’t send her. Your teacher will call them."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin chơi ở khu vui chơi, mẹ ngồi ghế gần đó. Một cô lạ nói: “Mẹ cháu nhờ cô dẫn cháu đi.”",
+     "Bin is in the play area; Mum is on a bench nearby. A stranger says, “Your mum asked me to take you.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đi theo vì cô cười rất hiền",
+      "Go because she smiles kindly",
+      0,
+      "Người lạ cười hiền vẫn là người lạ. Về với mẹ ngay nhé.",
+      "A kind smile doesn’t make someone safe. Go back to Mum."
+     ],
+     [
+      "Nói “Không ạ” rồi chạy ngay về chỗ mẹ",
+      "Say “No, thank you” and run straight to Mum",
+      1,
+      "Mẹ ở ngay đây thì không cần ai dẫn. Về với mẹ và kể lại là đúng nhất.",
+      "Mum is right here, so no one needs to take you. Go to her and tell her."
+     ],
+     [
+      "Đứng im không biết làm gì",
+      "Freeze and not know what to do",
+      0,
+      "Lúc bối rối, con nhớ: nói “Không ạ” rồi về chỗ mẹ.",
+      "When you’re unsure, remember: say “No” and go to Mum."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đặt mật khẩu gia đình",
+    "Make a family password"
+   ],
+   "s": [
+    "Con cùng ba mẹ chọn một mật khẩu gia đình, rồi đóng vai: ba mẹ giả làm người đến đón, con hỏi mật khẩu.",
+    "Choose a family password with Mum and Dad, then role-play: they pretend to collect you and you ask for the password."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý vài từ, con chọn một từ và tập hỏi cùng ba mẹ.",
+     "Mum or Dad suggests words; you pick one and practise asking."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi mật khẩu khi ba mẹ đóng vai.",
+     "Mum or Dad reminds you once; you ask for the password in the role-play."
+    ],
+    [
+     "Con tự hỏi mật khẩu và nói được phải làm gì khi người đó không biết: không đi, báo cô giáo.",
+     "You ask by yourself and say what to do if they don’t know it: don’t go, tell your teacher."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết một mẩu giấy khen dán lên tủ lạnh",
+    "Mum or Dad writes a praise note for the fridge"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Đúng giờ khi đi thăm nhà ai",
+   "Arriving on time for a visit"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cả nhà hẹn 9 giờ đến thăm bác. Đến giờ đi, Bin vẫn đang tìm dép và chiếc túi nhỏ.",
+   "The family is due at Auntie’s at 9. It’s time to leave and Bin is still hunting for his sandals and bag."
+  ],
+  "cq": [
+   "Lần sau Bin nên làm gì?",
+   "What should Bin do next time?"
+  ],
+  "co": [
+   [
+    "Sáng mai dậy rồi tìm",
+    "Look for them in the morning",
+    0,
+    "Buổi sáng hay vội nên dễ tìm không thấy. Để sẵn từ tối nhé.",
+    "Mornings are rushed. Put things out the night before."
+   ],
+   [
+    "Đến muộn một chút, bác không sao đâu",
+    "Being a bit late is fine",
+    0,
+    "Bác đã chuẩn bị đón cả nhà. Đúng giờ là tôn trọng bác.",
+    "Auntie is ready for you. Being on time shows respect."
+   ],
+   [
+    "Tối hôm trước để sẵn dép, túi và áo ở cửa",
+    "Put your sandals, bag and clothes by the door the night before",
+    1,
+    "Chuẩn bị đồ sớm thì sáng ra chỉ việc đi, cả nhà đến đúng giờ.",
+    "Getting ready early means you just go, and everyone arrives on time."
+   ]
+  ],
+  "qq": [
+   "Muốn đến đúng giờ, con nên…",
+   "To arrive on time, you should…"
+  ],
+  "qo": [
+   [
+    "Chờ đến giờ đi mới tìm đồ",
+    "Look for things when it’s time to go"
+   ],
+   [
+    "Đi thật nhanh trên đường",
+    "Hurry on the way"
+   ],
+   [
+    "Chuẩn bị đồ từ sớm",
+    "Get your things ready early"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp hẹn 7 giờ sáng có mặt ở trường để đi tham quan. Tối nay Bin còn mải xem hoạt hình.",
+     "The class must be at school by 7am for a trip. Tonight Bin is still watching cartoons."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ xếp ba lô từ tối, đi ngủ sớm và dậy đúng chuông",
+      "Pack your bag with Mum tonight, go to bed early and get up with the alarm",
+      1,
+      "Chuẩn bị từ tối giúp sáng mai con không vội và đến kịp giờ xe chạy.",
+      "Getting ready tonight means no rush and you catch the coach."
+     ],
+     [
+      "Sáng mai xếp đồ cũng kịp",
+      "There’s time to pack in the morning",
+      0,
+      "Sáng sớm dễ quên đồ và trễ giờ. Xếp từ tối an toàn hơn.",
+      "Early mornings make it easy to forget things. Pack tonight."
+     ],
+     [
+      "Xem hết phim rồi mới tính",
+      "Finish the show first, then think",
+      0,
+      "Ngủ muộn thì sáng khó dậy. Con chuẩn bị đồ trước rồi nghỉ sớm nhé.",
+      "Late nights make waking hard. Get ready first, then rest."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin được mời dự sinh nhật bạn Vy lúc 4 giờ chiều. 3 giờ 50, Bin vẫn đang tô dở tấm thiệp tặng Vy.",
+     "Bin is invited to Vy’s birthday at 4pm. At 3:50, he’s still colouring Vy’s card."
+    ],
+    "q": [
+     "Lần sau Bin nên làm gì?",
+     "What should Bin do next time?"
+    ],
+    "o": [
+     [
+      "Tô cho xong, đến muộn cũng được",
+      "Finish colouring; being late is fine",
+      0,
+      "Vy và các bạn có thể phải chờ. Lần sau chuẩn bị sớm hơn nhé.",
+      "Vy and her friends may wait. Prepare earlier next time."
+     ],
+     [
+      "Bỏ thiệp, không tặng nữa",
+      "Give up on the card",
+      0,
+      "Thiệp của con rất ý nghĩa. Chỉ cần làm sớm hơn thôi.",
+      "Your card matters. Just make it earlier."
+     ],
+     [
+      "Làm thiệp từ hôm trước, chiều chỉ cần thay đồ rồi đi cùng ba",
+      "Make the card the day before, so you just change and go with Dad",
+      1,
+      "Làm xong việc chuẩn bị sớm thì con đến đúng giờ và vui vẻ hơn.",
+      "Finishing early means you arrive on time and relaxed."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự chuẩn bị đồ trước giờ đi",
+    "Get ready before it’s time to go"
+   ],
+   "s": [
+    "Lần tới cả nhà đi thăm ai, con tự chuẩn bị xong đồ của mình (dép, túi, áo) trước giờ đi 10 phút.",
+    "Next time the family visits someone, have your own things (sandals, bag, jacket) ready 10 minutes before leaving."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con để sẵn đồ ở cửa từ tối hôm trước.",
+     "Mum or Dad helps you put things by the door the night before."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị đồ của mình.",
+     "Mum or Dad reminds you once; you get your things ready."
+    ],
+    [
+     "Con tự nhớ giờ đi và chuẩn bị xong trước 10 phút, rồi báo ba mẹ.",
+     "You remember the time, are ready 10 minutes early, and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Được chọn chỗ đi dạo buổi chiều",
+    "You choose where to go for an afternoon walk"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Đồ ăn không bỏ phí",
+   "Not wasting food"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bữa trưa ở lớp bán trú có cà rốt. Bin không thích cà rốt nên định để thừa cả phần.",
+   "School lunch has carrots. Bin doesn’t like them and plans to leave them all."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Để thừa hết, cô không biết đâu",
+    "Leave them all; no one will notice",
+    0,
+    "Đồ ăn bỏ đi là phí công nấu. Con xin cô lấy ít lần sau nhé.",
+    "Wasted food is wasted effort. Ask for less next time."
+   ],
+   [
+    "Thử ăn vài miếng, lần sau xin cô lấy ít cà rốt thôi",
+    "Try a few bites, and next time ask for fewer carrots",
+    1,
+    "Xin lấy vừa đủ giúp không bỏ phí, mà con vẫn được thử món mới.",
+    "Asking for just enough avoids waste, and you still try something new."
+   ],
+   [
+    "Đưa hết cà rốt sang bát bạn",
+    "Put all your carrots in a friend’s bowl",
+    0,
+    "Bạn có phần của bạn rồi. Con nói với cô để lấy vừa đủ nhé.",
+    "Your friend has their own portion. Tell the teacher instead."
+   ]
+  ],
+  "qq": [
+   "Quý thức ăn nghĩa là…",
+   "Valuing food means…"
+  ],
+  "qo": [
+   [
+    "Lấy thật nhiều",
+    "Take as much as possible"
+   ],
+   [
+    "Lấy vừa đủ và ăn hết",
+    "Take just enough and finish it"
+   ],
+   [
+    "Chỉ ăn món mình thích",
+    "Only eat what you like"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin xúc thật nhiều cơm vào bát vì đói. Ăn được một nửa, Bin no và muốn đổ phần còn lại đi.",
+     "Bin piles his bowl high with rice because he’s hungry. Halfway through he’s full and wants to throw the rest away."
+    ],
+    "q": [
+     "Lần sau Bin nên làm gì?",
+     "What should Bin do next time?"
+    ],
+    "o": [
+     [
+      "Lấy ít trước, ăn hết rồi lấy thêm nếu còn đói",
+      "Take a little first, then more if you’re still hungry",
+      1,
+      "Lấy vừa đủ thì không phải bỏ phí. Hạt cơm có công của nhiều người.",
+      "Taking just enough means nothing is wasted. Lots of people worked to grow that rice."
+     ],
+     [
+      "Lấy thật nhiều cho chắc",
+      "Take loads just in case",
+      0,
+      "Lấy nhiều dễ bị thừa. Con lấy ít trước, thiếu thì lấy thêm.",
+      "Taking loads often leads to leftovers. Start small."
+     ],
+     [
+      "Đổ đi cũng chẳng sao",
+      "Throwing it away is fine",
+      0,
+      "Đồ ăn rất quý. Lần sau mình lấy vừa đủ là được nhé.",
+      "Food is precious. Next time take just enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi ăn tiệc cùng ba mẹ, Bin thấy nhiều món ngon nên lấy đầy một đĩa.",
+     "At a party with Mum and Dad, Bin sees lots of tasty food and fills his plate."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lấy mỗi món một ít, ăn hết rồi lấy thêm",
+      "Take a little of each, finish, then get more",
+      1,
+      "Lấy vừa đủ giúp con ăn hết và không bỏ phí thức ăn.",
+      "Taking just enough helps you finish and wastes nothing."
+     ],
+     [
+      "Lấy thật đầy, ăn không hết thì để lại",
+      "Pile it high and leave what you can’t eat",
+      0,
+      "Phần để lại sẽ bị bỏ đi. Lấy ít trước nhé.",
+      "Leftovers get thrown away. Start small."
+     ],
+     [
+      "Chỉ lấy món tráng miệng",
+      "Only take dessert",
+      0,
+      "Con thử mỗi món một chút, vừa đủ để ăn hết nhé.",
+      "Try a little of each, just enough to finish."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lấy cơm vừa đủ và ăn hết",
+    "Take just enough rice and finish it"
+   ],
+   "s": [
+    "Trong bữa tối, con tự lấy cơm vừa đủ và ăn hết phần của mình; còn đói thì lấy thêm.",
+    "At dinner, serve yourself just enough rice and finish it; if you’re still hungry, take more."
+   ],
+   "lv": [
+    [
+     "Ba mẹ xới mẫu một lượng vừa đủ, con ăn hết.",
+     "Mum or Dad shows you a just-enough portion; you finish it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lấy vừa đủ và ăn hết.",
+     "Mum or Dad reminds you once; you take just enough and finish."
+    ],
+    [
+     "Con tự lấy vừa đủ, ăn hết và kể vì sao không nên bỏ phí thức ăn.",
+     "You take just enough, finish it, and explain why we don’t waste food."
+    ]
+   ],
+   "rw": [
+    "Được chọn trái cây tráng miệng cho cả nhà",
+    "You choose the fruit for the family’s pudding"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Kể lại chuyện của gia đình",
+   "Retelling a family story"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi dạo công viên, ba kể chuyện hồi nhỏ ba tập đi xe đạp. Về nhà, Bin muốn kể lại cho mẹ nghe.",
+   "On a walk in the park, Dad tells how he learnt to ride a bike as a boy. At home, Bin wants to tell Mum."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chỉ nói “Ba kể chuyện xe đạp” rồi thôi",
+    "Just say “Dad told a bike story” and stop",
+    0,
+    "Mẹ sẽ muốn nghe thêm. Con kể ai, làm gì, kết thúc thế nào nhé.",
+    "Mum will want more. Say who, what and how it ended."
+   ],
+   [
+    "Nhớ ba ý chính: ai, làm gì, kết thúc ra sao, rồi kể lại",
+    "Remember three things: who, what they did, and how it ended, then tell it",
+    1,
+    "Ba ý chính giúp con kể ngắn gọn mà vẫn đủ chuyện.",
+    "Three key points help you tell it simply and fully."
+   ],
+   [
+    "Để ba tự kể, mình không cần nhớ",
+    "Let Dad tell it; no need to remember",
+    0,
+    "Kể lại giúp con luyện nghe và nhớ. Con thử kể nhé.",
+    "Retelling trains your listening and memory. Give it a go."
+   ]
+  ],
+  "qq": [
+   "Muốn kể lại chuyện cho đúng, con cần…",
+   "To retell a story well, you need to…"
+  ],
+  "qo": [
+   [
+    "Nghe kỹ và nhớ thứ tự",
+    "Listen closely and remember the order"
+   ],
+   [
+    "Nói thật nhanh",
+    "Talk really fast"
+   ],
+   [
+    "Thêm thật nhiều chi tiết mới",
+    "Add lots of new details"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ông kể hồi nhỏ ông chăn một chú trâu tên Mực. Tối đó Bin muốn kể lại cho ba nhưng chỉ nhớ lộn xộn.",
+     "Grandpa told how, as a boy, he looked after a buffalo called Mực. That evening Bin wants to tell Dad but only remembers bits."
+    ],
+    "q": [
+     "Lần sau nghe ông kể, Bin nên làm gì?",
+     "Next time Grandpa tells a story, what should Bin do?"
+    ],
+    "o": [
+     [
+      "Vừa nghe vừa chơi xếp hình",
+      "Play with a puzzle while listening",
+      0,
+      "Vừa chơi vừa nghe thì dễ quên. Con nhìn ông và nghe thôi nhé.",
+      "Playing while listening makes you forget. Just look and listen."
+     ],
+     [
+      "Nhìn ông khi nghe, hỏi lại chỗ chưa nhớ: “Rồi sao nữa hả ông?”",
+      "Look at Grandpa while listening and ask, “What happened next?”",
+      1,
+      "Nghe kỹ và hỏi lại giúp con nhớ thứ tự câu chuyện để kể cho người khác.",
+      "Listening closely and asking helps you remember the order to retell it."
+     ],
+     [
+      "Quên thì bịa thêm cho vui",
+      "Make bits up if you forget",
+      0,
+      "Chuyện của ông là chuyện thật. Con hỏi lại ông để kể cho đúng nhé.",
+      "Grandpa’s story is real. Ask him again to get it right."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô kể một câu chuyện ngắn về chú kiến chăm chỉ, rồi gọi Bin kể lại cho cả lớp.",
+     "The teacher tells a short story about a hard-working ant, then asks Bin to retell it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kể đoạn cuối trước cho nhanh",
+      "Start with the ending to be quick",
+      0,
+      "Kể lộn xộn thì các bạn khó hiểu. Bắt đầu từ đầu nhé.",
+      "Jumbled stories are hard to follow. Start at the beginning."
+     ],
+     [
+      "Nói “Em quên rồi” dù chưa thử",
+      "Say “I forgot” without trying",
+      0,
+      "Con nhớ được nhiều hơn con nghĩ. Thử nhớ xem đầu tiên chú kiến làm gì.",
+      "You remember more than you think. What did the ant do first?"
+     ],
+     [
+      "Kể theo thứ tự: đầu tiên, sau đó, cuối cùng",
+      "Tell it in order: first, then, finally",
+      1,
+      "Kể theo thứ tự giúp các bạn hiểu câu chuyện dễ dàng.",
+      "Telling it in order helps everyone follow."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nghe và kể lại một kỷ niệm gia đình",
+    "Hear and retell a family memory"
+   ],
+   "s": [
+    "Con nghe ông bà hoặc ba mẹ kể một kỷ niệm, rồi kể lại cho một người khác trong nhà theo thứ tự đầu tiên, sau đó, cuối cùng.",
+    "Listen to a grandparent or parent tell a memory, then retell it to someone else at home using first, then, finally."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể ngắn và cùng con nhắc lại từng đoạn.",
+     "Mum or Dad tells it briefly and goes over each part with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể lại cho người khác.",
+     "Mum or Dad reminds you once; you retell it to someone."
+    ],
+    [
+     "Con tự kể lại đủ ba đoạn và hỏi người nghe có hiểu không.",
+     "You retell all three parts and ask the listener if it made sense."
+    ]
+   ],
+   "rw": [
+    "Ông bà hoặc ba mẹ kể thêm một kỷ niệm khác",
+    "Grandma, Grandpa, Mum or Dad shares another memory"
+   ]
+  }
+ }
+]

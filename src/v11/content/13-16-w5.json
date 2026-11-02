@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Người lạ làm quen trên mạng",
+   "A stranger messaging online"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "A",
+  "story": [
+   "Một tài khoản lạ nhắn tin khen bức tranh Khoa đăng trên mạng. Sau đó người này xin kết bạn, hỏi số điện thoại và hẹn cuối tuần gặp ở quán gần trường “để tặng quà”.",
+   "An unknown account messages Khoa, praising a drawing Khoa posted online. Then it asks to be friends, wants Khoa’s phone number and suggests meeting near school at the weekend “to give you a present”."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Đi gặp nhưng rủ thêm một bạn",
+    "Go, but bring a friend",
+    0,
+    "Đi cùng bạn vẫn không an toàn khi gặp người lạ quen trên mạng. Hãy để ba mẹ biết chuyện.",
+    "Bringing a friend still isn’t safe with an online stranger. Let your parents know."
+   ],
+   [
+    "Nói chuyện tiếp nhưng không cho số điện thoại",
+    "Keep chatting but don’t give the number",
+    0,
+    "Người lạ có thể dần dần xin thêm thông tin khác. Dừng lại và báo người lớn là an toàn nhất.",
+    "They may slowly ask for more. Stopping and telling an adult is safest."
+   ],
+   [
+    "Không trả lời, không gửi thông tin, chụp màn hình và kể ngay với ba mẹ",
+    "Don’t reply or share anything; screenshot it and tell your parents right away",
+    1,
+    "Người lạ xin thông tin và hẹn gặp riêng là dấu hiệu nguy hiểm. Kể với ba mẹ để ba mẹ cùng chặn và báo cáo.",
+    "A stranger asking for details and a private meeting is a danger sign. Tell your parents so they can block and report it."
+   ]
+  ],
+  "qq": [
+   "Khi người quen trên mạng hẹn gặp riêng, bạn nên…",
+   "If someone you met online wants to meet in person, you…"
+  ],
+  "qo": [
+   [
+    "Đi nếu thấy họ tử tế",
+    "Go if they seem nice"
+   ],
+   [
+    "Giữ bí mật cho vui",
+    "Keep it secret"
+   ],
+   [
+    "Không đi và kể với ba mẹ",
+    "Don’t go — tell your parents"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Một bạn cùng lớp kể đang nói chuyện với một người tự nhận là học sinh trường khác, quen trên mạng, được người đó rủ đi chơi và dặn Khoa giữ bí mật.",
+     "A classmate says she’s been chatting online with someone claiming to be a student at another school, who has invited her out — and asks Khoa to keep it secret."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Khuyên bạn đừng đi, và nói với cô chủ nhiệm hoặc ba mẹ để người lớn giúp",
+      "Urge her not to go, and tell the form teacher or your parents so an adult can help",
+      1,
+      "Bạn có thể giận lúc đầu, nhưng an toàn của bạn quan trọng hơn. Người lớn biết cách xử lý nhẹ nhàng.",
+      "She might be cross at first, but her safety matters more. Adults know how to handle it gently."
+     ],
+     [
+      "Giữ bí mật vì đã hứa",
+      "Keep it secret — you promised",
+      0,
+      "Có những bí mật không nên giữ, nhất là khi bạn có thể gặp nguy hiểm. Báo người lớn là bảo vệ bạn.",
+      "Some secrets shouldn’t be kept, especially when a friend might be in danger. Telling an adult protects her."
+     ],
+     [
+      "Bảo bạn nhớ chia sẻ vị trí khi đi",
+      "Tell her to share her location when she goes",
+      0,
+      "Chia sẻ vị trí không làm cuộc gặp an toàn hơn. Điều cần làm là không đi và báo người lớn.",
+      "Sharing location doesn’t make the meeting safe. The answer is not going and telling an adult."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang chờ mẹ ở cổng nhà sách, Khoa gặp một người lạ nói đã từng nhắn tin với Khoa trên mạng và rủ đi uống nước ở quán bên cạnh.",
+     "Waiting for Mum outside the bookshop, Khoa is approached by a stranger who says they’ve chatted online and invites Khoa for a drink next door."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Đi một lát rồi về, quán ở ngay bên cạnh",
+      "Go briefly — it’s right next door",
+      0,
+      "Dù gần, đi với người lạ vẫn không an toàn. Ở chỗ đông người và gọi mẹ ngay.",
+      "Even nearby, going with a stranger isn’t safe. Stay where people are and call Mum."
+     ],
+     [
+      "Nói “Không” rõ ràng, vào trong nhà sách nhờ nhân viên và gọi mẹ ngay",
+      "Say a clear “No”, go inside to the staff and call Mum straight away",
+      1,
+      "Từ chối dứt khoát, đến chỗ có người lớn tin cậy và gọi ba mẹ là ba bước an toàn.",
+      "A firm no, getting to trusted adults and calling a parent — three safe steps."
+     ],
+     [
+      "Hỏi tên tài khoản của họ để kiểm tra",
+      "Ask for their account name to check",
+      0,
+      "Không cần kiểm tra hay nói chuyện thêm. Từ chối và tìm người lớn là đủ.",
+      "No need to check or keep talking. Say no and find an adult."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Ước lượng thời gian cho sát",
+   "Estimating time realistically"
+  ],
+  "m": [
+   "11 phút",
+   "11 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khoa nghĩ dọn phòng chỉ mất 15 phút nên 18h45 mới bắt đầu, trong khi 19h cả nhà đi ăn mừng sinh nhật bà. Đến giờ đi, phòng vẫn bừa và Khoa chưa thay đồ.",
+   "Khoa reckoned tidying the room would take 15 minutes, so started at 6:45 — and the family leaves for Grandma’s birthday dinner at 7. Time’s up, the room’s still a mess and Khoa isn’t dressed."
+  ],
+  "cq": [
+   "Lần sau Khoa nên làm gì?",
+   "What should Khoa do next time?"
+  ],
+  "co": [
+   [
+    "Bấm giờ xem thật sự dọn phòng mất bao lâu, rồi cộng thêm thời gian dự phòng",
+    "Time how long tidying actually takes, then add a buffer",
+    1,
+    "Ước lượng theo số đo thực tế luôn chính xác hơn cảm giác. Thời gian dự phòng giúp mình đỡ vội.",
+    "Estimates based on real timings beat gut feeling. A buffer saves the rush."
+   ],
+   [
+    "Lần sau làm nhanh hơn",
+    "Just work faster next time",
+    0,
+    "Vội thì dễ sót và mệt. Vấn đề nằm ở chỗ ước lượng ban đầu.",
+    "Rushing means mistakes and stress. The issue was the estimate."
+   ],
+   [
+    "Thôi không dọn nữa",
+    "Stop tidying altogether",
+    0,
+    "Né việc thì việc chỉ dồn lên. Biết việc mất bao lâu sẽ giúp xếp lịch dễ hơn.",
+    "Avoiding it just piles it up. Knowing how long it takes makes scheduling easier."
+   ]
+  ],
+  "qq": [
+   "Người ta thường ước lượng thời gian…",
+   "People usually estimate time…"
+  ],
+  "qo": [
+   [
+    "Dài hơn thực tế",
+    "Longer than reality"
+   ],
+   [
+    "Ngắn hơn thực tế",
+    "Shorter than reality"
+   ],
+   [
+    "Rất chính xác",
+    "Very accurately"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giao bài đọc 40 trang trước thứ Sáu. Khoa đoán đọc một tối là xong nên để đến tối thứ Năm.",
+     "The teacher set 40 pages of reading by Friday. Khoa guesses one evening will do and leaves it till Thursday."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cứ để thứ Năm, chắc kịp",
+      "Leave it for Thursday — should be fine",
+      0,
+      "“Chắc kịp” là cảm giác, chưa phải ước lượng. Thử đo trước một đoạn.",
+      "“Should be fine” is a feeling, not an estimate. Time a section first."
+     ],
+     [
+      "Đọc thử 5 trang, bấm giờ, rồi nhân lên để biết cần mấy buổi",
+      "Read 5 pages, time it, then multiply to see how many sessions you need",
+      1,
+      "Đo một phần nhỏ giúp mình ước lượng cả phần lớn. Có số liệu rồi mới xếp lịch được.",
+      "Timing a small chunk lets you estimate the whole. Real numbers make planning possible."
+     ],
+     [
+      "Đọc lướt cho nhanh",
+      "Skim it to save time",
+      0,
+      "Đọc lướt có thể bỏ sót ý chính cô cần. Biết trước mất bao lâu thì không phải lướt.",
+      "Skimming may miss what the teacher wants. Knowing the time needed means no skimming."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa hẹn bạn ở thư viện lúc 15h. Đi xe buýt mất 20 phút nên Khoa định 14h40 mới ra khỏi nhà.",
+     "Khoa’s meeting a friend at the library at 3pm. The bus ride is 20 minutes, so Khoa plans to leave at 2:40."
+    ],
+    "q": [
+     "Khoa đã quên tính điều gì?",
+     "What has Khoa forgotten?"
+    ],
+    "o": [
+     [
+      "Không quên gì, 20 phút là đủ",
+      "Nothing — 20 minutes is enough",
+      0,
+      "Thời gian di chuyển không chỉ là lúc ngồi trên xe. Đi bộ và chờ xe cũng tốn thời gian.",
+      "Travel isn’t just the ride. Walking and waiting take time too."
+     ],
+     [
+      "Nếu muộn thì nhắn bạn chờ",
+      "If late, text them to wait",
+      0,
+      "Báo muộn là lịch sự, nhưng tính đúng từ đầu thì không cần phải báo.",
+      "Texting is polite, but planning right means no need."
+     ],
+     [
+      "Thời gian đi bộ ra bến, chờ xe và đi từ bến vào thư viện, nên cần ra khỏi nhà sớm hơn 15–20 phút",
+      "Walking to the stop, waiting, and getting from the stop to the library — leave 15–20 minutes earlier",
+      1,
+      "Chia hành trình thành từng đoạn giúp ước lượng sát hơn. Đến sớm vài phút tốt hơn để bạn phải chờ.",
+      "Breaking the journey into parts makes the estimate realistic. Better a few minutes early than keeping a friend waiting."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "So sánh giá theo đơn vị",
+   "Comparing unit prices"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi siêu thị cùng mẹ, Khoa được giao chọn nước rửa tay. Chai nhỏ 250ml giá 30.000đ, chai lớn 500ml giá 52.000đ, còn túi thay thế 1 lít giá 90.000đ.",
+   "At the supermarket with Mum, Khoa’s job is hand soap. A 250ml bottle is 30,000₫, a 500ml bottle 52,000₫, and a 1-litre refill pouch 90,000₫."
+  ],
+  "cq": [
+   "Khoa nên chọn thế nào?",
+   "How should Khoa choose?"
+  ],
+  "co": [
+   [
+    "Chọn chai nhỏ vì rẻ nhất",
+    "Take the small one — it’s cheapest",
+    0,
+    "Rẻ nhất trên nhãn chưa chắc rẻ nhất tính theo ml. Thử chia giá cho dung tích.",
+    "Cheapest sticker isn’t cheapest per ml. Try dividing price by volume."
+   ],
+   [
+    "Tính giá mỗi 100ml (12.000đ, 10.400đ, 9.000đ), rồi hỏi mẹ nhà còn chai cũ để đổ túi thay thế không",
+    "Work out the price per 100ml (12,000₫, 10,400₫, 9,000₫), then ask Mum if there’s an old bottle to refill",
+    1,
+    "Giá theo đơn vị cho biết món nào thật sự rẻ. Kết hợp với nhu cầu thực tế là quyết định khéo.",
+    "Unit price shows what’s really cheaper. Combine it with real needs for a smart choice."
+   ],
+   [
+    "Chọn túi to nhất vì to là lợi",
+    "Take the biggest — bigger’s better",
+    0,
+    "Túi to thường rẻ hơn mỗi ml, nhưng chỉ lợi khi dùng hết và nhà còn chai để đổ vào.",
+    "Big packs are often cheaper per ml, but only if you’ll use it and have a bottle to refill."
+   ]
+  ],
+  "qq": [
+   "Để so sánh hai gói khác dung tích, cần tính…",
+   "To compare packs of different sizes, work out…"
+  ],
+  "qo": [
+   [
+    "Giá trên mỗi đơn vị",
+    "The price per unit"
+   ],
+   [
+    "Gói nào đẹp hơn",
+    "Which looks nicer"
+   ],
+   [
+    "Gói nào nặng hơn",
+    "Which is heavier"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ nhờ Khoa xem nên đặt bao gạo 5kg giá 110.000đ hay bao 10kg giá 205.000đ. Nhà Khoa ăn hết khoảng 8kg mỗi tháng.",
+     "Mum asks Khoa whether to order a 5kg bag of rice at 110,000₫ or a 10kg bag at 205,000₫. The family eats about 8kg a month."
+    ],
+    "q": [
+     "Khoa nên góp ý gì?",
+     "What should Khoa advise?"
+    ],
+    "o": [
+     [
+      "Bao 5kg vì trả ít tiền hơn",
+      "The 5kg — you pay less",
+      0,
+      "Trả ít một lần nhưng mua nhiều lần thì tốn hơn. Tính theo ký để so.",
+      "Paying less once but buying more often costs more. Compare per kilo."
+     ],
+     [
+      "Bao nào cũng như nhau",
+      "They’re the same",
+      0,
+      "Chênh 1.500đ mỗi ký, cả năm cộng lại cũng đáng kể. Một phép chia nhỏ giúp thấy điều đó.",
+      "1,500₫ per kilo adds up over a year. A quick division shows it."
+     ],
+     [
+      "Bao 10kg rẻ hơn mỗi ký (20.500đ so với 22.000đ) và nhà dùng hết trong khoảng năm tuần, nên chọn bao 10kg nếu có chỗ cất khô ráo",
+      "The 10kg bag is cheaper per kilo (20,500₫ vs 22,000₫) and lasts about five weeks, so take it if there’s a dry place to store it",
+      1,
+      "Giá đơn vị thấp mà dùng hết kịp mới là tiết kiệm thật. Nhớ tính cả chỗ cất.",
+      "A lower unit price plus using it up in time is real saving. Remember storage too."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp Khoa mua giấy màu để trang trí lớp. Cửa hàng thứ nhất bán 10 tờ giá 15.000đ, cửa hàng thứ hai bán 25 tờ giá 35.000đ.",
+     "Khoa’s class is buying coloured paper for decorating. The first shop sells 10 sheets for 15,000₫; the second sells 25 sheets for 35,000₫."
+    ],
+    "q": [
+     "Khoa nên đề xuất gì?",
+     "What should Khoa suggest?"
+    ],
+    "o": [
+     [
+      "Tính giá mỗi tờ (1.500đ và 1.400đ), ước lượng lớp cần khoảng bao nhiêu tờ, rồi chọn",
+      "Work out the price per sheet (1,500₫ vs 1,400₫), estimate how many the class needs, then choose",
+      1,
+      "Giá đơn vị kết hợp với số lượng thật sự cần là cách dùng quỹ lớp có trách nhiệm.",
+      "Unit price plus actual quantity is the responsible way to spend class funds."
+     ],
+     [
+      "Mua ở cửa hàng thứ nhất vì tổng tiền ít hơn",
+      "Buy from the first shop — it costs less in total",
+      0,
+      "Tổng tiền ít vì được ít giấy hơn. So sánh theo giá mỗi tờ mới công bằng.",
+      "It’s less because you get fewer sheets. Compare per sheet to be fair."
+     ],
+     [
+      "Mua ở cửa hàng thứ hai, không cần tính lớp cần bao nhiêu",
+      "Buy from the second shop without checking how many the class needs",
+      0,
+      "Rẻ mỗi tờ nhưng mua thừa vẫn là phí. Đếm số tờ cần trước.",
+      "Cheap per sheet, but excess is still waste. Count what’s needed first."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Góp ý cho bạn mà không làm bạn buồn",
+   "Giving feedback kindly"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Linh nhờ Khoa đọc bài phát biểu Linh sẽ nói trước toàn trường. Bài có ý hay nhưng quá dài và phần mở đầu khó hiểu.",
+   "Linh asks Khoa to read the speech she’ll give to the whole school. It has good ideas but is far too long and the opening is confusing."
+  ],
+  "cq": [
+   "Khoa nên góp ý thế nào?",
+   "How should Khoa give feedback?"
+  ],
+  "co": [
+   [
+    "“Hay lắm, không cần sửa gì.”",
+    "“It’s great — don’t change a thing.”",
+    0,
+    "Khen cho bạn vui nhưng bạn mất cơ hội làm bài tốt hơn. Góp ý thật lòng mới là giúp.",
+    "It feels kind, but she loses the chance to improve. Honest feedback is real help."
+   ],
+   [
+    "“Dài quá, chán lắm.”",
+    "“Too long, it’s boring.”",
+    0,
+    "Nhận xét chung chung và nặng lời làm bạn buồn mà không biết sửa chỗ nào.",
+    "Vague, harsh comments hurt without showing what to fix."
+   ],
+   [
+    "“Tớ thích ý trồng cây ở sân trường. Phần mở đầu tớ hơi khó theo — nếu cắt ngắn và vào ý chính sớm hơn thì sao?”",
+    "“I love the idea about planting trees in the schoolyard. The opening lost me a bit — what if you cut it and get to the main point sooner?”",
+    1,
+    "Nói điểm tốt cụ thể, chỉ đúng chỗ cần sửa và gợi ý cách làm. Bạn dễ nhận góp ý khi thấy mình được tôn trọng.",
+    "Name a specific strength, point to one fix, and suggest how. Feedback lands when people feel respected."
+   ]
+  ],
+  "qq": [
+   "Góp ý hiệu quả nên…",
+   "Good feedback should be…"
+  ],
+  "qo": [
+   [
+    "Thật nhiều lời khen",
+    "Mostly praise"
+   ],
+   [
+    "Cụ thể và kèm gợi ý sửa",
+    "Specific, with a suggestion"
+   ],
+   [
+    "Thẳng thừng, càng gay gắt càng tốt",
+    "Blunt — the harsher the better"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba mới tập nấu canh chua và hỏi Khoa: “Ngon không con?” Canh hơi mặn.",
+     "Dad has just learnt to make sour soup and asks, “Is it good?” It’s a bit salty."
+    ],
+    "q": [
+     "Khoa nên trả lời thế nào?",
+     "How should Khoa answer?"
+    ],
+    "o": [
+     [
+      "“Ngon ạ” rồi lén thêm nước",
+      "Say “Yum” and secretly add water",
+      0,
+      "Ba sẽ không biết để điều chỉnh. Nói thật nhẹ nhàng sẽ giúp ba hơn.",
+      "Dad won’t know to adjust. A gentle truth helps more."
+     ],
+     [
+      "“Con thích vị chua thơm lắm ạ. Lần sau ba bớt chút muối là con thấy vừa hơn.”",
+      "“I love the tangy flavour. Next time a little less salt would be just right for me.”",
+      1,
+      "Ghi nhận công sức trước, góp ý nhẹ nhàng sau. Ba sẽ vui và nấu ngon hơn lần sau.",
+      "Appreciate the effort first, then a gentle note. Dad will be pleased and cook it better next time."
+     ],
+     [
+      "“Mặn quá ba ơi!”",
+      "“Way too salty, Dad!”",
+      0,
+      "Nói thẳng mà quên công sức của ba dễ làm ba cụt hứng. Thêm một lời ghi nhận trước.",
+      "Blunt words that ignore the effort can deflate him. Add some appreciation first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ bóng rổ thiếu niên, Tí luôn giữ bóng quá lâu nên cả đội mất nhiều cơ hội. Huấn luyện viên bảo các bạn góp ý cho nhau sau buổi tập.",
+     "At the youth basketball club, Tí always holds the ball too long and the team misses chances. The coach asks players to give each other feedback after practice."
+    ],
+    "q": [
+     "Khoa nên nói gì với Tí?",
+     "What should Khoa say to Tí?"
+    ],
+    "o": [
+     [
+      "“Cậu dẫn bóng giỏi thật. Nếu chuyền sớm hơn khi bị hai người kèm, đội mình sẽ ghi được nhiều điểm hơn đấy.”",
+      "“Your dribbling is really good. If you pass earlier when two people mark you, we’d score more.”",
+      1,
+      "Ghi nhận điểm mạnh và nói đúng một hành động cần đổi giúp bạn dễ làm theo.",
+      "Recognising a strength and naming one action to change makes it easy to act on."
+     ],
+     [
+      "Không nói gì để giữ hòa khí",
+      "Say nothing to keep the peace",
+      0,
+      "Im lặng thì Tí không biết để thay đổi. Góp ý tử tế cũng là giữ hòa khí.",
+      "Silence means Tí can’t change. Kind feedback keeps the peace too."
+     ],
+     [
+      "“Cậu ích kỷ quá.”",
+      "“You’re so selfish.”",
+      0,
+      "Gắn nhãn cho con người làm bạn tổn thương. Hãy nói về hành động, đừng nói về tính cách.",
+      "Labelling the person hurts. Talk about the action, not the character."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cả nhóm bất đồng: quyết định thế nào?",
+   "Making a group decision"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "C",
+  "story": [
+   "Nhóm bạn của Khoa được ba mẹ cho đi chơi chiều Chủ nhật, có mẹ Huy đi cùng. Ba bạn muốn đến bảo tàng khoa học, hai bạn muốn đi công viên nước, bàn mãi chưa xong.",
+   "Khoa’s friends are allowed a Sunday afternoon outing with Huy’s mum. Three want the science museum, two want the water park, and the debate goes on and on."
+  ],
+  "cq": [
+   "Khoa nên đề xuất cách nào?",
+   "What should Khoa propose?"
+  ],
+  "co": [
+   [
+    "Cùng đặt tiêu chí (giờ về, chi phí, ý kiến mẹ Huy), so sánh hai nơi rồi biểu quyết; bên còn lại được chọn chỗ đi lần sau",
+    "Agree criteria together (home time, cost, Huy’s mum’s view), compare both, then vote — the other side picks next time",
+    1,
+    "Tiêu chí chung biến tranh cãi thành so sánh. Hứa lượt sau cho bên còn lại giúp ai cũng vui vẻ.",
+    "Shared criteria turn arguing into comparing. Promising the next pick keeps everyone happy."
+   ],
+   [
+    "Ai nói to nhất thì theo người đó",
+    "Go with whoever’s loudest",
+    0,
+    "Nói to không phải là lý do. Cả nhóm cần cách quyết định mà ai cũng thấy công bằng.",
+    "Volume isn’t a reason. The group needs a method everyone sees as fair."
+   ],
+   [
+    "Thôi không đi đâu nữa",
+    "Cancel the whole thing",
+    0,
+    "Hủy thì không ai vui. Một cách quyết định rõ ràng sẽ cứu buổi đi chơi.",
+    "Cancelling makes nobody happy. A clear method saves the day."
+   ]
+  ],
+  "qq": [
+   "Khi nhóm bất đồng, cách quyết định công bằng là…",
+   "When a group disagrees, a fair way to decide is…"
+  ],
+  "qo": [
+   [
+    "Để bạn thân của nhóm trưởng chọn",
+    "Let the leader’s best friend choose"
+   ],
+   [
+    "Chọn ý được nêu đầu tiên",
+    "Pick the first idea"
+   ],
+   [
+    "Thống nhất tiêu chí rồi so sánh, biểu quyết",
+    "Agree criteria, compare, then vote"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chọn phim xem tối thứ Bảy: ba muốn xem phim tài liệu, em Vy muốn phim hoạt hình, Khoa muốn phim phiêu lưu.",
+     "The family is choosing a Saturday-night film: Dad wants a documentary, Vy wants a cartoon, Khoa wants an adventure."
+    ],
+    "q": [
+     "Khoa nên góp ý gì?",
+     "What should Khoa suggest?"
+    ],
+    "o": [
+     [
+      "Giành điều khiển trước",
+      "Grab the remote first",
+      0,
+      "Nhanh tay không phải là công bằng. Cả nhà sẽ xem không vui.",
+      "Fastest hand isn’t fair. Nobody enjoys the film."
+     ],
+     [
+      "Mỗi người xem phim riêng trên máy riêng",
+      "Everyone watches their own on separate screens",
+      0,
+      "Như vậy mất buổi tối cả nhà bên nhau. Một cách chọn công bằng giữ được cả hai.",
+      "Then the family evening’s lost. A fair method keeps both."
+     ],
+     [
+      "Đề nghị tiêu chí: phim hợp tuổi em Vy, xong trước 21h; chọn phim đạt tiêu chí, lần sau đổi lượt người chọn",
+      "Suggest criteria — suitable for Vy, finished by 9pm — pick one that fits, and take turns choosing next time",
+      1,
+      "Tiêu chí hợp với cả nhà giúp loại bớt lựa chọn. Luân phiên người chọn giữ công bằng lâu dài.",
+      "Family-friendly criteria narrow the options. Taking turns keeps it fair over time."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp Khoa chọn chủ đề cho báo tường: môi trường, khoa học hay thể thao. Mỗi tổ ủng hộ một chủ đề khác nhau.",
+     "Khoa’s class is choosing a wall-newspaper theme: environment, science or sport. Each group backs a different one."
+    ],
+    "q": [
+     "Khoa nên đề xuất gì?",
+     "What should Khoa suggest?"
+    ],
+    "o": [
+     [
+      "Để lớp trưởng tự quyết",
+      "Let the class monitor decide",
+      0,
+      "Lớp trưởng có thể quyết, nhưng các tổ sẽ thấy không được lắng nghe. Thử cách có tiêu chí.",
+      "The monitor could, but groups may feel unheard. Try a criteria-based method."
+     ],
+     [
+      "Mỗi tổ trình bày một phút, rồi cả lớp bỏ phiếu kín theo tiêu chí “dễ tìm tư liệu, nhiều bạn góp sức được”",
+      "Each group pitches for a minute, then a secret vote on “easy to research, lots of people can contribute”",
+      1,
+      "Ai cũng được trình bày và bỏ phiếu theo tiêu chí chung, nên kết quả dễ được chấp nhận.",
+      "Everyone gets heard and votes on shared criteria, so the result is easier to accept."
+     ],
+     [
+      "Gộp cả ba chủ đề vào một tờ",
+      "Cram all three onto one sheet",
+      0,
+      "Gộp hết thường làm báo rối và thiếu chiều sâu. Chọn một hướng rõ ràng sẽ đẹp hơn.",
+      "Cramming makes it messy and shallow. One clear theme looks better."
+     ]
+    ]
+   }
+  }
+ }
+]

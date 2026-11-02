@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Buổi sáng không vội vàng",
+   "Mornings without the rush"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nào An cũng dậy lúc 6 giờ 15 nhưng vẫn ra khỏi nhà muộn: vừa đánh răng vừa tìm tất, ăn sáng vội, ba phải giục mãi.",
+   "An gets up at 6:15 every morning but still leaves late: brushing teeth while hunting for socks, gulping breakfast, Dad nagging all the way."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đặt báo thức sớm hơn 30 phút",
+    "Set the alarm 30 minutes earlier",
+    0,
+    "Dậy sớm mà vẫn lộn xộn thì vẫn trễ, lại thiếu ngủ. Sắp xếp thứ tự việc mới là chìa khoá.",
+    "Getting up earlier but staying disorganised still makes you late, and tired. The order is the key."
+   ],
+   [
+    "Tối trước soạn sẵn quần áo, cặp sách; sáng làm theo thứ tự cố định: vệ sinh, thay đồ, ăn sáng, mang giày",
+    "Lay out clothes and bag the night before; in the morning follow a fixed order: wash, dress, eat, shoes",
+    1,
+    "Việc làm được từ tối thì để tối làm. Một thứ tự cố định giúp buổi sáng trôi đều mà không cần nghĩ.",
+    "Do the night-before jobs the night before. A fixed order makes mornings flow without thinking."
+   ],
+   [
+    "Bỏ bữa sáng cho kịp giờ",
+    "Skip breakfast to save time",
+    0,
+    "Bỏ bữa sáng làm con đói và mất tập trung ở lớp. Chuẩn bị từ tối sẽ có thời gian ăn.",
+    "Skipping breakfast leaves you hungry and unfocused. Preparing the night before frees up time."
+   ]
+  ],
+  "qq": [
+   "Muốn buổi sáng nhẹ nhàng, nên…",
+   "For calmer mornings, you should…"
+  ],
+  "qo": [
+   [
+    "Ngủ thêm năm phút",
+    "Snooze five more minutes"
+   ],
+   [
+    "Làm nhiều việc cùng lúc",
+    "Do several things at once"
+   ],
+   [
+    "Chuẩn bị từ tối và làm theo thứ tự cố định",
+    "Prepare the night before and follow a fixed order"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Mỗi buổi sáng ở lớp có 15 phút truy bài trước giờ học. An thường dùng thời gian đó nói chuyện, đến lúc cô kiểm tra lại cuống lên.",
+     "Each morning there’s 15 minutes of revision before lessons. An usually chats through it, then panics when the teacher checks."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói chuyện tiếp, vì 15 phút chẳng làm được gì",
+      "Keep chatting — 15 minutes is nothing",
+      0,
+      "Mười lăm phút đều đặn mỗi ngày cộng lại là rất nhiều. Dùng đúng việc thì con đỡ vất vả về sau.",
+      "Fifteen minutes every day adds up. Using it well saves effort later."
+     ],
+     [
+      "Mang truyện tranh ra đọc",
+      "Read a comic instead",
+      0,
+      "Đọc truyện vui nhưng không đúng lúc. Để dành truyện cho giờ ra chơi nhé.",
+      "Comics are fun but not right now. Save them for break."
+     ],
+     [
+      "Chia 15 phút: 10 phút xem lại bài hôm qua, 5 phút chuẩn bị sách vở cho tiết đầu",
+      "Split it: 10 minutes reviewing yesterday, 5 getting ready for first lesson",
+      1,
+      "Chia thời gian ngắn thành việc cụ thể giúp con dùng trọn từng phút.",
+      "Giving short time a specific job makes every minute count."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Chủ nhật cả nhà hẹn 7 giờ xuất phát về quê. 6 giờ 50 An vẫn đang chọn áo và chưa soạn đồ chơi mang theo.",
+     "On Sunday the family plans to leave for the countryside at 7. At 6:50 An is still choosing a shirt and hasn’t packed anything to bring."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mặc áo đầu tiên vừa ý, lấy một món đồ chơi, ra xe đúng giờ, lần sau soạn đồ từ tối hôm trước",
+      "Wear the first shirt that’s fine, grab one toy, be at the car on time — and pack the night before next time",
+      1,
+      "Khi thời gian gấp, chọn nhanh thứ đủ tốt. Rồi rút kinh nghiệm để lần sau chuẩn bị sớm.",
+      "When time is short, pick “good enough” fast. Then learn and prepare earlier next time."
+     ],
+     [
+      "Bắt cả nhà chờ thêm 20 phút",
+      "Make everyone wait another 20 minutes",
+      0,
+      "Cả nhà chờ thì ai cũng mệt và có thể kẹt xe. Lần sau soạn từ tối hôm trước.",
+      "Making everyone wait frustrates them and risks traffic. Pack the night before next time."
+     ],
+     [
+      "Không mang gì cả, rồi kêu chán suốt đường",
+      "Bring nothing and moan about being bored",
+      0,
+      "Một món đồ chơi chỉ mất một phút để lấy. Chuẩn bị sớm giúp chuyến đi vui hơn.",
+      "Grabbing one toy takes a minute. Preparing early makes the trip more fun."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Để dành cho một mục tiêu",
+   "Saving up for a goal"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở hiệu sách cùng mẹ, An thấy bộ màu nước 120.000 đồng rất muốn mua. Mỗi tuần An có 30.000 đồng tiền tiêu vặt và thường tiêu hết vào quà vặt.",
+   "In a bookshop with Mum, An spots a 120,000₫ watercolour set. An gets 30,000₫ pocket money a week and usually spends it all on snacks."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đặt mục tiêu: mỗi tuần để dành 20.000 đồng vào lọ có dán hình bộ màu, sau sáu tuần sẽ đủ",
+    "Set a goal: save 20,000₫ a week in a jar with a picture of the set — six weeks and it’s yours",
+    1,
+    "Mục tiêu rõ ràng và lọ tiền có hình giúp con nhớ vì sao mình để dành. Mỗi tuần một chút là tới đích.",
+    "A clear goal and a jar with a picture remind you why you’re saving. A bit each week gets you there."
+   ],
+   [
+    "Xin mẹ mua ngay, hứa sẽ ngoan",
+    "Ask Mum to buy it now and promise to be good",
+    0,
+    "Được mua ngay thì vui một chút, nhưng con mất cơ hội tập để dành. Tự góp tiền làm món đồ quý hơn.",
+    "Getting it now is nice, but you miss learning to save. Paying for it yourself makes it more precious."
+   ],
+   [
+    "Bỏ ý định vì 120.000 đồng là quá nhiều",
+    "Give up — 120,000₫ is too much",
+    0,
+    "Số tiền lớn trông khó, nhưng chia theo tuần thì làm được. Thử tính xem cần bao nhiêu tuần nhé.",
+    "A big sum looks hard, but split into weeks it’s doable. Work out how many weeks you need."
+   ]
+  ],
+  "qq": [
+   "Để dành hiệu quả cần…",
+   "Saving works best with…"
+  ],
+  "qo": [
+   [
+    "Mục tiêu rõ ràng và số tiền để dành đều đặn",
+    "A clear goal and a regular amount"
+   ],
+   [
+    "Chờ khi nào còn dư tiền",
+    "Waiting until there’s money left over"
+   ],
+   [
+    "Tiêu hết rồi xin thêm",
+    "Spending it all and asking for more"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An đã để dành được 60.000 đồng cho bộ màu. Hôm nay em rủ An dùng tiền đó mua kem cho cả hai.",
+     "An has saved 60,000₫ towards the paint set. Today An’s sister wants them to spend it on ice cream."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua kem, tuần sau để dành lại",
+      "Buy ice cream and save again next week",
+      0,
+      "Rút tiền để dành cho việc khác thì mục tiêu lùi xa. Có thể đãi em bằng cách khác.",
+      "Dipping into savings pushes the goal back. Treat her another way."
+     ],
+     [
+      "Giải thích với em mình đang để dành, và rủ em cùng làm kem chuối ở nhà với mẹ",
+      "Explain you’re saving, and suggest making banana ice cream at home with Mum",
+      1,
+      "Giữ mục tiêu mà vẫn có niềm vui cùng em. Niềm vui không phải lúc nào cũng cần tiêu tiền.",
+      "You keep the goal and still have fun together. Fun doesn’t always cost money."
+     ],
+     [
+      "Mắng em vì đòi tiêu tiền của mình",
+      "Tell her off for asking",
+      0,
+      "Em chỉ muốn chơi cùng con thôi. Giải thích nhẹ nhàng thì em sẽ hiểu.",
+      "She just wants time with you. Explain kindly and she’ll understand."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cả lớp An thống nhất dùng quỹ lớp do cô chủ nhiệm giữ để mua sách cho tủ sách lớp. Gần đủ tiền thì một số bạn muốn dùng quỹ mua bóng bay trang trí.",
+     "An’s class agreed to use the class fund, kept by the form teacher, to buy books for the class library. Nearly there, some want to spend it on balloons instead."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đồng ý mua bóng bay cho vui",
+      "Agree to balloons for fun",
+      0,
+      "Bóng bay vui một ngày, còn sách đọc được cả năm. Nhắc lại mục tiêu chung sẽ giúp lớp chọn.",
+      "Balloons last a day; books last a year. Reminding everyone of the goal helps."
+     ],
+     [
+      "Không nói gì, để các bạn tự lo",
+      "Say nothing and let them decide",
+      0,
+      "Ý kiến của con có thể giúp lớp giữ được mục tiêu. Hãy nói ra lễ phép.",
+      "Your view could help the class stick to its goal. Speak up politely."
+     ],
+     [
+      "Nhắc cả lớp mục tiêu ban đầu là tủ sách và đề nghị cô chủ nhiệm cùng quyết định",
+      "Remind the class the goal was the library and suggest the form teacher helps decide",
+      1,
+      "Mục tiêu chung cần được nhớ lại khi có cám dỗ. Có cô cùng quyết định thì minh bạch và công bằng.",
+      "A shared goal needs remembering when temptation comes. Deciding with the teacher keeps it fair."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Góp ý cho bạn mà không làm bạn buồn",
+   "Giving feedback kindly"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nam nhờ An đọc bài văn trước khi nộp. Bài có ý hay nhưng nhiều lỗi chính tả và đoạn cuối hơi lan man.",
+   "Nam asks An to read his essay before handing it in. It has good ideas, but lots of spelling mistakes and a rambling ending."
+  ],
+  "cq": [
+   "An nên góp ý thế nào?",
+   "How should An give feedback?"
+  ],
+  "co": [
+   [
+    "Nói “Hay lắm” cho bạn vui",
+    "Say “It’s great” to keep him happy",
+    0,
+    "Khen cho qua thì bạn không biết sửa gì. Góp ý thật lòng mới là giúp bạn.",
+    "Empty praise leaves him nothing to fix. Honest feedback is what helps."
+   ],
+   [
+    "Nói “Mình thích ý về chú chó của cậu. Có vài lỗi chính tả mình đánh dấu rồi, đoạn cuối cậu thử viết gọn lại xem”",
+    "Say “I love the bit about your dog. I’ve marked a few spellings, and maybe try shortening the ending”",
+    1,
+    "Góp ý tốt có ba phần: khen điều cụ thể, chỉ rõ chỗ cần sửa, gợi ý cách sửa.",
+    "Good feedback has three parts: a specific positive, what to fix, and how."
+   ],
+   [
+    "Nói “Nhiều lỗi quá, sửa hết đi”",
+    "Say “Too many mistakes, fix the lot”",
+    0,
+    "Chỉ nói cái chưa tốt làm bạn nản. Hãy bắt đầu bằng điều bạn làm tốt và chỉ cụ thể chỗ cần sửa.",
+    "Only pointing out problems is discouraging. Start with a strength and be specific."
+   ]
+  ],
+  "qq": [
+   "Một lời góp ý tốt nên…",
+   "Good feedback should…"
+  ],
+  "qo": [
+   [
+    "Chỉ nêu điều chưa tốt",
+    "List only what’s wrong"
+   ],
+   [
+    "Khen điều cụ thể và gợi ý cách sửa",
+    "Name a strength and suggest a fix"
+   ],
+   [
+    "Khen chung chung",
+    "Give vague praise"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba lần đầu nấu canh chua, canh hơi mặn. Ba hỏi cả nhà: “Có ngon không?”",
+     "Dad has made sour soup for the first time, and it’s a bit salty. He asks: “Is it good?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhăn mặt nói “Mặn quá ba ơi!”",
+      "Pull a face and say “Way too salty!”",
+      0,
+      "Nói thẳng mà thiếu tế nhị dễ làm ba buồn. Thử khen trước rồi góp ý nhẹ.",
+      "Blunt and unkind can hurt. Try a positive first, then gently suggest."
+     ],
+     [
+      "Khen ngon rồi lén bỏ canh",
+      "Say it’s lovely, then secretly leave it",
+      0,
+      "Khen mà không thật lòng thì ba không biết để chỉnh. Góp ý nhẹ nhàng sẽ giúp ba hơn.",
+      "Insincere praise means Dad can’t improve. A gentle honest tip helps more."
+     ],
+     [
+      "Nói: “Canh thơm lắm ba ạ, chua vừa. Lần sau ba bớt chút muối là tuyệt luôn!”",
+      "Say: “It smells great and the sourness is spot on. A bit less salt next time and it’ll be perfect!”",
+      1,
+      "Khen điều cụ thể rồi góp ý nhẹ nhàng giúp ba vui và biết lần sau làm gì.",
+      "A specific compliment and a gentle tip make Dad happy and help next time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ vẽ cuối tuần, bạn ngồi cạnh hỏi An thấy bức tranh của bạn thế nào. An thấy màu đẹp nhưng bầu trời còn trống quá.",
+     "At the weekend art club, the child next to An asks what An thinks of their painting. The colours are lovely but the sky looks empty."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gợi ý: “Màu cậu chọn đẹp ghê! Thêm vài đám mây hay đàn chim lên trời chắc sẽ sinh động hơn”",
+      "Suggest: “Your colours are lovely! Maybe add some clouds or birds to the sky?”",
+      1,
+      "Khen thật lòng rồi đưa ý cụ thể giúp bạn hào hứng sửa tranh.",
+      "A sincere compliment plus a concrete idea makes them keen to add to it."
+     ],
+     [
+      "Nói “Trời trống trơn, chán quá”",
+      "Say “The sky’s empty, it’s boring”",
+      0,
+      "Lời chê không có gợi ý làm bạn mất hứng. Hãy chỉ cách thêm cho đẹp.",
+      "Criticism without an idea deflates them. Suggest how to improve."
+     ],
+     [
+      "Nói “Mình không biết” cho khỏi phải góp ý",
+      "Say “I don’t know” to avoid giving an opinion",
+      0,
+      "Bạn hỏi vì muốn nghe ý con. Một góp ý tử tế là món quà cho bạn.",
+      "They asked because they want your view. Kind feedback is a gift."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Thua cũng phải vui vẻ",
+   "Losing gracefully"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "An thi cờ vua ở câu lạc bộ thiếu nhi của phường và thua ván chung kết. Bạn thắng đưa tay ra bắt, nhưng An rất buồn và muốn bỏ về ngay.",
+   "An plays in the chess final at the ward children’s club and loses. The winner holds out a hand, but An feels awful and wants to leave."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Quay đi không bắt tay",
+    "Turn away without shaking hands",
+    0,
+    "Buồn là bình thường, nhưng bỏ đi làm bạn kia cũng mất vui. Bắt tay là tôn trọng cả hai.",
+    "Feeling sad is normal, but walking off spoils it for both. A handshake respects you both."
+   ],
+   [
+    "Đổ lỗi tại phòng ồn nên mình thua",
+    "Blame the noisy room",
+    0,
+    "Đổ lỗi giúp mình đỡ buồn một chút nhưng không giúp lần sau chơi tốt hơn.",
+    "Blaming helps for a moment but won’t help next time."
+   ],
+   [
+    "Bắt tay, nói “Chúc mừng cậu, ván hay lắm”, rồi nhờ thầy chỉ chỗ mình đi chưa tốt",
+    "Shake hands, say “Well done, great game”, then ask the coach where you went wrong",
+    1,
+    "Chúc mừng người thắng là tinh thần thể thao. Học từ ván thua giúp con tiến bộ.",
+    "Congratulating the winner is good sportsmanship. Learning from a loss helps you improve."
+   ]
+  ],
+  "qq": [
+   "Khi thua một cuộc thi, điều nên làm là…",
+   "When you lose a contest, the best thing to do is…"
+  ],
+  "qo": [
+   [
+    "Tìm lý do để đổ lỗi",
+    "Find something to blame"
+   ],
+   [
+    "Không bao giờ thi nữa",
+    "Never compete again"
+   ],
+   [
+    "Chúc mừng người thắng và tìm điều học được",
+    "Congratulate the winner and find a lesson"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chơi cờ cá ngựa tối thứ Bảy. Em của An thắng ba ván liền, An tức đến muốn hất tung bàn cờ.",
+     "The family plays a board game on Saturday night. An’s little brother wins three in a row, and An wants to flip the board."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hất bàn cờ cho xong",
+      "Flip the board and be done",
+      0,
+      "Hất bàn cờ làm cả nhà mất vui và đồ chơi có thể hỏng. Thử hít thở trước đã.",
+      "Flipping it ruins the fun and might break the game. Breathe first."
+     ],
+     [
+      "Hít thở, nói “Em chơi giỏi ghê!” và rủ chơi thêm một ván",
+      "Breathe, say “You’re really good!” and ask for another game",
+      1,
+      "Trò chơi gia đình là để vui cùng nhau. Khen em và chơi tiếp giúp mọi người vẫn vui.",
+      "Family games are for fun together. Praising him and playing on keeps it happy."
+     ],
+     [
+      "Nói em ăn gian",
+      "Accuse him of cheating",
+      0,
+      "Buộc tội khi không có bằng chứng làm em buồn oan. Thắng thua là chuyện của may mắn và luyện tập.",
+      "Accusing without proof is unfair. Winning is luck and practice."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An thua lớp bên cạnh trong trận kéo co hội khoẻ. Vài bạn bắt đầu trách nhau.",
+     "An’s class loses the tug of war at sports day. Some classmates start blaming each other."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói với cả lớp: “Mình đã cố hết sức. Lần sau mình tập đứng thấp người và kéo cùng nhịp nhé!”",
+      "Tell the class: “We tried our best. Next time let’s practise staying low and pulling together!”",
+      1,
+      "Ghi nhận cố gắng và tìm cách tiến bộ giúp cả lớp gắn kết sau trận thua.",
+      "Recognising effort and planning to improve brings the class together after a loss."
+     ],
+     [
+      "Cùng các bạn chỉ ra ai làm cả lớp thua",
+      "Join in pointing out who lost it",
+      0,
+      "Trách nhau làm cả lớp buồn thêm. Cả đội thắng cùng nhau và thua cũng cùng nhau.",
+      "Blame makes everyone feel worse. Teams win together and lose together."
+     ],
+     [
+      "Bỏ đi ngồi một mình",
+      "Walk off and sit alone",
+      0,
+      "Cần chút thời gian là bình thường, nhưng các bạn cũng đang buồn. Ở cùng nhau sẽ dễ chịu hơn.",
+      "Needing a moment is fine, but everyone’s sad. Staying together helps."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chăm sóc con vật nuôi của mình",
+   "Looking after my own pet"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An xin ba mẹ nuôi hai chú cá vàng và hứa tự chăm. Được hai tuần, An bắt đầu quên cho cá ăn, nước trong bể đã đục.",
+   "An asked to keep two goldfish and promised to look after them. Two weeks in, An keeps forgetting to feed them and the water is cloudy."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hôm nay thay nước cùng ba, rồi dán lịch nhỏ cạnh bể: cho ăn mỗi sáng, thay nước mỗi Chủ nhật",
+    "Change the water with Dad today, then stick a small chart by the tank: feed every morning, change water on Sundays",
+    1,
+    "Con vật nuôi cần mình mỗi ngày. Một lịch nhắc đơn giản giúp con tự chăm chu đáo.",
+    "Pets need you every day. A simple chart helps you care for them yourself."
+   ],
+   [
+    "Nhờ mẹ chăm hộ vì con bận",
+    "Ask Mum to take over because you’re busy",
+    0,
+    "Con đã nhận lời chăm cá. Giữ lời hứa là một phần của tự lập.",
+    "You promised to care for them. Keeping that promise is part of independence."
+   ],
+   [
+    "Cho thật nhiều thức ăn một lần cho đủ cả tuần",
+    "Put in a week’s food at once",
+    0,
+    "Cá không ăn hết sẽ làm nước bẩn nhanh hơn. Cho ăn ít mỗi ngày mới đúng.",
+    "Uneaten food fouls the water faster. A little each day is right."
+   ]
+  ],
+  "qq": [
+   "Nhận chăm một con vật nghĩa là…",
+   "Taking on a pet means…"
+  ],
+  "qo": [
+   [
+    "Chăm đều đặn mỗi ngày như đã hứa",
+    "Caring every day as promised"
+   ],
+   [
+    "Chăm khi nào mình thích",
+    "Caring when you feel like it"
+   ],
+   [
+    "Để ba mẹ lo phần khó",
+    "Leaving the hard parts to parents"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp An nuôi một chậu cây và một bể cá nhỏ ở góc lớp. Tuần này đến lượt An trực, nhưng An mải chơi nên quên mất hai ngày.",
+     "An’s class keeps a plant and a small fish tank. It’s An’s week on duty, but An forgot for two days while playing."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói với cô là bạn khác quên",
+      "Tell the teacher someone else forgot",
+      0,
+      "Đổ cho bạn làm bạn bị oan. Nhận phần của mình rồi sửa là cách tốt nhất.",
+      "Blaming someone else is unfair. Owning it and fixing it is best."
+     ],
+     [
+      "Tưới cây, cho cá ăn ngay, báo cô mình đã quên và đặt nhắc nhở cho những ngày còn lại",
+      "Water the plant and feed the fish now, tell the teacher you forgot, and set a reminder for the rest of the week",
+      1,
+      "Nhận lỗi và sửa ngay cho thấy con đáng tin. Nhắc nhở giúp không quên nữa.",
+      "Owning up and fixing it shows you’re reliable. A reminder stops it happening again."
+     ],
+     [
+      "Lặng lẽ làm bù, không nói gì",
+      "Quietly catch up and say nothing",
+      0,
+      "Làm bù là tốt, nhưng nói thật với cô giúp cô biết cây và cá có ổn không.",
+      "Catching up is good, but telling the teacher lets her check the plant and fish are okay."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà sang chơi nhà bác hàng xóm. Bác nhờ An dắt chú chó nhỏ đi một vòng sân chung cư, bác đi cùng phía sau. Chú chó cứ kéo về phía bồn hoa.",
+     "The family visits a neighbour, who asks An to walk her small dog round the courtyard while she follows behind. The dog keeps pulling towards the flowerbed."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thả dây cho chó tự chạy",
+      "Let go of the lead",
+      0,
+      "Thả dây thì chó có thể chạy ra đường hoặc làm người khác sợ. Giữ dây chắc tay nhé.",
+      "Letting go could send the dog into the road or scare people. Hold on firmly."
+     ],
+     [
+      "Kéo mạnh dây cho chó nghe lời",
+      "Yank the lead hard",
+      0,
+      "Kéo mạnh làm chó đau và sợ. Dẫn nhẹ nhàng mà chắc tay sẽ hiệu quả hơn.",
+      "Yanking hurts and scares the dog. Gentle but firm works better."
+     ],
+     [
+      "Giữ dây chắc tay, nhẹ nhàng dẫn chú chó đi tiếp và hỏi bác cách dắt cho đúng",
+      "Hold the lead firmly, gently guide the dog on, and ask the neighbour how to do it properly",
+      1,
+      "Được nhờ chăm con vật là được tin tưởng. Hỏi cách làm đúng giúp con chăm tốt hơn.",
+      "Being trusted with an animal matters. Asking how helps you do it well."
+     ]
+    ]
+   }
+  }
+ }
+]

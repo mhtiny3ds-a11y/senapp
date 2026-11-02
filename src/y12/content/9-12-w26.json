@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Tiền tiêu khi đi chơi",
+   "Spending money on an outing"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối nay, cả nhà bàn chuyện mai đi vườn thú. Ba bảo An được tiêu 80.000đ tiền tiêu vặt trong chuyến đi.",
+   "Tonight the family is planning tomorrow’s trip to the zoo. Dad says An can spend 80,000 dong of pocket money there."
+  ],
+  "cq": [
+   "An nên chuẩn bị thế nào?",
+   "How should An prepare?"
+  ],
+  "co": [
+   [
+    "Ghi ra những thứ muốn mua, xếp thứ tự ưu tiên và tính xem 80.000đ đủ cho món nào",
+    "Write down what you’d like, rank it and work out what 80,000 dong covers",
+    1,
+    "Lên kế hoạch từ ở nhà thì lúc ra ngoài, giữa bao nhiêu món hấp dẫn, mình vẫn nhớ điều mình muốn nhất.",
+    "Planning at home means that out there, surrounded by tempting things, you still remember what matters most."
+   ],
+   [
+    "Không cần nghĩ trước, đến đâu tính đến đó",
+    "No need to plan, just see what happens",
+    0,
+    "Không có kế hoạch thì món đầu tiên bắt mắt dễ lấy hết tiền. Thử viết ra trước nhé.",
+    "Without a plan the first eye-catching thing often takes all the money. Try writing it down first."
+   ],
+   [
+    "Xin ba tăng lên 150.000đ cho chắc",
+    "Ask Dad to raise it to 150,000 dong just in case",
+    0,
+    "Tập tiêu vừa trong số tiền đã có giúp con chủ động hơn là cứ xin thêm.",
+    "Learning to spend within what you have makes you more in control than always asking for more."
+   ]
+  ],
+  "qq": [
+   "Trước khi tiêu tiền trong buổi đi chơi, nên làm gì?",
+   "Before spending money on an outing, you should…"
+  ],
+  "qo": [
+   [
+    "Mua món rẻ nhất trước",
+    "Buy the cheapest thing first"
+   ],
+   [
+    "Đặt mức chi và chọn điều mình muốn nhất",
+    "Set a limit and choose what you want most"
+   ],
+   [
+    "Mua theo bạn bè",
+    "Buy what your friends buy"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp đi tham quan bảo tàng. Cô dặn mỗi bạn mang tối đa 50.000đ. Ở quầy lưu niệm, bút chì 15.000đ, sổ tay 30.000đ, nước 10.000đ.",
+     "The class visits a museum and each pupil may bring up to 50,000 dong. At the shop, pencils are 15,000, notebooks 30,000 and water 10,000."
+    ],
+    "q": [
+     "An nên chọn thế nào?",
+     "How should An choose?"
+    ],
+    "o": [
+     [
+      "Mua sổ tay và bút chì, hết 45.000đ, rồi khát mà không đủ tiền mua nước",
+      "Buy the notebook and pencil for 45,000, then be thirsty with no money for water",
+      0,
+      "Nhớ để dành cho thứ cần thiết như nước uống. Cần trước, muốn sau con nhé.",
+      "Remember to keep money for essentials like water. Needs first, wants after."
+     ],
+     [
+      "Mượn tiền bạn để mua thêm",
+      "Borrow money from a friend to buy more",
+      0,
+      "Vay mượn dễ làm cả hai khó xử. Tiêu trong số tiền mình có là cách thoải mái nhất.",
+      "Borrowing can make things awkward for both of you. Spending what you have is the easiest way."
+     ],
+     [
+      "Giữ tiền mua nước trước, rồi chọn một món lưu niệm mình thích nhất trong số còn lại",
+      "Keep money for water first, then pick the one souvenir you like most with the rest",
+      1,
+      "Ưu tiên thứ cần trước rồi mới chọn thứ muốn, như vậy buổi đi vẫn vui mà không bị thiếu.",
+      "Put needs first, then pick a want, and the trip stays fun with nothing missing."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi hội chợ cuối tuần, mẹ đưa An 100.000đ để tiêu cả buổi. Vừa qua cổng, An đã thấy bóng bay, kẹo bông, móc khoá và vé đu quay, món nào cũng muốn.",
+     "The family goes to a weekend fair and Mum gives An 100,000 dong for the whole afternoon. Right by the gate there are balloons, candyfloss, keyrings and Ferris wheel tickets, and An wants everything."
+    ],
+    "q": [
+     "An nên làm gì với số tiền này?",
+     "What should An do with the money?"
+    ],
+    "o": [
+     [
+      "Mua ngay bóng bay vì nó ở gần cổng nhất",
+      "Buy a balloon straight away because it’s nearest the gate",
+      0,
+      "Món đầu tiên mình thấy chưa chắc là món mình muốn nhất. Đi một vòng xem hết rồi hãy chọn nhé.",
+      "The first thing you see isn’t always what you want most. Look around first, then choose."
+     ],
+     [
+      "Dạo một vòng, chọn ra 3 món muốn nhất, xếp thứ tự rồi mới tiêu, để dành một ít phòng khi cần",
+      "Walk round first, pick the 3 things you want most, rank them, then spend and keep a little back",
+      1,
+      "Đặt mức chi và xếp ưu tiên giúp tiền đi đúng vào điều làm mình vui nhất, không bị hết giữa chừng.",
+      "Setting a limit and ranking your wants sends the money to what makes you happiest, without running out halfway."
+     ],
+     [
+      "Tiêu hết, khi hết thì xin mẹ thêm",
+      "Spend it all and ask Mum for more when it runs out",
+      0,
+      "Số tiền mẹ đưa chính là giới hạn của buổi đi chơi. Tập vừa đủ trong giới hạn là kỹ năng rất đáng giá.",
+      "The money Mum gives is the limit for the outing. Learning to fit inside a limit is a really useful skill."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kế hoạch chi cho buổi đi chơi",
+    "A spending plan for an outing"
+   ],
+   "s": [
+    "Trước buổi đi chơi sắp tới, con lên kế hoạch chi với số tiền ba mẹ đặt: chọn 3 món muốn nhất, xếp thứ tự và tính tiền. Sau buổi đi, kể lại cho ba mẹ con đã giữ kế hoạch thế nào.",
+    "Before your next outing, plan how to spend the amount your parents set: pick your top 3 wants, rank them and add up the cost. Afterwards, tell your parents how you stuck to the plan."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết danh sách, xếp thứ tự và cộng tiền.",
+     "Your parent helps you write the list, rank it and add it up."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết danh sách 3 món và đưa ba mẹ xem.",
+     "With one reminder, you write your top-3 list yourself and show your parent."
+    ],
+    [
+     "Con tự lập kế hoạch, giữ đúng trong buổi đi chơi và kể lại món nào đã mua, món nào bỏ qua.",
+     "You make the plan, stick to it on the outing, and report what you bought and what you skipped."
+    ]
+   ],
+   "rw": [
+    "Được chọn điểm dừng chân đầu tiên trong buổi đi chơi sau",
+    "You choose the first stop on the next family outing"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Hỏi thông tin nơi công cộng",
+   "Asking for information in public"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "C",
+  "story": [
+   "An và ba ra ga tàu đón bà nhưng không biết tàu về sân ga số mấy. Ba đứng ngay cạnh, bảo An thử tự hỏi cô nhân viên ở quầy thông tin.",
+   "An and Dad go to the station to meet Grandma, but they don’t know which platform her train arrives at. Standing right beside An, Dad suggests asking the woman at the information desk."
+  ],
+  "cq": [
+   "An nên hỏi thế nào?",
+   "How should An ask?"
+  ],
+  "co": [
+   [
+    "Nói nhỏ: “Sân ga đâu ạ?” rồi nhìn xuống đất",
+    "Mumble “Where’s the platform?” and look at the floor",
+    0,
+    "Câu hỏi thiếu thông tin thì cô khó trả lời. Nhìn cô, nói rõ mình cần tìm chuyến tàu nào nhé.",
+    "A question missing details is hard to answer. Look at her and say which train you need."
+   ],
+   [
+    "Đứng sau lưng ba và nhờ ba hỏi hộ",
+    "Hide behind Dad and ask him to do it",
+    0,
+    "Có ba ở cạnh là lúc an toàn nhất để tập. Lần đầu hơi run cũng không sao đâu.",
+    "With Dad right there it’s the safest time to practise. Feeling a bit shaky the first time is fine."
+   ],
+   [
+    "Chào cô, nói rõ chuyến tàu từ đâu về lúc mấy giờ, hỏi sân ga số mấy và cảm ơn",
+    "Greet her, say where the train is from and its time, ask the platform and say thank you",
+    1,
+    "Chào hỏi, nói đủ thông tin và cảm ơn giúp người nghe hiểu nhanh và vui lòng giúp mình.",
+    "Greeting, giving the key details and thanking people helps them understand fast and want to help."
+   ]
+  ],
+  "qq": [
+   "Hỏi thông tin nơi công cộng, điều gì quan trọng nhất?",
+   "When asking for information in public, what matters most?"
+  ],
+  "qo": [
+   [
+    "Hỏi thật nhanh rồi đi",
+    "Ask quickly and go"
+   ],
+   [
+    "Hỏi bất kỳ ai đứng gần",
+    "Ask whoever is nearest"
+   ],
+   [
+    "Hỏi nhân viên khi có người lớn đi cùng, nói rõ và cảm ơn",
+    "Ask staff with your grown-up near, speak clearly and say thanks"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ nhờ An gọi điện hỏi thư viện thiếu nhi mở cửa mấy giờ Chủ nhật. Mẹ ngồi ngay cạnh, bật loa ngoài.",
+     "Mum asks An to phone the children’s library to check Sunday opening times. She sits right beside An with the speaker on."
+    ],
+    "q": [
+     "An nên nói gì khi có người nhấc máy?",
+     "What should An say when someone answers?"
+    ],
+    "o": [
+     [
+      "“Alô, mấy giờ mở cửa?”",
+      "“Hello, what time do you open?”",
+      0,
+      "Thêm lời chào và nói rõ hỏi ngày nào thì người nghe dễ trả lời hơn nhiều.",
+      "Add a greeting and say which day you mean, and it’s much easier to answer."
+     ],
+     [
+      "“Cháu chào cô ạ. Cô cho cháu hỏi Chủ nhật thư viện mở cửa từ mấy giờ ạ?” rồi cảm ơn",
+      "“Good morning. Could you tell me what time the library opens on Sunday?” then thank her",
+      1,
+      "Chào, hỏi đúng điều cần biết và cảm ơn: ba bước nhỏ làm cuộc gọi rất lịch sự.",
+      "Greet, ask exactly what you need, and thank them: three small steps for a polite call."
+     ],
+     [
+      "Đưa máy lại cho mẹ vì ngại",
+      "Hand the phone back to Mum because you feel shy",
+      0,
+      "Ngại là bình thường. Có mẹ ngồi cạnh rồi, thử nói một câu thôi con nhé.",
+      "Feeling shy is normal. Mum’s right there, so try just one sentence."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lần đầu lên thư viện trường, An muốn tìm sách về khủng long. Cô thủ thư đang xếp sách lên kệ.",
+     "On An’s first visit to the school library, An wants books about dinosaurs. The librarian is busy shelving."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đi lục khắp các kệ cho đến khi thấy",
+      "Rummage through every shelf until you find them",
+      0,
+      "Tự tìm cũng được nhưng dễ làm lộn xộn và mất thời gian. Hỏi cô sẽ nhanh hơn.",
+      "Searching alone works but can make a mess and take ages. Asking is quicker."
+     ],
+     [
+      "Đợi cô xếp xong cuốn đang cầm, rồi hỏi: “Em chào cô, cô chỉ giúp em kệ sách khủng long ạ?” và cảm ơn",
+      "Wait until she puts down her book, then ask, “Excuse me, Miss, where are the dinosaur books?” and say thanks",
+      1,
+      "Chờ đúng lúc, hỏi rõ ràng và cảm ơn cho thấy con tôn trọng công việc của cô.",
+      "Picking the right moment, asking clearly and thanking her shows respect for her work."
+     ],
+     [
+      "Gọi to từ cửa: “Cô ơi, sách khủng long đâu?”",
+      "Call out from the door, “Miss, where are the dinosaur books?”",
+      0,
+      "Thư viện cần yên tĩnh. Lại gần và hỏi nhỏ nhẹ sẽ lịch sự hơn.",
+      "Libraries need quiet. Walk over and ask softly instead."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự hỏi một câu thông tin",
+    "Ask one information question myself"
+   ],
+   "s": [
+    "Lần tới đi cùng ba mẹ đến cửa hàng, thư viện hay nhà ga, con tự hỏi nhân viên một câu thông tin: chào, hỏi rõ và cảm ơn. Ba mẹ đứng cạnh và xác nhận.",
+    "Next time you’re at a shop, library or station with your parents, ask a member of staff one question yourself: greet, ask clearly and thank them. Your parent stands beside you and confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ câu hỏi và tập nói ở nhà trước, ra ngoài con nói theo.",
+     "You and your parent plan the question and practise at home, then you say it out there."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ câu và hỏi nhân viên.",
+     "With one reminder, you think of the question and ask staff yourself."
+    ],
+    [
+     "Con tự nhận ra lúc cần hỏi, tự hỏi đủ chào – hỏi – cảm ơn và kể lại câu trả lời.",
+     "You notice when a question is needed, ask with greeting–question–thanks, and report the answer."
+    ]
+   ],
+   "rw": [
+    "Được chọn bài hát trên đường về nhà",
+    "You choose the song on the way home"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Lần đầu thử điều mới",
+   "Nervous about trying something new"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà nấu canh mướp đắng nhồi thịt, món An chưa ăn bao giờ. Nhìn bát canh xanh, An nghĩ chắc đắng lắm, bụng thấy nao nao và muốn đẩy bát ra.",
+   "Grandma has made stuffed bitter melon soup, which An has never tried. Looking at the green bowl, An is sure it’s horribly bitter, feels a flutter in the tummy and wants to push it away."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nói thật “Con hơi ngại vì sợ đắng”, rồi thử một miếng nhỏ với chút thịt và cơm",
+    "Say honestly, “I’m a bit nervous it’ll be bitter,” then try a small bite with some meat and rice",
+    1,
+    "Gọi tên nỗi lo rồi thử một bước thật nhỏ giúp điều mới bớt đáng sợ. Không thích cũng không sao, con đã dám thử.",
+    "Naming the worry and taking one tiny step makes something new less scary. Not liking it is fine; you were brave to try."
+   ],
+   [
+    "Nói “Con không ăn món này đâu” và không đụng đến",
+    "Say “I’m not eating that” and don’t touch it",
+    0,
+    "Từ chối ngay thì mình không bao giờ biết món đó thật ra thế nào. Thử một miếng nhỏ thôi nhé.",
+    "Refusing straight away means you’ll never know what it’s really like. Try just a little bite."
+   ],
+   [
+    "Giả vờ no để khỏi phải thử",
+    "Pretend to be full so you don’t have to try",
+    0,
+    "Giả vờ thì nỗi sợ vẫn còn đó. Nói thật với bà, bà sẽ hiểu và giúp con.",
+    "Pretending leaves the fear in place. Tell Grandma honestly; she’ll understand and help."
+   ]
+  ],
+  "qq": [
+   "Khi lo lắng về điều mới, cách tốt là gì?",
+   "When you’re nervous about something new, a good approach is…"
+  ],
+  "qo": [
+   [
+    "Tránh hẳn cho an toàn",
+    "Avoid it completely to be safe"
+   ],
+   [
+    "Làm ngay một lần thật lớn",
+    "Do it all at once in one big go"
+   ],
+   [
+    "Nói ra nỗi lo và thử từng bước nhỏ",
+    "Say what worries you and try in small steps"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô mời An vào câu lạc bộ cờ vua của trường. An thích cờ nhưng không quen bạn nào trong câu lạc bộ, nên thấy hồi hộp.",
+     "The teacher invites An to the school chess club. An likes chess but doesn’t know anyone there and feels jittery."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Từ chối vì sợ không có bạn",
+      "Say no because you’re worried about having no friends there",
+      0,
+      "Nỗi lo này rất bình thường, nhưng từ chối thì mất cơ hội làm điều mình thích. Thử một buổi xem sao.",
+      "That worry is very normal, but saying no loses you something you enjoy. Try one session first."
+     ],
+     [
+      "Hỏi cô có thể đến xem một buổi trước không, rồi chào một bạn và chơi thử một ván",
+      "Ask if you can watch one session first, then say hi to someone and play one game",
+      1,
+      "Chia nhỏ thành “xem – chào – chơi một ván” giúp con làm quen dần mà không bị choáng.",
+      "Breaking it into watch, say hi, play one game helps you settle in without feeling overwhelmed."
+     ],
+     [
+      "Nhận lời rồi đến hôm đó lặng lẽ không đi",
+      "Say yes, then quietly not turn up",
+      0,
+      "Không đến mà không báo làm cô lo. Nếu chưa sẵn sàng, cứ nói thật với cô nhé.",
+      "Not turning up without a word worries the teacher. If you’re not ready, just tell her."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Buổi học bơi đầu tiên ở bể bơi gần nhà, ba ngồi trên ghế cạnh thành bể. An nhìn nước và thấy tim đập nhanh.",
+     "At An’s first swimming lesson at the local pool, Dad sits on a bench by the edge. An looks at the water and feels their heart racing."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo ba “Con không học nữa” và đòi về",
+      "Tell Dad “I don’t want to do it” and ask to go home",
+      0,
+      "Muốn về khi sợ là chuyện dễ hiểu. Thử một bước nhỏ trước đã rồi hãy quyết định nhé.",
+      "Wanting to leave when scared is understandable. Try one small step before deciding."
+     ],
+     [
+      "Giả vờ đau bụng để được ngồi ngoài",
+      "Pretend to have a tummy ache to sit out",
+      0,
+      "Giả vờ giúp tránh được hôm nay nhưng lần sau vẫn sợ. Nói thật sẽ có người giúp con.",
+      "Pretending avoids today but the fear stays. Telling the truth means someone can help."
+     ],
+     [
+      "Nói với thầy “Em hơi sợ”, rồi làm theo từng bước thầy hướng dẫn ở chỗ nước nông",
+      "Tell the teacher “I’m a bit scared,” then follow each step he shows you in the shallow end",
+      1,
+      "Khi thầy biết con lo, thầy sẽ cho con tập chậm hơn. Từng bước nhỏ dần thành tự tin.",
+      "When the teacher knows you’re nervous, he’ll go slower. Small steps turn into confidence."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một bước nhỏ với điều mới",
+    "One small step with something new"
+   ],
+   "s": [
+    "Con chọn một điều mới an toàn (một món ăn, một trò chơi, một hoạt động) và thử một bước nhỏ cùng ba mẹ. Trước khi thử, con nói ra nỗi lo; sau đó kể con thấy thế nào.",
+    "Choose something new and safe (a food, a game, an activity) and try one small step with your parents. Say your worry out loud first, then tell them how it went."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý vài điều mới, cùng con chọn và thử bước đầu tiên.",
+     "Your parent suggests a few new things, helps you pick one and tries the first step with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn điều mới, nói nỗi lo và thử.",
+     "With one reminder, you pick something new, name your worry and try it."
+    ],
+    [
+     "Con tự chọn, tự chia thành các bước nhỏ, thử bước đầu và kể lại cảm giác trước – sau.",
+     "You choose it, break it into small steps, try the first, and describe how you felt before and after."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần hồi nhỏ ba mẹ thử điều mới",
+    "Your parent tells you about a time they tried something new as a child"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng nhau dựng trại",
+   "Setting up camp together"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ hoạt động ngoài trời, thầy thể dục hướng dẫn nhóm An dựng lều tập ở sân trường. Linh lúng túng mãi với sợi dây buộc.",
+   "In outdoor activities, the PE teacher shows An’s group how to pitch a practice tent in the playground. Linh keeps fumbling with a guy rope."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi Linh “Cậu cần tớ giữ đầu dây không?” rồi cùng làm theo cách thầy chỉ",
+    "Ask Linh, “Shall I hold the other end?” and do it the way the teacher showed",
+    1,
+    "Thấy bạn gặp khó thì hỏi và giúp đúng chỗ. Nhóm mạnh khi mọi người đỡ nhau.",
+    "When a teammate is stuck, offer the right help. Teams are strong when people support each other."
+   ],
+   [
+    "Giằng lấy dây và tự buộc",
+    "Grab the rope and tie it yourself",
+    0,
+    "Giằng lấy làm bạn thấy bị coi thường. Hỏi bạn có cần giúp không sẽ dễ chịu hơn.",
+    "Grabbing it can make Linh feel brushed aside. Asking if she wants help feels kinder."
+   ],
+   [
+    "Kệ Linh, làm phần của mình thôi",
+    "Leave Linh to it and just do your part",
+    0,
+    "Lều chỉ đứng khi mọi góc đều xong. Giúp bạn cũng là giúp cả nhóm.",
+    "A tent only stands when every corner’s done. Helping Linh helps the whole group."
+   ]
+  ],
+  "qq": [
+   "Làm việc nhóm khi dựng một thứ gì đó, nên làm gì đầu tiên?",
+   "When a team builds something, what comes first?"
+  ],
+  "qo": [
+   [
+    "Cùng xem hướng dẫn và chia việc",
+    "Read the instructions together and split jobs"
+   ],
+   [
+    "Ai nhanh tay thì làm trước",
+    "Whoever’s fastest starts"
+   ],
+   [
+    "Đợi người lớn làm hết",
+    "Wait for grown-ups to do it all"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mưa cả ngày, An và em Bống định dựng “lều” bằng chăn gối trong phòng khách. Em cứ kéo chăn về phía mình, lều sụp mấy lần.",
+     "It’s raining all day, so An and little Bống build a blanket fort in the living room. Bống keeps pulling the blanket her way and it collapses again and again."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo em ra chỗ khác để tự làm",
+      "Tell Bống to go away so you can do it yourself",
+      0,
+      "Làm một mình thì nhanh nhưng mất vui. Giao cho em một việc vừa sức thì cả hai cùng thích.",
+      "Doing it alone is faster but less fun. Give her a job she can manage and you’ll both enjoy it."
+     ],
+     [
+      "Bỏ cuộc vì lều cứ sụp",
+      "Give up because it keeps falling",
+      0,
+      "Lều sụp thường là do chưa phối hợp. Thử dừng lại, cùng nhau bàn cách làm nhé.",
+      "It usually falls because you’re not working together. Pause and plan it together."
+     ],
+     [
+      "Bàn với em: An giữ chăn trên ghế, em đặt gối chèn các góc, đếm “một, hai, ba” cùng làm",
+      "Agree a plan: An holds the blanket over the chairs, Bống tucks cushions in the corners, then count “one, two, three”",
+      1,
+      "Mỗi người một việc rõ ràng và làm cùng nhịp thì lều đứng vững ngay.",
+      "Clear jobs and working in time together keep the fort standing."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhà An và nhà bác Huy đi cắm trại ở bãi cỏ khu sinh thái. Người lớn giao nhóm trẻ dựng chiếc lều nhỏ. Nam muốn cắm cọc ngay, Vy muốn đọc hướng dẫn trước.",
+     "An’s family and Uncle Huy’s family go camping on a meadow at a nature park. The grown-ups ask the kids to put up a small tent. Nam wants to start on the poles now; Vy wants to read the instructions first."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mỗi người cứ làm theo cách của mình cho nhanh",
+      "Let everyone do it their own way to save time",
+      0,
+      "Mỗi người một kiểu dễ làm lều bị lệch và phải làm lại. Thống nhất trước sẽ nhanh hơn.",
+      "Everyone doing their own thing often makes a wonky tent you have to redo. Agreeing first is quicker."
+     ],
+     [
+      "Cả nhóm xem hướng dẫn cùng nhau, chia việc: người giữ lều, người luồn cọc, nhờ người lớn đóng cọc",
+      "Read the instructions together and split jobs: one holds, one threads poles, ask a grown-up to hammer the pegs",
+      1,
+      "Làm theo hướng dẫn và chia việc rõ giúp cả nhóm phối hợp nhịp nhàng. Việc cần sức hay dụng cụ thì nhờ người lớn.",
+      "Following the instructions and splitting jobs keeps everyone in step. Jobs needing tools or strength go to a grown-up."
+     ],
+     [
+      "Để Nam làm hết vì Nam hăng nhất",
+      "Let Nam do it all because he’s keenest",
+      0,
+      "Một người làm hết thì mệt và dễ sai. Dựng trại vui nhất khi ai cũng góp tay.",
+      "One person doing everything gets tired and makes mistakes. Camping’s most fun when everyone helps."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Dựng lều chăn gối cả nhà",
+    "Build a family blanket fort"
+   ],
+   "s": [
+    "Cả nhà cùng dựng một “lều” bằng chăn gối trong nhà trong 15 phút. Trước khi làm, con đề nghị cách chia việc để mỗi người có một phần.",
+    "The whole family builds a blanket fort indoors in 15 minutes. Before you start, suggest how to split the jobs so everyone has a part."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chia việc, con làm phần được giao.",
+     "Your parent helps you split the jobs, then you do your part."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đề nghị cách chia việc cho cả nhà.",
+     "With one reminder, you suggest how to split the jobs for everyone."
+    ],
+    [
+     "Con tự lên kế hoạch, chia việc, giúp người đang gặp khó và kể lại cả nhà đã phối hợp ra sao.",
+     "You plan it, split the jobs, help anyone who’s stuck and tell how the family worked together."
+    ]
+   ],
+   "rw": [
+    "Cả nhà đọc truyện trong chiếc lều vừa dựng",
+    "The family reads a story together inside the fort"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự gọi món và thanh toán",
+   "Ordering and paying by myself"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cả nhà đi ăn phở. Mẹ bảo hôm nay An tự gọi món và trả tiền, mẹ ngồi ngay cạnh. Quán đông, cô phục vụ đang đứng chờ.",
+   "The family goes out for noodle soup. Mum says An can order and pay today, and she sits right beside An. It’s busy and the waitress is waiting."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chỉ tay vào thực đơn rồi nhìn mẹ",
+    "Point at the menu and look at Mum",
+    0,
+    "Chỉ tay thì cô dễ hiểu nhầm. Thử nói thành câu, mẹ ở ngay cạnh rồi.",
+    "Pointing is easy to misread. Try saying it in a sentence; Mum’s right there."
+   ],
+   [
+    "Gọi nhanh rồi cầm tiền thối bỏ túi luôn không đếm",
+    "Order quickly and pocket the change without counting",
+    0,
+    "Gọi được món là giỏi rồi! Nhớ đếm lại tiền thối, ai cũng có thể nhầm.",
+    "Ordering is great! Remember to count the change, since anyone can make a mistake."
+   ],
+   [
+    "Đọc kỹ thực đơn, nói rõ “Cho cháu một bát phở bò, không hành ạ”, khi trả tiền thì đếm lại tiền thối và cảm ơn",
+    "Read the menu, say clearly, “One beef noodle soup, no spring onion, please,” then count the change and say thanks",
+    1,
+    "Gọi rõ ràng giúp mang đúng món; đếm tiền thối là thói quen giữ tiền cẩn thận.",
+    "Ordering clearly gets you the right dish; counting change is a careful money habit."
+   ]
+  ],
+  "qq": [
+   "Khi tự trả tiền, con nhớ làm gì?",
+   "When you pay by yourself, remember to…"
+  ],
+  "qo": [
+   [
+    "Đưa tiền rồi đi luôn",
+    "Hand over the money and leave"
+   ],
+   [
+    "Đếm lại tiền thối và cảm ơn",
+    "Count your change and say thanks"
+   ],
+   [
+    "Nhờ người khác cầm tiền",
+    "Let someone else hold the money"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sinh nhật bà sắp đến. Ba nhờ An gọi điện đặt bánh ở tiệm quen, ba ngồi cạnh và đã ghi sẵn tên bánh, ngày lấy.",
+     "Grandma’s birthday is coming. Dad asks An to phone the usual bakery to order a cake; he sits beside An with the cake and pickup date written down."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc theo giấy ba ghi: tên bánh, ngày giờ lấy, hỏi giá và nhắc lại để kiểm tra",
+      "Read from Dad’s note: the cake, pickup day and time, ask the price and repeat it back to check",
+      1,
+      "Chuẩn bị sẵn thông tin và nhắc lại giúp đặt hàng không bị nhầm.",
+      "Having the details ready and repeating them back avoids mistakes."
+     ],
+     [
+      "Gọi rồi nói “Cho cháu một cái bánh” rồi cúp máy",
+      "Call, say “One cake please” and hang up",
+      0,
+      "Tiệm cần biết bánh gì, khi nào lấy. Nói đủ thông tin con nhé.",
+      "The bakery needs to know which cake and when. Give all the details."
+     ],
+     [
+      "Bảo ba gọi đi vì con sợ nói sai",
+      "Ask Dad to call because you might say it wrong",
+      0,
+      "Có giấy ghi và có ba bên cạnh, nói sai thì sửa lại thôi. Thử nhé!",
+      "With the note and Dad beside you, any slip can be fixed. Give it a go!"
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, An mua bánh mì ở căng tin trường. Hàng đông, An đưa tờ 50.000đ cho chiếc bánh 15.000đ.",
+     "At break, An buys a sandwich from the school canteen. The queue is long and An pays with a 50,000 note for a 15,000 sandwich."
+    ],
+    "q": [
+     "Khi nhận tiền thối, An nên làm gì?",
+     "What should An do when getting the change?"
+    ],
+    "o": [
+     [
+      "Cầm vội rồi chạy ra sân chơi",
+      "Grab it and run out to play",
+      0,
+      "Vội quá dễ nhận thiếu mà không biết. Đếm nhanh một chút chỉ mất vài giây.",
+      "Rushing means you might get short-changed without noticing. Counting takes seconds."
+     ],
+     [
+      "Thấy hàng đông nên bỏ luôn không lấy tiền thối",
+      "Leave without the change because the queue is long",
+      0,
+      "Tiền thối là tiền của mình. Lấy đủ và cất cẩn thận con nhé.",
+      "The change is your money. Take it and put it away safely."
+     ],
+     [
+      "Đứng sang bên, đếm đủ 35.000đ, cảm ơn cô và cất vào ví",
+      "Step aside, check it’s 35,000, thank her and put it in your wallet",
+      1,
+      "Đứng sang bên để không chắn hàng, đếm đủ rồi cất ví: vừa lịch sự vừa cẩn thận.",
+      "Stepping aside keeps the queue moving, and counting then putting it away is polite and careful."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự gọi món, tự trả tiền",
+    "Order and pay by myself"
+   ],
+   "s": [
+    "Lần tới đi ăn ngoài cùng ba mẹ, con tự gọi món rõ ràng, tự trả tiền và đếm lại tiền thối. Ba mẹ ngồi cạnh và xác nhận.",
+    "Next time you eat out with your parents, order clearly, pay yourself and count the change. Your parent sits beside you and confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con tập câu gọi món ở nhà, ở quán con nói theo.",
+     "Practise the ordering sentence at home with your parent, then say it at the restaurant."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự gọi món và trả tiền.",
+     "With one reminder, you order and pay yourself."
+    ],
+    [
+     "Con tự gọi, tự trả, đếm tiền thối và kể lại cho ba mẹ con đã nhận lại bao nhiêu.",
+     "You order, pay, count the change and tell your parent how much you got back."
+    ]
+   ],
+   "rw": [
+    "Được chọn loại trái cây tráng miệng tối nay",
+    "You choose the fruit for tonight’s dessert"
+   ]
+  }
+ }
+]

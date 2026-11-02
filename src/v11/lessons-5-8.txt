@@ -1,0 +1,90 @@
+oi=0 | tuần 1 | Quản lý cảm xúc | Nói ra cảm xúc của mình | quiz: Khi giận, việc đầu tiên nên làm là gì? -> Hít sâu ba lần
+   chuyện: Bin đang xếp tháp khối thì bạn Na chạy qua làm đổ hết. Bin thấy nóng trong người, mắt cay cay và muốn hét thật to.
+oi=1 | tuần 1 | Giao tiếp | Chào hỏi người lớn | quiz: Lời chào tử tế cần gì? -> Nhìn vào mắt và nói rõ
+   chuyện: Ông bà sang nhà chơi. Bin đang xem hoạt hình rất hay, ông bà bước vào cửa và nhìn Bin.
+oi=2 | tuần 1 | Làm việc nhóm | Chia sẻ đồ chơi với bạn | quiz: Chia sẻ nghĩa là gì? -> Cả hai đều được chơi
+   chuyện: Bin chỉ có một chiếc xe cứu hoả. Bạn Na đến chơi và cũng rất muốn chơi chiếc xe đó.
+oi=3 | tuần 1 | Tự lập | Tự dọn góc học tập | quiz: Việc lớn dễ làm hơn khi… -> Chia thành vài việc nhỏ
+   chuyện: Bàn học của Bin đầy bút, giấy và vụn gôm. Mẹ nói: “Đến giờ ăn cơm rồi.” Bin thấy bàn quá bừa nên không biết bắt đầu từ đâu.
+oi=4 | tuần 1 | An toàn & ranh giới | Người lạ và cái “không” | quiz: Ba bước khi thấy không an toàn? -> Nói không – rời xa – tìm người tin cậy
+   chuyện: Bin đứng chờ mẹ trước cổng trường. Một người lạ nói: “Mẹ con nhờ chú chở về, lên xe đi.”
+oi=5 | tuần 2 | Giao tiếp | Chờ đến lượt mình nói | quiz: Khi người lớn đang nói, con nên… -> Chờ người ta nói xong rồi mới nói
+   chuyện: Mẹ đang nói chuyện điện thoại với bà. Bin muốn khoe ngay bức tranh vừa vẽ xong.
+oi=6 | tuần 2 | Giải quyết vấn đề | Lỡ làm đổ nước | quiz: Khi lỡ làm đổ, việc đầu tiên là… -> Dọn ngay và nói với người lớn
+   chuyện: Bin rót nước thì cốc bị đổ, nước chảy lênh láng trên bàn ăn. Mẹ đang nấu cơm trong bếp.
+oi=7 | tuần 2 | Tư duy phản biện | Phim hoạt hình có thật không? | quiz: Khi thấy chuyện lạ trên phim, con nên… -> Hỏi người lớn xem có thật không
+   chuyện: Trong phim hoạt hình, chú thỏ chỉ ăn kẹo mà vẫn khoẻ nhất rừng. Bin nói với ba: “Con cũng chỉ ăn kẹo thôi!”
+oi=8 | tuần 2 | Quản lý thời gian | Buổi sáng không vội vàng | quiz: Buổi sáng nhanh hơn khi con… -> Làm lần lượt từng việc theo thứ tự
+   chuyện: Sáng nào Bin cũng vừa ăn vừa tìm giày, suýt muộn học. Mẹ đưa Bin một tờ giấy vẽ các việc buổi sáng.
+oi=9 | tuần 2 | Tài chính cá nhân | Cần hay muốn? | quiz: Thứ nào là thứ “cần”? -> Nước uống sạch
+   chuyện: Bin đi siêu thị cùng mẹ để mua sữa và bàn chải đánh răng. Ở quầy tính tiền, Bin thấy một chiếc xe đồ chơi rất đẹp.
+oi=10 | tuần 3 | Tư duy phản biện | Quảng cáo có nói thật hết không? | quiz: Quảng cáo được làm ra để… -> Mời mọi người mua hàng
+   chuyện: Trên ti vi, quảng cáo nói: “Ăn bánh này là cao lớn nhanh nhất!” Bin xin ba mua ngay.
+oi=11 | tuần 3 | An toàn & ranh giới | Cơ thể của con, con được nói “không” | quiz: Khi ai đó chạm vào làm con khó chịu, con nên… -> Nói “không” và kể với ba mẹ
+   chuyện: Bác họ đến nhà chơi, cứ muốn bế và thơm má Bin. Bin không thích nhưng ngại không dám nói.
+oi=12 | tuần 3 | Quản lý thời gian | Khi chuông báo hết giờ chơi | quiz: Khi hết giờ đã hẹn, con nên… -> Dừng lại như đã hẹn
+   chuyện: Ba hẹn Bin được chơi xếp hình 20 phút rồi đi tắm. Đồng hồ hẹn giờ reo khi Bin đang xếp dở ngôi nhà.
+oi=13 | tuần 3 | Tài chính cá nhân | Ống heo của Bin | quiz: Để dành tiền là… -> Cất một phần để mua thứ mình muốn sau này
+   chuyện: Bin muốn mua một quả bóng giá 30 nghìn. Mỗi tuần ba mẹ cho Bin 10 nghìn tiền tiêu vặt.
+oi=14 | tuần 3 | Quản lý cảm xúc | Khi con thấy sợ | quiz: Khi thấy sợ, điều tốt nhất là… -> Nói ra với người lớn tin cậy
+   chuyện: Tối nay mưa to, sấm kêu ầm ầm. Bin trùm chăn kín đầu, tim đập thình thịch.
+oi=15 | tuần 4 | Quản lý cảm xúc | Khi bị thua | quiz: Khi thua cuộc, con có thể… -> Hít sâu và chúc mừng bạn
+   chuyện: Bin thi ghép hình với anh trai và anh xong trước. Bin tức quá, muốn hất tung hết các mảnh ghép.
+oi=16 | tuần 4 | Làm việc nhóm | Mỗi người một việc | quiz: Làm việc nhóm tốt khi… -> Mỗi người nhận một phần việc
+   chuyện: Cô chia nhóm Bin, Na và Tí cùng vẽ một bức tranh cánh đồng. Cả ba bạn đều muốn vẽ ông mặt trời.
+oi=17 | tuần 4 | Tự lập | Tự mặc quần áo | quiz: Tự lập nghĩa là… -> Tự làm phần mình làm được
+   chuyện: Sáng nay mẹ bận cho em bé ăn. Quần áo của Bin đã để sẵn nhưng Bin vẫn ngồi chờ mẹ mặc giúp.
+oi=18 | tuần 4 | Giải quyết vấn đề | Tìm lại đồ bị thất lạc | quiz: Khi mất đồ, việc đầu tiên nên làm là… -> Nhớ lại lần cuối thấy nó ở đâu
+   chuyện: Đến giờ về, Bin tìm mãi không thấy bình nước. Bin nhớ hồi ra chơi vẫn còn cầm.
+oi=19 | tuần 4 | Tư duy phản biện | Nghe bạn nói, kiểm tra lại | quiz: Khi nghe một tin chưa chắc, con nên… -> Hỏi người biết rõ
+   chuyện: Bạn Tí nói: “Cô bảo mai cả lớp được nghỉ học đấy!” Bin chưa hề nghe cô nói vậy.
+oi=20 | tuần 5 | An toàn & ranh giới | Khi bị lạc ba mẹ | quiz: Khi bị lạc, con nên… -> Đứng yên và nhờ người làm ở đó giúp
+   chuyện: Ở siêu thị, Bin mải xem đồ chơi, quay lại thì không thấy mẹ đâu.
+oi=21 | tuần 5 | Quản lý thời gian | Làm bài trước, chơi sau | quiz: Khi có cả bài tập và giờ chơi, con nên… -> Làm bài trước rồi chơi
+   chuyện: Đi học về, Bin có một trang bài tập. Bạn Na sang rủ Bin ra sân chơi bóng.
+oi=22 | tuần 5 | Tài chính cá nhân | Giữ tiền cẩn thận | quiz: Giữ tiền cẩn thận là… -> Cất ở chỗ kín, chắc chắn
+   chuyện: Mẹ cho Bin 10 nghìn để mua bánh ở căng tin. Bin cầm tờ tiền vẫy vẫy khoe các bạn.
+oi=23 | tuần 5 | Giao tiếp | Nhờ giúp cho rõ ràng | quiz: Khi nhờ giúp, con nên nói… -> Mình cần giúp việc gì, nói lễ phép
+   chuyện: Bin không mở được nắp hộp cơm trưa. Cô giáo đang đi quanh lớp.
+oi=24 | tuần 5 | Làm việc nhóm | Khi nhóm có ý khác nhau | quiz: Khi nhóm có ý khác nhau, nên… -> Nghe lý do của nhau rồi cùng chọn
+   chuyện: Nhóm Bin làm mô hình con vật bằng đất nặn. Bin muốn làm con voi, Na muốn làm con rùa.
+oi=25 | tuần 6 | Làm việc nhóm | Giúp bạn trong nhóm | quiz: Giúp bạn trong nhóm nghĩa là… -> Chỉ cách để bạn tự làm được
+   chuyện: Nhóm Bin thi xếp chữ. Bạn Vy làm chậm và sắp khóc vì sợ cả nhóm thua.
+oi=26 | tuần 6 | Tự lập | Tự dọn bát sau bữa ăn | quiz: Ăn xong, con có thể tự… -> Mang bát của mình đi cất
+   chuyện: Ăn cơm xong, Bin đứng dậy đi xem hoạt hình, để bát đũa lại trên bàn.
+oi=27 | tuần 6 | Giải quyết vấn đề | Đồ chơi bị hỏng | quiz: Khi đồ bị hỏng, việc đầu tiên nên làm là… -> Xem kỹ chỗ hỏng
+   chuyện: Bánh xe ô tô đồ chơi của Bin bị rời ra. Bin buồn và định vứt luôn chiếc xe.
+oi=28 | tuần 6 | Tư duy phản biện | Đừng đoán qua vẻ bề ngoài | quiz: Muốn biết một thứ có tốt không, con nên… -> Thử hoặc tìm hiểu thêm
+   chuyện: Bà mua về một quả na vỏ sần sùi. Bin bĩu môi: “Quả này trông xấu, chắc không ngon.”
+oi=29 | tuần 6 | An toàn & ranh giới | Thuốc không phải là kẹo | quiz: Thuốc chỉ được uống khi… -> Người lớn tin cậy đưa cho
+   chuyện: Bin thấy trên bàn có mấy viên thuốc màu hồng, trông giống kẹo. Ba mẹ đang ở phòng bên.
+oi=30 | tuần 7 | Quản lý thời gian | Sẵn sàng đúng giờ | quiz: Muốn đúng giờ, con nên… -> Chuẩn bị trước khi đến giờ
+   chuyện: Mẹ báo: “10 phút nữa mình đi thăm bà nhé.” Bin vẫn đang tô màu, chưa thay đồ.
+oi=31 | tuần 7 | Tài chính cá nhân | So sánh giá trước khi mua | quiz: Trước khi mua, con nên… -> So sánh giá và công dụng
+   chuyện: Ở nhà sách cùng mẹ, Bin cần mua cục tẩy. Cục tẩy hình con thỏ giá 15 nghìn, cục tẩy thường giá 3 nghìn.
+oi=32 | tuần 7 | Giao tiếp | Lắng nghe khi người khác nói | quiz: Lắng nghe tốt là… -> Nhìn người nói và hỏi thêm
+   chuyện: Ông đang kể chuyện ngày xưa ông đi câu cá. Bin vừa nghe vừa nghịch xe đồ chơi, không nhìn ông.
+oi=33 | tuần 7 | Quản lý cảm xúc | Chờ đợi không cáu kỉnh | quiz: Khi phải chờ lâu, con có thể… -> Tìm một trò chơi nhỏ, nhẹ nhàng
+   chuyện: Bin và mẹ ngồi chờ khám răng. Chờ lâu lắm mà vẫn chưa đến lượt, Bin bắt đầu cáu.
+oi=34 | tuần 7 | Tự lập | Tự thử trước khi nhờ | quiz: Khi gặp việc khó, con nên… -> Thử trước, vướng thì hỏi
+   chuyện: Cô phát bài ghép hình. Bin mới nhìn đã giơ tay: “Cô ơi, khó quá, em không làm được.”
+oi=35 | tuần 8 | Tự lập | Chăm cây nhỏ của mình | quiz: Khi đã nhận một việc, con nên… -> Tìm cách tự nhớ và làm đều đặn
+   chuyện: Ba tặng Bin một chậu cây nhỏ, Bin hứa tự tưới mỗi sáng. Đến ngày thứ ba, Bin quên mất.
+oi=36 | tuần 8 | Giải quyết vấn đề | Thử cách khác khi chưa được | quiz: Khi thử nhiều lần chưa được, con nên… -> Đổi một điều rồi thử lại
+   chuyện: Bin gấp thuyền giấy thả vào chậu nước, nhưng thuyền cứ bị chìm. Bin đã gấp ba chiếc rồi.
+oi=37 | tuần 8 | Tư duy phản biện | Nhiều bạn làm thì có đúng không? | quiz: Nhiều người cùng làm một việc thì… -> Mình vẫn cần tự nghĩ xem đúng hay sai
+   chuyện: Ở công viên, ba mẹ ngồi gần đó. Mấy bạn nhỏ đang hái hoa trong bồn hoa và rủ Bin hái cùng.
+oi=38 | tuần 8 | An toàn & ranh giới | Người lạ nhắn tin trên mạng | quiz: Khi người lạ trên mạng xin ảnh hoặc thông tin, con nên… -> Không trả lời và báo ba mẹ
+   chuyện: Bin đang dùng máy tính bảng của mẹ để học. Một người lạ nhắn: “Gửi cho chú ảnh và tên trường của con nhé.”
+oi=39 | tuần 8 | Quản lý thời gian | Việc lớn chia thành việc nhỏ | quiz: Gặp việc lớn, con nên… -> Chia thành nhiều phần nhỏ
+   chuyện: Cô giao cả lớp đọc một quyển truyện 30 trang trong một tuần. Bin thấy dài quá nên chưa mở ra.
+oi=40 | tuần 9 | Tài chính cá nhân | Khi tiền không đủ mua hết | quiz: Khi tiền không đủ mua hết, con nên… -> Chọn thứ quan trọng hơn, để dành cho thứ kia
+   chuyện: Ở hội sách cùng mẹ, Bin có 30 nghìn để dành. Bin thích một quyển truyện 25 nghìn và một hộp bút màu 20 nghìn.
+oi=41 | tuần 9 | Giao tiếp | Xin lỗi cho thật lòng | quiz: Một lời xin lỗi thật lòng có… -> Nói rõ mình sai gì và cách sửa
+   chuyện: Bin chạy trong lớp và va vào bạn Mai, làm rơi hộp bút của bạn. Bút văng khắp nơi.
+oi=42 | tuần 9 | Quản lý cảm xúc | Hiểu cảm xúc của người khác | quiz: Khi thấy bạn buồn, con có thể… -> Hỏi thăm và ở bên bạn
+   chuyện: Giờ ra chơi, bạn Nam ngồi một mình ở góc sân, mặt buồn thiu. Bình thường Nam rất hay cười.
+oi=43 | tuần 9 | Làm việc nhóm | Cả nhóm cùng sửa sai | quiz: Khi nhóm làm sai, nên… -> Cùng nhau sửa lại
+   chuyện: Nhóm Bin làm xong mô hình ngôi nhà thì thấy cửa bị dán ngược. Các bạn bắt đầu đổ lỗi cho nhau.
+oi=44 | tuần 9 | Giải quyết vấn đề | Chia bánh cho đủ mọi người | quiz: Muốn chia đều, việc đầu tiên là… -> Đếm xem có bao nhiêu người và bao nhiêu phần
+   chuyện: Bà đưa Bin 6 cái bánh quy để chia cho Bin, em và hai bạn sang chơi.

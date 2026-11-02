@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Hỏi han khi bạn buồn",
+   "Checking in on a sad friend"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, Mai ngồi một mình ở góc sân, mắt đỏ hoe. An muốn hỏi thăm nhưng không biết nên bắt đầu thế nào.",
+   "At break, Mai is sitting alone in a corner of the playground with red eyes. An wants to check on her but doesn’t know how to start."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi to: “Sao khóc thế? Có gì đâu mà khóc!”",
+    "Ask loudly: “Why are you crying? It’s nothing!”",
+    0,
+    "Câu này làm bạn thấy nỗi buồn của mình bị coi nhẹ. Thử hỏi nhẹ nhàng và để bạn tự kể nhé.",
+    "That makes her feel her sadness doesn’t count. Try asking gently and let her tell you herself."
+   ],
+   [
+    "Ngồi xuống cạnh bạn, hỏi “Cậu ổn không? Có muốn kể tớ nghe không?” rồi lắng nghe",
+    "Sit beside her, ask “Are you OK? Want to tell me about it?” and then listen",
+    1,
+    "Câu hỏi mở cho bạn quyền chọn kể hay không. Được lắng nghe trọn vẹn đã là một cách an ủi.",
+    "An open question lets her choose whether to share. Being properly listened to is comfort in itself."
+   ],
+   [
+    "Đoán ngay chuyện gì xảy ra và đưa lời khuyên",
+    "Guess what happened and give advice straight away",
+    0,
+    "Khuyên vội khi chưa hiểu chuyện dễ làm bạn thấy không được nghe. Nghe trước, khuyên sau.",
+    "Advice before understanding can leave her feeling unheard. Listen first, advise later."
+   ]
+  ],
+  "qq": [
+   "Khi ai đó buồn, việc nên làm đầu tiên là gì?",
+   "When someone is sad, what should you do first?"
+  ],
+  "qo": [
+   [
+    "Đưa lời khuyên thật nhanh",
+    "Give advice quickly"
+   ],
+   [
+    "Bảo họ đừng buồn nữa",
+    "Tell them to stop being sad"
+   ],
+   [
+    "Hỏi một câu mở và lắng nghe",
+    "Ask an open question and listen"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ đi làm về, ngồi im lặng trên ghế, trông rất mệt. Thường ngày mẹ hay cười nói với An.",
+     "Mum comes home from work and sits quietly on the sofa, looking tired. Usually she chats and laughs with An."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Rót cho mẹ cốc nước và hỏi “Hôm nay của mẹ thế nào ạ?”",
+      "Bring Mum a glass of water and ask “How was your day, Mum?”",
+      1,
+      "Một hành động nhỏ cộng một câu hỏi mở cho mẹ biết con quan tâm và sẵn sàng nghe.",
+      "A small kind act plus an open question shows Mum you care and are ready to listen."
+     ],
+     [
+      "Kể ngay chuyện vui của mình ở trường",
+      "Start telling her your fun news from school",
+      0,
+      "Chuyện vui có thể để sau một chút. Hỏi thăm mẹ trước, rồi mẹ sẽ muốn nghe chuyện của con.",
+      "Your news can wait a moment. Check on Mum first, and she’ll want to hear yours after."
+     ],
+     [
+      "Để mẹ yên, đi chơi chỗ khác",
+      "Leave her alone and go and play",
+      0,
+      "Cho người khác không gian cũng tốt, nhưng một câu hỏi thăm ngắn giúp mẹ biết con để ý.",
+      "Giving space can help, but a short check-in lets Mum know you noticed."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, em họ Tí làm rơi quả bóng xuống hồ, đứng mếu máo. Ba An đang ngồi ghế đá gần đó.",
+     "At the park, An’s little cousin Tí has lost his ball in the pond and is about to cry. An’s dad is on a bench nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo em “Có quả bóng thôi mà, khóc gì”",
+      "Tell him “It’s only a ball, don’t cry”",
+      0,
+      "Với em, quả bóng rất quan trọng. Gọi đúng cảm giác của em sẽ giúp em bình tĩnh hơn.",
+      "To him, the ball really matters. Naming his feeling helps him calm down."
+     ],
+     [
+      "Chạy đi chơi tiếp vì không phải lỗi của mình",
+      "Run off to play because it’s not your fault",
+      0,
+      "Không phải lỗi của con, nhưng một câu hỏi thăm có thể làm em thấy đỡ buồn hơn nhiều.",
+      "It’s not your fault, but a kind word could make him feel much better."
+     ],
+     [
+      "Ngồi xuống cạnh em, hỏi “Em tiếc quả bóng lắm hả?” rồi cùng em ra báo ba",
+      "Crouch down, ask “You really miss that ball, don’t you?” and then go and tell Dad together",
+      1,
+      "Hỏi đúng cảm giác giúp em thấy được hiểu, còn việc lấy bóng ở hồ thì để người lớn lo.",
+      "Naming the feeling helps him feel understood, and getting things out of the pond is a job for adults."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một câu hỏi mở cho người thân",
+    "One open question for someone at home"
+   ],
+   "s": [
+    "Hôm nay con hỏi thăm một người trong nhà bằng câu hỏi mở như “Hôm nay của … thế nào?”, nghe hết không ngắt lời, rồi kể lại với ba mẹ con đã nghe được gì.",
+    "Today, ask someone at home an open question like “How was your day?”, listen without interrupting, then tell your parent what you heard."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu hỏi mở, con hỏi và ba mẹ ngồi cạnh cùng nghe.",
+     "Your parent suggests an open question; you ask it while they sit with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn người, tự hỏi và nghe hết câu trả lời.",
+     "With one reminder, you choose who to ask, ask it yourself and listen to the whole answer."
+    ],
+    [
+     "Con tự nhớ hỏi thăm một người, rồi kể lại cho ba mẹ ít nhất hai điều con đã nghe được.",
+     "You remember to check in on someone yourself, then tell your parent at least two things you heard."
+    ]
+   ],
+   "rw": [
+    "Được chọn truyện ba mẹ đọc tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi bị bạn bỏ rơi",
+   "Feeling left out"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cả nhóm bạn thân hẹn nhau ngồi ăn trưa nhưng không ai gọi An. An đứng cầm khay cơm, thấy nghẹn ở cổ và muốn quay đi.",
+   "An’s group of friends sit together at lunch but nobody calls An over. An stands holding a tray, throat tight, wanting to walk away."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Kết luận “Chẳng ai thích mình cả”",
+    "Decide “Nobody likes me”",
+    0,
+    "Một bữa trưa chưa nói lên tất cả. Có thể các bạn chỉ quên, hãy tìm hiểu trước khi kết luận.",
+    "One lunch doesn’t tell the whole story. They may have just forgotten, so find out before deciding."
+   ],
+   [
+    "Nói xấu nhóm bạn với người khác cho bõ tức",
+    "Complain about the group to others to feel better",
+    0,
+    "Nói xấu chỉ làm mọi chuyện rối thêm. Kể với ba mẹ hay một người lớn tin cậy sẽ giúp con nhẹ lòng hơn.",
+    "Gossiping makes things messier. Telling a parent or trusted adult helps you feel lighter."
+   ],
+   [
+    "Tự nhủ “Mình đang thấy bị ra rìa”, thở chậm, rồi ra ngồi cùng một bạn khác hoặc hỏi nhóm “Tớ ngồi cùng được không?”",
+    "Tell yourself “I feel left out”, breathe slowly, then sit with someone else or ask the group “Can I join you?”",
+    1,
+    "Gọi tên cảm giác giúp nó nhẹ bớt. Sau đó con chủ động chọn một bước nhỏ thay vì chờ người khác.",
+    "Naming the feeling makes it lighter. Then you choose a small step instead of waiting for others."
+   ]
+  ],
+  "qq": [
+   "Khi thấy bị bỏ rơi, bước đầu tiên tốt nhất là gì?",
+   "When you feel left out, what’s the best first step?"
+  ],
+  "qo": [
+   [
+    "Gọi tên cảm giác của mình",
+    "Name your feeling"
+   ],
+   [
+    "Giả vờ như không sao",
+    "Pretend you don’t care"
+   ],
+   [
+    "Giận dỗi với cả nhóm",
+    "Sulk at the whole group"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ và chị Vy đến chơi, hai người cứ nói chuyện riêng về những thứ An chưa biết. An ngồi một bên, thấy lạc lõng.",
+     "An’s cousin and big sister Vy keep chatting about things An doesn’t know. An sits to one side, feeling out of place."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ vào phòng đóng cửa thật mạnh",
+      "Storm off and slam the bedroom door",
+      0,
+      "Đóng cửa mạnh cho thấy con bực nhưng không giúp ai hiểu con cần gì. Thử nói ra nhẹ nhàng nhé.",
+      "Slamming shows you’re cross but doesn’t tell anyone what you need. Try saying it gently."
+     ],
+     [
+      "Hỏi “Hai người đang nói về gì thế? Kể em nghe với”",
+      "Ask “What are you two talking about? Tell me too”",
+      1,
+      "Hỏi để tham gia là cách nhanh nhất để không còn đứng ngoài. Mọi người thường vui lòng giải thích.",
+      "Asking to join in is the quickest way back in. People are usually happy to explain."
+     ],
+     [
+      "Ngồi im và tự thấy mình kém cỏi",
+      "Sit quietly and feel useless",
+      0,
+      "Chưa biết một chuyện không có nghĩa là con kém. Lên tiếng hỏi hoặc rủ làm việc khác đều được.",
+      "Not knowing something doesn’t make you less. You can ask, or suggest something else to do."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, mấy bạn đang chơi đuổi bắt đã đủ người và bảo An “Thôi, đủ rồi”. Mẹ An đang ngồi gần đó.",
+     "At the neighbourhood playground, some kids playing tag tell An “Sorry, we’ve got enough”. An’s mum is sitting nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói với mẹ “Con hơi buồn”, rồi rủ một bạn khác chơi hoặc hỏi lượt sau có được vào không",
+      "Tell Mum “I feel a bit sad”, then ask another child to play or ask to join the next round",
+      1,
+      "Chia sẻ cảm giác với người lớn rồi chọn một việc khác giúp con vượt qua nhanh và lành mạnh.",
+      "Sharing the feeling with a grown-up and choosing something else helps you move on in a healthy way."
+     ],
+     [
+      "Đứng ngay giữa sân cho các bạn phải cho chơi",
+      "Stand in the middle so they have to let you play",
+      0,
+      "Ép người khác cho chơi dễ thành cãi nhau. Có những cách khác để vẫn vui.",
+      "Forcing your way in usually ends in an argument. There are other ways to have fun."
+     ],
+     [
+      "Về nhà và tự nhủ không bao giờ ra sân nữa",
+      "Go home and promise never to go to the playground again",
+      0,
+      "Một lần bị từ chối thật buồn, nhưng không nên vì vậy mà bỏ hết niềm vui. Thử lại lần sau nhé.",
+      "Being turned down hurts, but don’t give up all the fun because of it. Try again another time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba câu về một lần bị bỏ rơi",
+    "Three sentences about feeling left out"
+   ],
+   "s": [
+    "Con viết 3 câu: một lần con thấy bị bỏ rơi, con đã cảm thấy thế nào, và một việc giúp con thấy khá hơn. Rồi đọc cho ba mẹ nghe.",
+    "Write three sentences: a time you felt left out, how it felt, and one thing that helped you feel better. Then read them to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể một lần ba mẹ bị bỏ rơi trước, rồi cùng con viết 3 câu.",
+     "Your parent shares a time they felt left out first, then helps you write your three sentences."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết 3 câu và đọc cho ba mẹ nghe.",
+     "With one reminder, you write the three sentences yourself and read them aloud."
+    ],
+    [
+     "Con tự viết, thêm một câu “Lần sau mình sẽ…”, rồi trò chuyện với ba mẹ về điều đó.",
+     "You write them yourself, add a line “Next time I’ll…”, then talk it over with your parent."
+    ]
+   ],
+   "rw": [
+    "Một cái ôm thật chặt và ba mẹ kể một kỷ niệm vui hồi nhỏ",
+    "A big hug and a happy story from your parent’s childhood"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Chọn trò chơi chung không cãi nhau",
+   "Choosing a game everyone agrees on"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "C",
+  "story": [
+   "Chiều Chủ nhật ở sân chung cư, An, Huy, Linh và Nam muốn chơi cùng nhau. Mỗi bạn muốn một trò khác, cãi nhau mãi đến khi trời gần tối.",
+   "On Sunday afternoon in the flats’ courtyard, An, Huy, Linh and Nam want to play together. Each wants a different game and they argue until it’s nearly dark."
+  ],
+  "cq": [
+   "Nhóm nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Bốc thăm hoặc chơi lần lượt mỗi trò 15 phút",
+    "Draw lots or take turns, 15 minutes per game",
+    1,
+    "Bốc thăm hay lần lượt là cách công bằng ai cũng chấp nhận, nên cả nhóm có thời gian để chơi thật.",
+    "Drawing lots or taking turns is fair to everyone, so the group gets on with actually playing."
+   ],
+   [
+    "Bạn nào nói to nhất thì được chọn",
+    "Whoever shouts loudest decides",
+    0,
+    "Nói to không có nghĩa là đúng. Cách này làm các bạn khác thấy bị gạt đi.",
+    "Loudest isn’t fairest. The others end up feeling pushed aside."
+   ],
+   [
+    "Mỗi bạn đi chơi riêng một trò",
+    "Everyone plays their own game alone",
+    0,
+    "Không cãi nữa nhưng cũng mất vui chơi chung. Vẫn có cách để cả nhóm cùng chơi.",
+    "No more arguing, but no fun together either. There’s a way to keep the group playing."
+   ]
+  ],
+  "qq": [
+   "Cách nào giúp nhóm chọn trò chơi công bằng?",
+   "Which way helps a group choose a game fairly?"
+  ],
+  "qo": [
+   [
+    "Để bạn lớn nhất quyết định",
+    "Let the oldest decide"
+   ],
+   [
+    "Bỏ phiếu, bốc thăm hoặc lần lượt",
+    "Vote, draw lots or take turns"
+   ],
+   [
+    "Ai giận thì người đó được chọn",
+    "Whoever is upset gets to choose"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối thứ Bảy, cả nhà định chơi một trò. Em Bảo đòi cá ngựa, chị Vy muốn đố chữ, còn An thích ô ăn quan.",
+     "On Saturday evening the family wants to play a game. Little Bảo wants a board race game, sister Vy wants a word game, and An wants mancala."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Nhường em Bảo vì em hay khóc",
+      "Let Bảo choose because he cries a lot",
+      0,
+      "Nhường em đôi khi là tốt, nhưng nếu khóc là thắng thì lần sau ai cũng muốn khóc. Hãy chọn cách công bằng.",
+      "Letting him win sometimes is kind, but if crying wins, everyone will cry next time. Choose a fair way."
+     ],
+     [
+      "Nói “Không chơi ô ăn quan thì con không chơi”",
+      "Say “If it’s not mancala, I’m not playing”",
+      0,
+      "Doạ bỏ cuộc làm mọi người mất vui. Con có thể đề nghị lượt sau chơi trò của con.",
+      "Threatening to quit spoils it for everyone. You can ask for your game next time."
+     ],
+     [
+      "Mỗi người viết trò mình thích vào giấy, bỏ phiếu kín, trò nhiều phiếu nhất chơi trước",
+      "Everyone writes a game on paper, vote secretly, and the most votes goes first",
+      1,
+      "Bỏ phiếu cho mỗi người một tiếng nói ngang nhau. Trò nào chưa được chơi có thể để tối khác.",
+      "Voting gives everyone an equal say. The other games can wait for another night."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ sinh hoạt lớp, tổ của An được chọn một trò chơi cho cả lớp. Các bạn chia làm hai phe, ai cũng giữ ý mình.",
+     "In form time, An’s group gets to pick a game for the whole class. They split into two sides and nobody will budge."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đi mách cô là các bạn không nghe mình",
+      "Go and tell the teacher the others won’t listen",
+      0,
+      "Nhờ cô là lựa chọn cuối. Trước hết tổ thử tự giải quyết bằng một cách công bằng nhé.",
+      "Asking the teacher is a last step. First, try sorting it out fairly as a group."
+     ],
+     [
+      "Đề nghị giơ tay biểu quyết, phe thua được chọn trò cho buổi sau",
+      "Suggest a show of hands, with the losing side choosing next time",
+      1,
+      "Biểu quyết và hẹn lượt sau giúp phe nào cũng thấy được tôn trọng, nên không còn cãi.",
+      "A vote plus a promise for next time means both sides feel respected, so the arguing stops."
+     ],
+     [
+      "Cố nói thật nhiều để thuyết phục mọi người",
+      "Keep talking until everyone agrees with you",
+      0,
+      "Thuyết phục là tốt, nhưng nói mãi khiến thời gian trôi mất. Một cách chọn rõ ràng sẽ nhanh hơn.",
+      "Persuading is fine, but endless talking wastes time. A clear way to decide is quicker."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cả nhà bỏ phiếu chọn trò chơi",
+    "A family vote for game night"
+   ],
+   "s": [
+    "Tối nay con tổ chức cho cả nhà chọn một trò chơi bằng cách bỏ phiếu, bốc thăm hoặc lần lượt, rồi cùng chơi. Ba mẹ xác nhận không ai phải cãi nhau.",
+    "Tonight, organise the family to choose a game by voting, drawing lots or taking turns, then play it. Your parent confirms nobody had to argue."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chuẩn bị giấy bỏ phiếu và giúp con điều khiển.",
+     "Your parent helps you make the voting slips and run the vote."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn cách công bằng và tự điều khiển.",
+     "With one reminder, you choose a fair method and run it yourself."
+    ],
+    [
+     "Con tự tổ chức từ đầu đến cuối và hẹn trò chưa được chọn cho lần sau.",
+     "You organise it start to finish and promise the other games a turn next time."
+    ]
+   ],
+   "rw": [
+    "Con được chọn trò chơi cả nhà chơi cuối tuần",
+    "You choose the family game for the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chuẩn bị khi sang nhà bạn chơi",
+   "Getting ready to visit a friend’s home"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Huy rủ An sang nhà chơi chiều thứ Bảy. An háo hức, định xỏ dép đi luôn khi mẹ đang nấu cơm trong bếp.",
+   "Huy invites An over on Saturday afternoon. An is so excited that An nearly slips on some sandals and heads out while Mum is cooking in the kitchen."
+  ],
+  "cq": [
+   "An nên làm gì trước khi đi?",
+   "What should An do before going?"
+  ],
+  "co": [
+   [
+    "Đi luôn, lát nhắn tin cho mẹ sau",
+    "Just go and message Mum later",
+    0,
+    "Ba mẹ cần biết con ở đâu trước khi con đi, để luôn tìm được con nếu cần.",
+    "Your parents need to know where you are before you leave, so they can always reach you."
+   ],
+   [
+    "Xin phép mẹ, nói rõ nhà ai, địa chỉ, giờ về và mang theo đồ cần thiết",
+    "Ask Mum, say whose house and where, the time you’ll be back, and pack what you need",
+    1,
+    "Xin phép và báo đủ thông tin giúp ba mẹ yên tâm. Tự soạn đồ cho thấy con đã lớn.",
+    "Asking and giving the details puts your parents at ease. Packing your own things shows you’re growing up."
+   ],
+   [
+    "Nhờ chị Vy nói với mẹ hộ",
+    "Ask sister Vy to tell Mum for you",
+    0,
+    "Lời nhắn qua người khác dễ thiếu hoặc quên. Việc của mình thì tự báo nhé.",
+    "Messages passed on get lost or muddled. Your plans, your job to tell."
+   ]
+  ],
+  "qq": [
+   "Trước khi sang nhà bạn, điều quan trọng nhất là gì?",
+   "Before visiting a friend, what matters most?"
+  ],
+  "qo": [
+   [
+    "Mang thật nhiều đồ chơi",
+    "Bring lots of toys"
+   ],
+   [
+    "Mặc đồ đẹp nhất",
+    "Wear your best clothes"
+   ],
+   [
+    "Xin phép và báo ba mẹ nơi đến, giờ về",
+    "Ask permission and tell your parents where and when you’ll be back"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cuối giờ học, Linh rủ An tan trường về thẳng nhà Linh làm bài chung. Ba An thường đón An ở cổng trường.",
+     "After school, Linh invites An to go straight to her house to do homework together. An’s dad usually picks An up at the gate."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói với Linh “Để tớ xin phép ba đã”, rồi chờ ba đến hỏi ý ba",
+      "Tell Linh “Let me ask my dad first”, then wait and ask Dad",
+      1,
+      "Kế hoạch thay đổi thì ba mẹ phải biết và đồng ý trước. Hẹn lại hôm khác cũng không sao.",
+      "When plans change, your parents must know and agree first. Going another day is fine too."
+     ],
+     [
+      "Đi cùng Linh luôn, ba đến không thấy chắc sẽ hiểu",
+      "Go with Linh now; Dad will work it out",
+      0,
+      "Ba đến không thấy con sẽ rất lo. Luôn hỏi ba mẹ trước khi đi đâu nhé.",
+      "Dad would be very worried not finding you. Always ask before going anywhere."
+     ],
+     [
+      "Từ chối luôn vì ngại hỏi",
+      "Say no straight away because asking feels awkward",
+      0,
+      "Không cần ngại. Hỏi ba mẹ là bình thường, có khi ba còn đồng ý và đưa con đến.",
+      "No need to feel awkward. Asking is normal, and Dad might even say yes and drop you off."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đến nhà Nam chơi, An thấy cả nhà Nam đang ăn cơm. Trong nhà có bà của Nam và bố mẹ Nam.",
+     "Arriving at Nam’s home, An finds the family having dinner. Nam’s grandma and parents are there."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đi thẳng vào phòng Nam",
+      "Walk straight into Nam’s room",
+      0,
+      "Khi đến nhà người khác, chào người lớn trước là phép lịch sự đầu tiên.",
+      "At someone else’s home, greeting the adults first is the first rule of good manners."
+     ],
+     [
+      "Đứng ngoài cổng chờ, không chào ai",
+      "Wait outside the gate without saying hello",
+      0,
+      "Không cần ngại. Một lời chào lễ phép giúp mọi người thấy vui khi con đến.",
+      "Don’t be shy. A polite hello makes everyone glad you came."
+     ],
+     [
+      "Chào bà và bố mẹ Nam, xin lỗi vì đến đúng giờ cơm và hỏi có nên quay lại sau không",
+      "Greet Nam’s grandma and parents, say sorry for arriving at mealtime and ask if you should come back later",
+      1,
+      "Chào hỏi và để ý giờ giấc nhà bạn cho thấy con biết tôn trọng người khác.",
+      "Greeting and minding their routine shows you respect your friend’s family."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Danh sách trước khi sang nhà bạn",
+    "My before-a-visit checklist"
+   ],
+   "s": [
+    "Con lập danh sách đồ cần mang và 3 điều phải báo ba mẹ (nhà ai, ở đâu, mấy giờ về) trước khi sang nhà bạn. Ba mẹ đọc và kiểm tra.",
+    "Make a list of what to bring and three things to tell your parents (whose home, where, what time you’ll be back) before visiting a friend. Your parent reads and checks it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ và viết danh sách.",
+     "Your parent thinks it through with you and helps you write it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết danh sách rồi đưa ba mẹ xem.",
+     "With one reminder, you write the list yourself and show your parent."
+    ],
+    [
+     "Con tự viết, thêm 2 phép lịch sự khi đến nhà bạn, và đọc thuộc cho ba mẹ nghe.",
+     "You write it yourself, add two manners for visiting, and say it to your parent from memory."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết một mẩu giấy khen đặt trên bàn học của con",
+    "A note of praise from your parent left on your desk"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Hai bạn giận nhau, mình đứng giữa",
+   "Caught between two friends"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Mai và Vy giận nhau. Mai nhờ An: “Cậu bảo Vy là tớ không thèm chơi nữa.” Lát sau Vy lại hỏi An: “Mai nói xấu tớ gì đúng không?”",
+   "Mai and Vy have fallen out. Mai asks An: “Tell Vy I’m not playing with her any more.” Later Vy asks An: “Mai’s been saying mean things about me, hasn’t she?”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chuyển lời của Mai cho Vy y nguyên",
+    "Pass Mai’s message to Vy word for word",
+    0,
+    "Chuyển lời lúc đang giận dễ làm hai bạn hiểu lầm thêm. Lời của ai nên để người đó tự nói.",
+    "Passing on angry words usually makes things worse. People should say their own words."
+   ],
+   [
+    "Đứng về phe bạn mình thân hơn",
+    "Side with whichever friend you’re closer to",
+    0,
+    "Chọn phe làm mất một người bạn và khiến chuyện to hơn. Con có thể vẫn tốt với cả hai.",
+    "Taking sides can lose you a friend and make it bigger. You can stay kind to both."
+   ],
+   [
+    "Nói “Tớ không chuyển lời đâu. Hai cậu nói thẳng với nhau nhé, tớ ngồi cạnh nếu cần”",
+    "Say “I won’t pass messages. You two should talk to each other – I’ll sit with you if you like”",
+    1,
+    "Không chọn phe, không chuyển lời mà giúp hai bạn tự nói với nhau là cách giữ được cả hai tình bạn.",
+    "Not taking sides or carrying messages, but helping them talk directly, keeps both friendships safe."
+   ]
+  ],
+  "qq": [
+   "Khi hai bạn giận nhau, người ở giữa nên làm gì?",
+   "When two friends fall out, what should the one in the middle do?"
+  ],
+  "qo": [
+   [
+    "Giúp hai bạn tự nói chuyện trực tiếp",
+    "Help them talk to each other directly"
+   ],
+   [
+    "Chuyển lời qua lại",
+    "Carry messages back and forth"
+   ],
+   [
+    "Chọn một bên",
+    "Pick a side"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Chị Vy và em Bảo tranh nhau cái điều khiển quạt. Cả hai cùng quay sang An: “An thấy ai đúng?”",
+     "Sister Vy and little Bảo are fighting over the fan remote. Both turn to An: “Who’s right?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bênh em vì em nhỏ hơn",
+      "Back Bảo because he’s younger",
+      0,
+      "Bênh một bên thì bên kia thấy bất công. Giúp hai người tự tìm cách sẽ tốt hơn.",
+      "Backing one side feels unfair to the other. Helping them find a solution works better."
+     ],
+     [
+      "Gợi ý “Mỗi người kể mình muốn gì, rồi cùng nghĩ cách chia lượt nhé”",
+      "Suggest “Each say what you want, then work out turns together”",
+      1,
+      "Con không làm trọng tài mà giúp hai người nghe nhau. Nếu vẫn căng, mời ba mẹ giúp.",
+      "You’re not the referee – you help them hear each other. If it’s still tense, ask a parent."
+     ],
+     [
+      "Giật luôn điều khiển cho xong",
+      "Grab the remote yourself to end it",
+      0,
+      "Giật đồ chỉ làm cả ba cùng bực. Lời nói bình tĩnh hiệu quả hơn.",
+      "Grabbing it just makes all three of you cross. Calm words work better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp học bơi, Huy và Nam cãi nhau vì tranh làn bơi. Huy kéo An ra: “Cậu đừng chơi với Nam nữa.” Thầy dạy bơi đứng gần đó.",
+     "At swimming lessons, Huy and Nam argue over a lane. Huy pulls An aside: “Don’t be friends with Nam any more.” The coach is nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Tớ vẫn chơi với cả hai. Hay hai cậu nhờ thầy chia làn rồi nói chuyện lại với nhau?”",
+      "Say “I’m friends with you both. Why not ask the coach to sort the lanes and then talk it through?”",
+      1,
+      "Giữ tình bạn với cả hai và hướng các bạn tới người lớn để chia làn công bằng là cách khéo léo.",
+      "Staying friends with both and pointing them to the coach for a fair fix is the smart move."
+     ],
+     [
+      "Gật đầu cho Huy khỏi giận",
+      "Agree so Huy won’t be cross",
+      0,
+      "Đồng ý cho xong làm con mất một người bạn mà chuyện vẫn chưa được giải quyết.",
+      "Agreeing just to calm things costs you a friend and doesn’t fix the problem."
+     ],
+     [
+      "Kể với Nam là Huy bảo đừng chơi với cậu ấy",
+      "Tell Nam that Huy said not to be his friend",
+      0,
+      "Kể lại lời đó sẽ thổi bùng cơn giận. Chuyển lời thường làm mọi việc tệ hơn.",
+      "Repeating that would fan the flames. Carrying words usually makes things worse."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập ba câu giúp hai bạn làm lành",
+    "Three peacemaker phrases"
+   ],
+   "s": [
+    "Con cùng ba mẹ đóng vai hai bạn đang giận nhau, con tập 3 câu giúp hai bạn bình tĩnh nói chuyện trực tiếp mà không chọn phe, không chuyển lời.",
+    "Role-play with your parent two friends who have fallen out, and practise three phrases that help them talk calmly to each other without taking sides or passing messages."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý 3 câu mẫu, con nói theo trong lúc đóng vai.",
+     "Your parent suggests three phrases and you say them during the role-play."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ 3 câu và dùng khi đóng vai.",
+     "With one reminder, you think up three phrases yourself and use them in the role-play."
+    ],
+    [
+     "Con tự nghĩ câu, đóng vai trọn vẹn rồi kể ba mẹ nghe con sẽ làm gì nếu chuyện xảy ra thật.",
+     "You make up your own phrases, play the whole scene and tell your parent what you’d do if it happened for real."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đi dạo công viên cuối tuần",
+    "A family walk in the park at the weekend"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Kể lại chuyến đi cho hấp dẫn",
+   "Telling a trip story well"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Sáng thứ Hai, cô mời An kể về chuyến đi biển cuối tuần với ông bà. An có nhiều chuyện muốn kể nhưng sợ kể lộn xộn.",
+   "On Monday morning the teacher asks An to tell the class about a weekend beach trip with Grandma and Grandpa. An has lots to say but worries it’ll come out jumbled."
+  ],
+  "cq": [
+   "An nên kể thế nào?",
+   "How should An tell it?"
+  ],
+  "co": [
+   [
+    "Kể theo trình tự đầu – giữa – cuối, chọn một chi tiết nổi bật (cùng ông xem bình minh, thấy đàn cua chạy ngang) và nói cảm xúc của mình",
+    "Tell it beginning, middle, end, pick one stand-out moment (watching sunrise with Grandpa, crabs scuttling sideways) and say how you felt",
+    1,
+    "Trình tự rõ giúp người nghe theo kịp; một chi tiết sống động và cảm xúc thật làm câu chuyện đáng nhớ.",
+    "A clear order helps people follow; one vivid detail and real feelings make it memorable."
+   ],
+   [
+    "Kể hết mọi việc từ lúc thức dậy: “rồi… rồi… rồi…”",
+    "List everything from waking up: “and then… and then…”",
+    0,
+    "Kể mọi thứ dễ làm người nghe mệt. Chọn vài điểm chính và một chi tiết hay nhất nhé.",
+    "Telling everything wears listeners out. Pick a few key points and your best detail."
+   ],
+   [
+    "Nói “Vui lắm ạ” rồi ngồi xuống",
+    "Say “It was fun” and sit down",
+    0,
+    "Các bạn muốn biết vui thế nào đấy! Thêm một chi tiết thôi, câu chuyện đã sống động hơn.",
+    "Everyone wants to know how it was fun! Just one detail brings it to life."
+   ]
+  ],
+  "qq": [
+   "Kể chuyến đi cho hấp dẫn cần gì?",
+   "A good trip story needs…"
+  ],
+  "qo": [
+   [
+    "Thật nhiều tên địa điểm",
+    "Lots of place names"
+   ],
+   [
+    "Trình tự rõ, chi tiết nổi bật và cảm xúc",
+    "A clear order, a stand-out detail and feelings"
+   ],
+   [
+    "Nói thật nhanh",
+    "Speaking very fast"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bà ngoại gọi điện hỏi chuyến đi lên vùng núi của An thế nào. Bà nghe không rõ nếu An nói nhanh.",
+     "Grandma rings to ask about An’s trip to the hills. She can’t follow if An talks too fast."
+    ],
+    "q": [
+     "An nên kể thế nào?",
+     "How should An tell it?"
+    ],
+    "o": [
+     [
+      "Nói thật nhanh cho kịp kể hết",
+      "Talk really fast to fit everything in",
+      0,
+      "Nói nhanh qua điện thoại bà khó nghe. Chậm lại và chọn điều hay nhất để kể nhé.",
+      "Fast talk is hard to hear on the phone. Slow down and pick the best bits."
+     ],
+     [
+      "Chỉ nói “Bình thường ạ”",
+      "Just say “It was OK”",
+      0,
+      "Bà rất mong nghe chuyện của con. Một chi tiết thú vị sẽ làm bà vui cả ngày.",
+      "Grandma really wants to hear. One fun detail will make her day."
+     ],
+     [
+      "Kể chậm rãi: đi đâu trước, việc gì vui nhất, và con cảm thấy thế nào",
+      "Tell it slowly: where you went first, the best moment, and how you felt",
+      1,
+      "Kể chậm, có trình tự và cảm xúc giúp bà như được đi cùng con.",
+      "Telling it slowly with an order and feelings lets Grandma feel she was there."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Gặp cô hàng xóm ở thang máy, cô hỏi: “Đi chơi về vui không cháu?” Thang máy chỉ đi vài tầng.",
+     "In the lift, a neighbour asks, “Did you have a nice trip?” It’s only a few floors."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "Kể một câu ngắn có chi tiết hay nhất: “Vui lắm ạ, cháu được thấy đàn cá heo nhảy!”",
+      "Give one short line with the best bit: “Lovely, thank you, we saw dolphins jumping!”",
+      1,
+      "Thời gian ngắn thì chọn một chi tiết nổi bật nhất. Ngắn mà vẫn hấp dẫn.",
+      "With little time, pick your single best detail. Short but interesting."
+     ],
+     [
+      "Bắt đầu kể từ lúc xếp đồ",
+      "Start from packing the suitcase",
+      0,
+      "Thang máy chỉ vài tầng, kể dài thì dang dở. Chọn ý chính thôi con nhé.",
+      "It’s only a few floors, so a long story gets cut off. Pick the main point."
+     ],
+     [
+      "Gật đầu không nói gì",
+      "Nod and say nothing",
+      0,
+      "Một câu trả lời ngắn, lễ phép làm cô vui. Thử nói một chi tiết nhé.",
+      "A short polite answer makes her smile. Try sharing one detail."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kể chuyến đi trong 3 phút",
+    "Tell a trip story in 3 minutes"
+   ],
+   "s": [
+    "Con kể chuyến đi gần nhất trong 3 phút cho một người thân nghe: có trình tự đầu – giữa – cuối, một chi tiết nổi bật và cảm xúc của con.",
+    "Tell a family member about your latest trip in 3 minutes: beginning, middle and end, one stand-out detail and how you felt."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn chi tiết nổi bật và tập kể trước.",
+     "Your parent helps you choose the best detail and rehearse."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể cho người thân nghe.",
+     "With one reminder, you tell the story yourself."
+    ],
+    [
+     "Con tự chuẩn bị, kể đúng 3 phút và trả lời câu hỏi của người nghe.",
+     "You prepare, tell it in 3 minutes and answer the listener’s questions."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một chuyến đi đáng nhớ hồi nhỏ",
+    "Your parent tells you about a memorable trip from their childhood"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Mệt và cáu khi đi xa",
+   "Tired and cranky on a trip"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Trên xe về quê đã ba tiếng, An đói, mỏi lưng. Em Bống hát mãi một bài, An gắt: “Im đi!” rồi thấy mình còn bực hơn.",
+   "Three hours into the drive to the countryside, An is hungry and stiff. Little Bống keeps singing the same song and An snaps, “Shut up!” then feels even crosser."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tiếp tục cằn nhằn cho em im",
+    "Keep grumbling until Bống stops",
+    0,
+    "Cằn nhằn làm cả xe căng thẳng hơn. Thử để ý xem có phải mình đang đói hay mệt không.",
+    "Grumbling makes the whole car tense. Notice whether you’re actually hungry or tired."
+   ],
+   [
+    "Nhận ra mình đang đói và mệt, nói “Con đói và mỏi nên dễ cáu”, xin ăn nhẹ, uống nước và nghỉ một lúc, rồi xin lỗi em",
+    "Notice you’re hungry and tired, say “I’m hungry and achy so I’m snappy,” have a snack, a drink and a rest, then say sorry to Bống",
+    1,
+    "Đói và mệt dễ làm mình cáu. Gọi tên cảm giác và chăm sóc cơ thể giúp cơn cáu dịu xuống.",
+    "Hunger and tiredness make us snappy. Naming it and looking after your body calms it down."
+   ],
+   [
+    "Im lặng giận dỗi đến hết đường",
+    "Sulk silently the rest of the way",
+    0,
+    "Dỗi im lặng thì cơn cáu vẫn còn. Nói ra để ba mẹ giúp con nhé.",
+    "Silent sulking keeps the crossness in. Say it so Mum and Dad can help."
+   ]
+  ],
+  "qq": [
+   "Vì sao đi xa dễ cáu?",
+   "Why do we get cranky on long trips?"
+  ],
+  "qo": [
+   [
+    "Vì mọi người cố tình làm mình bực",
+    "Because people annoy you on purpose"
+   ],
+   [
+    "Vì chuyến đi chán",
+    "Because trips are boring"
+   ],
+   [
+    "Vì mệt và đói làm mình dễ cáu hơn",
+    "Because tiredness and hunger make us snappier"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Đi chơi về đến nhà, mẹ nhờ An mang túi đồ vào. An mệt lả và gắt: “Sao lúc nào cũng là con?”",
+     "Home from a trip, Mum asks An to bring the bags in. Worn out, An snaps, “Why is it always me?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hít một hơi, nói “Con xin lỗi, con mệt quá. Con nghỉ năm phút rồi mang vào nhé?”",
+      "Take a breath and say, “Sorry, I’m shattered. Can I rest five minutes, then bring them in?”",
+      1,
+      "Nhận ra mình mệt và nói ra nhẹ nhàng giúp mẹ hiểu, và con vẫn giữ lời giúp đỡ.",
+      "Recognising tiredness and saying so gently helps Mum understand, and you still help."
+     ],
+     [
+      "Bỏ vào phòng đóng cửa",
+      "Stomp off and shut the door",
+      0,
+      "Đóng cửa làm mẹ buồn và việc vẫn còn đó. Nói ra mình mệt sẽ tốt hơn.",
+      "Shutting the door upsets Mum and the bags are still there. Saying you’re tired works better."
+     ],
+     [
+      "Mang vào nhưng ném túi xuống sàn",
+      "Bring them in but drop them with a thump",
+      0,
+      "Ném đồ cho thấy cơn cáu đang điều khiển mình. Nghỉ một chút rồi làm sẽ nhẹ nhàng hơn.",
+      "Throwing things shows the crossness is in charge. A short rest first helps."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Buổi dã ngoại cuối buổi, trời nắng, An chưa ăn gì. Huy vô tình va vào làm An đổ nước, An suýt quát bạn.",
+     "Late in a school trip, it’s hot and An hasn’t eaten. Huy bumps into An by accident and the water spills; An nearly shouts at him."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Quát Huy vì làm đổ nước",
+      "Shout at Huy for spilling it",
+      0,
+      "Huy không cố ý. Cơn cáu lớn có khi là do mình đang đói và nóng.",
+      "Huy didn’t mean it. Big crossness can come from being hungry and hot."
+     ],
+     [
+      "Dừng lại, nhận ra mình đang đói và nóng, ra bóng râm ăn bánh, uống nước rồi nói chuyện với Huy",
+      "Pause, realise you’re hungry and hot, go into the shade for a snack and a drink, then talk to Huy",
+      1,
+      "Chăm sóc cơ thể trước giúp con bình tĩnh nói chuyện với bạn.",
+      "Looking after your body first helps you talk to your friend calmly."
+     ],
+     [
+      "Không nói gì nhưng cả buổi không chơi với Huy",
+      "Say nothing but ignore Huy for the rest of the day",
+      0,
+      "Giận ngầm làm mất vui cả hai. Ăn uống, nghỉ một chút rồi nói thẳng nhẹ nhàng nhé.",
+      "Silent grudges spoil things for both. Eat, rest, then talk kindly."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chuẩn bị “túi chống cáu”",
+    "Pack an “anti-grump bag”"
+   ],
+   "s": [
+    "Trước chuyến đi xa sắp tới, con cùng ba mẹ chuẩn bị “túi chống cáu”: nước, đồ ăn nhẹ lành mạnh và một việc để làm (sách, giấy vẽ). Con cũng nói một câu sẽ dùng khi thấy mình bắt đầu cáu.",
+    "Before your next long journey, pack an “anti-grump bag” with your parents: water, a healthy snack and something to do (a book, drawing paper). Also choose one sentence to use when you feel grumpy coming on."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ cho túi và nghĩ câu nói.",
+     "Your parent helps you pick what goes in and think of the sentence."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị túi.",
+     "With one reminder, you pack the bag yourself."
+    ],
+    [
+     "Con tự chuẩn bị, trên đường tự dùng túi khi thấy mệt và kể lại cho ba mẹ.",
+     "You pack it, use it on the way when you feel tired, and tell your parents."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi đố vui cả nhà chơi trên đường",
+    "You choose the quiz game the family plays on the journey"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Đi theo nhóm, chờ nhau",
+   "Sticking together as a group"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp tham quan bảo tàng, cô cho An làm nhóm trưởng nhóm 5 bạn. Bảo đi chậm vì đọc kỹ từng bảng, còn Nam cứ muốn đi nhanh sang phòng khủng long.",
+   "On a class museum visit, An leads a group of five. Bảo is slow because he reads every sign, while Nam keeps wanting to dash to the dinosaur room."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đi theo Nam, Bảo sẽ tự đuổi kịp",
+    "Follow Nam; Bảo will catch up",
+    0,
+    "Để bạn lại phía sau dễ làm bạn bị lạc. Nhóm đi cùng tốc độ của người chậm nhất.",
+    "Leaving someone behind means they could get lost. A group moves at its slowest member’s pace."
+   ],
+   [
+    "Ở lại với Bảo, để Nam tự đi trước",
+    "Stay with Bảo and let Nam go ahead alone",
+    0,
+    "Chờ Bảo là đúng, nhưng Nam đi một mình cũng dễ lạc. Giữ cả nhóm đi cùng nhau nhé.",
+    "Waiting for Bảo is kind, but Nam alone could get lost too. Keep everyone together."
+   ],
+   [
+    "Đề nghị cả nhóm đi cùng nhau, đếm đủ 5 người ở mỗi phòng, hẹn Nam “xem xong phòng này mình sang khủng long”",
+    "Suggest staying together, count all five in each room, and tell Nam, “After this room we’ll do dinosaurs”",
+    1,
+    "Đếm người ở mỗi điểm dừng và thống nhất điểm đến tiếp theo giúp không ai bị bỏ lại.",
+    "Counting heads at every stop and agreeing the next stop means nobody gets left behind."
+   ]
+  ],
+  "qq": [
+   "Khi đi theo nhóm, việc nào giúp không ai bị bỏ lại?",
+   "When moving as a group, what stops anyone being left behind?"
+  ],
+  "qo": [
+   [
+    "Đếm người ở mỗi điểm dừng",
+    "Counting heads at every stop"
+   ],
+   [
+    "Ai đi nhanh dẫn trước",
+    "Letting the fastest lead off"
+   ],
+   [
+    "Mỗi người tự đi rồi gặp ở cổng",
+    "Splitting up and meeting at the gate"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay cả nhà bàn chuyện mai đi hội chợ. Em Bống hay chạy lung tung, lần trước suýt lạc.",
+     "Tonight the family is planning tomorrow’s fair. Little Bống tends to run off and nearly got lost last time."
+    ],
+    "q": [
+     "An nên góp ý gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "“Để em ở nhà cho đỡ lo”",
+      "“Let’s leave Bống at home so we don’t worry”",
+      0,
+      "Em cũng muốn đi chơi. Có cách để cả nhà đi cùng nhau an toàn mà.",
+      "Bống wants to come too. There are ways for everyone to stay safe together."
+     ],
+     [
+      "“Mình đi theo cặp, con nắm tay em, mỗi chỗ dừng con đếm đủ người”",
+      "“Let’s go in pairs; I’ll hold Bống’s hand and count everyone at each stop”",
+      1,
+      "Chia cặp và đếm người là cách đơn giản để cả nhà luôn ở cùng nhau.",
+      "Pairing up and counting heads is a simple way to keep the family together."
+     ],
+     [
+      "“Cứ đi thôi, chắc không sao đâu”",
+      "“Let’s just go, it’ll be fine”",
+      0,
+      "Chuẩn bị trước giúp mọi người yên tâm hơn. Thử nghĩ một quy tắc đơn giản nhé.",
+      "Planning ahead helps everyone relax. Think of one simple rule."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhà An và nhà bác Linh đi vườn trái cây. Mấy anh chị em muốn chạy trước vào vườn, người lớn còn đang gửi xe.",
+     "An’s family and Aunt Linh’s family visit a fruit farm. The cousins want to run ahead into the orchard while the grown-ups are still parking."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chạy theo các anh chị cho kịp",
+      "Run after the older cousins",
+      0,
+      "Chạy trước khi người lớn chưa đến dễ bị lạc trong vườn rộng. Chờ nhau một chút nhé.",
+      "Running ahead before the grown-ups arrive could get you lost in a big orchard. Wait a bit."
+     ],
+     [
+      "Đứng một mình ở cổng chờ",
+      "Stand alone at the gate",
+      0,
+      "Chờ là đúng, nhưng chờ cùng mọi người sẽ an toàn hơn. Rủ các bạn cùng chờ nhé.",
+      "Waiting is right, but waiting together is safer. Ask the others to wait too."
+     ],
+     [
+      "Rủ các anh chị đứng chờ người lớn, cả nhóm đếm đủ người rồi mới cùng vào",
+      "Ask everyone to wait for the grown-ups, count heads, then all go in together",
+      1,
+      "Đi cùng nhau từ đầu và đếm đủ người giúp cả nhóm vui chơi yên tâm.",
+      "Starting together and counting everyone lets the whole group enjoy it safely."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Làm “người đếm người”",
+    "Be the head-counter"
+   ],
+   "s": [
+    "Lần tới ra ngoài cùng gia đình, con làm “người đếm người”: ở mỗi điểm dừng, con đếm đủ mọi người và báo “Đủ rồi!” trước khi đi tiếp.",
+    "Next time you’re out with the family, be the head-counter: at every stop, count everyone and say “All here!” before moving on."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nhắc ở mỗi điểm dừng, con đếm cùng ba mẹ.",
+     "Your parent reminds you at each stop and counts with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần lúc đầu, con tự đếm ở mỗi điểm.",
+     "With one reminder at the start, you count at every stop."
+    ],
+    [
+     "Con tự nhớ đếm ở mọi điểm dừng, chờ người đi chậm và kể lại cho ba mẹ.",
+     "You remember to count at every stop, wait for slower people, and report back."
+    ]
+   ],
+   "rw": [
+    "Được làm “trưởng đoàn” chọn hướng đi trong buổi dạo sau",
+    "You’re “team leader” choosing the route on the next walk"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chăm sóc mình dưới trời nắng",
+   "Looking after myself in the sun"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng mai lớp An có buổi trồng cây ngoài trời cả buổi. Tối nay mẹ hỏi: “Con đã chuẩn bị gì cho ngày mai chưa?”",
+   "Tomorrow An’s class is planting trees outside all morning. Tonight Mum asks, “Have you got your things ready for tomorrow?”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chỉ cho đồ ăn vặt vào cặp",
+    "Just pack some snacks",
+    0,
+    "Đồ ăn chưa đủ đâu. Dưới nắng, nước và mũ mới là thứ quan trọng nhất.",
+    "Snacks aren’t enough. In the sun, water and a hat matter most."
+   ],
+   [
+    "Tự soạn bình nước đầy, mũ rộng vành, áo chống nắng, và nhớ sẽ nghỉ trong bóng râm khi mệt",
+    "Pack a full water bottle, a wide-brimmed hat and a sun top yourself, and plan to rest in the shade when tired",
+    1,
+    "Tự chuẩn bị đồ chống nắng là cách con chăm sóc chính mình, không cần chờ ai nhắc.",
+    "Packing your own sun kit is how you look after yourself without waiting to be told."
+   ],
+   [
+    "Nói “Mẹ soạn giúp con nhé” rồi đi ngủ",
+    "Say “Can you pack it, Mum?” and go to bed",
+    0,
+    "Mẹ có thể giúp, nhưng con đã đủ lớn để tự soạn. Thử làm rồi nhờ mẹ kiểm tra nhé.",
+    "Mum could help, but you’re old enough to pack. Do it, then ask her to check."
+   ]
+  ],
+  "qq": [
+   "Trời nắng, ba thứ nên tự mang là gì?",
+   "On a sunny day, which three things should you bring?"
+  ],
+  "qo": [
+   [
+    "Đồ chơi, bánh kẹo, tiền",
+    "Toys, sweets, money"
+   ],
+   [
+    "Nước, mũ, áo chống nắng",
+    "Water, a hat, a sun top"
+   ],
+   [
+    "Ô, áo mưa, ủng",
+    "An umbrella, raincoat, wellies"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thể dục buổi trưa, nắng gắt. An khát khô cổ và đầu hơi choáng, nhưng sợ xin nghỉ sẽ bị chê.",
+     "PE at midday, in fierce sun. An is parched and a bit dizzy but worries asking to rest will look bad."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cố chạy tiếp cho xong",
+      "Push on to finish",
+      0,
+      "Cơ thể đang báo hiệu cần nghỉ. Lắng nghe cơ thể quan trọng hơn chạy cho xong.",
+      "Your body is asking for a break. Listening to it matters more than finishing."
+     ],
+     [
+      "Ngồi phịch xuống giữa sân",
+      "Plonk down in the middle of the field",
+      0,
+      "Ngồi giữa nắng vẫn nóng và thầy có thể không thấy. Vào bóng râm và báo thầy nhé.",
+      "Sitting in the sun is still hot and the teacher might not notice. Get into the shade and tell him."
+     ],
+     [
+      "Báo thầy “Em thấy choáng”, vào bóng râm ngồi và uống nước",
+      "Tell the teacher “I feel dizzy,” sit in the shade and drink water",
+      1,
+      "Biết khi nào cần nghỉ và nói ra là tự chăm sóc mình. Thầy sẽ hiểu.",
+      "Knowing when to rest and saying so is self-care. The teacher will understand."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi biển cùng ba mẹ, An xây lâu đài cát đã lâu. Vai bắt đầu rát, chai nước để xa trên chiếu.",
+     "At the beach with Mum and Dad, An has been building sandcastles for ages. Their shoulders are starting to sting and the water bottle is back on the mat."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tự đi lấy nước uống, mặc áo chống nắng, ngồi nghỉ dưới ô và nói với ba mẹ vai đang rát",
+      "Go and get a drink, put on a sun top, rest under the umbrella and tell Mum and Dad your shoulders sting",
+      1,
+      "Để ý dấu hiệu cơ thể và tự xử lý sớm là cách lớn lên rất tự lập.",
+      "Noticing your body’s signals and acting early is a very grown-up habit."
+     ],
+     [
+      "Chơi tiếp, lát nữa tính",
+      "Keep playing, sort it later",
+      0,
+      "Da rát là dấu hiệu nắng đã quá nhiều. Nghỉ ngay sẽ đỡ hơn để lâu.",
+      "Stinging skin means too much sun. Resting now is better than later."
+     ],
+     [
+      "Gọi to nhờ mẹ mang nước ra",
+      "Shout for Mum to bring water over",
+      0,
+      "Mẹ có thể giúp, nhưng con tự đi lấy được mà. Tiện thể vào bóng râm luôn nhé.",
+      "Mum could, but you can get it yourself, and get into the shade while you’re at it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bộ đồ ra nắng của con",
+    "My sun kit"
+   ],
+   "s": [
+    "Trước lần ra ngoài trời nắng sắp tới, con tự chuẩn bị bộ đồ ra nắng (nước, mũ, áo chống nắng) và nhắc cả nhà mang theo. Ba mẹ kiểm tra và xác nhận.",
+    "Before your next sunny outing, pack your own sun kit (water, hat, sun top) and remind the family to bring theirs. Your parent checks and confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con soạn từng món.",
+     "Your parent packs each item with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự soạn đủ ba món.",
+     "With one reminder, you pack all three yourself."
+    ],
+    [
+     "Con tự nhớ, tự soạn, nhắc cả nhà và kể lại lúc ngoài trời con đã nghỉ trong bóng râm khi nào.",
+     "You remember, pack, remind everyone, and tell when you rested in the shade."
+    ]
+   ],
+   "rw": [
+    "Cả nhà đi dạo buổi chiều mát do con chọn đường",
+    "An evening family walk on a route you choose"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Xe gặp sự cố giữa đường",
+   "When the car breaks down"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đang về quê, xe nhà An bị xịt lốp. Ba cho xe vào sát lề, bật đèn cảnh báo và bảo mọi người chờ ba hướng dẫn. Em Bống bắt đầu mếu.",
+   "On the way to the countryside, the car gets a flat tyre. Dad pulls right over, puts the hazard lights on and asks everyone to wait for instructions. Little Bống starts to whimper."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mở cửa chạy ra xem lốp",
+    "Open the door and run out to look at the tyre",
+    0,
+    "Lề đường có xe qua lại, tự ra ngoài rất nguy hiểm. Chờ ba bảo khi nào và ra bên nào nhé.",
+    "Cars pass close by, so getting out alone is dangerous. Wait for Dad to say when and which side."
+   ],
+   [
+    "Làm theo ba: khi ba bảo thì ra phía an toàn, đứng xa đường cùng mẹ, nắm tay dỗ em và đưa ba đồ khi được nhờ",
+    "Follow Dad: when told, get out on the safe side, stand well back with Mum, hold Bống’s hand and pass Dad things if asked",
+    1,
+    "Bình tĩnh, đứng ở chỗ an toàn và giúp đúng việc vừa sức là cách con hỗ trợ người lớn tốt nhất.",
+    "Staying calm, keeping to a safe spot and helping with the right job is the best way to support the grown-ups."
+   ],
+   [
+    "Than “Chán quá, bao giờ mới về?” liên tục",
+    "Keep moaning, “This is so boring, when will we get there?”",
+    0,
+    "Chờ đợi khó chịu thật. Thử giúp em vui lên, thời gian sẽ trôi nhanh hơn.",
+    "Waiting is annoying. Try cheering Bống up; time will go faster."
+   ]
+  ],
+  "qq": [
+   "Khi có sự cố, trẻ em nên làm gì?",
+   "When something goes wrong, children should…"
+  ],
+  "qo": [
+   [
+    "Tự sửa thật nhanh",
+    "Fix it themselves quickly"
+   ],
+   [
+    "Đi tìm người giúp một mình",
+    "Go off alone to find help"
+   ],
+   [
+    "Bình tĩnh, ở chỗ an toàn và giúp người lớn việc phù hợp",
+    "Stay calm, keep safe and help the grown-ups with suitable jobs"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Máy giặt đang chạy thì báo lỗi và kêu tít tít. Ba đang xem sách hướng dẫn, ổ điện ở ngay cạnh.",
+     "The washing machine beeps an error mid-wash. Dad is reading the manual, and the socket is right beside it."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi ba “Con giúp được gì ạ?”, cầm đèn pin soi hoặc đọc to hướng dẫn, đứng xa ổ điện",
+      "Ask Dad, “How can I help?”, hold the torch or read the manual aloud, and keep away from the socket",
+      1,
+      "Giúp bằng việc an toàn, vừa sức như cầm đèn, đọc hướng dẫn là đúng nhất.",
+      "Helping with safe jobs like holding the torch or reading aloud is just right."
+     ],
+     [
+      "Tự bấm thử các nút xem có hết lỗi không",
+      "Press buttons to see if the error goes away",
+      0,
+      "Bấm lung tung có thể làm máy hỏng thêm. Để ba xử lý và giúp việc ba nhờ nhé.",
+      "Random buttons might make it worse. Let Dad handle it and help how he asks."
+     ],
+     [
+      "Đi chỗ khác vì không phải việc của mình",
+      "Wander off because it’s not your problem",
+      0,
+      "Trong nhà, sự cố là việc của cả nhà. Hỏi ba cần giúp gì sẽ rất ý nghĩa.",
+      "At home, problems belong to the whole family. Asking how to help means a lot."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Xe buýt chở lớp đi dã ngoại dừng giữa đường vì trục trặc. Cô dặn cả lớp ngồi yên chờ. Linh ngồi cạnh An lo lắng sắp khóc.",
+     "The coach taking the class on a trip stops because of a fault. The teacher asks everyone to stay seated. Linh, next to An, is close to tears."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đứng lên đi lại xem chuyện gì",
+      "Stand up and walk around to see what’s happening",
+      0,
+      "Đi lại khi cô dặn ngồi yên làm cô khó quản lý cả lớp. Ngồi yên là đang giúp cô rồi.",
+      "Moving about when told to sit makes the teacher’s job harder. Staying put is helping."
+     ],
+     [
+      "Nói to “Chắc xe hỏng nặng lắm!”",
+      "Say loudly, “The coach must be really broken!”",
+      0,
+      "Đoán điều xấu làm các bạn sợ hơn. Lời nói bình tĩnh giúp mọi người yên tâm.",
+      "Guessing the worst scares others. Calm words help everyone feel safe."
+     ],
+     [
+      "Ngồi yên, nghe cô và nói với Linh: “Cô đang lo rồi, mình chơi đố chữ chờ nhé”",
+      "Stay seated, listen to the teacher and say to Linh, “The teacher’s sorting it, let’s play a word game while we wait”",
+      1,
+      "Bình tĩnh làm theo người lớn và động viên bạn là cách giúp rất phù hợp.",
+      "Calmly following the adult and comforting a friend is a great way to help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nên và không nên khi xe gặp sự cố",
+    "Dos and don’ts when the car breaks down"
+   ],
+   "s": [
+    "Con cùng ba mẹ trao đổi: nếu xe gặp sự cố giữa đường, con nên làm 3 việc gì và không nên làm 3 việc gì. Viết thành hai cột và đọc lại cho ba mẹ nghe.",
+    "Talk with your parents: if the car breaks down on the road, what are three things you should do and three you shouldn’t? Write two columns and read them back."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con viết vào hai cột.",
+     "Your parent suggests ideas and you write the columns."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ và viết rồi đưa ba mẹ xem.",
+     "With one reminder, you think of them, write them and show your parent."
+    ],
+    [
+     "Con tự viết đủ hai cột, giải thích lý do từng việc và hỏi ba mẹ còn gì cần thêm.",
+     "You write both columns, explain each reason and ask if anything is missing."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con chơi một ván cờ cá ngựa",
+    "Your parent plays a board game with you"
+   ]
+  }
+ }
+]

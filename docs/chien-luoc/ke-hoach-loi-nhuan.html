@@ -1,0 +1,266 @@
+<title>Kế hoạch lợi nhuận Senapp</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap">
+<style>
+/* Bố cục: bản kế hoạch kinh doanh một cột, đầu trang là kết luận, giữa là máy tính lợi nhuận, sau là lộ trình 12 tháng */
+:root {
+  --bg: #FBF6EE; --card: #FFFFFF; --ink: #2A1F18; --mut: #76634F; --line: #EADCC8;
+  --lotus: #C8102E; --lotus-soft: #FBE3E7; --jade: #2E8F72; --jade-soft: #DDF0E6; --gold: #E3A13A; --gold-soft: #FFF1D6; --warn: #B4531F;
+  --display: 'Baloo 2', 'Be Vietnam Pro', system-ui, sans-serif; --body: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #17110D; --card: #221A15; --ink: #F3E8DC; --mut: #B9A592; --line: #3A2E26;
+  --lotus: #FF6B81; --lotus-soft: #3D1E25; --jade: #5CC9A4; --jade-soft: #163128; --gold: #F2B65A; --gold-soft: #382A16; --warn: #F08A55; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #17110D; --card: #221A15; --ink: #F3E8DC; --mut: #B9A592; --line: #3A2E26;
+  --lotus: #FF6B81; --lotus-soft: #3D1E25; --jade: #5CC9A4; --jade-soft: #163128; --gold: #F2B65A; --gold-soft: #382A16; --warn: #F08A55; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15.5px/1.65 var(--body); }
+.wrap { max-width: 920px; margin: 0 auto; padding-block: 28px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: flex; flex-direction: column; gap: 34px; }
+h1, h2, h3 { font-family: var(--display); line-height: 1.15; margin: 0; text-wrap: balance; }
+h1 { font-size: clamp(30px, 5.4vw, 44px); }
+h2 { font-size: clamp(22px, 3.6vw, 28px); }
+h3 { font-size: 18px; }
+p { margin: 0; max-width: 68ch; }
+.eyebrow { font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--lotus); }
+.muted { color: var(--mut); }
+.num { font-variant-numeric: tabular-nums; }
+section { display: flex; flex-direction: column; gap: 14px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 18px; }
+
+.verdict { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 190px), 1fr)); gap: 10px; }
+.kpi { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; min-width: 0; }
+.kpi b { display: block; font: 800 26px/1.1 var(--display); font-variant-numeric: tabular-nums; }
+.kpi span { font-size: 13px; color: var(--mut); }
+.kpi.hl { background: var(--lotus); border-color: var(--lotus); color: #FFF; }
+.kpi.hl span { color: rgba(255,255,255,.85); }
+
+.plans { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); gap: 10px; }
+.plan { background: var(--card); border: 1.5px solid var(--line); border-radius: 18px; padding: 16px; display: flex; flex-direction: column; gap: 6px; }
+.plan.main { border-color: var(--lotus); box-shadow: 0 0 0 3px var(--lotus-soft); }
+.plan .p { font: 800 26px/1 var(--display); font-variant-numeric: tabular-nums; }
+.tag { align-self: flex-start; font-size: 11.5px; font-weight: 700; padding: 3px 9px; border-radius: 99px; background: var(--lotus-soft); color: var(--lotus); }
+.tag.j { background: var(--jade-soft); color: var(--jade); }
+
+.calc { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; }
+@media (max-width: 720px) { .calc { grid-template-columns: 1fr; } }
+.field { display: flex; flex-direction: column; gap: 4px; }
+.field label { font-size: 13.5px; font-weight: 600; display: flex; justify-content: space-between; gap: 8px; }
+.field output { font-variant-numeric: tabular-nums; color: var(--lotus); font-weight: 700; white-space: nowrap; }
+.field input[type=range] { width: 100%; accent-color: var(--lotus); }
+.field small { color: var(--mut); font-size: 12px; }
+.inputs { display: flex; flex-direction: column; gap: 12px; }
+.out { display: flex; flex-direction: column; gap: 8px; }
+.row { display: flex; justify-content: space-between; gap: 10px; padding: 7px 0; border-bottom: 1px dashed var(--line); font-variant-numeric: tabular-nums; }
+.row b { text-align: right; }
+.row.big { border-bottom: 0; font-size: 18px; }
+.row.big b { font-family: var(--display); font-size: 24px; color: var(--lotus); }
+.state { border-radius: 12px; padding: 10px 12px; font-size: 13.5px; font-weight: 600; }
+.state.ok { background: var(--jade-soft); color: var(--jade); }
+.state.bad { background: var(--gold-soft); color: var(--warn); }
+
+.tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; background: var(--card); }
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+th, td { padding: 8px 10px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+th { font-size: 12px; color: var(--mut); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+tr:last-child td { border-bottom: 0; }
+td.good { color: var(--jade); font-weight: 700; } td.bad { color: var(--warn); font-weight: 700; }
+.bars { display: flex; align-items: flex-end; gap: 6px; height: 150px; padding: 8px 4px 0; }
+.bars div { flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; height: 100%; justify-content: flex-end; font-size: 11px; color: var(--mut); }
+.bars i { display: block; width: 100%; background: var(--lotus); border-radius: 6px 6px 2px 2px; }
+.bars i.peak { background: var(--gold); }
+
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+ul.clean { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 6px; }
+.phase { border-left: 4px solid var(--jade); padding-left: 12px; display: flex; flex-direction: column; gap: 4px; }
+.phase.b { border-color: var(--gold); } .phase.c { border-color: var(--lotus); }
+.note { font-size: 12.5px; color: var(--mut); }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:10px">
+    <div class="eyebrow">Senapp · Kế hoạch năm đầu · bản 01/11/2026</div>
+    <h1>Lãi ròng 300 triệu: cần khoảng 3.000 gia đình trả tiền và giữ chi phí mỗi khách dưới 200.000đ</h1>
+    <p class="muted">Kế hoạch tính ngược từ mục tiêu lợi nhuận, kênh chính là quảng cáo TikTok và Facebook nhắm tới ba mẹ có con tiểu học. Mọi con số dưới đây là giả định để lập kế hoạch, cần thay bằng số thật sau 4–6 tuần chạy thử.</p>
+  </header>
+
+  <section>
+    <div class="verdict" id="verdict"></div>
+    <p class="note">Các ô trên cập nhật theo máy tính ở mục 2.</p>
+  </section>
+
+  <section>
+    <div class="eyebrow">1 · Bảng giá mới</div>
+    <h2>Bỏ gói Classic, bán theo năm, cho dùng thử miễn phí</h2>
+    <div class="plans">
+      <div class="plan"><span class="tag j">Mở cửa</span><h3>Dùng thử 7 ngày</h3><div class="p">0đ</div><p class="muted">Trọn tuần 1: 5 bài, 5 nhiệm vụ. Ba mẹ thấy con làm việc thật rồi mới trả tiền.</p></div>
+      <div class="plan"><span class="tag">Linh hoạt</span><h3>Gói 6 tháng</h3><div class="p">299.000đ</div><p class="muted">24 tuần học, 120 bài. Khoảng 1.650đ mỗi ngày.</p></div>
+      <div class="plan main"><span class="tag">Bán chính</span><h3>Gói 12 tháng</h3><div class="p">499.000đ</div><p class="muted">Trọn hành trình 48 tuần, 240 bài và 240 nhiệm vụ. Khoảng 1.370đ mỗi ngày, rẻ hơn gói 6 tháng 17%.</p></div>
+      <div class="plan"><span class="tag j">Gia đình</span><h3>Thêm con</h3><div class="p">−50%</div><p class="muted">Con thứ hai trở đi: 149.000đ/6 tháng hoặc 249.000đ/năm, lộ trình riêng theo tuổi.</p></div>
+    </div>
+    <div class="card grid2">
+      <div><h3>Vì sao 499.000đ</h3><ul class="clean">
+        <li>Ở 89.000đ, mỗi khách mang về ít hơn số tiền quảng cáo phải bỏ ra để có khách đó. Bán càng nhiều càng lỗ.</li>
+        <li>499.000đ vẫn thấp hơn phần lớn khoá kỹ năng sống ngoài trung tâm (thường vài triệu một khoá) và app học tiếng Anh cho trẻ.</li>
+        <li>Khi đã có đủ 12 tháng nội dung, giá năm là lời hứa giữ được.</li></ul></div>
+      <div><h3>Bỏ và đổi</h3><ul class="clean">
+        <li>Bỏ gói Classic chọn 6/9 kỹ năng: làm lộ trình tuần bị gãy và khó giải thích.</li>
+        <li>Bỏ "mua 6 tặng 1, mua 12 tặng 2" và hoa hồng giới thiệu 65%.</li>
+        <li>Giới thiệu bạn: cả hai gia đình được tặng thêm 1 tháng, không trả tiền mặt.</li>
+        <li>Giữ: không tự động gia hạn, thanh toán VietQR.</li></ul></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">2 · Máy tính lợi nhuận</div>
+    <h2>Kéo thử các giả định</h2>
+    <div class="card calc">
+      <div class="inputs" id="inputs"></div>
+      <div class="out" id="out"></div>
+    </div>
+    <p class="note">Doanh thu sau thuế và phí = giá bình quân × (1 − thuế, phí thanh toán, hoàn tiền). Lãi trên mỗi khách = doanh thu ròng − chi phí quảng cáo cho một khách (CAC) − chi phí phục vụ. Số khách cần = (lãi mục tiêu + chi phí cố định) ÷ lãi trên mỗi khách. Chưa tính tiền gia hạn năm thứ hai.</p>
+  </section>
+
+  <section>
+    <div class="eyebrow">3 · Điểm hoà vốn theo chi phí quảng cáo</div>
+    <h2>Chi phí cho mỗi khách quyết định tất cả</h2>
+    <div class="tbl"><table id="sens"></table></div>
+    <p class="note">Số gia đình cần bán trong năm để đạt mục tiêu, theo mức giá bình quân và chi phí quảng cáo cho một khách trả tiền. Ô màu cam là quá khó với một đội nhỏ (trên 6.000 khách hoặc lỗ).</p>
+  </section>
+
+  <section>
+    <div class="eyebrow">4 · Phễu quảng cáo</div>
+    <h2>Quảng cáo đưa ba mẹ vào tuần dùng thử, sản phẩm bán phần còn lại</h2>
+    <div class="grid2">
+      <div class="card"><h3>Phễu và chỉ số cần đạt</h3><ul class="clean">
+        <li><b>Video TikTok/Facebook</b> → bấm vào trang chủ: CTR từ 1,2%.</li>
+        <li><b>Trang chủ → đăng ký dùng thử</b>: từ 12%. Chi phí một lượt dùng thử dưới 35.000đ.</li>
+        <li><b>Dùng thử → con xong ít nhất 3 bài trong 7 ngày</b>: từ 50%. Đây là chỉ số sản phẩm quan trọng nhất.</li>
+        <li><b>Dùng thử → trả tiền</b>: từ 15%. Chi phí cho một khách (CAC) dưới 200.000đ.</li>
+        <li><b>Giới thiệu</b>: từ 0,2 gia đình mới trên mỗi khách, kéo CAC trung bình xuống.</li></ul></div>
+      <div class="card"><h3>Nội dung quảng cáo nên chạy</h3><ul class="clean">
+        <li><b>Khoảnh khắc thật:</b> mẹ quay con tự soạn cặp, tự xin lỗi em, đọc to nhiệm vụ. Câu mở đầu: "Mẹ nhắc 100 lần không bằng 1 nhiệm vụ của Sen".</li>
+        <li><b>Trước – sau 7 ngày:</b> cùng một việc nhà, ngày 1 phải nhắc, ngày 7 con tự làm.</li>
+        <li><b>Câu hỏi tình huống:</b> "Bạn trêu con, con nên làm gì?" Ba mẹ bình luận đáp án, kéo tương tác miễn phí.</li>
+        <li><b>Mẹ có ảnh hưởng nhỏ</b> (5–50 nghìn người theo dõi): gửi tài khoản dùng thử, trả theo lượt đăng ký.</li>
+        <li><b>Nhắm đối tượng:</b> ba mẹ 28–42 tuổi, quan tâm nuôi dạy con, giáo dục tiểu học. Không nhắm trẻ em.</li></ul></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">5 · Lộ trình 12 tháng</div>
+    <h2>Chạy thử nhỏ, chỉ tăng ngân sách khi chỉ số đạt</h2>
+    <div class="grid2">
+      <div class="phase"><h3>Giai đoạn 1 · T12/2026 – T1/2027</h3><p>Chạy thử 15–20 triệu. Thử 10–15 video, 2 mức giá. Hoàn tất máy chủ tài khoản và kích hoạt gói tự động. <b>Đi tiếp khi</b> CAC dưới 250.000đ và hơn 40% gia đình còn học ở tuần 3.</p></div>
+      <div class="phase b"><h3>Giai đoạn 2 · T2 – T6/2027</h3><p>Nhân ngân sách các video thắng, 30–50 triệu mỗi tháng. Mở chương trình giới thiệu, 10–20 mẹ có ảnh hưởng nhỏ. Thuê một người chăm sóc khách bán thời gian.</p></div>
+      <div class="phase c"><h3>Giai đoạn 3 · T7 – T11/2027</h3><p>Dồn ngân sách cho mùa hè và tựu trường (tháng 8–9), lúc ba mẹ tìm kỹ năng cho con nhiều nhất. Chuẩn bị gói gia hạn năm hai.</p></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-bottom:6px">Mục tiêu số gia đình trả tiền theo tháng</h3>
+      <div class="bars" id="bars" role="img" aria-label="Biểu đồ mục tiêu số gia đình trả tiền mỗi tháng"></div>
+      <div class="tbl" style="margin-top:12px"><table id="months"></table></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow">6 · Chi phí cố định năm đầu</div>
+    <h2>Khoảng 250 triệu ngoài quảng cáo</h2>
+    <div class="tbl"><table>
+      <tr><th>Hạng mục</th><th>Ước tính / năm</th><th>Ghi chú</th></tr>
+      <tr><td>Máy chủ tài khoản, đồng bộ, thanh toán tự động</td><td>60.000.000đ</td><td style="text-align:left">Làm một lần, bắt buộc trước khi chạy lớn</td></tr>
+      <tr><td>Quay dựng video quảng cáo, mẹ có ảnh hưởng nhỏ</td><td>60.000.000đ</td><td style="text-align:left">4–6 video mới mỗi tháng</td></tr>
+      <tr><td>Chăm sóc khách hàng bán thời gian</td><td>72.000.000đ</td><td style="text-align:left">Từ tháng 3, khi trên 500 khách</td></tr>
+      <tr><td>Chuyên gia giáo dục duyệt nội dung</td><td>24.000.000đ</td><td style="text-align:left">Tăng uy tín, dùng được trong quảng cáo</td></tr>
+      <tr><td>Hosting, tên miền, công cụ</td><td>12.000.000đ</td><td></td></tr>
+      <tr><td>Kế toán, thuế, đăng ký nhãn hiệu</td><td>22.000.000đ</td><td style="text-align:left">Nên lập công ty hoặc hộ kinh doanh</td></tr>
+      <tr><td><b>Tổng</b></td><td><b>250.000.000đ</b></td><td></td></tr>
+    </table></div>
+  </section>
+
+  <section>
+    <div class="eyebrow">7 · Rủi ro phải xử lý</div>
+    <div class="grid2">
+      <div class="card"><h3>Trước khi chi tiền quảng cáo lớn</h3><ul class="clean">
+        <li><b>Kích hoạt gói đang theo kiểu tự khai:</b> ai bấm "đã chuyển khoản" cũng dùng được. Cần mã kích hoạt hoặc máy chủ tự đối soát VietQR.</li>
+        <li><b>Dữ liệu chỉ nằm trên một máy:</b> đổi điện thoại là mất tiến độ. Cần tài khoản và đồng bộ.</li>
+        <li><b>Quảng cáo về trẻ em</b> bị Meta và TikTok xét kỹ: chỉ nhắm ba mẹ, không hứa kết quả, không dùng ảnh trẻ khi chưa có đồng ý bằng văn bản.</li></ul></div>
+      <div class="card"><h3>Chỉ số báo động</h3><ul class="clean">
+        <li>CAC trên 300.000đ trong 3 tuần liên tiếp: dừng tăng ngân sách, đổi video và trang chủ.</li>
+        <li>Dưới 30% gia đình còn học ở tuần 3: sửa sản phẩm trước khi mua thêm khách.</li>
+        <li>Hoàn tiền trên 5%: xem lại lời hứa trong quảng cáo.</li></ul></div>
+    </div>
+  </section>
+
+  <p class="note">© 2026 Senapp. Tài liệu nội bộ. Các con số là giả định lập kế hoạch, không phải cam kết kết quả.</p>
+</div>
+
+<script>
+(() => {
+  const F = [
+    ['p12', 'Giá gói 12 tháng', 199000, 799000, 10000, 499000, v => fm(v)],
+    ['p6', 'Giá gói 6 tháng', 99000, 499000, 10000, 299000, v => fm(v)],
+    ['s12', 'Tỉ lệ chọn gói 12 tháng', 0, 100, 5, 60, v => v + '%'],
+    ['kid', 'Tỉ lệ mua thêm con (−50%)', 0, 50, 5, 15, v => v + '%'],
+    ['cpl', 'Chi phí quảng cáo cho 1 lượt dùng thử', 10000, 80000, 1000, 30000, v => fm(v)],
+    ['cv', 'Tỉ lệ dùng thử → trả tiền', 5, 40, 1, 15, v => v + '%'],
+    ['fee', 'Thuế, phí thanh toán, hoàn tiền', 3, 20, 1, 11, v => v + '%'],
+    ['vc', 'Chi phí phục vụ mỗi khách', 0, 60000, 5000, 15000, v => fm(v)],
+    ['fx', 'Chi phí cố định / năm', 100, 600, 10, 250, v => v + ' triệu'],
+    ['tg', 'Lãi ròng mục tiêu / năm', 100, 1000, 50, 300, v => v + ' triệu'],
+  ];
+  const S = {};
+  function fm(n) { return Math.round(n).toLocaleString('vi-VN') + 'đ'; }
+  function tr(n) { return (n / 1e6).toLocaleString('vi-VN', { maximumFractionDigits: 0 }) + ' triệu'; }
+  const box = document.getElementById('inputs');
+  box.innerHTML = F.map(([id, lb, mn, mx, st, v]) => `<div class="field"><label for="${id}">${lb}<output id="o-${id}"></output></label><input type="range" id="${id}" min="${mn}" max="${mx}" step="${st}" value="${v}"></div>`).join('');
+  F.forEach(([id, , , , , v]) => { S[id] = v; document.getElementById(id).addEventListener('input', e => { S[id] = +e.target.value; calc(); }); });
+
+  function model(s) {
+    const arpu = (s.s12 / 100 * s.p12 + (1 - s.s12 / 100) * s.p6) * (1 + s.kid / 100 * 0.5);
+    const net = arpu * (1 - s.fee / 100), cac = s.cpl / (s.cv / 100), unit = net - cac - s.vc;
+    const need = unit > 0 ? (s.tg + s.fx) * 1e6 / unit : Infinity;
+    return { arpu, net, cac, unit, need, ads: need * cac, rev: need * arpu, trials: need / (s.cv / 100) };
+  }
+  function calc() {
+    F.forEach(([id, , , , , , f]) => document.getElementById('o-' + id).textContent = f(S[id]));
+    const m = model(S), ok = isFinite(m.need) && m.need <= 6000;
+    document.getElementById('out').innerHTML = `
+      <div class="row"><span>Giá bình quân mỗi khách</span><b>${fm(m.arpu)}</b></div>
+      <div class="row"><span>Doanh thu ròng mỗi khách</span><b>${fm(m.net)}</b></div>
+      <div class="row"><span>Chi phí quảng cáo cho 1 khách (CAC)</span><b>${fm(m.cac)}</b></div>
+      <div class="row"><span>Lãi trên mỗi khách</span><b>${fm(m.unit)}</b></div>
+      <div class="row big"><span>Số gia đình cần bán / năm</span><b>${isFinite(m.need) ? Math.ceil(m.need).toLocaleString('vi-VN') : 'Lỗ'}</b></div>
+      <div class="row"><span>Mỗi ngày</span><b>${isFinite(m.need) ? (m.need / 365).toFixed(1) : '—'}</b></div>
+      <div class="row"><span>Lượt dùng thử cần có</span><b>${isFinite(m.need) ? Math.ceil(m.trials).toLocaleString('vi-VN') : '—'}</b></div>
+      <div class="row"><span>Ngân sách quảng cáo / năm</span><b>${isFinite(m.need) ? tr(m.ads) : '—'}</b></div>
+      <div class="row"><span>Doanh thu / năm</span><b>${isFinite(m.need) ? tr(m.rev) : '—'}</b></div>
+      <div class="state ${ok ? 'ok' : 'bad'}">${!isFinite(m.need) ? 'Mỗi khách đang lỗ: giá quá thấp hoặc quảng cáo quá đắt.' : ok ? 'Khả thi với đội nhỏ nếu giữ được các chỉ số này.' : 'Cần quá nhiều khách. Tăng giá, giảm CAC hoặc hạ mục tiêu.'}</div>`;
+    document.getElementById('verdict').innerHTML = isFinite(m.need) ? `
+      <div class="kpi hl"><b>${Math.ceil(m.need).toLocaleString('vi-VN')}</b><span>gia đình trả tiền / năm</span></div>
+      <div class="kpi"><b>${tr(m.rev)}</b><span>doanh thu năm</span></div>
+      <div class="kpi"><b>${tr(m.ads)}</b><span>ngân sách quảng cáo</span></div>
+      <div class="kpi"><b>${fm(m.cac)}</b><span>CAC tối đa nên giữ</span></div>` : `<div class="kpi hl"><b>Lỗ</b><span>với giả định hiện tại</span></div>`;
+    sens();
+  }
+  function sens() {
+    const prices = [89000, 199000, 299000, 419000, 499000], cacs = [100000, 150000, 200000, 250000, 300000];
+    let h = '<tr><th>Giá bình quân \\ CAC</th>' + cacs.map(c => `<th>${fm(c)}</th>`).join('') + '</tr>';
+    prices.forEach(p => { h += `<tr><td>${fm(p)}${p === 89000 ? ' (giá cũ)' : ''}</td>` + cacs.map(c => {
+      const unit = p * (1 + S.kid / 100 * .5) * (1 - S.fee / 100) - c - S.vc, n = unit > 0 ? (S.tg + S.fx) * 1e6 / unit : Infinity;
+      return `<td class="${n <= 6000 ? 'good' : 'bad'}">${isFinite(n) ? Math.ceil(n).toLocaleString('vi-VN') : 'lỗ'}</td>`; }).join('') + '</tr>'; });
+    document.getElementById('sens').innerHTML = h;
+  }
+  const M = [['T12/26', 50, 15], ['T1/27', 120, 25], ['T2', 200, 40], ['T3', 220, 44], ['T4', 250, 50], ['T5', 260, 52], ['T6', 280, 56], ['T7', 300, 60], ['T8', 380, 76], ['T9', 400, 80], ['T10', 270, 54], ['T11', 260, 52]];
+  const mx = Math.max(...M.map(x => x[1]));
+  document.getElementById('bars').innerHTML = M.map(([t, n]) => `<div><span class="num">${n}</span><i class="${n >= 380 ? 'peak' : ''}" style="height:${Math.round(n / mx * 100)}%"></i><span>${t}</span></div>`).join('');
+  let tot = 0, totA = 0;
+  document.getElementById('months').innerHTML = '<tr><th>Tháng</th><th>Gia đình trả tiền</th><th>Luỹ kế</th><th>Quảng cáo (triệu)</th></tr>' +
+    M.map(([t, n, a]) => { tot += n; totA += a; return `<tr><td>${t}</td><td>${n}</td><td>${tot.toLocaleString('vi-VN')}</td><td>${a}</td></tr>`; }).join('') +
+    `<tr><td><b>Cả năm</b></td><td><b>${tot.toLocaleString('vi-VN')}</b></td><td></td><td><b>${totA}</b></td></tr>`;
+  calc();
+})();
+</script>

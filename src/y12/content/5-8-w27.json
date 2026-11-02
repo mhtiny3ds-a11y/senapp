@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Thiếu đồ thì dùng đồ thay thế",
+   "Making do with what we have"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin muốn làm con rối bằng tất cũ nhưng không có cúc để làm mắt. Mẹ bảo nhà mình không đi mua hôm nay.",
+   "Bin wants to make a sock puppet but has no buttons for the eyes. Mum says they’re not going shopping today."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Thôi, không làm nữa",
+    "Give up on it",
+    0,
+    "Đừng bỏ vội! Nhìn quanh nhà, có thể có thứ dùng thay được đấy.",
+    "Don’t give up yet! Look around — something might work instead."
+   ],
+   [
+    "Nhìn quanh và hỏi mẹ: “Con dùng hai nắp chai sạch làm mắt được không ạ?”",
+    "Look around and ask Mum, “Can I use two clean bottle tops for eyes?”",
+    1,
+    "Hay quá! Nhìn quanh tìm đồ thay thế là cách giải quyết rất sáng tạo. Hỏi mẹ trước là đúng rồi.",
+    "Brilliant! Finding something else to use is clever thinking. Asking Mum first is just right."
+   ],
+   [
+    "Đòi mẹ đi mua cúc ngay",
+    "Insist Mum buys buttons now",
+    0,
+    "Không phải lúc nào cũng mua được ngay. Thử tìm thứ có sẵn trong nhà trước nhé.",
+    "You can’t always buy things right away. Try what’s at home first."
+   ]
+  ],
+  "qq": [
+   "Khi thiếu đồ, con có thể…",
+   "When something is missing, you can…"
+  ],
+  "qo": [
+   [
+    "Bỏ cuộc luôn",
+    "Give up"
+   ],
+   [
+    "Đòi mua ngay",
+    "Ask to buy it now"
+   ],
+   [
+    "Nhìn quanh tìm thứ dùng thay được",
+    "Look around for something else to use"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thủ công, Bin quên mang keo dán. Cả bàn ai cũng đang dùng keo của mình.",
+     "In craft time Bin forgot his glue. Everyone at the table is using their own."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi không, chờ hết giờ",
+      "Sit and wait for the lesson to end",
+      0,
+      "Ngồi chờ thì tiếc lắm. Con có thể mượn hoặc tìm cách khác để dán.",
+      "That would be a shame. You could borrow some or find another way to stick."
+     ],
+     [
+      "Lấy keo của bạn mà không hỏi",
+      "Take a friend’s glue without asking",
+      0,
+      "Dùng đồ của bạn thì hỏi trước nhé. Bạn sẽ vui lòng cho mượn hơn.",
+      "Always ask before using someone’s things. They’re happier to share."
+     ],
+     [
+      "Hỏi cô có băng dính không, hoặc gấp mép giấy để cài vào nhau",
+      "Ask the teacher for tape, or fold the paper edges to slot together",
+      1,
+      "Không có keo vẫn còn nhiều cách. Nghĩ ra cách thay thế là con đang giải quyết vấn đề đấy.",
+      "No glue? There are other ways. Thinking of a swap is real problem-solving."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà ra công viên ăn nhẹ thì mới nhớ quên mang khăn trải. Cỏ hơi ẩm.",
+     "The family arrives at the park for a snack and realises they forgot the picnic mat. The grass is a bit damp."
+    ],
+    "q": [
+     "Bin có thể gợi ý gì?",
+     "What could Bin suggest?"
+    ],
+    "o": [
+     [
+      "“Trong ba lô có áo mưa, mình trải ra ngồi được không ạ?”",
+      "“There’s a raincoat in the bag — can we sit on that?”",
+      1,
+      "Áo mưa không thấm nước, dùng làm khăn trải rất hợp. Con nhìn quanh tìm đồ thay thế giỏi lắm!",
+      "A raincoat is waterproof, so it works as a mat. Great looking around!"
+     ],
+     [
+      "“Về nhà thôi, chán quá”",
+      "“Let’s go home, it’s ruined”",
+      0,
+      "Thiếu một món không làm hỏng cả buổi đâu. Mình thử tìm cách khác nhé.",
+      "One missing thing doesn’t ruin the day. Let’s find another way."
+     ],
+     [
+      "Ngồi luôn xuống cỏ ướt",
+      "Just sit on the wet grass",
+      0,
+      "Ngồi cỏ ướt thì quần ướt, lạnh. Nghĩ xem có gì lót được không.",
+      "Wet grass means a soggy, cold bottom. Think what you could sit on."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đồ chơi từ đồ tái chế",
+    "A toy from recycling"
+   ],
+   "s": [
+    "Con làm một món đồ thủ công nhỏ chỉ từ đồ tái chế có sẵn trong nhà (hộp giấy, lõi giấy, nắp chai sạch). Cho ba mẹ xem và kể con đã thay thứ gì bằng thứ gì.",
+    "Make a small craft using only recycling from home (boxes, cardboard tubes, clean bottle tops). Show Mum or Dad and say what you used instead of what."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ tái chế, cùng làm; ba mẹ lo phần cắt.",
+     "Choose the recycling together and make it together; Mum or Dad does any cutting."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn đồ và làm, ba mẹ giúp cắt nếu cần.",
+     "After one reminder, you choose and make it; Mum or Dad helps cut if needed."
+    ],
+    [
+     "Con tự nghĩ món đồ, tự tìm đồ thay thế và kể lại cách làm.",
+     "You plan the craft, find the swaps yourself and explain how you made it."
+    ]
+   ],
+   "rw": [
+    "Cả nhà diễn kịch rối bằng tất cũ",
+    "A family puppet show with old socks"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Chuyện chưa chắc, không kể tiếp",
+   "Not passing on rumours"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Tí thì thầm: “Nghe nói Huy làm vỡ lọ hoa của lớp đấy, kể cho cả lớp đi!” Bin không hề nhìn thấy.",
+   "Tí whispers, “I heard Huy broke the class vase — tell everyone!” Bin didn’t see anything."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Kể ngay cho các bạn khác",
+    "Tell the others straight away",
+    0,
+    "Nếu không phải Huy làm, Huy sẽ rất buồn. Chuyện chưa chắc thì không kể tiếp.",
+    "If Huy didn’t do it, he’ll be very upset. Unsure stories shouldn’t be passed on."
+   ],
+   [
+    "Nói: “Mình chưa biết có thật không, đừng kể nhé”",
+    "Say, “We don’t know if it’s true, let’s not tell”",
+    1,
+    "Con đã bảo vệ Huy và giữ cho lớp vui vẻ. Thật hay không, cô sẽ biết.",
+    "You protected Huy and kept the class friendly. The teacher will find out what’s true."
+   ],
+   [
+    "Đi hỏi Huy trước mặt cả lớp",
+    "Ask Huy about it in front of everyone",
+    0,
+    "Hỏi trước đông người làm Huy ngại. Không kể tiếp là đủ rồi.",
+    "Asking in front of everyone would embarrass him. Just don’t pass it on."
+   ]
+  ],
+  "qq": [
+   "Chuyện mình chưa biết có thật không thì…",
+   "If you don’t know whether a story is true…"
+  ],
+  "qo": [
+   [
+    "Không kể lại cho người khác",
+    "Don’t tell it to others"
+   ],
+   [
+    "Kể nhanh trước khi ai biết",
+    "Tell it before anyone else does"
+   ],
+   [
+    "Kể thêm cho vui",
+    "Add bits to make it fun"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ nói với Bin: “Nghe nói cô hàng xóm không thích trẻ con đâu.” Bin định chạy kể cho em Bông.",
+     "Bin’s cousin says, “I heard the lady next door doesn’t like children.” Bin is about to run and tell little Bông."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kể cho em, thêm là cô ấy hay quát",
+      "Tell Bông and add that she shouts",
+      0,
+      "Thêm thắt làm chuyện càng sai. Nếu cô hàng xóm nghe được sẽ buồn lắm.",
+      "Adding bits makes it even less true. The neighbour would be sad to hear it."
+     ],
+     [
+      "Không kể tiếp, hỏi mẹ xem có đúng không",
+      "Don’t pass it on; ask Mum if it’s true",
+      1,
+      "Chuyện chưa biết thật thì dừng ở mình. Hỏi người lớn giúp con hiểu đúng.",
+      "If you don’t know it’s true, it stops with you. Asking a grown-up helps."
+     ],
+     [
+      "Kể cho em nhưng dặn đừng nói ai",
+      "Tell Bông but say keep it secret",
+      0,
+      "Chuyện chưa chắc thì kể nhỏ cũng vẫn là kể. Tốt nhất là không kể tiếp.",
+      "Even whispered, an unsure story still spreads. Best not to pass it on."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, mẹ ngồi gần đó. Một bạn nói: “Bạn áo đỏ kia hay ăn gian lắm, tớ nghe thế.”",
+     "At the local playground, with Mum nearby, a child says, “That kid in red always cheats — I heard.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không kể tiếp, cứ chơi bình thường với bạn áo đỏ",
+      "Don’t pass it on and play normally with the kid in red",
+      1,
+      "Mình chưa chơi cùng thì chưa biết. Tự chơi và đối xử tốt là công bằng nhất.",
+      "You haven’t played together yet, so you don’t know. Being kind is fairest."
+     ],
+     [
+      "Chạy đi bảo các bạn khác tránh bạn áo đỏ",
+      "Run and tell others to avoid the kid in red",
+      0,
+      "Bạn ấy có thể bị cả nhóm bỏ rơi vì một tin đồn. Mình đừng kể tiếp nhé.",
+      "That kid could be left out because of a rumour. Let’s not pass it on."
+     ],
+     [
+      "Gật đầu: “Ừ, nhìn là biết”",
+      "Nod: “Yeah, you can just tell”",
+      0,
+      "Nhìn bề ngoài không biết được ai thế nào. Đừng vội tin chuyện chưa chắc.",
+      "You can’t tell what someone’s like by looking. Don’t believe unsure stories."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Truyền tin xem câu bị đổi",
+    "Watch the message change"
+   ],
+   "s": [
+    "Cả nhà ngồi thành hàng chơi truyền tin thì thầm một câu dài. So câu cuối với câu đầu, con nói xem vì sao chuyện truyền miệng dễ bị sai.",
+    "Sit in a line and whisper a long sentence along. Compare the last one with the first and say why passed-on stories go wrong."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nghĩ câu, con truyền và cùng ba mẹ so sánh.",
+     "Mum or Dad thinks of the sentence; you pass it on and compare together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ câu và tự so sánh kết quả.",
+     "After one reminder, you make up the sentence and compare the result."
+    ],
+    [
+     "Con tự tổ chức trò chơi và nói một câu bài học: “Chuyện chưa chắc thì…”.",
+     "You run the game and finish the lesson: “If I’m not sure it’s true…”"
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi cả nhà chơi cuối tuần",
+    "Choose the family game for the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Khi bị trêu chọc quá đáng",
+   "When teasing goes too far"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ở lớp, Nam cứ gọi Bin là “Bin rùa bò” và cười to, dù Bin đã bảo thôi.",
+   "At school, Nam keeps calling Bin “Slowcoach Bin” and laughing loudly, even after Bin asked him to stop."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Gọi lại Nam bằng tên xấu",
+    "Call Nam a mean name back",
+    0,
+    "Gọi lại làm hai bạn cùng buồn hơn. Con có ba bước an toàn hơn nhiều.",
+    "Name-calling back makes you both feel worse. Three safer steps work better."
+   ],
+   [
+    "Im lặng chịu đựng vì sợ",
+    "Stay quiet because you’re scared",
+    0,
+    "Sợ là bình thường, nhưng con không phải chịu một mình. Hãy kể với cô.",
+    "Feeling scared is normal, but you don’t have to cope alone. Tell your teacher."
+   ],
+   [
+    "Nói to “Dừng lại, tớ không thích”, đi chỗ khác và kể với cô",
+    "Say loudly, “Stop, I don’t like it,” walk away and tell the teacher",
+    1,
+    "Con nói rõ, rời đi và tìm người lớn. Đó là cách bảo vệ mình rất dũng cảm.",
+    "You spoke up, walked away and found a grown-up. That’s brave."
+   ]
+  ],
+  "qq": [
+   "Bị trêu quá đáng, ba bước của con là…",
+   "When teasing goes too far, your three steps are…"
+  ],
+  "qo": [
+   [
+    "Khóc, la hét, đánh lại",
+    "Cry, shout, hit back"
+   ],
+   [
+    "Nói “Dừng lại”, đi chỗ khác, báo người lớn",
+    "Say “Stop”, walk away, tell a grown-up"
+   ],
+   [
+    "Im lặng, chịu đựng, giữ bí mật",
+    "Stay quiet, put up with it, keep it secret"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ đến chơi, cứ giấu gấu bông của Bin rồi cười, dù Bin đã nói không thích.",
+     "Bin’s cousin keeps hiding Bin’s teddy and laughing, even though Bin has said he doesn’t like it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói rõ “Dừng lại, em không thích”, rồi đi tìm ba mẹ",
+      "Say clearly, “Stop, I don’t like it,” then go to Mum or Dad",
+      1,
+      "Ba bước: nói “Dừng lại”, rời đi, báo người lớn. Ba mẹ sẽ giúp con.",
+      "Three steps: say “Stop”, walk away, tell a grown-up. They’ll help."
+     ],
+     [
+      "Giấu đồ của anh lại cho bằng",
+      "Hide his things to get even",
+      0,
+      "Trả đũa làm chuyện to hơn. Nói “dừng” và nhờ ba mẹ thì tốt hơn.",
+      "Getting even makes it bigger. Say “stop” and ask Mum or Dad."
+     ],
+     [
+      "Cố chịu vì anh là khách",
+      "Put up with it because he’s a guest",
+      0,
+      "Khách cũng cần tôn trọng con. Con được quyền nói “dừng lại”.",
+      "Guests should respect you too. You’re allowed to say “stop”."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chung cư, ba ngồi ghế đá gần đó. Một bạn lớn cứ chặn đường cầu trượt và trêu Bin.",
+     "In the flats’ playground, with Dad on a bench nearby, a bigger child keeps blocking the slide and teasing Bin."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xô bạn ra",
+      "Push the child away",
+      0,
+      "Xô đẩy có thể làm ai đó ngã đau. Nói “dừng” rồi tìm ba nhé.",
+      "Pushing could make someone fall. Say “stop” and go to Dad."
+     ],
+     [
+      "Nói “Dừng lại!”, rời cầu trượt và đến kể với ba",
+      "Say “Stop!”, leave the slide and tell Dad",
+      1,
+      "Ba ở ngay gần để giúp con. Rời đi và báo người lớn là đúng nhất.",
+      "Dad’s close by to help. Leaving and telling a grown-up is right."
+     ],
+     [
+      "Đứng chờ đến khi bạn chán",
+      "Wait until the child gets bored",
+      0,
+      "Chờ có khi lâu lắm và con sẽ buồn. Con có thể đi tìm ba ngay.",
+      "That could take ages and feel awful. You can go to Dad right away."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập ba bước “Dừng lại”",
+    "Practise the three “Stop” steps"
+   ],
+   "s": [
+    "Con cùng ba mẹ đóng vai: ba mẹ giả vờ trêu nhẹ, con tập nói “Dừng lại”, bước ra xa và đến báo người lớn. Tập hai lượt.",
+    "Role-play with Mum or Dad: they pretend to tease gently, you practise saying “Stop”, stepping away and telling a grown-up. Do it twice."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu ba bước, con làm theo từng bước.",
+     "Mum or Dad shows the three steps and you copy each one."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ ba bước.",
+     "After one reminder, you do all three steps yourself."
+    ],
+    [
+     "Con tự làm đủ ba bước với giọng to, rõ và kể tên ba người lớn con có thể báo.",
+     "You do all three in a loud, clear voice and name three grown-ups you could tell."
+    ]
+   ],
+   "rw": [
+    "Một cái ôm thật chặt và lời khen trước cả nhà",
+    "A big hug and praise in front of the family"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Giờ xem màn hình",
+   "Screen time limits"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin và mẹ thống nhất xem hai tập hoạt hình. Hết tập hai, máy tự chạy sang tập ba.",
+   "Bin and Mum agreed on two cartoon episodes. After the second, the next one starts playing by itself."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Xem tiếp, vì máy tự chạy mà",
+    "Keep watching — it started by itself",
+    0,
+    "Máy tự chạy nhưng lời hẹn là của con với mẹ. Tắt đúng hẹn mẹ sẽ tin con hơn.",
+    "The screen kept going, but the deal was yours and Mum’s. Sticking to it builds trust."
+   ],
+   [
+    "Tự tắt và báo: “Con xem xong hai tập rồi ạ”",
+    "Switch off and say, “I’ve finished my two episodes”",
+    1,
+    "Tự tắt đúng giờ là việc khó, con làm được rồi! Giờ đi chơi việc khác nhé.",
+    "Switching off on time is hard, and you did it! Time for something else."
+   ],
+   [
+    "Khóc xin thêm một tập",
+    "Cry for one more episode",
+    0,
+    "Muốn xem thêm là bình thường. Con có thể hẹn mẹ xem tiếp vào ngày mai.",
+    "Wanting more is normal. You can agree to watch more tomorrow."
+   ]
+  ],
+  "qq": [
+   "Đến giờ hẹn tắt màn hình, con nên…",
+   "When screen time is up, you should…"
+  ],
+  "qo": [
+   [
+    "Xem thêm một chút",
+    "Watch a little longer"
+   ],
+   [
+    "Chờ người lớn tắt hộ",
+    "Wait for a grown-up to do it"
+   ],
+   [
+    "Tự tắt đúng giờ",
+    "Switch off on time yourself"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ tin học, cô cho chơi trò ghép chữ mười phút. Cô báo hết giờ, Bin đang chơi dở.",
+     "In computer class, the teacher allows ten minutes of a word game. She says time’s up while Bin is mid-game."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chơi nốt cho xong màn",
+      "Finish the level first",
+      0,
+      "Màn này xong lại có màn khác. Dừng khi cô báo giúp cả lớp sang bài mới.",
+      "There’s always another level. Stopping when asked lets the class move on."
+     ],
+     [
+      "Giả vờ không nghe",
+      "Pretend not to hear",
+      0,
+      "Cô và các bạn đang chờ con. Dừng ngay là tôn trọng mọi người.",
+      "Everyone is waiting. Stopping straight away is respectful."
+     ],
+     [
+      "Dừng ngay và quay lên nghe cô",
+      "Stop straight away and look at the teacher",
+      1,
+      "Dừng đúng giờ ở lớp cũng giống tắt máy đúng giờ ở nhà. Em làm tốt lắm!",
+      "Stopping on time at school is just like at home. Well done!"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đến nhà cô chú chơi cùng ba mẹ, anh họ cho Bin xem máy tính bảng. Ba dặn được xem đến khi kim dài chỉ số 6.",
+     "Visiting relatives with Mum and Dad, Bin’s cousin lets him use a tablet. Dad says he can watch until the long hand reaches 6."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Thỉnh thoảng nhìn đồng hồ, kim tới số 6 thì tự trả máy",
+      "Check the clock now and then and hand it back at 6",
+      1,
+      "Tự nhìn đồng hồ và trả máy đúng giờ, con giữ lời hẹn rất giỏi.",
+      "Watching the clock and handing it back on time — great promise-keeping."
+     ],
+     [
+      "Xem tới khi ba gọi mới thôi",
+      "Keep watching until Dad calls you",
+      0,
+      "Chờ ba nhắc thì không còn là con tự tắt. Thử tự nhìn đồng hồ nhé.",
+      "Waiting for Dad isn’t switching off yourself. Try checking the clock."
+     ],
+     [
+      "Mang máy vào phòng xem tiếp",
+      "Take it to another room to keep watching",
+      0,
+      "Lời hẹn với ba vẫn còn đó. Ngồi chỗ mọi người thấy và trả đúng giờ nhé.",
+      "The deal with Dad still counts. Stay where people are and hand it back on time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự tắt đúng giờ hẹn",
+    "Switch off on time"
+   ],
+   "s": [
+    "Con cùng ba mẹ thống nhất hôm nay xem màn hình bao lâu và đến mấy giờ. Đến giờ, con tự tắt và báo ba mẹ.",
+    "Agree with Mum or Dad how long and until what time you’ll use screens today. When it’s time, switch off yourself and tell them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đặt hẹn giờ cùng con, đến giờ cùng con tắt.",
+     "Mum or Dad sets a timer with you and you switch off together."
+    ],
+    [
+     "Ba mẹ nhắc một lần trước giờ, con tự tắt đúng giờ.",
+     "Mum or Dad reminds you once beforehand, then you switch off on time."
+    ],
+    [
+     "Con tự nhìn đồng hồ, tự tắt đúng giờ và chọn một trò chơi khác để làm tiếp.",
+     "You watch the clock, switch off on time and pick something else to do."
+    ]
+   ],
+   "rw": [
+    "Dựng lều bằng chăn trong phòng khách",
+    "Build a blanket fort in the living room"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Niềm vui không tốn tiền",
+   "Free things that matter"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Chủ nhật, Bin nài ba đi khu trò chơi mất vé. Ba nói: “Hôm nay mình chơi gì không tốn tiền nhé?”",
+   "On Sunday, Bin begs Dad to go to a paid play centre. Dad says, “Shall we do something free today?”"
+  ],
+  "cq": [
+   "Bin nên trả lời thế nào?",
+   "How should Bin answer?"
+  ],
+  "co": [
+   [
+    "“Không tốn tiền thì chán lắm”",
+    "“Free things are boring”",
+    0,
+    "Thử rồi mới biết! Nhiều niềm vui lớn chẳng cần tiền đâu.",
+    "Try it first! Lots of the best fun is free."
+   ],
+   [
+    "“Ra công viên đá bóng, ngắm vịt nhé ba!”",
+    "“Let’s go to the park, play football and see the ducks!”",
+    1,
+    "Công viên, bóng và ba: một buổi rất vui mà không tốn tiền.",
+    "The park, a ball and Dad — a great day that costs nothing."
+   ],
+   [
+    "Giận ba, không nói nữa",
+    "Sulk and stop talking to Dad",
+    0,
+    "Giận làm mất cả buổi vui. Cùng ba nghĩ trò miễn phí xem nào.",
+    "Sulking wastes the day. Think of a free game with Dad."
+   ]
+  ],
+  "qq": [
+   "Điều nào vui mà không tốn tiền?",
+   "Which is fun and free?"
+  ],
+  "qo": [
+   [
+    "Đi khu trò chơi mất vé",
+    "A paid play centre"
+   ],
+   [
+    "Đọc truyện cùng ba mẹ",
+    "Reading with Mum or Dad"
+   ],
+   [
+    "Mua đồ chơi mới",
+    "Buying a new toy"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Trời mưa cả ngày. Bin chán, đòi mẹ mua đồ chơi mới để chơi cho đỡ buồn.",
+     "It’s rained all day. Bin is bored and asks Mum to buy a new toy to cheer him up."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Rủ cả nhà dựng lều bằng chăn và đọc truyện trong đó",
+      "Ask everyone to build a blanket tent and read inside",
+      1,
+      "Lều chăn, truyện hay, có ba mẹ: vui mà chẳng tốn đồng nào!",
+      "A blanket tent, good books, family — loads of fun that costs nothing!"
+     ],
+     [
+      "Đòi mua đồ chơi bằng được",
+      "Keep insisting on a new toy",
+      0,
+      "Đồ chơi mới vui vài hôm. Có nhiều trò vui không cần mua, mình thử nhé.",
+      "New toys are fun for a few days. Lots of fun needs no shopping."
+     ],
+     [
+      "Nằm dài kêu chán",
+      "Lie around saying you’re bored",
+      0,
+      "Chán là lúc nghĩ trò mới đấy. Con thử vẽ, gấp giấy hay xếp hình xem.",
+      "Boredom is a chance to invent something. Try drawing, folding paper or a puzzle."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, Tí khoe đồ chơi mới đắt tiền. Bin không có đồ chơi gì mang theo.",
+     "At break, Tí shows off an expensive new toy. Bin didn’t bring any toys."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Buồn vì mình không có",
+      "Feel sad you don’t have one",
+      0,
+      "Không có đồ chơi đắt vẫn chơi vui được. Nghĩ xem trò nào chỉ cần bạn bè.",
+      "No expensive toy? You can still have fun. Think of games that only need friends."
+     ],
+     [
+      "Nài Tí cho mượn bằng được",
+      "Pester Tí to lend it",
+      0,
+      "Đó là đồ của Tí, bạn có quyền chọn. Mình rủ chơi trò khác cũng vui.",
+      "It’s Tí’s, so it’s his choice. Another game can be just as fun."
+     ],
+     [
+      "Rủ các bạn chơi nhảy lò cò, ô ăn quan",
+      "Invite friends to play hopscotch or a pebble game",
+      1,
+      "Trò chơi dân gian chỉ cần phấn, sỏi và bạn bè, mà vui ơi là vui!",
+      "Traditional games need only chalk, pebbles and friends — and they’re great fun!"
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm niềm vui miễn phí",
+    "Five free joys"
+   ],
+   "s": [
+    "Con cùng ba mẹ liệt kê năm niềm vui không tốn tiền (vẽ hoặc viết), rồi cả nhà làm một việc trong đó ngay hôm nay.",
+    "List five free things that make you happy (draw or write), then do one of them together today."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con chọn và vẽ năm niềm vui.",
+     "Mum or Dad gives ideas; you pick and draw five."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ năm niềm vui.",
+     "After one reminder, you think of five yourself."
+    ],
+    [
+     "Con tự nghĩ năm niềm vui, tự chọn một việc và rủ cả nhà làm cùng.",
+     "You think of five, choose one and invite the family to do it."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ thổi bong bóng xà phòng",
+    "Blow soap bubbles with Mum or Dad"
+   ]
+  }
+ }
+]

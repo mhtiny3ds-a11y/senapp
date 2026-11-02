@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Tìm nguyên nhân gốc",
+   "Finding the root cause"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nào An cũng suýt trễ xe đưa đón vì không tìm thấy tất. Mẹ mua thêm mấy đôi mới mà An vẫn trễ.",
+   "Every morning An nearly misses the school bus because she can’t find her socks. Mum bought new pairs, but she’s still late."
+  ],
+  "cq": [
+   "An nên làm gì để hết trễ?",
+   "What should An do to stop being late?"
+  ],
+  "co": [
+   [
+    "Mua thêm tất nữa",
+    "Buy even more socks",
+    0,
+    "Thêm tất mà vẫn để lung tung thì vẫn khó tìm. Thử tìm vì sao tất hay biến mất nhé.",
+    "More socks, still scattered, are still hard to find. Look for why they go missing."
+   ],
+   [
+    "Hỏi “vì sao” nhiều lần: vì sao không thấy tất? Vì tối không chuẩn bị. Vì sao? Vì không có chỗ cố định. Rồi sửa đúng gốc",
+    "Ask “why” several times: why no socks? Because nothing’s ready at night. Why? No fixed place. Then fix the root",
+    1,
+    "Sửa ngọn thì rắc rối quay lại. Hỏi “vì sao” đến tận gốc mới sửa một lần mà hết.",
+    "Fixing the surface lets the problem return. Asking “why” to the root fixes it for good."
+   ],
+   [
+    "Dậy sớm hơn 5 phút để tìm",
+    "Get up 5 minutes earlier to search",
+    0,
+    "Dậy sớm giúp được hôm nay, nhưng ngày nào cũng mất 5 phút tìm. Sửa gốc sẽ đỡ hơn.",
+    "It helps today, but you lose 5 minutes every day. Fixing the root is better."
+   ]
+  ],
+  "qq": [
+   "Muốn tìm nguyên nhân gốc của một rắc rối, ta nên…",
+   "To find the root cause of a problem, you should…"
+  ],
+  "qo": [
+   [
+    "Hỏi “vì sao” nhiều lần cho đến khi ra điều thật sự",
+    "Ask “why” several times until you reach the real reason"
+   ],
+   [
+    "Sửa ngay cái thấy trước mắt",
+    "Fix whatever you see first"
+   ],
+   [
+    "Tìm xem lỗi của ai",
+    "Find out whose fault it is"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Chậu hoa ở góc lớp cứ héo dù tổ trực nhật tưới mỗi ngày. Cả tổ định tưới nhiều hơn nữa.",
+     "The plant in the classroom corner keeps wilting even though the duty group waters it daily. They plan to water it even more."
+    ],
+    "q": [
+     "An nên góp ý gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cả tổ hỏi “vì sao” từng bước: chậu có lỗ thoát nước không? Có đủ nắng không? Rồi mới chọn cách sửa",
+      "Ask “why” step by step: does the pot drain? Does it get enough light? Then choose a fix",
+      1,
+      "Đoán vội rồi làm nhiều hơn có thể làm cây tệ hơn. Tìm đúng nguyên nhân mới cứu được cây.",
+      "Guessing and doing more can make it worse. Finding the real cause saves the plant."
+     ],
+     [
+      "Tưới gấp đôi cho chắc",
+      "Water it twice as much to be sure",
+      0,
+      "Nếu cây héo vì úng nước thì tưới thêm sẽ hại cây. Kiểm tra nguyên nhân trước đã.",
+      "If it’s wilting from too much water, more will harm it. Check the cause first."
+     ],
+     [
+      "Đổi cây khác cho nhanh",
+      "Just get a new plant",
+      0,
+      "Cây mới đặt vào chỗ cũ có thể héo tiếp. Tìm gốc rắc rối đã nhé.",
+      "A new plant in the same spot may wilt too. Find the root first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đạp xe cùng ba ở công viên, xích xe An cứ tuột. An lắp lại rồi đạp tiếp, được một đoạn lại tuột.",
+     "Cycling with Dad in the park, An’s chain keeps slipping off. She puts it back and rides on, and it slips again."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cứ lắp lại mỗi khi tuột",
+      "Keep putting it back each time",
+      0,
+      "Lắp hoài vừa mệt vừa dễ ngã. Dừng lại tìm nguyên nhân sẽ tiết kiệm công hơn.",
+      "Endless refitting is tiring and risky. Finding the cause saves effort."
+     ],
+     [
+      "Đạp thật nhanh cho xích khỏi tuột",
+      "Pedal really fast so it stays on",
+      0,
+      "Đạp nhanh khi xích lỏng dễ bị ngã. Hãy dừng lại an toàn và nhờ ba.",
+      "Speeding with a loose chain can cause a fall. Stop safely and ask Dad."
+     ],
+     [
+      "Dừng lại cùng ba xem vì sao hay tuột: xích chùng hay bánh răng bẩn, rồi nhờ ba chỉnh",
+      "Stop and look with Dad at why it slips: a loose chain or a dirty gear, then let Dad adjust it",
+      1,
+      "Lắp lại chỉ là sửa tạm. Tìm ra vì sao tuột thì mới đạp được yên tâm.",
+      "Putting it back is a quick fix. Knowing why it slips lets you ride safely."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba lần hỏi “vì sao”",
+    "Three times “why”"
+   ],
+   "s": [
+    "Con chọn một rắc rối nhỏ trong nhà (đồ hay bị thất lạc, sáng hay vội…), cùng ba mẹ hỏi “vì sao” 3 lần để tìm gốc, rồi đề xuất một cách sửa đúng gốc.",
+    "Pick a small problem at home (things going missing, rushed mornings…), ask “why” three times with your parent to find the root, then suggest a fix for it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hỏi từng câu “vì sao”, con trả lời và cùng chọn cách sửa.",
+     "Your parent asks each “why”, you answer and you choose a fix together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi và tự ghi ra 3 câu “vì sao”.",
+     "With one reminder, you ask and write down the three “whys” yourself."
+    ],
+    [
+     "Con tự làm, áp dụng cách sửa trong 3 ngày và kể rắc rối đã bớt chưa.",
+     "You do it alone, try the fix for 3 days and report whether the problem eased."
+    ]
+   ],
+   "rw": [
+    "Con được đặt tên “thám tử nhỏ” của nhà trong tuần này",
+    "You’re the family’s “little detective” for the week"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Tự chấm sản phẩm theo tiêu chí",
+   "Assessing my work against criteria"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "An viết xong bài văn tả con vật và thấy “chắc là hay”. Cô dặn trước khi nộp hãy tự kiểm tra theo ba tiêu chí: đủ bố cục, có chi tiết riêng, không sai chính tả.",
+   "An finishes her essay describing an animal and thinks it’s “probably good”. The teacher says to check three criteria before handing in: full structure, original details, no spelling mistakes."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nộp luôn vì thấy hay rồi",
+    "Hand it in because it feels good",
+    0,
+    "Cảm giác “hay” chưa đủ. Kiểm tra từng tiêu chí có thể phát hiện lỗi nhỏ.",
+    "“Feels good” isn’t enough. Checking each criterion can catch small errors."
+   ],
+   [
+    "Nhờ bạn sửa hộ hết",
+    "Ask a friend to fix it all",
+    0,
+    "Bạn góp ý thì tốt, nhưng tự chấm trước giúp con biết mình cần sửa gì.",
+    "Feedback is great, but checking yourself first teaches you what to fix."
+   ],
+   [
+    "Đọc lại, chấm từng tiêu chí, sửa chỗ thiếu rồi so với nhận xét của cô khi trả bài",
+    "Reread, score each criterion, fix gaps, then compare with the teacher’s comments later",
+    1,
+    "Tiêu chí rõ giúp con nhìn bài bằng mắt người chấm. So với nhận xét của cô giúp con chấm chuẩn hơn lần sau.",
+    "Clear criteria let you see your work like a marker. Comparing with feedback sharpens your judgement."
+   ]
+  ],
+  "qq": [
+   "Tự chấm sản phẩm hiệu quả là…",
+   "Assessing your own work well means…"
+  ],
+  "qo": [
+   [
+    "Chấm theo cảm giác",
+    "Scoring by feel"
+   ],
+   [
+    "Đặt tiêu chí trước, chấm từng mục rồi so với nhận xét của người khác",
+    "Setting criteria first, scoring each, then comparing with feedback"
+   ],
+   [
+    "So với bài của bạn",
+    "Comparing with a friend’s work"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An tự sắp lại tủ quần áo. Mẹ hỏi: “Con thấy tủ đã gọn chưa?” An đáp: “Chắc là được ạ.”",
+     "An has reorganised her wardrobe. Mum asks, “Is it tidy now?” An says, “I think so.”"
+    ],
+    "q": [
+     "An nên trả lời thế nào cho rõ?",
+     "How could An answer more clearly?"
+    ],
+    "o": [
+     [
+      "“Gọn rồi ạ”, không cần xem lại",
+      "“It’s tidy,” without checking",
+      0,
+      "Nhìn lại theo vài tiêu chí sẽ giúp con tự tin hơn khi nói “gọn rồi”.",
+      "Checking a few criteria lets you say “it’s tidy” with confidence."
+     ],
+     [
+      "Tự đặt 3 tiêu chí: đồ gấp phẳng, đúng ngăn, dễ lấy; chấm từng cái rồi nhờ mẹ chấm so",
+      "Set 3 criteria: folded flat, right shelf, easy to reach; score each, then compare with Mum’s score",
+      1,
+      "Có tiêu chí thì “gọn” không còn là cảm giác mà thành điều kiểm tra được.",
+      "With criteria, “tidy” stops being a feeling and becomes something you can check."
+     ],
+     [
+      "Nhờ mẹ tự xem và chấm",
+      "Let Mum look and judge",
+      0,
+      "Ý kiến của mẹ rất có ích, nhưng con tự chấm trước thì mới học được cách đánh giá.",
+      "Mum’s view helps, but self-checking first is how you learn to assess."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An mang mô hình đến triển lãm sáng tạo ở nhà văn hoá cùng ba. Còn 10 phút nữa mở cửa cho khách.",
+     "An brings her model to the creativity show at the community centre with Dad. There are 10 minutes before visitors arrive."
+    ],
+    "q": [
+     "An nên dùng 10 phút thế nào?",
+     "How should An use the 10 minutes?"
+    ],
+    "o": [
+     [
+      "Tự kiểm tra theo tiêu chí: mô hình chắc, có ghi tên, giải thích được cách làm; sửa chỗ thiếu",
+      "Check against criteria: sturdy, labelled, can explain how it was made; fix what’s missing",
+      1,
+      "Kiểm tra theo tiêu chí giúp con chuẩn bị kỹ và bớt lo khi khách hỏi.",
+      "Checking against criteria gets you ready and less nervous when people ask."
+     ],
+     [
+      "Đi xem mô hình của người khác",
+      "Wander off to see other models",
+      0,
+      "Xem bài người khác để sau cũng được. Kiểm tra bài mình trước thì yên tâm hơn.",
+      "Others’ work can wait. Checking your own first gives peace of mind."
+     ],
+     [
+      "So xem mô hình mình đẹp hơn ai",
+      "Compare whose model is nicer",
+      0,
+      "So với người khác dễ làm mình buồn hoặc kiêu. So với tiêu chí thì công bằng hơn.",
+      "Comparing with others can make you sad or proud. Criteria are fairer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự chấm rồi so với ba mẹ",
+    "Self-score, then compare"
+   ],
+   "s": [
+    "Con chọn một sản phẩm của mình (bài vẽ, bài viết, góc học tập), đặt 3 tiêu chí, tự chấm từng tiêu chí trên thang 3 sao, nhờ ba mẹ chấm rồi cùng so sánh.",
+    "Choose something you made (a drawing, writing, your desk), set 3 criteria, score each out of 3 stars, ask your parent to score too, then compare."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đặt tiêu chí và chấm song song.",
+     "Your parent helps set the criteria and scores alongside you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đặt tiêu chí và tự chấm trước.",
+     "With one reminder, you set the criteria and score yourself first."
+    ],
+    [
+     "Con tự làm, giải thích chỗ con và ba mẹ chấm khác nhau, và một điều con sẽ sửa.",
+     "You do it all, explain where your scores differ and name one thing you’ll improve."
+    ]
+   ],
+   "rw": [
+    "Sản phẩm của con được treo ở “góc triển lãm” của nhà một tuần",
+    "Your work goes on the family “gallery wall” for a week"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Quà tặng kèm điều kiện lạ",
+   "Gifts with strange conditions"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở sân chơi khu nhà, một chú không quen nói sẽ cho An bộ thẻ hình rất đẹp nếu An đi theo chú lấy và “đừng kể với ba mẹ nhé”. Mẹ đang ngồi ghế đá gần đó.",
+   "At the estate playground, a man An doesn’t know says she can have a lovely set of picture cards if she comes with him to get them and “doesn’t tell her parents”. Mum is on a bench nearby."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nói “Không ạ” rõ ràng, đi ngay đến chỗ mẹ và kể lại",
+    "Say “No, thank you” clearly, go straight to Mum and tell her",
+    1,
+    "Người lớn tốt không bắt trẻ giữ bí mật với ba mẹ để đổi quà. Kể với mẹ là việc đúng và dũng cảm.",
+    "Good adults never ask children to keep secrets from parents for a gift. Telling Mum is right and brave."
+   ],
+   [
+    "Nhận quà nhưng không đi theo",
+    "Take the gift but don’t go with him",
+    0,
+    "Quà kèm bí mật là dấu hiệu lạ. Không nhận gì cả và đến chỗ mẹ ngay là an toàn nhất.",
+    "A gift with a secret is a warning sign. Taking nothing and going to Mum is safest."
+   ],
+   [
+    "Giữ bí mật vì chú trông tốt bụng",
+    "Keep the secret because he seems kind",
+    0,
+    "Trông tốt bụng chưa chắc là an toàn. Chuyện gì bắt giữ bí mật với ba mẹ thì càng phải kể.",
+    "Seeming kind isn’t the same as safe. Anything you’re told to hide from parents should be told."
+   ]
+  ],
+  "qq": [
+   "Khi ai đó cho quà nhưng bắt giữ bí mật với ba mẹ, con nên…",
+   "When someone offers a gift but wants it kept secret from parents, you should…"
+  ],
+  "qo": [
+   [
+    "Từ chối và kể ngay với ba mẹ",
+    "Say no and tell your parents straight away"
+   ],
+   [
+    "Nhận quà và giữ bí mật",
+    "Take it and keep the secret"
+   ],
+   [
+    "Hỏi thêm xem có quà nào khác không",
+    "Ask if there are other gifts"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An chơi trò đố vui trên máy tính bảng của nhà. Một người lạ nhắn sẽ tặng phần thưởng nếu An gửi ảnh và tên trường, “bí mật giữa hai đứa mình thôi”.",
+     "An is playing a quiz on the family tablet. A stranger messages that she’ll get a prize if she sends a photo and her school’s name, “just our secret”."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gửi tên trường thôi, không gửi ảnh",
+      "Send just the school name, not a photo",
+      0,
+      "Tên trường cũng giúp người lạ tìm ra con. Không gửi gì cả và báo ba mẹ nhé.",
+      "A school name can help a stranger find you. Send nothing and tell your parents."
+     ],
+     [
+      "Xoá tin nhắn rồi quên đi",
+      "Delete the message and forget it",
+      0,
+      "Không trả lời là tốt, nhưng ba mẹ cần biết để chặn và giữ con an toàn.",
+      "Not replying is good, but your parents need to know so they can block it."
+     ],
+     [
+      "Không trả lời, không gửi gì, đưa ngay máy cho ba mẹ xem",
+      "Don’t reply or send anything, and show her parents straight away",
+      1,
+      "Ảnh và tên trường là thông tin riêng. Lời mời kèm “bí mật” trên mạng luôn cần ba mẹ biết.",
+      "Photos and school names are private. Any online offer with a “secret” needs your parents to know."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tan học, một người lớn không quen đứng ngoài cổng trường, hứa cho An gói kẹo nếu An đọc số điện thoại nhà và không kể với ai.",
+     "After school, an adult An doesn’t know stands outside the gate and offers sweets if she gives her home phone number and tells no one."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc số nhà vì chỉ là gói kẹo",
+      "Give the number, it’s only sweets",
+      0,
+      "Số điện thoại là thông tin riêng của gia đình. Không đổi thông tin lấy quà, dù nhỏ.",
+      "A phone number is private family information. Never swap it for a gift, however small."
+     ],
+     [
+      "Lắc đầu từ chối, quay vào báo cô giáo hoặc bác bảo vệ, rồi kể với ba mẹ",
+      "Shake her head, go back in to tell a teacher or the caretaker, then tell her parents",
+      1,
+      "Từ chối rồi tìm người lớn tin cậy ngay là cách giữ an toàn cho mình và các bạn.",
+      "Saying no and finding a trusted adult keeps you and your friends safe."
+     ],
+     [
+      "Im lặng bỏ đi, không kể ai",
+      "Walk away and tell no one",
+      0,
+      "Bỏ đi là đúng, nhưng kể với người lớn giúp các bạn khác cũng được bảo vệ.",
+      "Walking away is right, but telling adults protects other children too."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập nói “không” với quà lạ",
+    "Practise saying no to strange gifts"
+   ],
+   "s": [
+    "Con và ba mẹ đóng vai: ba mẹ là người lạ mời nhận quà kèm điều kiện lạ (giữ bí mật, đi theo, cho số điện thoại). Con tập nói “không” rõ ràng và nói con sẽ đi tìm ai.",
+    "Role-play with your parent: they play a stranger offering a gift with a strange condition (keep a secret, come along, give a phone number). You practise a clear “no” and say who you’d go to."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu câu từ chối, con nói theo trong 2 tình huống.",
+     "Your parent models the refusal and you repeat it in 2 scenarios."
+    ],
+    [
+     "Ba mẹ đưa ra 3 tình huống, con tự nghĩ câu từ chối.",
+     "Your parent gives 3 scenarios and you come up with the refusals yourself."
+    ],
+    [
+     "Con tự nghĩ thêm một tình huống, đóng vai cả hai phía và giải thích dấu hiệu nào cho thấy “lạ”.",
+     "You invent another scenario, play both sides and explain which signs show it’s “strange”."
+    ]
+   ],
+   "rw": [
+    "Một cái ôm thật chặt và ba mẹ cảm ơn con đã luyện tập nghiêm túc",
+    "A big hug and a thank-you for practising so seriously"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Nghỉ ngơi cũng là kế hoạch",
+   "Rest is part of the plan"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An quyết ôn bài liền một mạch hai tiếng không nghỉ. Đến tiếng thứ hai, An đọc mãi một đoạn mà không nhớ chữ nào.",
+   "An decides to revise for two hours straight with no break. In the second hour, she reads the same paragraph again and again and remembers nothing."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cố thêm nữa, nghỉ là lười",
+    "Push on, breaks are lazy",
+    0,
+    "Mệt mà cố thì đọc nhiều cũng không vào. Nghỉ ngắn là một phần của kế hoạch học.",
+    "Pushing through tiredness means nothing sticks. Short breaks are part of the plan."
+   ],
+   [
+    "Học khoảng 25 phút rồi nghỉ 5 phút: đứng dậy, uống nước, vươn vai",
+    "Study about 25 minutes, then rest 5: stand up, drink water, stretch",
+    1,
+    "Bộ não cần nghỉ ngắn để ghi nhớ. Nghỉ đúng lúc giúp con học lâu mà vẫn tỉnh.",
+    "Your brain needs short breaks to remember. Timely rest keeps you fresh for longer."
+   ],
+   [
+    "Chuyển sang xem phim, lúc nào thích thì học tiếp",
+    "Switch to a film and come back whenever",
+    0,
+    "Nghỉ không giờ kết thúc dễ thành bỏ dở. Nghỉ ngắn có hẹn giờ sẽ tốt hơn.",
+    "A break with no end time can become quitting. A short timed break works better."
+   ]
+  ],
+  "qq": [
+   "Những quãng nghỉ ngắn trong lúc học giúp…",
+   "Short breaks while studying help you…"
+  ],
+  "qo": [
+   [
+    "Mất thời gian vô ích",
+    "Waste time"
+   ],
+   [
+    "Chỉ hợp với người lười",
+    "Only if you’re lazy"
+   ],
+   [
+    "Đầu óc tỉnh táo, học lâu và tốt hơn",
+    "Stay fresh and study longer and better"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm An làm áp phích suốt giờ ra chơi. Ai cũng mệt và bắt đầu cáu nhau vì chuyện nhỏ.",
+     "An’s group has worked on a poster all break. Everyone is tired and starting to snap at each other."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cả nhóm nghỉ 5 phút uống nước, rồi quay lại làm tiếp",
+      "Take a 5-minute water break, then carry on",
+      1,
+      "Khi mệt, người ta dễ cáu. Nghỉ ngắn giúp cả nhóm bình tĩnh và làm tốt hơn.",
+      "Tired people get cross easily. A short break calms the group and improves the work."
+     ],
+     [
+      "Cố làm cho xong, cáu cũng được",
+      "Finish it anyway, never mind the snapping",
+      0,
+      "Làm trong lúc cáu dễ cãi nhau và sai sót. Nghỉ một chút sẽ nhanh hơn về sau.",
+      "Working while cross leads to arguments and mistakes. A pause saves time later."
+     ],
+     [
+      "Mỗi người về chỗ, mai tính",
+      "Everyone go back to their seats, sort it out tomorrow",
+      0,
+      "Dừng hẳn có thể làm trễ hạn. Nghỉ ngắn rồi làm tiếp sẽ giữ được nhịp.",
+      "Stopping completely risks the deadline. A short rest keeps momentum."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi bộ trong công viên lớn. An muốn đi một mạch đến hồ thật nhanh, được nửa đường thì mỏi chân không muốn đi nữa.",
+     "The family is walking in a big park. An wants to march straight to the lake, but halfway there her legs ache and she wants to stop."
+    ],
+    "q": [
+     "Lần sau An nên làm gì?",
+     "What should An do next time?"
+    ],
+    "o": [
+     [
+      "Đi thật nhanh cho sớm tới",
+      "Walk as fast as possible to get there sooner",
+      0,
+      "Đi nhanh không nghỉ làm mệt nhanh hơn. Nhịp đều có nghỉ mới đi xa được.",
+      "Rushing without rest tires you faster. Steady pace with breaks goes further."
+     ],
+     [
+      "Đòi ba cõng cả đoạn còn lại",
+      "Ask Dad to carry her the rest of the way",
+      0,
+      "Ba cũng mệt đấy. Biết nghỉ đúng lúc thì con tự đi được hết đường.",
+      "Dad gets tired too. Resting at the right times lets you walk it yourself."
+     ],
+     [
+      "Chia đường thành chặng, nghỉ ngắn uống nước sau mỗi chặng",
+      "Split the walk into stages with short water breaks",
+      1,
+      "Nghỉ theo chặng giúp chân không mỏi quá sớm, cả nhà đi được xa và vui hơn.",
+      "Resting in stages stops legs tiring too soon, so everyone goes further happily."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai hiệp học, một quãng nghỉ",
+    "Two study rounds, one break"
+   ],
+   "s": [
+    "Con học 2 hiệp, mỗi hiệp 10 phút, nghỉ 3 phút ở giữa (đứng dậy, uống nước, vươn vai). Sau đó kể với ba mẹ con thấy khác gì so với học liền không nghỉ.",
+    "Study in 2 rounds of 10 minutes with a 3-minute break in between (stand, drink water, stretch). Then tell your parent how it felt compared with no break."
+   ],
+   "lv": [
+    [
+     "Ba mẹ bấm giờ và cùng con vươn vai lúc nghỉ.",
+     "Your parent times it and stretches with you during the break."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự bấm giờ và tự nghỉ đúng 3 phút.",
+     "With one reminder, you time it and keep the break to 3 minutes."
+    ],
+    [
+     "Con tự lên lịch, làm đủ 2 hiệp và nhận xét quãng nghỉ giúp con thế nào.",
+     "You plan it, do both rounds and explain how the break helped."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con đi dạo 15 phút buổi chiều",
+    "A 15-minute afternoon walk with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Những thứ tiền không mua được",
+   "Things money can’t buy"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Huy buồn vì hộp bút của mình đã cũ, Huy nói: “Tớ chẳng có gì đáng giá cả.” Huy là người hay giảng bài giúp An.",
+   "Huy is down because his pencil case is old. “I’ve got nothing worth anything,” he says. Huy is the one who often helps An with lessons."
+  ],
+  "cq": [
+   "An nên đáp thế nào?",
+   "What should An say?"
+  ],
+  "co": [
+   [
+    "“Bảo ba mẹ cậu mua hộp mới đi”",
+    "“Ask your parents for a new one.”",
+    0,
+    "Đồ mới chưa chắc làm bạn vui lâu. Nhắc bạn về điều quý bạn đang có sẽ ấm lòng hơn.",
+    "New things may not cheer him for long. Reminding him what he has is warmer."
+   ],
+   [
+    "Im lặng vì không biết nói gì",
+    "Say nothing because she doesn’t know what to say",
+    0,
+    "Không sao, một câu đơn giản về điều con quý ở bạn là đủ.",
+    "That’s fine; one simple sentence about what you value in him is enough."
+   ],
+   [
+    "“Cậu hay giảng bài cho tớ. Điều đó quý hơn mọi hộp bút”",
+    "“You always help me understand lessons. That’s worth more than any pencil case.”",
+    1,
+    "Sự tử tế và tình bạn là thứ tiền không mua được. Nói cho bạn biết giúp bạn thấy giá trị của mình.",
+    "Kindness and friendship can’t be bought. Saying so helps a friend see their worth."
+   ]
+  ],
+  "qq": [
+   "Điều nào sau đây tiền KHÔNG mua được?",
+   "Which of these can money NOT buy?"
+  ],
+  "qo": [
+   [
+    "Một chiếc cặp mới",
+    "A new school bag"
+   ],
+   [
+    "Tình bạn thật lòng",
+    "True friendship"
+   ],
+   [
+    "Một cuốn truyện",
+    "A storybook"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An ước có thật nhiều tiền để mua mọi thứ. Tối đó mất điện, cả nhà ngồi ngoài hiên kể chuyện, An cười suốt và thấy vui hơn cả lúc có đồ chơi mới.",
+     "An wishes she had loads of money to buy everything. That evening there’s a power cut; the family sits on the porch telling stories, and An laughs all night, happier than with any new toy."
+    ],
+    "q": [
+     "An rút ra điều gì?",
+     "What does An learn?"
+    ],
+    "o": [
+     [
+      "Có tiền thì mua được mọi niềm vui",
+      "Money can buy any happiness",
+      0,
+      "Tiền giúp mua thứ mình cần, nhưng tối nay con vui vì có cả nhà, không phải vì đồ vật.",
+      "Money buys what we need, but tonight’s joy came from family, not things."
+     ],
+     [
+      "Thời gian bên nhau, sức khoẻ, tình thân là những thứ quý mà tiền không mua được",
+      "Time together, health and family are precious things money can’t buy",
+      1,
+      "Đồ vật vui một lúc, còn những phút bên nhau thì nhớ mãi.",
+      "Things are fun for a while; moments together are remembered for ever."
+     ],
+     [
+      "Lần sau xin ba mẹ thêm đồ chơi cho vui hơn",
+      "Next time ask for more toys to have more fun",
+      0,
+      "Đồ chơi mới vui nhanh rồi cũng hết. Rủ cả nhà kể chuyện có khi còn vui hơn.",
+      "New toys thrill then fade. Getting the family telling stories can be even better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng bà, An đòi mua một con diều in hình rất đắt. Bà đề nghị hai bà cháu về tự làm diều bằng giấy và tre rồi cùng thả.",
+     "At the park with Grandma, An begs for an expensive printed kite. Grandma suggests they make one together from paper and bamboo and fly it."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An think about it?"
+    ],
+    "o": [
+     [
+      "Thử làm cùng bà, vì buổi chiều cùng bà là món quà không mua được",
+      "Try making it with Grandma, because an afternoon with her is a gift you can’t buy",
+      1,
+      "Con diều tự làm có thể không đẹp bằng, nhưng kỷ niệm cùng bà thì quý hơn nhiều.",
+      "A homemade kite may look plainer, but the memory with Grandma is worth far more."
+     ],
+     [
+      "Phải mua diều đẹp mới vui",
+      "Only a fancy kite will be fun",
+      0,
+      "Vui khi thả diều đến từ gió, từ người cùng chơi, không chỉ từ hình in trên diều.",
+      "Kite fun comes from the wind and the company, not just the picture on it."
+     ],
+     [
+      "Giận dỗi không chơi nữa",
+      "Sulk and refuse to play",
+      0,
+      "Dỗi thì mất cả buổi chiều đẹp. Thử đề nghị của bà biết đâu lại thích hơn.",
+      "Sulking loses a lovely afternoon. Trying Grandma’s idea might turn out better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm điều quý không mua được",
+    "Five precious things money can’t buy"
+   ],
+   "s": [
+    "Con viết 5 điều quý giá mà tiền không mua được, rồi dành 15 phút chơi hoặc trò chuyện với một người thân (không dùng màn hình). Kể cho ba mẹ con đã làm gì.",
+    "Write 5 precious things money can’t buy, then spend 15 screen-free minutes playing or chatting with a family member. Tell your parent what you did."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ 5 điều và chơi cùng con 15 phút.",
+     "Your parent helps think of 5 things and plays with you for 15 minutes."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết và tự rủ một người thân chơi.",
+     "With one reminder, you write the list and invite a relative to play."
+    ],
+    [
+     "Con tự viết, tự chọn người và hoạt động, rồi kể điều con thấy quý nhất trong 15 phút ấy.",
+     "You write the list, choose the person and activity, then share the best part of those 15 minutes."
+    ]
+   ],
+   "rw": [
+    "Ông bà hoặc ba mẹ kể chuyện kỷ niệm vui nhất của gia đình",
+    "Grandparents or parents tell the family’s happiest memory"
+   ]
+  }
+ }
+]

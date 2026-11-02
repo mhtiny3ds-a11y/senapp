@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Đường bị chắn, đi lối nào?",
+   "Path blocked? Find another way"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin cùng mẹ đi bộ sang nhà bà. Con hẻm quen hôm nay đang sửa, có rào chắn ngang lối.",
+   "Bin and Mum are walking to Grandma’s. Their usual alley is being repaired and there’s a barrier across it."
+  ],
+  "cq": [
+   "Bin và mẹ nên làm gì?",
+   "What should Bin and Mum do?"
+  ],
+  "co": [
+   [
+    "Chui qua rào chắn cho nhanh",
+    "Squeeze under the barrier",
+    0,
+    "Rào chắn để giữ mọi người an toàn. Mình tìm đường khác nhé.",
+    "Barriers keep people safe. Let’s find another way."
+   ],
+   [
+    "Cùng mẹ nghĩ xem còn đường nào khác để đến nhà bà",
+    "Think with Mum about another way to Grandma’s",
+    1,
+    "Một đường không đi được thì còn đường khác. Bình tĩnh nghĩ là sẽ tìm ra.",
+    "If one way is shut, there’s another. Stay calm and you’ll find it."
+   ],
+   [
+    "Đòi về nhà, không đi nữa",
+    "Want to go home and give up",
+    0,
+    "Bỏ cuộc thì không gặp được bà. Con thử cùng mẹ tìm lối khác xem.",
+    "Giving up means no visit to Grandma. Try finding another way with Mum."
+   ]
+  ],
+  "qq": [
+   "Một con đường bị chắn thì…",
+   "When a path is blocked…"
+  ],
+  "qo": [
+   [
+    "Tìm đường khác",
+    "Find another way"
+   ],
+   [
+    "Chui qua rào",
+    "Squeeze under the barrier"
+   ],
+   [
+    "Bỏ cuộc luôn",
+    "Give up"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba vừa lau sàn hành lang, sàn còn ướt. Bin muốn đi từ phòng ngủ ra bếp.",
+     "Dad has just mopped the hallway and it’s still wet. Bin wants to get from his bedroom to the kitchen."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy thật nhanh qua sàn ướt",
+      "Run quickly across the wet floor",
+      0,
+      "Chạy trên sàn ướt dễ trượt ngã. Con chờ hoặc hỏi ba lối khác nhé.",
+      "Running on a wet floor can make you slip. Wait or ask Dad."
+     ],
+     [
+      "Giục ba lau nhanh lên",
+      "Tell Dad to hurry up",
+      0,
+      "Giục ba thì sàn cũng chưa khô ngay. Con thử nghĩ cách khác nhé.",
+      "Hurrying Dad won’t dry the floor. Think of another way."
+     ],
+     [
+      "Hỏi ba, rồi chờ sàn khô hoặc đi lối khác",
+      "Ask Dad, then wait for it to dry or use another way",
+      1,
+      "Sàn ướt rất trơn. Chờ một chút hoặc đi lối khác là an toàn.",
+      "Wet floors are slippery. Waiting or using another way is safe."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cầu thang gần lớp Bin đang sửa, có biển “Tạm dừng sử dụng”. Bin cần xuống sân.",
+     "The stairs by Bin’s classroom are being fixed and have a “Closed” sign. Bin needs to go down to the yard."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi cô giáo và đi cầu thang phía bên kia",
+      "Ask the teacher and use the other stairs",
+      1,
+      "Hỏi người lớn giúp con biết lối đi an toàn khác.",
+      "Asking a grown-up shows you another safe way."
+     ],
+     [
+      "Lách qua biển để đi",
+      "Slip past the sign",
+      0,
+      "Biển báo dừng là vì chỗ đó chưa an toàn. Con hỏi cô lối khác nhé.",
+      "The sign is there because it isn’t safe. Ask for another way."
+     ],
+     [
+      "Đứng khóc vì không xuống được",
+      "Stand there crying",
+      0,
+      "Đừng lo, trường luôn có lối khác. Con hỏi cô nhé.",
+      "Don’t worry, there’s always another way. Ask the teacher."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm hai lối đi khác nhau",
+    "Find two different routes"
+   ],
+   "s": [
+    "Con cùng ba mẹ tìm hai lối đi khác nhau từ nhà đến một chỗ quen (chợ, công viên, nhà bà), có thể xem trên bản đồ hoặc đi thử.",
+    "With Mum or Dad, find two different ways from home to a familiar place (shop, park, Grandma’s), on a map or by walking."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ hai lối đi, con nhìn và nói lại.",
+     "Mum or Dad shows two routes and you say them back."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chỉ ra lối thứ hai.",
+     "Mum or Dad reminds you once, then you find the second route."
+    ],
+    [
+     "Con tự tìm hai lối và nói lối nào nên đi khi một đường bị chắn.",
+     "You find both routes and say which to use if one is blocked."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con vẽ bản đồ khu phố nhà mình",
+    "Draw a map of your neighbourhood with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Biển báo nói gì?",
+   "What signs tell us"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, Bin thấy tấm biển vẽ bông hoa có gạch chéo màu đỏ. Bin hỏi ba: “Cái này là gì ạ?”",
+   "In the park, Bin sees a sign with a flower crossed out in red. He asks Dad, “What’s that?”"
+  ],
+  "cq": [
+   "Bin có thể đoán thế nào?",
+   "How could Bin work it out?"
+  ],
+  "co": [
+   [
+    "Không cần để ý biển báo",
+    "Ignore the sign",
+    0,
+    "Biển báo nói cho mình biết điều cần làm. Để ý một chút nhé.",
+    "Signs tell us what to do. It’s worth a look."
+   ],
+   [
+    "Nghĩ biển đó chỉ để trang trí cho đẹp",
+    "Think it’s just there to look nice",
+    0,
+    "Biển báo có ý nghĩa riêng. Con nhìn hình và đoán thử xem.",
+    "Signs have a meaning. Look at the picture and guess."
+   ],
+   [
+    "Nhìn hình: bông hoa bị gạch chéo, chắc là “không hái hoa”",
+    "Look at the picture: a crossed-out flower probably means “don’t pick flowers”",
+    1,
+    "Gạch chéo đỏ thường có nghĩa là “không được”. Nhìn kỹ hình vẽ là đoán được ý.",
+    "A red cross usually means “don’t”. Look closely at the picture to work it out."
+   ]
+  ],
+  "qq": [
+   "Biển có gạch chéo đỏ thường nghĩa là…",
+   "A sign with a red cross usually means…"
+  ],
+  "qo": [
+   [
+    "Được làm thoải mái",
+    "Go ahead"
+   ],
+   [
+    "Chỉ để trang trí",
+    "It’s just decoration"
+   ],
+   [
+    "Không được làm điều đó",
+    "Don’t do that"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Trên chai nước tẩy rửa trong nhà có hình cảnh báo. Bin tò mò cầm lên xem.",
+     "A bottle of cleaner at home has a warning picture on it. Bin picks it up, curious."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không mở, đặt xuống và hỏi ba mẹ hình đó nghĩa là gì",
+      "Leave it closed, put it down and ask what the picture means",
+      1,
+      "Hình cảnh báo nghĩa là cần cẩn thận. Hỏi ba mẹ là cách an toàn nhất.",
+      "Warning pictures mean “be careful”. Asking a parent is safest."
+     ],
+     [
+      "Mở nắp xem bên trong có gì",
+      "Open the lid to look inside",
+      0,
+      "Chai có hình cảnh báo thì không tự mở. Con hỏi ba mẹ nhé.",
+      "Bottles with warning signs aren’t for opening. Ask a parent."
+     ],
+     [
+      "Nghĩ đó là hình vẽ cho vui",
+      "Think it’s just a fun picture",
+      0,
+      "Hình trên chai có ý nghĩa đấy. Con hỏi ba mẹ để biết nhé.",
+      "That picture means something. Ask a parent to find out."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Trong trường, phía trên một cánh cửa có biển màu xanh vẽ hình người đang chạy và mũi tên.",
+     "At school, there’s a green sign above a door showing a running person and an arrow."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không để ý",
+      "Not bother looking",
+      0,
+      "Biển này rất có ích. Con hỏi cô để biết nhé.",
+      "This sign is very useful. Ask the teacher."
+     ],
+     [
+      "Hỏi cô và biết đó là lối ra ngoài khi cần",
+      "Ask the teacher and learn it’s the way out in an emergency",
+      1,
+      "Biết các biển báo trong trường giúp con biết đi đâu khi cần.",
+      "Knowing school signs helps you know where to go if needed."
+     ],
+     [
+      "Đoán bừa là phòng chơi",
+      "Guess it’s a playroom",
+      0,
+      "Đoán bừa dễ sai. Nhìn kỹ hình và hỏi cô nhé.",
+      "Wild guesses are often wrong. Look closely and ask."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đoán ý nghĩa ba biển báo",
+    "Work out three signs"
+   ],
+   "s": [
+    "Con cùng ba mẹ tìm ba biển báo hoặc ký hiệu quanh nhà, khu phố, đoán ý nghĩa của chúng rồi hỏi ba mẹ xem đúng chưa.",
+    "With Mum or Dad, find three signs or symbols around home or the neighbourhood, guess what they mean, then check with them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ biển, con nhìn hình và đoán cùng ba mẹ.",
+     "Mum or Dad points to a sign and you guess together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm và đoán ba biển.",
+     "Mum or Dad reminds you once, then you find and guess three signs."
+    ],
+    [
+     "Con tự tìm ba biển, giải thích vì sao con đoán như vậy.",
+     "You find three signs and explain why you guessed what you did."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một tấm biển vui treo cửa phòng con",
+    "Make a fun sign for your bedroom door together"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Qua đường an toàn",
+   "Crossing the road safely"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin và mẹ đứng ở vạch kẻ đường. Bên kia đường có xe bán kem, Bin muốn chạy sang ngay.",
+   "Bin and Mum are at the zebra crossing. There’s an ice cream cart across the road and Bin wants to dash over."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nắm tay mẹ, dừng lại, nhìn trái, nhìn phải rồi cùng mẹ đi qua",
+    "Hold Mum’s hand, stop, look left and right, then cross together",
+    1,
+    "Dừng, nhìn và nắm tay người lớn giúp con qua đường an toàn. Kem vẫn chờ con mà.",
+    "Stopping, looking and holding a grown-up’s hand keeps you safe. The ice cream will wait."
+   ],
+   [
+    "Buông tay mẹ chạy sang thật nhanh",
+    "Let go and run across quickly",
+    0,
+    "Chạy qua đường rất nguy hiểm vì xe có thể không kịp thấy con. Con nắm tay mẹ nhé.",
+    "Running across is dangerous because drivers may not see you. Hold Mum’s hand."
+   ],
+   [
+    "Vừa đi vừa nhìn xe kem",
+    "Cross while watching the ice cream",
+    0,
+    "Khi qua đường, mắt con cần nhìn xe cộ. Con nhìn trái phải trước nhé.",
+    "When crossing, your eyes need to be on the traffic. Look left and right first."
+   ]
+  ],
+  "qq": [
+   "Qua đường cần làm gì?",
+   "How do we cross the road?"
+  ],
+  "qo": [
+   [
+    "Chạy thật nhanh",
+    "Run fast"
+   ],
+   [
+    "Nắm tay người lớn, dừng, nhìn rồi mới đi",
+    "Hold a grown-up’s hand, stop, look, then go"
+   ],
+   [
+    "Vừa đi vừa chơi",
+    "Play as you go"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Trước khi ra khỏi nhà, mẹ hỏi Bin: “Qua đường mình làm những bước nào?”",
+     "Before going out, Mum asks Bin, “What steps do we do to cross the road?”"
+    ],
+    "q": [
+     "Bin nên trả lời gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Con chạy thật nhanh là được”",
+      "“I just run fast”",
+      0,
+      "Chạy nhanh không an toàn. Con nhớ: dừng, nhìn, nắm tay nhé.",
+      "Running isn’t safe. Remember: stop, look, hold hands."
+     ],
+     [
+      "“Nắm tay mẹ, dừng lại, nhìn trái phải rồi mới đi ạ”",
+      "“Hold your hand, stop, look left and right, then go”",
+      1,
+      "Nhớ thuộc các bước ở nhà thì ra đường con làm đúng ngay.",
+      "Learning the steps at home means you’ll do them right outside."
+     ],
+     [
+      "“Con không cần nhớ, mẹ lo rồi”",
+      "“I don’t need to know, you’ll do it”",
+      0,
+      "Mẹ luôn đi cùng con, nhưng con nhớ các bước thì càng an toàn.",
+      "Mum is always with you, but knowing the steps makes you safer still."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tan học, Na rủ Bin chạy qua đường mua bánh ở hàng bên kia trong lúc chờ ba mẹ đến đón.",
+     "After school, Na asks Bin to run across the road to buy a snack while they wait for their parents."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy theo Na",
+      "Run after Na",
+      0,
+      "Qua đường không có người lớn rất nguy hiểm. Con ở lại và báo cô nhé.",
+      "Crossing without a grown-up is dangerous. Stay and tell the teacher."
+     ],
+     [
+      "Tự qua đường nhưng đi chậm",
+      "Cross alone but slowly",
+      0,
+      "Đi chậm vẫn chưa an toàn khi không có người lớn. Con chờ ba mẹ nhé.",
+      "Slowly still isn’t safe without a grown-up. Wait for your parents."
+     ],
+     [
+      "Nói không, cùng Na đứng chờ ba mẹ ở cổng trường với cô",
+      "Say no and wait with Na and the teacher at the gate",
+      1,
+      "Trẻ nhỏ chỉ qua đường khi có người lớn nắm tay. Chờ ba mẹ là an toàn nhất.",
+      "Young children only cross holding a grown-up’s hand. Waiting for parents is safest."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập qua đường: dừng, nhìn, nắm tay",
+    "Practise crossing: stop, look, hold hands"
+   ],
+   "s": [
+    "Khi đi cùng ba mẹ, con tập qua đường ở vạch kẻ: nắm tay ba mẹ, dừng lại, nhìn trái, nhìn phải rồi mới đi.",
+    "Out with Mum or Dad, practise at a crossing: hold their hand, stop, look left and right, then cross."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói từng bước, con làm theo.",
+     "Mum or Dad says each step and you follow."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nắm tay và làm đủ các bước.",
+     "Mum or Dad reminds you once, then you hold hands and do every step."
+    ],
+    [
+     "Con tự nhớ nắm tay ba mẹ và nói to từng bước khi qua đường.",
+     "You remember to hold hands and say each step aloud as you cross."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi trò “đèn xanh đèn đỏ” ở nhà",
+    "The family plays “red light, green light” at home"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Xem giờ trên đồng hồ",
+   "Reading the clock"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ nói: “Bảy giờ mình đi học nhé.” Bin cứ chạy ra hỏi mẹ: “Đến giờ chưa ạ?”",
+   "Mum says, “We leave for school at seven.” Bin keeps running over to ask, “Is it time yet?”"
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Cứ hỏi mẹ mãi",
+    "Keep asking Mum",
+    0,
+    "Mẹ đang bận chuẩn bị. Học xem đồng hồ thì con tự biết được.",
+    "Mum is busy getting ready. Learning the clock lets you check yourself."
+   ],
+   [
+    "Nhờ mẹ chỉ cách xem: kim ngắn chỉ số 7, kim dài chỉ số 12 là bảy giờ",
+    "Ask Mum to show him: short hand on 7, long hand on 12 means seven o’clock",
+    1,
+    "Biết xem giờ, con tự biết lúc nào làm việc gì mà không cần hỏi mãi.",
+    "When you can read the clock, you know what’s next without asking."
+   ],
+   [
+    "Đoán đại là còn lâu",
+    "Guess there’s ages left",
+    0,
+    "Đoán đại dễ bị muộn. Nhìn đồng hồ sẽ chắc hơn.",
+    "Guessing can make you late. The clock knows for sure."
+   ]
+  ],
+  "qq": [
+   "Đồng hồ chỉ 7 giờ đúng khi…",
+   "It’s seven o’clock when…"
+  ],
+  "qo": [
+   [
+    "Kim dài chỉ số 7",
+    "The long hand is on 7"
+   ],
+   [
+    "Hai kim chỉ cùng số 12",
+    "Both hands point to 12"
+   ],
+   [
+    "Kim ngắn chỉ số 7, kim dài chỉ số 12",
+    "The short hand is on 7 and the long hand on 12"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô nói: “Đến 10 giờ cả lớp ra chơi.” Trên tường lớp có đồng hồ kim.",
+     "The teacher says, “Break is at ten.” There’s a clock with hands on the wall."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Nhìn đồng hồ: chờ kim ngắn đến số 10, kim dài đến số 12",
+      "Watch the clock for the short hand on 10 and long hand on 12",
+      1,
+      "Tự xem đồng hồ giúp con chờ bình tĩnh và tập trung học.",
+      "Checking the clock yourself helps you wait calmly and focus."
+     ],
+     [
+      "Hỏi cô liên tục",
+      "Keep asking the teacher",
+      0,
+      "Hỏi nhiều làm cả lớp mất tập trung. Con nhìn đồng hồ nhé.",
+      "Lots of asking distracts the class. Look at the clock."
+     ],
+     [
+      "Đứng dậy ra cửa trước",
+      "Get up and go to the door early",
+      0,
+      "Chưa đến giờ thì vẫn là giờ học. Con xem đồng hồ rồi chờ nhé.",
+      "It’s still lesson time. Check the clock and wait."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ba nói: “Mình chơi ở công viên đến 5 giờ rồi về nhé.” Ba có đeo đồng hồ.",
+     "Dad says, “We’ll play in the park until five, then go home.” Dad is wearing a watch."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Chơi mãi không để ý giờ",
+      "Play without thinking about the time",
+      0,
+      "Đến giờ về đột ngột con sẽ tiếc. Xem giờ giúp con chuẩn bị trước.",
+      "A sudden “time to go” feels bad. Checking helps you get ready."
+     ],
+     [
+      "Khóc khi ba gọi về",
+      "Cry when Dad says it’s time",
+      0,
+      "Con đã biết trước giờ về rồi mà. Xem đồng hồ cùng ba sẽ dễ hơn.",
+      "You knew when it was time. Checking the watch together makes it easier."
+     ],
+     [
+      "Thỉnh thoảng xin xem đồng hồ của ba và tự đọc giờ",
+      "Ask to look at Dad’s watch now and then and read it",
+      1,
+      "Biết còn bao lâu giúp con chuẩn bị tinh thần khi đến giờ về.",
+      "Knowing how long is left helps you get ready to leave."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đọc giờ trên đồng hồ kim ba lần",
+    "Read the clock three times"
+   ],
+   "s": [
+    "Trong ngày, con đọc giờ trên đồng hồ kim ba lần (ví dụ giờ ăn sáng, giờ ăn tối, giờ đi ngủ) và nói to cho ba mẹ nghe.",
+    "Read a clock with hands three times today (say breakfast, dinner and bedtime) and tell Mum or Dad the time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ kim ngắn, kim dài, con đọc theo.",
+     "Mum or Dad points out the hands and you read along."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc giờ.",
+     "Mum or Dad reminds you once, then you read it yourself."
+    ],
+    [
+     "Con tự nhớ xem đồng hồ ba lần và nói đúng giờ.",
+     "You remember to check three times and say the right time."
+    ]
+   ],
+   "rw": [
+    "Được chọn bài hát trên đường đi học",
+    "You choose the song on the way to school"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Sửa đồ trước khi mua mới",
+   "Fix it before buying new"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cuốn truyện Bin thích bị rách một trang. Bin bảo mẹ: “Mẹ mua cuốn mới đi.”",
+   "Bin’s favourite storybook has a torn page. He says to Mum, “Let’s buy a new one.”"
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Vứt cuốn truyện đi",
+    "Throw the book away",
+    0,
+    "Chỉ rách một trang thôi mà. Dán lại là đọc tiếp được.",
+    "It’s only one page. Tape it and keep reading."
+   ],
+   [
+    "Cùng mẹ dán lại trang rách bằng băng dính",
+    "Tape the torn page with Mum",
+    1,
+    "Đồ hỏng nhẹ sửa được thì vừa tiết kiệm tiền, vừa giữ được món đồ mình quý.",
+    "Fixing small damage saves money and keeps the things you love."
+   ],
+   [
+    "Giận vì truyện rách, không đọc nữa",
+    "Get cross and stop reading it",
+    0,
+    "Buồn là bình thường, nhưng truyện vẫn sửa được. Con thử dán cùng mẹ nhé.",
+    "Feeling sad is fine, but it can be fixed. Try taping it with Mum."
+   ]
+  ],
+  "qq": [
+   "Đồ hỏng nhẹ thì nên…",
+   "When something is a little broken, you…"
+  ],
+  "qo": [
+   [
+    "Vứt ngay",
+    "Throw it away"
+   ],
+   [
+    "Thử sửa lại trước",
+    "Try fixing it first"
+   ],
+   [
+    "Đòi mua mới",
+    "Ask for a new one"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, quyển vở của Bin bị bung bìa.",
+     "In class, the cover comes off Bin’s exercise book."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xé luôn bìa vứt đi",
+      "Tear the cover off and bin it",
+      0,
+      "Không có bìa thì vở dễ rách thêm. Dán lại sẽ tốt hơn.",
+      "Without a cover it’ll tear more. Taping is better."
+     ],
+     [
+      "Bỏ vở, về đòi mua vở mới",
+      "Give up on it and ask for a new one",
+      0,
+      "Vở vẫn còn dùng tốt. Sửa một chút là xong.",
+      "It still works fine. A little fix will do."
+     ],
+     [
+      "Xin cô băng dính, dán lại bìa cẩn thận",
+      "Ask the teacher for tape and stick it back carefully",
+      1,
+      "Dán lại là vở dùng tiếp được, không cần mua quyển mới.",
+      "Taping it means the book still works, no new one needed."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên với ba, dép của Bin bị tuột quai. Bin đòi ba mua đôi mới ở hàng gần đó.",
+     "At the park with Dad, Bin’s sandal strap comes loose. He wants Dad to buy new ones from a nearby stall."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi ba xem có cài lại được không, về nhà cùng sửa",
+      "Ask Dad if it can be fixed, and mend it together at home",
+      1,
+      "Nhiều đồ hỏng nhẹ sửa lại vẫn dùng tốt. Mình tiết kiệm được tiền.",
+      "Lots of small breaks can be fixed. That saves money."
+     ],
+     [
+      "Khóc đòi mua ngay",
+      "Cry for new ones now",
+      0,
+      "Thử sửa trước đã con nhé. Nếu không sửa được, ba mẹ sẽ tính sau.",
+      "Try fixing first. If it can’t be mended, your parents will decide later."
+     ],
+     [
+      "Vứt dép đi, đi chân không",
+      "Throw it away and go barefoot",
+      0,
+      "Đi chân không dễ bị đau chân. Con giữ dép lại để sửa nhé.",
+      "Bare feet can get hurt. Keep the sandal to fix it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cùng ba mẹ sửa một món đồ",
+    "Fix something with Mum or Dad"
+   ],
+   "s": [
+    "Con tìm một món đồ hỏng nhẹ trong nhà (sách rách, đồ chơi lỏng, khuy áo bung) và cùng ba mẹ sửa lại. Ba mẹ làm phần cần dụng cụ.",
+    "Find something slightly broken at home (torn book, loose toy, missing button) and fix it with Mum or Dad. They handle any tools."
+   ],
+   "lv": [
+    [
+     "Ba mẹ sửa, con giúp giữ và đưa đồ.",
+     "Mum or Dad mends it while you hold things and pass them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm món cần sửa và cùng làm.",
+     "Mum or Dad reminds you once; you find something to fix and help."
+    ],
+    [
+     "Con tự tìm đồ cần sửa, tự dán hoặc buộc lại phần đơn giản và kể cho ba mẹ.",
+     "You find something, do the simple taping or tying yourself and tell your parents."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ khen con là “thợ sửa nhí” trước cả nhà",
+    "Mum and Dad call you the family’s “little fixer” in front of everyone"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Ảnh và video có thể bị chỉnh sửa",
+   "Photos and videos can be edited"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm chat lớp lan truyền bức ảnh “con cá dài mười mét bắt được ở hồ gần trường”. Cả lớp xôn xao, Nam bảo: “Có ảnh hẳn hoi, chắc chắn là thật!”",
+   "A photo spreads in the class group chat: “a ten-metre fish caught in the lake near school”. Everyone’s buzzing, and Nam says, “There’s a photo, so it must be true!”"
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "What should An think?"
+  ],
+  "co": [
+   [
+    "Tự hỏi: ai chụp, chụp ở đâu, có nguồn tin cậy nào khác nói vậy không; rồi hỏi thầy cô",
+    "Ask: who took it, where, does any reliable source say the same? Then ask a teacher",
+    1,
+    "Ảnh có thể bị ghép hoặc sửa rất khéo. Hỏi nguồn và kiểm tra trước khi tin là thói quen thông minh.",
+    "Photos can be cleverly edited or combined. Checking the source before believing is a smart habit."
+   ],
+   [
+    "Tin ngay và gửi tiếp cho nhóm khác",
+    "Believe it and forward it to other groups",
+    0,
+    "Gửi tiếp khi chưa kiểm tra có thể lan tin sai. Dừng lại hỏi nguồn trước nhé.",
+    "Forwarding without checking can spread false news. Pause and check the source first."
+   ],
+   [
+    "Chê những bạn tin là ngốc",
+    "Call the people who believe it silly",
+    0,
+    "Ai cũng có thể bị ảnh sửa đánh lừa. Cùng nhau kiểm tra sẽ tốt hơn chê bạn.",
+    "Anyone can be fooled by an edited photo. Checking together is kinder than mocking."
+   ]
+  ],
+  "qq": [
+   "Trước khi tin một bức ảnh lạ, nên làm gì?",
+   "Before believing a surprising photo, you should…"
+  ],
+  "qo": [
+   [
+    "Xem có bao nhiêu người thích nó",
+    "See how many people liked it"
+   ],
+   [
+    "Tin ngay vì ảnh không thể nói dối",
+    "Believe it, photos can’t lie"
+   ],
+   [
+    "Hỏi nguồn và kiểm tra ở nơi tin cậy",
+    "Ask where it’s from and check a reliable source"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Bống xem một đoạn video “chú mèo nói được tiếng người” và tin là thật, đòi nuôi một con giống vậy.",
+     "Little Bống watches a video of “a cat that talks like a person”, believes it, and wants one just like it."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cười em rồi bỏ đi",
+      "Laugh at her and walk off",
+      0,
+      "Em còn nhỏ nên dễ tin. Giải thích nhẹ nhàng sẽ giúp em hơn.",
+      "She’s little and believes easily. A gentle explanation helps more."
+     ],
+     [
+      "Bảo em “Ừ, thật đấy”",
+      "Tell her, “Yes, it’s real”",
+      0,
+      "Đồng ý cho xong thì em vẫn hiểu sai. Cùng em tìm hiểu nhé.",
+      "Agreeing just to end it leaves her confused. Explore it together."
+     ],
+     [
+      "Giải thích video có thể được ghép tiếng, rồi cùng em hỏi ba mẹ cách nhận ra",
+      "Explain videos can have voices added, then ask Mum or Dad together how to spot it",
+      1,
+      "Video cũng có thể được chỉnh sửa. Giúp em biết hỏi và kiểm tra là món quà rất hay.",
+      "Videos can be edited too. Helping her learn to check is a great gift."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở tiệm bánh cùng mẹ, An thấy ảnh quảng cáo chiếc bánh cao, phủ kem dày. Chiếc bánh thật trong tủ lại nhỏ và thấp hơn nhiều.",
+     "At a bakery with Mum, An sees an advert photo of a tall cake with thick cream. The real one in the cabinet is much smaller and flatter."
+    ],
+    "q": [
+     "An rút ra điều gì?",
+     "What should An take from this?"
+    ],
+    "o": [
+     [
+      "Ảnh quảng cáo có thể được chỉnh cho đẹp hơn thật; nên nhìn món thật và hỏi người bán trước khi chọn",
+      "Advert photos can be made to look better than real life; look at the real thing and ask before choosing",
+      1,
+      "Ảnh minh hoạ thường được làm đẹp. Nhìn tận mắt và hỏi kỹ giúp mình chọn đúng.",
+      "Advert pictures are often polished. Looking for yourself and asking helps you choose well."
+     ],
+     [
+      "Tiệm này lừa đảo, không bao giờ quay lại",
+      "The shop is a scam, never come back",
+      0,
+      "Ảnh quảng cáo hay được làm đẹp, chưa chắc tiệm cố ý lừa. Cứ hỏi lại cho rõ nhé.",
+      "Advert photos are often polished; it may not be a trick. Just ask to be sure."
+     ],
+     [
+      "Chắc bánh trong tủ là bánh hỏng",
+      "The cake in the cabinet must be a bad one",
+      0,
+      "Thường là ảnh đã được chỉnh, không phải bánh hỏng. So sánh và hỏi người bán nhé.",
+      "Usually the photo is edited, not the cake faulty. Compare and ask the shop."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm điểm khác của ảnh đã sửa",
+    "Spot the edits"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem 2 cặp ảnh trước và sau khi chỉnh sửa (ba mẹ có thể tự chỉnh một ảnh gia đình bằng điện thoại). Con tìm ra các điểm khác và nói một câu: vì sao cần kiểm tra trước khi tin ảnh.",
+    "Look at 2 pairs of before-and-after edited photos with your parents (they can edit a family photo on a phone). Find the differences and say one sentence about why we check before believing photos."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chỉ ra từng điểm khác.",
+     "Your parent points out each difference with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm các điểm khác.",
+     "With one reminder, you find the differences yourself."
+    ],
+    [
+     "Con tự tìm hết điểm khác và giải thích 3 câu hỏi nên đặt ra trước khi tin một bức ảnh.",
+     "You find them all and explain three questions to ask before trusting a photo."
+    ]
+   ],
+   "rw": [
+    "Được chọn một ảnh gia đình để in và lồng khung",
+    "You choose a family photo to print and frame"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Người lạ nhắn tin làm quen",
+   "A stranger messages me online"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An đang chơi trò ô chữ trên máy tính bảng ở nhà thì có người lạ nhắn: “Mình cũng 10 tuổi. Gửi ảnh và cho mình biết cậu học trường nào, cuối tuần gặp nhé!”",
+   "An is doing a word puzzle on the tablet at home when a stranger messages: “I’m 10 too. Send a photo and tell me your school, let’s meet at the weekend!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Trả lời vì bạn ấy cũng 10 tuổi",
+    "Reply, since they say they’re 10",
+    0,
+    "Trên mạng ai cũng có thể nói mình bao nhiêu tuổi. Không trả lời người lạ và báo ba mẹ nhé.",
+    "Online, anyone can claim any age. Don’t reply to strangers, and tell your parents."
+   ],
+   [
+    "Chặn người đó rồi thôi, không kể với ai",
+    "Block them and tell no one",
+    0,
+    "Không trả lời là đúng, nhưng ba mẹ cần biết để bảo vệ con và báo cáo tài khoản đó.",
+    "Not replying is right, but your parents need to know so they can protect you and report it."
+   ],
+   [
+    "Không trả lời, không gửi ảnh hay thông tin gì, đưa ngay máy cho ba mẹ xem",
+    "Don’t reply, send no photo or details, and show your parent straight away",
+    1,
+    "Quy tắc 4 không: không trả lời, không gửi ảnh, không cho thông tin, không hẹn gặp, và luôn báo ba mẹ ngay.",
+    "The four no’s: no reply, no photos, no details, no meeting, and always tell a parent right away."
+   ]
+  ],
+  "qq": [
+   "Khi người lạ trên mạng muốn làm quen, điều quan trọng nhất là gì?",
+   "When a stranger online wants to be friends, the most important thing is…"
+  ],
+  "qo": [
+   [
+    "Báo ba mẹ ngay, không gửi gì và không hẹn gặp",
+    "Tell a parent at once, send nothing and never meet"
+   ],
+   [
+    "Hỏi tuổi trước rồi mới nói chuyện",
+    "Ask their age first, then chat"
+   ],
+   [
+    "Chỉ gửi ảnh, không gửi địa chỉ",
+    "Send a photo but not your address"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, Vy kể có người lạ trên mạng hay khen tranh Vy vẽ, xin số điện thoại và dặn “đừng kể với ai nhé”.",
+     "At break, Vy says a stranger online keeps praising her drawings, asked for her phone number and said, “Don’t tell anyone.”"
+    ],
+    "q": [
+     "An nên nói gì với Vy?",
+     "What should An say to Vy?"
+    ],
+    "o": [
+     [
+      "“Hay quá, cậu có bạn mới rồi”",
+      "“Cool, you’ve got a new friend”",
+      0,
+      "Người lạ dặn giữ bí mật là dấu hiệu đáng lo. Hãy khuyên bạn kể với người lớn.",
+      "A stranger asking for secrets is a warning sign. Encourage her to tell an adult."
+     ],
+     [
+      "“Ai bảo giữ bí mật với ba mẹ là đáng lo đấy. Cậu kể với ba mẹ hoặc cô nhé, tớ đi cùng cậu”",
+      "“Someone who wants you to keep secrets from your parents is worrying. Tell your parents or the teacher; I’ll come with you”",
+      1,
+      "Bạn tốt giúp bạn tìm người lớn tin cậy. Đi cùng bạn sẽ làm bạn đỡ ngại.",
+      "A good friend helps you reach a trusted adult. Going together makes it easier."
+     ],
+     [
+      "Hứa giữ bí mật cho Vy",
+      "Promise to keep Vy’s secret",
+      0,
+      "Bí mật làm bạn có thể gặp nguy hiểm thì không nên giữ. Kể với người lớn là đang bảo vệ bạn.",
+      "Secrets that could put a friend in danger shouldn’t be kept. Telling an adult protects her."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang chờ mẹ ở phòng khám, An mượn điện thoại của mẹ chơi. Một tin nhắn lạ hỏi: “Em ơi, nhà em ở đâu?”",
+     "Waiting with Mum at the clinic, An is playing on her phone. A strange message asks, “Hey, where do you live?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đưa ngay điện thoại cho mẹ xem, không trả lời gì",
+      "Hand the phone to Mum right away and don’t reply",
+      1,
+      "Mẹ ở ngay cạnh, cho mẹ xem là cách an toàn và nhanh nhất.",
+      "Mum’s right there; showing her is the fastest, safest move."
+     ],
+     [
+      "Trả lời tên phường cho lịch sự",
+      "Reply with your area to be polite",
+      0,
+      "Không bao giờ cho người lạ biết nơi ở, dù chỉ một phần. Đưa mẹ xem nhé.",
+      "Never tell strangers where you live, even part of it. Show Mum."
+     ],
+     [
+      "Hỏi lại “Anh là ai?”",
+      "Reply, “Who are you?”",
+      0,
+      "Hỏi lại là đã bắt đầu trò chuyện với người lạ. Không trả lời và báo mẹ ngay nhé.",
+      "Asking back starts a conversation with a stranger. Don’t reply; tell Mum."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Quy tắc 4 không",
+    "The four no’s"
+   ],
+   "s": [
+    "Con cùng ba mẹ viết “quy tắc 4 không” khi người lạ nhắn tin: không trả lời, không gửi ảnh, không cho thông tin, không hẹn gặp, và luôn báo ba mẹ. Trang trí và dán cạnh máy tính hoặc chỗ để máy tính bảng.",
+    "Write the “four no’s” for stranger messages with your parents: no reply, no photos, no details, no meeting, and always tell a parent. Decorate it and stick it by the computer or tablet spot."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc từng quy tắc, con viết và trang trí.",
+     "Your parent reads each rule; you write and decorate."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết đủ 4 quy tắc rồi dán lên.",
+     "With one reminder, you write all four and stick them up."
+    ],
+    [
+     "Con tự viết, dán lên và giải thích cho ba mẹ vì sao mỗi quy tắc quan trọng.",
+     "You write it, put it up and explain why each rule matters."
+    ]
+   ],
+   "rw": [
+    "Một cái ôm thật chặt và lời khen trước cả nhà",
+    "A big hug and praise in front of the family"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Học trực tuyến không lan man",
+   "Staying on task while studying online"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An lên mạng tìm hiểu về núi lửa cho bài tập. Hai mươi phút sau, An đang xem video chú chó trượt ván, còn tờ ghi chép vẫn trắng tinh.",
+   "An goes online to research volcanoes for homework. Twenty minutes later An is watching a skateboarding dog video and the notes page is still blank."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Xem nốt “một video nữa thôi” rồi làm",
+    "Watch “just one more” first",
+    0,
+    "“Một video nữa” thường thành năm video. Đóng lại ngay khi nhận ra là giỏi rồi.",
+    "“One more” often becomes five. Closing it as soon as you notice is the win."
+   ],
+   [
+    "Bỏ luôn, mai làm",
+    "Give up and do it tomorrow",
+    0,
+    "Lạc đề là chuyện ai cũng gặp. Quay lại với một mục tiêu nhỏ là được.",
+    "Everyone drifts. Just come back with one small goal."
+   ],
+   [
+    "Đóng các trang không liên quan, viết mục tiêu “tìm 3 ý về núi lửa”, đặt hẹn giờ 20 phút",
+    "Close the unrelated tabs, write the goal “find 3 facts about volcanoes”, set a 20-minute timer",
+    1,
+    "Chỉ mở đúng thứ cần và có mục tiêu rõ giúp buổi học ngắn mà xong việc.",
+    "Opening only what you need and setting a clear goal makes study short and done."
+   ]
+  ],
+  "qq": [
+   "Điều gì giúp học trên máy không lan man?",
+   "What helps you stay on task online?"
+  ],
+  "qo": [
+   [
+    "Mở nhiều trang cùng lúc cho tiện",
+    "Opening lots of tabs to be handy"
+   ],
+   [
+    "Chỉ mở thứ cần và đặt mục tiêu cho buổi học",
+    "Opening only what you need and setting a goal"
+   ],
+   [
+    "Vừa học vừa xem video",
+    "Watching videos while studying"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ Tin học, cô cho tra cứu về các loài chim. Bạn ngồi cạnh rủ: “Xem trang hoạt hình này hay lắm!”",
+     "In computing, the teacher has the class research birds. The pupil next to An whispers, “Look at this cartoon site, it’s great!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhẹ nhàng nói “Để giờ ra chơi nhé, tớ đang tìm cho xong ý của mình”",
+      "Say kindly, “Maybe at break, I want to finish my bit first”",
+      1,
+      "Từ chối nhẹ nhàng giúp con giữ được mục tiêu mà bạn không buồn.",
+      "A kind no keeps you on track without upsetting your friend."
+     ],
+     [
+      "Xem cùng bạn một lúc",
+      "Watch with them for a bit",
+      0,
+      "Một lúc dễ thành hết tiết. Giữ mục tiêu trước, xem sau nhé.",
+      "A bit can become the whole lesson. Goal first, fun later."
+     ],
+     [
+      "Mách cô ngay",
+      "Tell the teacher straight away",
+      0,
+      "Thử nhắc bạn nhẹ nhàng trước đã. Nếu bạn vẫn làm phiền thì mới nhờ cô.",
+      "Try a gentle word first. If it keeps happening, then ask the teacher."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố cùng ba, An dùng máy tính tra cứu về loài rùa. Quảng cáo trò chơi cứ nhảy ra bên cạnh.",
+     "At the local library with Dad, An uses a computer to look up turtles. Game ads keep popping up on the side."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bấm thử một quảng cáo xem sao",
+      "Click one ad to see",
+      0,
+      "Quảng cáo được làm để kéo mình đi. Bấm vào dễ lạc đề và có thể không an toàn.",
+      "Ads are designed to pull you away. Clicking can derail you and may not be safe."
+     ],
+     [
+      "Bỏ qua quảng cáo, chỉ đọc trang về rùa, ghi đủ ý rồi đóng máy; nếu quảng cáo lạ thì hỏi ba",
+      "Ignore the ads, read only the turtle page, note your facts and log off; ask Dad if anything looks odd",
+      1,
+      "Tập trung vào đúng thứ cần tìm và nhờ người lớn khi có gì lạ là cách học an toàn.",
+      "Focusing on what you need and asking an adult about anything odd keeps study safe."
+     ],
+     [
+      "Đổi sang chơi trò trong quảng cáo",
+      "Switch to the game in the ad",
+      0,
+      "Thời gian ở thư viện có hạn. Làm xong việc cần làm trước nhé.",
+      "Library time is limited. Finish what you came for first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một buổi học không lạc đề",
+    "One focused study session"
+   ],
+   "s": [
+    "Trong một buổi học trên máy, con viết mục tiêu trước, chỉ mở đúng thứ cần, và ghi lại có lúc nào bị lạc đề không. Cuối buổi cho ba mẹ xem mục tiêu đã xong chưa.",
+    "In one online study session, write your goal first, open only what you need, and note any moments you drifted. At the end, show your parent whether you met the goal."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cạnh cùng con viết mục tiêu và nhắc khi lạc đề.",
+     "Your parent sits with you, helps write the goal and nudges you if you drift."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết mục tiêu và tự ghi lại.",
+     "With one reminder, you write the goal and keep notes yourself."
+    ],
+    [
+     "Con tự làm cả buổi, tự ghi lại lần lạc đề và kể cách con kéo mình quay lại.",
+     "You run the whole session, note any drift, and explain how you got back on track."
+    ]
+   ],
+   "rw": [
+    "Được chọn hoạt động ngoài trời cùng ba mẹ cuối tuần",
+    "You choose a weekend outdoor activity with your parents"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Mua hàng trong ứng dụng",
+   "In-app purchases"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An chơi trò xếp hình trên máy tính bảng của mẹ. Màn hình hiện: “Mua 100 viên kim cương chỉ 49.000đ, bấm ngay!” An nghĩ kim cương ảo thì chắc không phải tiền thật.",
+   "An is playing a puzzle game on Mum’s tablet. A screen pops up: “100 gems for just 49,000 dong, tap now!” An thinks pretend gems can’t cost real money."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bấm mua vì chỉ là kim cương ảo",
+    "Tap buy, they’re only pretend gems",
+    0,
+    "Kim cương ảo nhưng tiền trả là tiền thật trong tài khoản của ba mẹ. Hỏi trước nhé.",
+    "The gems are pretend, but the money is real, from your parents’ account. Ask first."
+   ],
+   [
+    "Đóng thông báo và hỏi mẹ “Cái này có tốn tiền thật không ạ?” trước khi bấm gì",
+    "Close the pop-up and ask Mum, “Does this cost real money?” before tapping anything",
+    1,
+    "Tiền trong ứng dụng là tiền thật. Luôn hỏi ba mẹ trước khi bấm mua là thói quen rất đúng.",
+    "In-app money is real money. Always asking before buying is exactly the right habit."
+   ],
+   [
+    "Bấm thử xem có mua được không, không được thì thôi",
+    "Tap to see if it goes through; if not, fine",
+    0,
+    "Bấm thử có thể mua thật mất rồi. Khi thấy chữ “mua”, dừng lại hỏi ba mẹ nhé.",
+    "Testing might actually buy it. When you see “buy”, stop and ask."
+   ]
+  ],
+  "qq": [
+   "Tiền mua đồ trong ứng dụng là gì?",
+   "Money spent inside apps is…"
+  ],
+  "qo": [
+   [
+    "Tiền giả, không sao",
+    "Pretend money, no problem"
+   ],
+   [
+    "Tiền miễn phí của trò chơi",
+    "Free game money"
+   ],
+   [
+    "Tiền thật, phải hỏi ba mẹ trước",
+    "Real money, ask your parents first"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tí khoe ở lớp: “Tớ mua bộ trang phục trong trò chơi bằng máy của anh tớ, không cần hỏi ai.” Huy rủ An về làm thử.",
+     "Tí boasts in class, “I bought an outfit in a game on my brother’s phone without asking anyone.” Huy suggests An tries it at home."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Tớ sẽ thử tối nay”",
+      "“I’ll try tonight”",
+      0,
+      "Mua không xin phép là tiêu tiền của người khác. Ba mẹ sẽ buồn và lo lắm.",
+      "Buying without asking is spending someone else’s money. Parents would be upset."
+     ],
+     [
+      "“Mua trong trò chơi tốn tiền thật đấy. Tớ phải hỏi ba mẹ trước”",
+      "“Game purchases cost real money. I’d ask my parents first”",
+      1,
+      "Nói rõ điều mình tin một cách nhẹ nhàng giúp cả bạn cũng hiểu ra.",
+      "Saying what you believe calmly may help your friends see it too."
+     ],
+     [
+      "Im lặng cho qua",
+      "Say nothing",
+      0,
+      "Không làm theo là tốt rồi. Nếu nói thêm một câu, bạn có thể hiểu ra đấy.",
+      "Not joining in is good. One sentence might help them understand too."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà bác chơi, An mượn máy tính bảng của chị họ. Trò chơi đòi “mở khoá màn mới 29.000đ”, mật khẩu đã lưu sẵn.",
+     "Visiting an aunt, An borrows a cousin’s tablet. The game offers “unlock new level 29,000 dong”, and the password is already saved."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Không bấm, trả máy và nói với chị họ và người lớn về thông báo đó",
+      "Don’t tap, hand it back and tell your cousin and a grown-up about it",
+      1,
+      "Máy của người khác, tiền của người khác. Không bấm và báo người lớn là đúng.",
+      "Someone else’s device, someone else’s money. Not tapping and telling an adult is right."
+     ],
+     [
+      "Bấm vì mật khẩu đã lưu, không ai biết",
+      "Tap, the password’s saved so nobody will know",
+      0,
+      "Mật khẩu lưu sẵn không có nghĩa là được phép. Tiền vẫn bị trừ thật.",
+      "A saved password isn’t permission. Real money still goes."
+     ],
+     [
+      "Bấm rồi nói là do máy tự mua",
+      "Tap and say the tablet did it",
+      0,
+      "Đổ cho máy là không trung thực. Hỏi trước thì không ai phải buồn.",
+      "Blaming the tablet isn’t honest. Asking first means nobody gets upset."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bật chế độ xin phép khi mua",
+    "Turn on ask-to-buy"
+   ],
+   "s": [
+    "Con cùng ba mẹ bật chế độ phải xin phép khi mua trên thiết bị của gia đình, rồi con nói lại cho ba mẹ: vì sao tiền trong ứng dụng là tiền thật và con sẽ làm gì khi thấy nút “mua”.",
+    "With your parents, turn on ask-permission-to-buy on the family device, then explain why in-app money is real and what you’ll do when you see a “buy” button."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cài đặt, con xem và nhắc lại quy tắc.",
+     "Your parent sets it up while you watch and repeat the rule."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ lý do và quy tắc.",
+     "With one reminder, you explain the reason and the rule."
+    ],
+    [
+     "Con cùng ba mẹ tìm chỗ cài đặt, tự giải thích và nhắc cả em trong nhà.",
+     "You help find the setting, explain it yourself and remind younger siblings."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con chơi một trò chơi bài cả nhà",
+    "Your parent plays a family card game with you"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nhắn tin lịch sự",
+   "Polite messaging"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "An bị cảm, không đi học bơi được. Mẹ ngồi cạnh, cho An dùng điện thoại của mẹ nhắn xin cô dạy bơi nghỉ buổi chiều nay. Lúc đó là 10 giờ sáng.",
+   "An has a cold and can’t go swimming. With Mum sitting beside them, An uses her phone to message the swimming teacher about missing this afternoon. It’s 10 in the morning."
+  ],
+  "cq": [
+   "An nên nhắn thế nào?",
+   "How should An write it?"
+  ],
+  "co": [
+   [
+    "“Chiều nay ko đi đc”",
+    "“cant come 2day”",
+    0,
+    "Viết tắt và thiếu lời chào khiến tin nhắn cụt lủn. Cô cũng chưa biết ai nhắn.",
+    "Abbreviations and no greeting feel abrupt, and she doesn’t know who it’s from."
+   ],
+   [
+    "“Em chào cô ạ. Em là An lớp bơi chiều thứ Tư. Em bị cảm nên xin phép nghỉ buổi chiều nay ạ. Em cảm ơn cô.” Đọc lại rồi mới gửi",
+    "“Good morning, Miss. It’s An from the Wednesday afternoon class. I have a cold, so I won’t make it this afternoon. Thank you.” Re-read, then send",
+    1,
+    "Chào, nói mình là ai, viết rõ việc cần báo và cảm ơn: tin nhắn ngắn mà lịch sự.",
+    "Greet, say who you are, state the point clearly and thank her: short but polite."
+   ],
+   [
+    "Gửi một biểu tượng mặt buồn",
+    "Send a sad-face emoji",
+    0,
+    "Biểu tượng không nói đủ chuyện gì. Viết thành câu để cô hiểu nhé.",
+    "An emoji doesn’t explain anything. Write a sentence so she understands."
+   ]
+  ],
+  "qq": [
+   "Trước khi gửi tin nhắn, nên làm gì?",
+   "Before sending a message, you should…"
+  ],
+  "qo": [
+   [
+    "Đọc lại xem đã rõ ràng, lịch sự chưa",
+    "Re-read to check it’s clear and polite"
+   ],
+   [
+    "Gửi thật nhanh",
+    "Send it as fast as possible"
+   ],
+   [
+    "Thêm thật nhiều biểu tượng",
+    "Add lots of emojis"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "7 giờ tối, An nhắn Mai hỏi bài Toán. Mai chưa trả lời ngay.",
+     "At 7pm, An messages Mai about maths homework. Mai doesn’t reply straight away."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gửi liên tục “Mai ơi”, “trả lời đi”",
+      "Keep sending “Mai?”, “answer!”",
+      0,
+      "Nhắn dồn dập làm bạn thấy bị thúc ép. Bạn có thể đang ăn tối đấy.",
+      "Lots of messages feel pushy. She might be having dinner."
+     ],
+     [
+      "Kiên nhẫn chờ, làm phần khác trong lúc đó; nếu đã khuya thì để sáng mai hỏi",
+      "Wait patiently, do another part meanwhile; if it gets late, ask tomorrow morning",
+      1,
+      "Mọi người cần thời gian trả lời. Không nhắn lúc khuya là tôn trọng bạn.",
+      "People need time to reply. Not messaging late respects them."
+     ],
+     [
+      "Gọi điện liên tục",
+      "Call over and over",
+      0,
+      "Gọi dồn dập làm phiền cả nhà bạn. Chờ một lúc nhé.",
+      "Repeated calls disturb her whole family. Wait a while."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô chủ nhiệm lập nhóm chat lớp có cả phụ huynh. An muốn hỏi cô mai có cần mang bút màu không.",
+     "The teacher has set up a class group chat including parents. An wants to ask if coloured pencils are needed tomorrow."
+    ],
+    "q": [
+     "An nên nhắn thế nào?",
+     "How should An write it?"
+    ],
+    "o": [
+     [
+      "“Mai mang bút màu ko?”",
+      "“pencils 2moro?”",
+      0,
+      "Nhóm có cô và phụ huynh, nên chào và viết đầy đủ để lịch sự nhé.",
+      "The teacher and parents are in the group, so greet and write properly."
+     ],
+     [
+      "Nhắn riêng cô lúc 10 giờ tối",
+      "Message the teacher privately at 10pm",
+      0,
+      "Khuya rồi cô cần nghỉ ngơi. Nhắn vào giờ hợp lý sẽ tôn trọng cô hơn.",
+      "It’s late and she needs rest. A sensible hour is more respectful."
+     ],
+     [
+      "“Em chào cô ạ. Em là An. Cô cho em hỏi mai lớp mình có cần mang bút màu không ạ? Em cảm ơn cô.”",
+      "“Good afternoon, Miss. It’s An. Do we need coloured pencils tomorrow? Thank you.”",
+      1,
+      "Chào, giới thiệu, hỏi rõ và cảm ơn giúp tin nhắn trong nhóm đông người vẫn lịch sự.",
+      "Greeting, saying who you are, asking clearly and thanking keeps a group message polite."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Soạn tin nhắn hỏi bài",
+    "Draft a homework message"
+   ],
+   "s": [
+    "Con soạn một tin nhắn hỏi bài gửi bạn: có lời chào, nói mình là ai, hỏi rõ và cảm ơn. Nhờ ba mẹ góp ý trước khi gửi, và chỉ gửi trước 8 giờ tối.",
+    "Draft a message to a classmate about homework: greeting, who you are, a clear question and thanks. Ask your parent for feedback before sending, and only send before 8pm."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con soạn từng phần của tin nhắn.",
+     "Your parent helps you write each part."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự soạn rồi đưa ba mẹ xem.",
+     "With one reminder, you draft it and show your parent."
+    ],
+    [
+     "Con tự soạn đủ 4 phần, tự đọc lại, sửa rồi mới nhờ ba mẹ xác nhận và gửi.",
+     "You write all four parts, re-read and fix it, then get your parent’s OK and send."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết cho con một mẩu giấy khen nhỏ",
+    "Your parent writes you a little note of praise"
+   ]
+  }
+ }
+]

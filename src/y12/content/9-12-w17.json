@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Đồ dùng học tập: dùng hết rồi mới mua",
+   "School supplies: use up before buying"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đầu tháng, An cùng mẹ đến hiệu sách. An muốn mua hộp bút màu mới và năm cuốn vở có hình đẹp, dù ở nhà vẫn còn hộp màu dùng tốt và ba cuốn vở trắng.",
+   "At the start of the month An and Mum visit the stationery shop. An wants a new set of colouring pens and five pretty notebooks, though at home there’s a working set and three blank notebooks."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mua hết vì đồ mới đẹp hơn",
+    "Buy it all – new things look nicer",
+    0,
+    "Đồ mới đẹp nhưng đồ cũ vẫn dùng tốt. Mua thêm khi chưa cần là lãng phí.",
+    "New things look nice, but the old ones still work. Buying before you need is waste."
+   ],
+   [
+    "Mua một ít cho vui vì không đắt lắm",
+    "Buy a few for fun – they’re not expensive",
+    0,
+    "Nhiều món rẻ cộng lại cũng thành nhiều tiền. Hỏi “mình đã hết chưa?” trước khi mua.",
+    "Lots of cheap things add up. Ask “Have I run out?” before buying."
+   ],
+   [
+    "Chỉ mua thứ đã thật sự hết, còn vở và màu ở nhà dùng hết rồi mua sau",
+    "Only buy what has actually run out, and use up the notebooks and pens at home first",
+    1,
+    "Kiểm tra đồ đang có trước khi mua giúp tiết kiệm tiền và không lãng phí đồ.",
+    "Checking what you have before buying saves money and avoids waste."
+   ]
+  ],
+  "qq": [
+   "Trước khi mua đồ dùng học tập, nên làm gì?",
+   "Before buying school supplies, what should you do?"
+  ],
+  "qo": [
+   [
+    "Xem bạn bè mua gì",
+    "See what friends buy"
+   ],
+   [
+    "Kiểm tra đồ đang có",
+    "Check what you already have"
+   ],
+   [
+    "Chọn món đẹp nhất",
+    "Choose the prettiest"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Chuẩn bị năm học, mẹ hỏi An cần mua gì. An liệt kê ngay một danh sách dài mà chưa mở hộp bút xem.",
+     "Getting ready for term, Mum asks what An needs. An reels off a long list without even opening the pencil case."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đưa danh sách cho mẹ đi mua luôn",
+      "Hand Mum the list to go shopping",
+      0,
+      "Có thể nhiều thứ đã có sẵn. Kiểm tra trước để danh sách thật sự cần thiết.",
+      "Lots of it might already be there. Check first so the list is what you really need."
+     ],
+     [
+      "Mở hộp bút và ngăn bàn, đếm đồ còn dùng được, rồi gạch bớt danh sách",
+      "Open the pencil case and drawer, count what still works, then cross things off",
+      1,
+      "Đếm đồ đang có giúp danh sách ngắn lại và tiền được dùng cho đúng thứ cần.",
+      "Counting what you have shortens the list and spends money on what’s needed."
+     ],
+     [
+      "Thêm vài món bạn bè đang có",
+      "Add a few things friends have",
+      0,
+      "Bạn có không có nghĩa là con cần. Hãy dựa vào đồ mình đã hết.",
+      "Friends having it doesn’t mean you need it. Go by what you’ve run out of."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cuối buổi học, sàn lớp có nhiều bút chì còn dài và tẩy bị bỏ quên. Có bạn bảo “Bút cùn rồi, mua cái mới cho nhanh”.",
+     "After class, the floor has long pencils and rubbers left behind. Someone says, “It’s blunt, I’ll just buy a new one.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhặt lên, đưa cô để trả bạn, và gọt lại bút của mình thay vì mua mới",
+      "Pick them up for the teacher to return, and sharpen your own pencil instead of buying new",
+      1,
+      "Dùng hết đồ đang có và giữ gìn đồ chung giúp không ai phải mua thêm phí tiền.",
+      "Using things up and looking after them means nobody wastes money on extras."
+     ],
+     [
+      "Để đó, bút rẻ mà",
+      "Leave them – pencils are cheap",
+      0,
+      "Rẻ nhưng bỏ phí nhiều lần vẫn tốn tiền của gia đình.",
+      "Cheap, but wasting them again and again still costs families money."
+     ],
+     [
+      "Mua hộp bút chì mới vì bút cũ cùn",
+      "Buy a new box because yours is blunt",
+      0,
+      "Bút cùn chỉ cần gọt. Dùng hết rồi mới mua là thói quen tiết kiệm.",
+      "A blunt pencil just needs sharpening. Use it up before buying."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kiểm hộp bút trước khi mua",
+    "A pencil-case check before buying"
+   ],
+   "s": [
+    "Con mở hộp bút và ngăn bàn, đếm đồ còn dùng được, rồi chỉ ghi vào danh sách những thứ thật sự đã hết. Ba mẹ xem lại danh sách.",
+    "Open your pencil case and drawer, count what still works, and only list what has truly run out. Your parent checks the list."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đổ đồ ra và đếm.",
+     "Your parent helps you empty everything out and count."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kiểm và tự viết danh sách.",
+     "With one reminder, you check and write the list yourself."
+    ],
+    [
+     "Con tự kiểm, chia đồ thành “còn tốt” và “đã hết”, rồi giải thích danh sách cho ba mẹ.",
+     "You sort things into “still good” and “run out” and explain your list to your parent."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ gấp giấy thành con vật con thích",
+    "Fold paper animals of your choice with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Hỏi thầy cô khi chưa hiểu bài",
+   "Asking the teacher when I’m stuck"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong giờ Toán, An chưa hiểu cách đổi đơn vị mét sang xăng-ti-mét. Cô đang giảng tiếp bài mới, các bạn xung quanh hình như đều hiểu.",
+   "In maths, An doesn’t understand converting metres to centimetres. The teacher is moving on, and everyone else seems to get it."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Ghi câu hỏi cụ thể ra giấy, khi cô hỏi “Ai còn chưa hiểu?” hoặc cuối giờ thì giơ tay hỏi lễ phép",
+    "Write a specific question down, and when the teacher asks “Anyone stuck?” or after class, put your hand up and ask politely",
+    1,
+    "Câu hỏi cụ thể giúp cô biết con vướng ở đâu. Chọn đúng lúc và hỏi lễ phép thì cô rất vui được giải thích.",
+    "A specific question shows where you’re stuck. At the right moment and asked politely, teachers are glad to help."
+   ],
+   [
+    "Im lặng, về nhà tự xem",
+    "Stay quiet and look at it at home",
+    0,
+    "Về nhà có thể vẫn chưa hiểu, mà bài sau lại cần bài này. Hỏi đúng lúc sẽ nhanh hơn.",
+    "You might still be stuck at home, and the next lesson builds on this. Asking at the right time is quicker."
+   ],
+   [
+    "Hỏi to ngay giữa lúc cô đang giảng",
+    "Call out while the teacher is mid-sentence",
+    0,
+    "Muốn hỏi là tốt, nhưng chờ đến lúc phù hợp sẽ không làm gián đoạn cả lớp.",
+    "Wanting to ask is great, but waiting for the right moment avoids interrupting everyone."
+   ]
+  ],
+  "qq": [
+   "Một câu hỏi tốt với thầy cô cần gì?",
+   "What makes a good question for the teacher?"
+  ],
+  "qo": [
+   [
+    "Thật dài",
+    "Very long"
+   ],
+   [
+    "Hỏi lúc nào cũng được",
+    "Any time at all"
+   ],
+   [
+    "Cụ thể, đúng lúc và lễ phép",
+    "Specific, well-timed and polite"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay An làm bài và không hiểu một từ trong đề. Ba đang đọc báo trong phòng khách.",
+     "This evening An is doing homework and doesn’t understand a word in the question. Dad is reading in the living room."
+    ],
+    "q": [
+     "An nên hỏi ba thế nào?",
+     "How should An ask Dad?"
+    ],
+    "o": [
+     [
+      "“Ba ơi bài này khó quá, ba làm hộ con”",
+      "“Dad, this is too hard, do it for me”",
+      0,
+      "Nhờ làm hộ thì con chưa hiểu bài. Hỏi đúng chỗ vướng sẽ giúp con tự làm được.",
+      "If Dad does it, you won’t understand. Ask about the exact part you’re stuck on."
+     ],
+     [
+      "Bỏ câu đó, làm câu khác",
+      "Skip that question",
+      0,
+      "Bỏ qua thì câu đó vẫn trống. Một câu hỏi ngắn với ba là gỡ được.",
+      "Skipping leaves it blank. A quick question to Dad solves it."
+     ],
+     [
+      "“Ba ơi, con chưa hiểu từ “chu vi” trong câu 2, ba giải thích giúp con được không ạ?”",
+      "“Dad, I don’t understand ‘perimeter’ in question 2 – could you explain it?”",
+      1,
+      "Chỉ rõ chỗ chưa hiểu giúp ba giải thích nhanh và con tự làm tiếp được.",
+      "Pointing to exactly what you don’t get lets Dad explain quickly so you can carry on."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp học bơi, thầy hướng dẫn cách thở khi bơi ếch nhưng An chưa làm được. Các bạn đã bắt đầu tập.",
+     "At swimming lessons, the coach explains breathing for breaststroke but An can’t get it. The others are already practising."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bắt chước bạn bên cạnh cho nhanh",
+      "Copy the child next to you",
+      0,
+      "Bạn có thể cũng chưa đúng. Hỏi thầy sẽ chắc chắn và an toàn hơn.",
+      "They might not be right either. Asking the coach is surer and safer."
+     ],
+     [
+      "Đến gần thầy, nói “Thưa thầy, em chưa biết lúc nào thì ngẩng đầu lên thở ạ”",
+      "Go to the coach and say “Sorry, I’m not sure when to lift my head to breathe”",
+      1,
+      "Hỏi cụ thể đúng chỗ vướng giúp thầy chỉ ngay điều con cần.",
+      "A specific question gets you exactly the help you need."
+     ],
+     [
+      "Ngồi trên bờ không tập nữa",
+      "Sit on the side and stop",
+      0,
+      "Chưa làm được là bình thường. Hỏi thầy một câu là con tập tiếp được.",
+      "Not getting it yet is normal. One question to the coach and you can carry on."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một câu hỏi cụ thể cho thầy cô",
+    "One specific question for the teacher"
+   ],
+   "s": [
+    "Con viết một câu hỏi cụ thể về bài đang học (chỗ nào chưa hiểu), tập hỏi lễ phép với ba mẹ, rồi hỏi thầy cô vào lúc phù hợp và kể lại câu trả lời.",
+    "Write one specific question about what you’re learning (what exactly you don’t get), practise asking politely with your parent, then ask your teacher at a good moment and report back."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết câu hỏi và đóng vai thầy cô.",
+     "Your parent helps write the question and plays the teacher."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết, tự tập và tự hỏi.",
+     "With one reminder, you write, practise and ask by yourself."
+    ],
+    [
+     "Con tự nhận ra chỗ chưa hiểu, tự hỏi thầy cô và kể lại cho ba mẹ điều con học được.",
+     "You spot what you don’t get, ask your teacher, and tell your parent what you learnt."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con chơi đố vui một chủ đề con thích",
+    "A quiz with your parent on a topic you love"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Gặp bài khó muốn bỏ cuộc",
+   "When a hard task makes me want to quit"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An làm mãi bài toán đố mà vẫn sai. An bắt đầu thấy bực, vò giấy và nói “Con dốt quá, con không làm nữa!”.",
+   "An has tried a maths word problem again and again and still gets it wrong. Frustrated, An crumples the paper: “I’m useless, I’m giving up!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bỏ luôn, mai lên lớp chép của bạn",
+    "Give up and copy a friend’s tomorrow",
+    0,
+    "Bỏ cuộc thì lần sau gặp dạng này vẫn khó. Nghỉ một chút rồi thử lại sẽ tốt hơn.",
+    "Giving up means it’ll still be hard next time. A short break and another try is better."
+   ],
+   [
+    "Nhận ra mình đang nản, nghỉ 2 phút thở chậm, rồi thử cách khác như vẽ hình ra giấy",
+    "Notice you’re frustrated, take a two-minute breathing break, then try a different way like drawing it",
+    1,
+    "Nản là bình thường. Nghỉ ngắn giúp đầu óc dịu lại, và cách mới thường mở ra lối đi.",
+    "Feeling stuck is normal. A short break calms your mind, and a new approach often opens the way."
+   ],
+   [
+    "Ngồi làm lại y như cũ thêm mười lần",
+    "Do it exactly the same way ten more times",
+    0,
+    "Cách cũ chưa ra thì lặp lại dễ càng bực. Thử một cách khác nhé.",
+    "If the old way didn’t work, repeating it adds frustration. Try a new way."
+   ]
+  ],
+  "qq": [
+   "Khi nản muốn bỏ cuộc, nên làm gì?",
+   "When you feel like quitting, what should you do?"
+  ],
+  "qo": [
+   [
+    "Nghỉ ngắn rồi thử lại bằng cách khác",
+    "Take a short break, then try another way"
+   ],
+   [
+    "Bỏ luôn",
+    "Quit"
+   ],
+   [
+    "Cố làm y như cũ",
+    "Keep doing it the same way"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thủ công, An gấp mãi con hạc giấy mà cứ bị lệch. Các bạn đã gấp xong, An muốn vò bỏ.",
+     "In craft class, An keeps folding a paper crane and it keeps going wrong. Others have finished and An wants to scrunch it up."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thở chậm vài lần, rồi nhờ bạn đã gấp xong chỉ lại bước khó",
+      "Take a few slow breaths, then ask a friend who’s finished to show the tricky step",
+      1,
+      "Bình tĩnh lại rồi học từ người khác là một cách thử khác rất hay.",
+      "Calming down and learning from someone else is a great new approach."
+     ],
+     [
+      "Vò bỏ và nói mình không khéo tay",
+      "Scrunch it up and say you’re no good at crafts",
+      0,
+      "Một lần chưa được không có nghĩa là con không khéo. Thử lại chậm hơn nhé.",
+      "One miss doesn’t mean you’re bad at it. Try again more slowly."
+     ],
+     [
+      "Nhờ bạn gấp hộ",
+      "Ask a friend to fold it for you",
+      0,
+      "Bạn gấp hộ thì con chưa học được. Nhờ bạn chỉ cách sẽ hay hơn.",
+      "If they fold it, you don’t learn. Ask them to show you how."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ba tập cho An đi xe đạp hai bánh ở sân chung cư. An ngã nhẹ hai lần, thấy xấu hổ và đòi về.",
+     "Dad is teaching An to ride a bike in the flats’ courtyard. An has wobbled off twice, feels embarrassed and wants to go home."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Về nhà và không tập nữa",
+      "Go home and never try again",
+      0,
+      "Ai học xe cũng từng ngã. Nghỉ một chút rồi thử lại, con sẽ tiến bộ.",
+      "Everyone falls when learning. A short rest and another go and you’ll improve."
+     ],
+     [
+      "Cố đạp thật nhanh cho xong",
+      "Pedal really fast to get it done",
+      0,
+      "Vội khi đang bực dễ ngã nữa. Bình tĩnh và đi chậm sẽ an toàn hơn.",
+      "Rushing while upset means more falls. Calm and slow is safer."
+     ],
+     [
+      "Ngồi nghỉ 2 phút uống nước, rồi nhờ ba giữ yên xe và thử đạp đoạn ngắn hơn",
+      "Rest two minutes with a drink, then ask Dad to hold the seat and try a shorter stretch",
+      1,
+      "Nghỉ ngắn và chia nhỏ mục tiêu giúp con lấy lại tự tin từng bước.",
+      "A short rest and a smaller goal help you rebuild confidence step by step."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nghỉ hai phút rồi thử lại",
+    "Two-minute break, then try again"
+   ],
+   "s": [
+    "Khi làm một bài khó và thấy nản, con nghỉ 2 phút thở chậm, rồi làm tiếp bằng một cách khác (vẽ hình, đọc lại đề, chia nhỏ bài). Sau đó kể lại với ba mẹ.",
+    "When a hard task makes you frustrated, take a two-minute break with slow breaths, then carry on another way (draw it, reread it, break it down). Then tell your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cạnh, cùng con thở và gợi ý cách khác.",
+     "Your parent sits with you, breathes with you and suggests another way."
+    ],
+    [
+     "Ba mẹ nhắc một lần khi thấy con nản, con tự nghỉ và tự thử lại.",
+     "With one reminder when you look frustrated, you take a break and retry yourself."
+    ],
+    [
+     "Con tự nhận ra lúc nản, tự nghỉ, tự thử cách khác và kể lại kết quả.",
+     "You notice it yourself, take the break, try a new way and report how it went."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng ghép một bức tranh xếp hình",
+    "The family does a jigsaw puzzle together"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Học nhóm cho hiệu quả",
+   "Studying in a group well"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở thư viện khu phố, An và hai bạn hẹn học nhóm môn Tiếng Anh. Mỗi bạn mang một quyển khác nhau và không biết bắt đầu từ đâu.",
+   "At the local library, An and two friends meet to study English. Each brought a different book and nobody knows where to start."
+  ],
+  "cq": [
+   "An nên đề nghị gì?",
+   "What should An suggest?"
+  ],
+  "co": [
+   [
+    "Mỗi bạn đọc sách của mình",
+    "Each read your own book",
+    0,
+    "Ngồi cạnh nhau mà học riêng thì chưa phải học nhóm. Chọn chung một mục tiêu nhé.",
+    "Sitting together studying separately isn’t group study. Choose one shared goal."
+   ],
+   [
+    "Nói chuyện nhỏ cho đến giờ về",
+    "Whisper and chat till it’s time to go",
+    0,
+    "Thư viện là chỗ yên tĩnh để học. Một kế hoạch nhỏ giúp nhóm dùng thời gian tốt hơn.",
+    "The library is for quiet study. A small plan helps use the time well."
+   ],
+   [
+    "Chọn chung 20 từ mới, mỗi bạn phụ trách giải thích 7 từ, rồi đố nhau",
+    "Pick 20 new words together, each person explains seven, then quiz each other",
+    1,
+    "Mục tiêu chung và chia phần giảng giúp nhóm học có kết quả rõ ràng.",
+    "A shared goal and splitting the teaching gives the group clear results."
+   ]
+  ],
+  "qq": [
+   "Học nhóm hiệu quả nhất khi nào?",
+   "When does group study work best?"
+  ],
+  "qo": [
+   [
+    "Ai thích gì nói nấy",
+    "Everyone talks about whatever"
+   ],
+   [
+    "Có mục tiêu chung và mỗi người giảng lại một phần",
+    "There’s a shared goal and everyone teaches a part"
+   ],
+   [
+    "Một bạn làm hết",
+    "One person does it all"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Chị Vy và An cùng ôn bài trước kỳ thi, mỗi người một môn khác nhau. Hai chị em cứ hỏi nhau chuyện linh tinh.",
+     "Sister Vy and An are revising for exams, each a different subject. They keep distracting each other with random chat."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Ra phòng khác học một mình",
+      "Move to another room alone",
+      0,
+      "Học riêng cũng được, nhưng đố nhau giúp nhớ lâu. Thử thoả thuận giờ tập trung trước.",
+      "That’s fine, but quizzing each other helps memory. Try agreeing focus time first."
+     ],
+     [
+      "“Mình học 25 phút không nói chuyện, rồi nghỉ 5 phút đố nhau bài vừa học nhé chị”",
+      "“Let’s do 25 minutes without chatting, then 5 minutes quizzing each other on what we studied”",
+      1,
+      "Thời gian tập trung rõ ràng và đố nhau giúp cả hai nhớ bài mà vẫn vui.",
+      "Clear focus time and quizzing each other helps you both remember and still have fun."
+     ],
+     [
+      "Nói chuyện tiếp, tối học bù",
+      "Keep chatting and catch up tonight",
+      0,
+      "Để tối dễ mệt và học kém hơn. Thoả thuận ngay bây giờ sẽ tốt hơn.",
+      "Late study is tiring and less effective. Agree a plan now."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tổ của An học nhóm để ôn bài Khoa học trước bài kiểm tra. Nửa tiếng trôi qua, cả nhóm vẫn ngồi nói chuyện phim hoạt hình, chưa ôn được gì.",
+     "An’s group meets to revise science before a test. Half an hour later they’re still chatting about cartoons and haven’t revised anything."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Đặt mục tiêu “ôn xong 3 phần trong 45 phút”, mỗi bạn giảng lại một phần cho cả nhóm, xong rồi mới nghỉ chơi",
+      "Set a goal of three sections in 45 minutes, each person teaches one section to the group, then take a break",
+      1,
+      "Mục tiêu chung và mỗi người giảng một phần giúp nhóm tập trung, và giảng lại là cách nhớ bài lâu nhất.",
+      "A shared goal and taking turns to teach keeps the group focused, and teaching is the best way to remember."
+     ],
+     [
+      "Ai về nhà nấy tự học cho nhanh",
+      "Everyone go home and study alone",
+      0,
+      "Học một mình cũng được, nhưng học nhóm đúng cách giúp các bạn hiểu sâu hơn.",
+      "Studying alone works, but group study done well helps everyone understand more."
+     ],
+     [
+      "Để bạn học giỏi nhất giảng hết",
+      "Let the best student explain everything",
+      0,
+      "Một người giảng hết thì các bạn khác chỉ nghe. Mỗi người giảng một phần sẽ nhớ lâu hơn.",
+      "If one person does it all, the rest just listen. Everyone teaching a part remembers more."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm phút làm “thầy cô nhỏ”",
+    "Five minutes as the teacher"
+   ],
+   "s": [
+    "Con giảng lại một phần bài vừa học cho một người trong nhà trong 5 phút, như đang học nhóm. Người nghe hỏi một câu và con trả lời.",
+    "Teach someone at home one part of what you just learnt for five minutes, as in a study group. They ask one question and you answer."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giúp con chọn phần bài và gợi ý cách giảng.",
+     "Your parent helps choose the section and how to explain it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và tự giảng.",
+     "With one reminder, you prepare and teach it yourself."
+    ],
+    [
+     "Con tự giảng, chuẩn bị thêm 2 câu đố cho người nghe và chấm câu trả lời.",
+     "You teach it, prepare two quiz questions for your listener and mark their answers."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ khen con trước cả nhà và gọi con là “thầy cô nhỏ” hôm nay",
+    "Your parent praises you in front of the family and calls you “teacher” for the day"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự soát bài trước khi nộp",
+   "Checking my work before handing it in"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Còn 5 phút nữa hết giờ kiểm tra, An đã làm xong. Các bạn bên cạnh đã ngồi chơi.",
+   "There are five minutes left in the test and An has finished. The children nearby are just sitting around."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đọc lại từng câu, kiểm tra tên, đơn vị và phép tính",
+    "Reread each question and check name, units and sums",
+    1,
+    "Tự soát lại trước khi nộp giúp con sửa lỗi nhỏ và yên tâm với bài làm.",
+    "Checking before handing in fixes small slips and lets you feel sure."
+   ],
+   [
+    "Ngồi chơi như các bạn",
+    "Sit back like the others",
+    0,
+    "Năm phút đủ để tìm ra một hai lỗi nhỏ. Tận dụng thời gian còn lại nhé.",
+    "Five minutes is enough to catch a slip or two. Use the time."
+   ],
+   [
+    "Nộp sớm cho xong",
+    "Hand it in early to be done",
+    0,
+    "Nộp sớm không được thêm điểm. Soát lại thì có thể sửa được lỗi.",
+    "Finishing early earns no extra marks. Checking might fix a mistake."
+   ]
+  ],
+  "qq": [
+   "Trước khi nộp bài, nên làm gì?",
+   "Before handing in work, what should you do?"
+  ],
+  "qo": [
+   [
+    "Nộp thật nhanh",
+    "Hand it in fast"
+   ],
+   [
+    "Nhờ bạn sửa hộ",
+    "Get a friend to fix it"
+   ],
+   [
+    "Tự soát theo danh sách rồi mới nhờ người khác",
+    "Check it with a list first, then ask someone else"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nào An làm xong bài là gọi ngay “Mẹ ơi xem giúp con!”. Mẹ chỉ ra lỗi chính tả, thiếu đơn vị, quên ghi tên, toàn những lỗi An tự sửa được.",
+     "Every evening An finishes homework and calls straight away, “Mum, check it for me!” Mum points out spelling slips, missing units and no name – all things An could fix alone."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tiếp tục nhờ mẹ soát hết",
+      "Keep asking Mum to check everything",
+      0,
+      "Mẹ soát giúp thì tiện, nhưng ở lớp không có mẹ bên cạnh. Tự soát là kỹ năng con cần.",
+      "It’s handy, but Mum isn’t there in class. Checking your own work is a skill you need."
+     ],
+     [
+      "Nộp luôn, sai thì cô chữa",
+      "Hand it in as is – the teacher will mark it",
+      0,
+      "Lỗi nhỏ làm mất điểm đáng tiếc. Vài phút soát lại giúp con tránh được.",
+      "Small slips lose marks needlessly. A few minutes of checking avoids them."
+     ],
+     [
+      "Tự soát theo danh sách 3 điểm: tên và ngày, chính tả, đơn vị; sửa xong mới nhờ mẹ xem",
+      "Check with a three-point list: name and date, spelling, units; fix them, then ask Mum",
+      1,
+      "Danh sách cố định giúp con tự tìm lỗi quen thuộc. Mẹ xem sau thì chỉ cần góp ý điều khó hơn.",
+      "A fixed checklist helps you catch your usual slips. Then Mum only needs to help with harder things."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An viết tấm thiệp chúc mừng sinh nhật bác hàng xóm, định đưa ngay khi gặp bác ở sân. Mẹ đi cùng An.",
+     "An has written a birthday card for the neighbour and plans to hand it over when they meet in the courtyard. Mum is with An."
+    ],
+    "q": [
+     "An nên làm gì trước khi đưa?",
+     "What should An do before handing it over?"
+    ],
+    "o": [
+     [
+      "Đưa luôn, thiệp nào chẳng được",
+      "Give it straight away – a card is a card",
+      0,
+      "Một lỗi viết sai tên có thể làm tấm thiệp kém vui. Đọc lại chỉ mất một phút.",
+      "A misspelt name can spoil the card. Rereading takes one minute."
+     ],
+     [
+      "Đọc lại một lượt: tên bác viết đúng chưa, lời chúc có đủ ý, có ký tên mình chưa",
+      "Read it once: is the name right, is the message complete, have you signed it?",
+      1,
+      "Tự soát trước khi trao giúp món quà nhỏ của con trọn vẹn và lịch sự.",
+      "Checking before giving makes your little gift complete and polite."
+     ],
+     [
+      "Nhờ mẹ viết lại cho đẹp",
+      "Ask Mum to rewrite it nicely",
+      0,
+      "Thiệp con tự viết mới quý. Con tự đọc lại và sửa là đủ.",
+      "A card in your own hand is special. Just reread and fix it yourself."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Soát bài theo danh sách 3 điểm",
+    "A three-point self-check"
+   ],
+   "s": [
+    "Con tự soát một bài tập theo danh sách 3 điểm (tên và ngày, chính tả, đơn vị hoặc dấu câu), sửa lỗi tìm được, rồi mới đưa ba mẹ xem.",
+    "Check one piece of homework yourself with a three-point list (name and date, spelling, units or punctuation), fix what you find, then show your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết danh sách và soát điểm đầu tiên.",
+     "Your parent helps write the list and check the first point."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự soát đủ 3 điểm.",
+     "With one reminder, you check all three points yourself."
+    ],
+    [
+     "Con tự soát, đánh dấu chỗ đã sửa và kể ba mẹ nghe lỗi nào con hay gặp nhất.",
+     "You check, mark what you fixed, and tell your parent which slip you make most."
+    ]
+   ],
+   "rw": [
+    "Được dán một ngôi sao lên bảng thành tích gia đình",
+    "A star on the family achievement chart"
+   ]
+  }
+ }
+]

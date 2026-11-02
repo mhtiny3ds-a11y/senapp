@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Nói ý kiến của mình",
+   "Speaking up with my idea"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cả nhà bàn cuối tuần đi đâu. Bin muốn đi thư viện nhưng ngại nên ngồi im.",
+   "The family is deciding where to go at the weekend. Bin wants the library but feels shy and stays quiet."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi im rồi về buồn",
+    "Stay quiet and feel sad later",
+    0,
+    "Không nói thì không ai biết con muốn gì. Ý của con cũng quan trọng.",
+    "If you don’t say, nobody knows. Your idea matters too."
+   ],
+   [
+    "Khóc to đến khi được đi",
+    "Cry until he gets his way",
+    0,
+    "Khóc làm mọi người khó hiểu con muốn gì. Nói rõ bằng lời sẽ tốt hơn.",
+    "Crying makes it hard to understand you. Clear words work better."
+   ],
+   [
+    "Nói: “Con muốn đi thư viện, vì ở đó có giờ kể chuyện ạ.”",
+    "Say, “I’d like the library, because there’s storytime.”",
+    1,
+    "Nói điều mình muốn kèm lý do giúp cả nhà hiểu và cân nhắc ý của con.",
+    "Saying what you want with a reason helps everyone understand and consider it."
+   ]
+  ],
+  "qq": [
+   "Nói ý kiến thế nào cho rõ?",
+   "How do you share an idea clearly?"
+  ],
+  "qo": [
+   [
+    "Nói điều mình muốn kèm lý do",
+    "Say what you want and why"
+   ],
+   [
+    "Nói to hơn mọi người",
+    "Talk louder than everyone"
+   ],
+   [
+    "Chỉ lắc đầu",
+    "Just shake your head"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm Na đặt tên đội. Na có ý hay nhưng các bạn đang nói rất sôi nổi.",
+     "Na’s group is choosing a team name. Na has a good idea, but everyone is talking at once."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Nói chen ngang thật to",
+      "Butt in loudly",
+      0,
+      "Chen ngang làm bạn khó chịu. Chờ một chút rồi nói nhé.",
+      "Interrupting annoys people. Wait a moment, then speak."
+     ],
+     [
+      "Giơ tay chờ lượt, nói: “Tớ nghĩ là… vì…”, rồi nghe các bạn",
+      "Raise her hand, wait, say “I think… because…”, then listen",
+      1,
+      "Chờ lượt, nói rõ lý do và lắng nghe lại thì ý của con dễ được đón nhận.",
+      "Waiting, giving a reason and listening back help your idea be heard."
+     ],
+     [
+      "Thôi, không nói nữa",
+      "Give up and say nothing",
+      0,
+      "Ý của con có thể giúp cả nhóm đấy. Thử giơ tay nhé.",
+      "Your idea might help the group. Try raising your hand."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở tiệm cắt tóc cùng ba, chú thợ hỏi Bin muốn cắt kiểu nào.",
+     "At the hairdresser’s with Dad, the hairdresser asks Bin how he’d like his hair."
+    ],
+    "q": [
+     "Bin nên trả lời thế nào?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Sao cũng được ạ”, rồi về không thích",
+      "“Anything’s fine,” then dislike it later",
+      0,
+      "Nói ý mình trước thì đỡ tiếc sau. Một câu ngắn là đủ.",
+      "Saying your idea first avoids regrets. One short sentence is enough."
+     ],
+     [
+      "“Cháu muốn cắt ngắn phía sau, vì trời nóng ạ.”",
+      "“Short at the back, please, because it’s hot.”",
+      1,
+      "Con nói rõ điều mình muốn và lý do, chú thợ sẽ cắt đúng ý con.",
+      "Saying clearly what you want and why helps him get it right."
+     ],
+     [
+      "Lắc đầu, không nói gì",
+      "Shake his head and say nothing",
+      0,
+      "Chú thợ không đoán được ý con. Thử nói một câu nhé, ba ở ngay cạnh.",
+      "He can’t guess. Try one sentence; Dad is right there."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ý kiến cho cuối tuần",
+    "My weekend idea"
+   ],
+   "s": [
+    "Khi cả nhà bàn kế hoạch cuối tuần, con nêu một ý kiến kèm lý do bằng câu “Con muốn… vì…”, rồi nghe ý của mọi người.",
+    "When the family plans the weekend, share one idea with “I’d like… because…”, then listen to everyone else."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu câu “Con muốn… vì…”, con nói theo.",
+     "Mum or Dad models “I’d like… because…” and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nêu ý kiến và lý do.",
+     "Mum or Dad reminds you once, then you share your idea and reason."
+    ],
+    [
+     "Con tự mở lời, nêu ý kiến, lý do và hỏi lại ý của một người.",
+     "You start by yourself, share your idea and reason, and ask someone else’s view."
+    ]
+   ],
+   "rw": [
+    "Cả nhà thử thực hiện một phần ý kiến của con",
+    "The family tries out part of your idea"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Tự hào về chính mình",
+   "Being proud of myself"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na đọc to trước lớp lần đầu, còn vấp vài chữ. Na nghĩ: “Mình đọc dở quá.”",
+   "Na reads aloud to the class for the first time and trips over a few words. She thinks, “I’m rubbish at reading.”"
+  ],
+  "cq": [
+   "Na nên nghĩ gì?",
+   "What could Na think instead?"
+  ],
+  "co": [
+   [
+    "“Mình kém hơn mọi người.”",
+    "“I’m worse than everyone.”",
+    0,
+    "Ai cũng có lúc vấp. Con đã dám đứng lên đọc, đó là điều đáng khen.",
+    "Everyone stumbles. Standing up to read is worth praising."
+   ],
+   [
+    "“Mình đã dám đọc to, lần sau sẽ trôi chảy hơn.”",
+    "“I was brave enough to read aloud. Next time will be smoother.”",
+    1,
+    "Nhìn vào điều mình đã làm được giúp con tự hào và muốn cố tiếp.",
+    "Noticing what you did well makes you proud and keen to keep going."
+   ],
+   [
+    "“Mình sẽ không bao giờ đọc nữa.”",
+    "“I’ll never read aloud again.”",
+    0,
+    "Mỗi lần đọc là một lần giỏi hơn. Đừng bỏ lỡ cơ hội tiến bộ nhé.",
+    "Every try makes you better. Don’t miss the chance to improve."
+   ]
+  ],
+  "qq": [
+   "Tự hào về mình là gì?",
+   "Being proud of yourself means…"
+  ],
+  "qo": [
+   [
+    "Khoe mình giỏi nhất",
+    "Boasting you’re the best"
+   ],
+   [
+    "Chỉ vui khi được điểm cao",
+    "Only being happy with top marks"
+   ],
+   [
+    "Nhìn lại việc mình làm được và tự khen",
+    "Noticing what you’ve done and praising yourself"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin tự gấp quần áo lần đầu, dù chưa thẳng lắm.",
+     "Bin folds his clothes by himself for the first time, though they’re not very neat."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự nói: “Mình tự gấp được rồi, giỏi quá!”",
+      "Say, “I folded them myself. Well done me!”",
+      1,
+      "Tự khen cố gắng của mình giúp con muốn làm tiếp và giỏi dần lên.",
+      "Praising your own effort makes you want to keep practising."
+     ],
+     [
+      "Vò lại vì chưa đẹp",
+      "Scrunch them up because they’re not perfect",
+      0,
+      "Lần đầu chưa đẹp là bình thường. Con đã làm được, cứ tập dần nhé.",
+      "First tries aren’t perfect. You did it, and practice helps."
+     ],
+     [
+      "Chờ có người khen mới vui",
+      "Wait for someone to praise him",
+      0,
+      "Lời khen của người khác rất vui, nhưng con cũng tự khen mình được.",
+      "Others’ praise is nice, but you can praise yourself too."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin tập đi xe đạp ở công viên cùng mẹ. Hôm nay Bin đạp được năm vòng không ngã.",
+     "Bin is learning to ride a bike in the park with Mum. Today he did five laps without falling."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kể với mẹ và tự hào về cố gắng của mình",
+      "Tell Mum and feel proud of his effort",
+      1,
+      "Mỗi tiến bộ nhỏ đều đáng tự hào. Con đã luyện tập chăm chỉ.",
+      "Every small step is worth being proud of. You practised hard."
+     ],
+     [
+      "Nghĩ: “Có bạn đạp được mười vòng cơ.”",
+      "Think, “Someone else can do ten laps.”",
+      0,
+      "Mỗi người tiến bộ theo cách riêng. Hôm nay con giỏi hơn hôm qua là tuyệt rồi.",
+      "Everyone improves at their own pace. Better than yesterday is brilliant."
+     ],
+     [
+      "Đạp thật nhanh để khoe",
+      "Pedal super fast to show off",
+      0,
+      "Đạp quá nhanh dễ ngã. Tự hào trong lòng và đạp an toàn nhé.",
+      "Going too fast can make you fall. Be proud and ride safely."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba điều con làm được",
+    "Three things I can do"
+   ],
+   "s": [
+    "Con kể với ba mẹ ba việc con đã làm được gần đây và tự nói một lời khen cho mình.",
+    "Tell Mum or Dad three things you’ve managed recently and say one kind word of praise to yourself."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý những việc con làm được, con chọn ba việc.",
+     "Mum or Dad suggests things you’ve done and you pick three."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhớ ba việc và tự khen.",
+     "Mum or Dad reminds you once, then you remember three and praise yourself."
+    ],
+    [
+     "Con tự kể ba việc, nói vì sao tự hào và vẽ một ngôi sao cho mình.",
+     "You name three, say why you’re proud and draw yourself a star."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dán một lá thư khen nhỏ lên bàn học của con",
+    "Mum or Dad sticks a little note of praise on your desk"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Mỗi người một thế mạnh",
+   "Everyone has a strength"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Na làm báo tường. Huy vẽ đẹp, Linh viết chữ đẹp, Na nghĩ chuyện hay.",
+   "Na’s group is making a wall display. Huy draws well, Linh has neat writing and Na is good at ideas."
+  ],
+  "cq": [
+   "Nhóm nên chia việc thế nào?",
+   "How should the group share the work?"
+  ],
+  "co": [
+   [
+    "Ai cũng làm mọi việc giống nhau",
+    "Everyone does the same jobs",
+    0,
+    "Làm giống nhau thì dễ trùng lặp. Mỗi bạn một việc hợp với mình sẽ hiệu quả hơn.",
+    "Doing the same jobs overlaps. One suitable job each works better."
+   ],
+   [
+    "Huy vẽ, Linh viết, Na nghĩ nội dung",
+    "Huy draws, Linh writes, Na thinks of the content",
+    1,
+    "Giao việc hợp với thế mạnh từng bạn thì ai cũng làm tốt và vui.",
+    "Matching jobs to strengths means everyone does well and enjoys it."
+   ],
+   [
+    "Na làm hết vì là nhóm trưởng",
+    "Na does it all as leader",
+    0,
+    "Nhóm trưởng giỏi là biết giao việc, không phải làm một mình.",
+    "A good leader shares jobs, not does them all."
+   ]
+  ],
+  "qq": [
+   "Biết thế mạnh của từng người giúp gì?",
+   "Knowing everyone’s strengths helps…"
+  ],
+  "qo": [
+   [
+    "Giao việc phù hợp cho từng người",
+    "Give each person a suitable job"
+   ],
+   [
+    "Để một người giỏi làm hết",
+    "One clever person does it all"
+   ],
+   [
+    "Ai muốn gì làm nấy",
+    "Everyone does whatever"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà làm bữa tối. Ba nấu ngon, mẹ bày món đẹp, Bin nhớ rõ chỗ để bát đũa.",
+     "The family is making dinner. Dad cooks well, Mum plates up nicely and Bin knows where the bowls go."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi đứng bếp nấu thay ba",
+      "Insist on cooking instead of Dad",
+      0,
+      "Bếp nóng là việc của người lớn. Dọn bàn là phần rất hợp với con.",
+      "The hob is for grown-ups. Setting the table suits you perfectly."
+     ],
+     [
+      "Ngồi xem ti vi chờ ăn",
+      "Watch telly until it’s ready",
+      0,
+      "Con cũng có thế mạnh giúp được cả nhà. Dọn bàn nhé.",
+      "You have a strength that helps too. Set the table."
+     ],
+     [
+      "Lấy bát đũa và dọn bàn, ba nấu, mẹ bày món",
+      "Get the bowls and set the table while Dad cooks and Mum plates up",
+      1,
+      "Mỗi người làm việc mình giỏi thì bữa tối xong nhanh và vui.",
+      "Everyone doing what they’re good at makes dinner quick and fun."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dã ngoại cùng hai gia đình, các bạn nhỏ chơi trò tìm đồ theo bản đồ, ba mẹ ngồi gần đó.",
+     "On a picnic with two families, the children play a map treasure hunt while parents sit nearby."
+    ],
+    "q": [
+     "Nhóm nên chia việc thế nào?",
+     "How should the group share jobs?"
+    ],
+    "o": [
+     [
+      "Cả nhóm cùng giành đọc bản đồ",
+      "Everyone grabs the map at once",
+      0,
+      "Giành nhau thì bản đồ rách và mất thời gian. Chia việc nhé.",
+      "Grabbing tears the map and wastes time. Share jobs."
+     ],
+     [
+      "Mỗi bạn chạy đi một ngả",
+      "Everyone runs off separately",
+      0,
+      "Đi xa nhau dễ lạc, ra khỏi chỗ ba mẹ nhìn thấy. Đi cùng nhóm và chia việc nhé.",
+      "Splitting up can mean getting lost out of sight. Stay together and share jobs."
+     ],
+     [
+      "Bạn đọc giỏi đọc gợi ý, bạn mắt tinh tìm đồ, Bin đếm và ghi lại",
+      "The good reader reads clues, the sharp-eyed one searches, Bin counts and notes",
+      1,
+      "Mỗi bạn một việc hợp với mình thì cả đội tìm nhanh hơn.",
+      "Each doing what suits them makes the team faster."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thế mạnh của cả nhà",
+    "Our family’s strengths"
+   ],
+   "s": [
+    "Con nói thế mạnh của mỗi người trong nhà, rồi giao việc phù hợp cho từng người trong một trò chơi hoặc việc nhà.",
+    "Name a strength for each person at home, then give everyone a suitable job in a game or chore."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý thế mạnh từng người, con giao việc.",
+     "Mum or Dad suggests strengths and you hand out jobs."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ thế mạnh và giao việc.",
+     "Mum or Dad reminds you once, then you think of strengths and assign jobs."
+    ],
+    [
+     "Con tự nói thế mạnh của mọi người, giao việc và giải thích vì sao.",
+     "You name everyone’s strengths, assign jobs and explain why."
+    ]
+   ],
+   "rw": [
+    "Con được làm đội trưởng trong trò chơi lần tới",
+    "You’re team captain in the next game"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự làm một việc từ đầu đến cuối",
+   "One job start to finish"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin tự pha nước cam. Uống xong, Bin để cốc và vỏ cam trên bàn rồi chạy đi chơi.",
+   "Bin makes his own orange juice. After drinking it, he leaves the cup and peel on the table and runs off to play."
+  ],
+  "cq": [
+   "Bin còn thiếu bước nào?",
+   "What step has Bin missed?"
+  ],
+  "co": [
+   [
+    "Rửa cốc, bỏ vỏ vào thùng rác và lau bàn",
+    "Wash the cup, bin the peel and wipe the table",
+    1,
+    "Làm trọn một việc là chuẩn bị, làm và dọn dẹp xong xuôi.",
+    "Finishing a job means getting ready, doing it and tidying up."
+   ],
+   [
+    "Để đó cho mẹ dọn",
+    "Leave it for Mum",
+    0,
+    "Con đã tự pha rất giỏi, giờ chỉ cần dọn nốt là trọn vẹn.",
+    "You made it brilliantly; tidying up finishes the job."
+   ],
+   [
+    "Dọn một nửa rồi đi chơi",
+    "Tidy half, then play",
+    0,
+    "Còn một chút nữa thôi. Làm nốt để bàn sạch hẳn nhé.",
+    "Just a bit more. Finish so the table is properly clean."
+   ]
+  ],
+  "qq": [
+   "Làm một việc trọn vẹn gồm những gì?",
+   "Doing a whole job means…"
+  ],
+  "qo": [
+   [
+    "Chỉ làm phần vui",
+    "Only doing the fun part"
+   ],
+   [
+    "Chuẩn bị, làm và dọn dẹp xong",
+    "Getting ready, doing it and tidying up"
+   ],
+   [
+    "Làm xong là đi chơi ngay",
+    "Running off as soon as it’s done"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thủ công, Na nặn xong con vật bằng đất nặn. Bàn còn đầy vụn đất.",
+     "In craft time, Na finishes her clay animal. The desk is covered in crumbs of clay."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Cất đất nặn vào hộp và lau bàn",
+      "Put the clay back in its box and wipe the desk",
+      1,
+      "Dọn dẹp xong mới là làm trọn việc. Bàn sạch cho bạn dùng tiếp.",
+      "Tidying up completes the job and leaves the desk ready."
+     ],
+     [
+      "Chạy ra chơi ngay",
+      "Dash out to play",
+      0,
+      "Ra chơi vui lắm, nhưng dọn nhanh hai phút trước đã nhé.",
+      "Break is fun, but a quick two-minute tidy first."
+     ],
+     [
+      "Nhờ bạn dọn hộ",
+      "Ask a friend to tidy for her",
+      0,
+      "Đồ con dùng thì con dọn được. Bạn có thể giúp cùng, nhưng phần chính là của con.",
+      "You can tidy what you used. A friend can help, but it’s your job."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên cùng gia đình, Bin ăn xong bánh mì trên tấm khăn trải.",
+     "On a family trip to the park, Bin finishes his sandwich on the picnic blanket."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Để giấy lại trên cỏ",
+      "Leave the wrapper on the grass",
+      0,
+      "Giấy trên cỏ thành rác của công viên. Bỏ vào thùng nhé.",
+      "A wrapper on the grass becomes litter. Bin it."
+     ],
+     [
+      "Đợi ba dọn hết",
+      "Wait for Dad to tidy it all",
+      0,
+      "Con dọn phần của con được. Ba con mình cùng gấp khăn nhé.",
+      "You can tidy your part. Fold the blanket with Dad."
+     ],
+     [
+      "Gom giấy gói bỏ vào thùng rác và giúp gấp khăn trải",
+      "Collect the wrapper for the bin and help fold the blanket",
+      1,
+      "Ăn xong dọn sạch là làm trọn việc, công viên cũng sạch đẹp.",
+      "Tidying after eating finishes the job and keeps the park nice."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cốc nước cam của con",
+    "My orange juice"
+   ],
+   "s": [
+    "Ba mẹ cắt sẵn quả cam, con tự vắt, rót nước cam vào cốc, rồi tự rửa cốc và lau sạch chỗ làm.",
+    "Mum or Dad cuts the oranges first; you squeeze, pour your juice, then wash the cup and wipe the worktop."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm cùng con từng bước, kể cả lúc dọn.",
+     "Mum or Dad does each step with you, including tidying."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm và tự dọn.",
+     "Mum or Dad reminds you once, then you make it and tidy up."
+    ],
+    [
+     "Con tự làm từ đầu đến cuối, dọn sạch và kể lại các bước.",
+     "You do it start to finish, tidy up and name the steps."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nâng cốc nước cam chúc mừng con",
+    "The family raises a glass of juice to you"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Sai bước nào, sửa bước đó",
+   "Fix one step at a time"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na gấp thuyền giấy theo cô hướng dẫn, nhưng thuyền bị lệch. Na định vò bỏ.",
+   "Na folds a paper boat following the teacher, but it comes out lopsided. She’s about to scrunch it up."
+  ],
+  "cq": [
+   "Na nên làm gì?",
+   "What should Na do?"
+  ],
+  "co": [
+   [
+    "Vò bỏ, lấy tờ khác gấp thật nhanh",
+    "Scrunch it and fold a new one quickly",
+    0,
+    "Gấp lại từ đầu cũng được, nhưng không biết sai ở đâu thì dễ lệch đúng chỗ đó.",
+    "Starting again is OK, but without finding the mistake it may happen again."
+   ],
+   [
+    "Xin bạn chiếc thuyền khác",
+    "Ask a friend for their boat",
+    0,
+    "Thuyền của bạn đẹp, nhưng tự sửa được thuyền của mình còn vui hơn.",
+    "A friend’s boat is nice, but fixing your own feels even better."
+   ],
+   [
+    "Mở ra xem lại từng nếp gấp, tìm bước sai rồi gấp lại bước đó",
+    "Unfold it, check each fold, find the wrong step and redo it",
+    1,
+    "Xem lại từng bước giúp con tìm đúng chỗ sai, lần sau gấp sẽ thẳng hơn.",
+    "Checking each step finds the mistake, so next time it’s straighter."
+   ]
+  ],
+  "qq": [
+   "Làm chưa đúng thì sửa thế nào?",
+   "When something goes wrong, how do you fix it?"
+  ],
+  "qo": [
+   [
+    "Xem lại từng bước để tìm chỗ sai",
+    "Check each step to find the mistake"
+   ],
+   [
+    "Làm lại toàn bộ thật nhanh",
+    "Redo it all quickly"
+   ],
+   [
+    "Bỏ cuộc luôn",
+    "Give up"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin làm bài cộng, nhưng kết quả khác với đáp án ba kiểm tra.",
+     "Bin does an addition sum, but his answer is different from the one Dad checks."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chép luôn đáp án của ba",
+      "Just copy Dad’s answer",
+      0,
+      "Chép thì có số đúng nhưng con chưa biết mình sai ở đâu. Thử tìm nhé.",
+      "Copying gives the number but not the lesson. Try finding the slip."
+     ],
+     [
+      "Tính lại từng bước để tìm chỗ nhầm",
+      "Go through each step to find the slip",
+      1,
+      "Tìm đúng bước nhầm thì con hiểu bài hơn, lần sau không nhầm nữa.",
+      "Finding the exact slip helps you understand and avoid it next time."
+     ],
+     [
+      "Tẩy hết rồi khóc",
+      "Rub it all out and cry",
+      0,
+      "Nhầm là chuyện ai cũng gặp. Bình tĩnh xem lại từng bước nhé.",
+      "Everyone makes slips. Calmly check each step."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, Bin lắp đường ray tàu đồ chơi cùng bạn, mẹ ngồi gần đó. Tàu cứ trật bánh ở một chỗ.",
+     "In the park, Bin builds a toy train track with a friend while Mum sits nearby. The train keeps coming off in one spot."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tháo hết ra lắp lại từ đầu",
+      "Take it all apart and start again",
+      0,
+      "Tháo hết thì mất công mà có thể lại sai chỗ cũ. Tìm đoạn lỗi trước nhé.",
+      "That takes ages and may repeat the mistake. Find the faulty bit first."
+     ],
+     [
+      "Cho tàu chạy chậm, xem trật ở đoạn nào rồi lắp lại đoạn đó",
+      "Run the train slowly, spot where it comes off and refit that piece",
+      1,
+      "Tìm đúng đoạn lỗi thì chỉ cần sửa một chỗ, không phải lắp lại hết.",
+      "Finding the faulty piece means fixing one bit, not the whole track."
+     ],
+     [
+      "Bảo tại bạn lắp sai",
+      "Blame the friend",
+      0,
+      "Đổ lỗi làm bạn buồn. Hai bạn cùng tìm chỗ sai sẽ nhanh hơn.",
+      "Blaming upsets your friend. Looking together is quicker."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm bước sai",
+    "Find the wrong step"
+   ],
+   "s": [
+    "Con làm lại một món thủ công hoặc bài tập chưa đúng, tìm ra bước sai và sửa đúng bước đó, rồi chỉ cho ba mẹ xem.",
+    "Redo a craft or exercise that went wrong, find the wrong step, fix just that step and show Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xem lại từng bước và chỉ gợi ý.",
+     "Mum or Dad checks each step with you and gives hints."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm bước sai và sửa.",
+     "Mum or Dad reminds you once, then you find and fix the step."
+    ],
+    [
+     "Con tự tìm, tự sửa và kể lại bước nào sai, vì sao.",
+     "You find and fix it yourself and explain which step went wrong and why."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm thêm một món thủ công",
+    "Mum or Dad makes another craft with you"
+   ]
+  }
+ }
+]

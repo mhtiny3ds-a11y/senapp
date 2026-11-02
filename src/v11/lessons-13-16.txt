@@ -1,0 +1,90 @@
+oi=0 | tuần 1 | An toàn & ranh giới | Nói “không” mà không mất bạn | quiz: Ranh giới lành mạnh là… -> Từ chối việc, giữ quan hệ
+   chuyện: Nhóm bạn rủ Khoa bỏ tiết cuối đi chơi. Khoa không muốn, nhưng sợ bị nói là nhạt và bị loại khỏi nhóm.
+oi=1 | tuần 1 | Tư duy phản biện | Kiểm chứng một tin nghe được | quiz: Dấu hiệu đáng ngờ nhất của một tin? -> Con số lớn mà không truy được nguồn
+   chuyện: Một bài viết lan truyền: “Uống loại nước này thay bữa sáng giúp tăng 20% điểm thi.” Bài có 40.000 lượt chia sẻ và một ảnh bác sĩ.
+oi=2 | tuần 1 | Giao tiếp | Phỏng vấn vào đội tình nguyện | quiz: Trả lời phỏng vấn thuyết phục nhờ… -> Ví dụ cụ thể đã làm được
+   chuyện: Khoa đăng ký vào đội tình nguyện của trường. Thầy phụ trách hỏi: “Em chưa tham gia đội nào, vì sao thầy nên chọn em?”
+oi=3 | tuần 1 | Tài chính cá nhân | Ngân sách 500.000đ một tháng | quiz: Trong ngân sách, cắt gì trước? -> Phần “muốn” trước phần “cần”
+   chuyện: Ba mẹ cho Khoa 500.000đ/tháng tự lo ăn sáng, xe buýt và tiêu riêng. Tuần đầu Khoa đã tiêu 260.000đ.
+oi=4 | tuần 1 | Quản lý cảm xúc | Xung đột với ba mẹ về giờ về nhà | quiz: Thương lượng với ba mẹ hiệu quả khi… -> Có đề nghị cụ thể và cách làm ba mẹ an tâm
+   chuyện: Ba mẹ yêu cầu Khoa về trước 19h. Bạn bè thường về 20h. Tối qua Khoa về muộn 40 phút và cả nhà to tiếng.
+oi=5 | tuần 2 | Giao tiếp | Lắng nghe khi bạn tâm sự | quiz: Lắng nghe chủ động là… -> Hỏi thêm và nhắc lại ý người kia
+   chuyện: Giờ ra chơi, Mai kể với Khoa là dạo này Mai rất mệt vì phải học thêm nhiều. Khoa đang định kể ngay chuyện mình cũng bận không kém.
+oi=6 | tuần 2 | Làm việc nhóm | Nhận vai trong dự án nhóm | quiz: Chia vai trong nhóm hiệu quả bắt đầu từ… -> Danh sách việc và thế mạnh từng người
+   chuyện: Nhóm Khoa có năm bạn làm bài thuyết trình Sinh học về rừng ngập mặn. Ai cũng muốn làm phần thiết kế trang chiếu, không ai muốn tìm tài liệu.
+oi=7 | tuần 2 | Tự lập | Tự dậy đúng giờ | quiz: Muốn tự dậy đúng giờ, điều quan trọng nhất là… -> Đi ngủ đúng giờ
+   chuyện: Sáng nào mẹ cũng phải gọi ba lần Khoa mới dậy. Khoa muốn tự dậy nhưng tối nào cũng ngủ sau 23h và tắt chuông báo thức trong lúc ngái ngủ.
+oi=8 | tuần 2 | Giải quyết vấn đề | Khi làm mất đồ quan trọng | quiz: Khi mất đồ, bước đầu tiên là… -> Bình tĩnh và nhớ lại lần cuối nhìn thấy
+   chuyện: Đi hiệu sách cùng chị gái, Khoa phát hiện túi đựng thẻ học sinh và vé xe buýt tháng không còn trong cặp. Khoa bắt đầu hoảng.
+oi=9 | tuần 2 | Quản lý thời gian | Thắng thói trì hoãn bằng 10 phút | quiz: Cách hiệu quả để thắng trì hoãn là… -> Bắt đầu bằng một bước rất nhỏ
+   chuyện: Khoa có bài luận Ngữ văn nộp thứ Năm. Ba buổi tối liền, Khoa mở vở ra rồi lại dọn bàn, xem điện thoại, ăn vặt, đến giờ ngủ vẫn chưa viết được dòng nào.
+oi=10 | tuần 3 | Tư duy phản biện | Tỉnh táo trước quảng cáo “giảm giá sốc” | quiz: Câu “Chỉ hôm nay!” trong quảng cáo thường nhằm… -> Làm mình quyết định vội
+   chuyện: Đi siêu thị cùng ba, Khoa thấy biển “Giảm 50%! Chỉ hôm nay!” trên một chiếc tai nghe. Giá cũ ghi 800.000đ, giá mới 400.000đ, và Khoa muốn mua ngay bằng tiền tiết kiệm.
+oi=11 | tuần 3 | An toàn & ranh giới | Giữ mật khẩu cho riêng mình | quiz: Mật khẩu có thể chia sẻ với… -> Ba mẹ hoặc người giám hộ
+   chuyện: Linh, bạn thân của Khoa, xin mật khẩu tài khoản học trực tuyến của Khoa để “xem giúp bài tập”. Linh nói: “Bạn thân mà, có gì đâu.”
+oi=12 | tuần 3 | Quản lý thời gian | Làm chủ giờ dùng điện thoại | quiz: Cách giữ giới hạn giờ màn hình hiệu quả nhất? -> Hẹn giờ và để máy xa khi làm việc
+   chuyện: Khoa định xem điện thoại 15 phút sau bữa tối rồi học bài. Ngẩng lên đã gần 21h, bài Hóa vẫn chưa động tới.
+oi=13 | tuần 3 | Tài chính cá nhân | Ghi chép chi tiêu một tuần | quiz: Ghi chép chi tiêu giúp mình… -> Thấy khoản nhỏ cộng lại thành bao nhiêu
+   chuyện: Khoa được ba mẹ cho tiền tiêu vặt mỗi tuần. Hôm nay mới thứ Năm mà ví đã gần hết, Khoa không nhớ tiền đã đi đâu: vài cây bút, nước uống ở căng tin, một quyển truyện…
+oi=14 | tuần 3 | Quản lý cảm xúc | Dừng lại trước khi trả lời lúc đang giận | quiz: Khi đang rất giận, việc nên làm đầu tiên là… -> Dừng lại và để cơn giận hạ xuống
+   chuyện: Trong nhóm chat lớp, Tí đăng ảnh bài vẽ của Khoa kèm câu đùa “tranh của bé mẫu giáo”. Vài bạn thả biểu tượng cười. Khoa nóng mặt, đang gõ một câu thật gay gắt.
+oi=15 | tuần 4 | Quản lý cảm xúc | Khi thấy ghen tị với bạn | quiz: Khi thấy ghen tị, cách tốt nhất là… -> Thừa nhận và biến nó thành mục tiêu cho mình
+   chuyện: Bài thuyết trình của Vy được cô khen trước lớp và được chọn đi thi cấp trường. Khoa cũng chuẩn bị rất kỹ nhưng không được chọn, trong lòng thấy khó chịu và hơi ghen tị.
+oi=16 | tuần 4 | Làm việc nhóm | Khi có bạn không làm phần việc | quiz: Khi một thành viên chậm việc, bước đầu nên là… -> Hỏi riêng và nhắc rõ hạn
+   chuyện: Còn ba ngày nữa nộp dự án Địa lý, Huy vẫn chưa gửi phần của mình và không trả lời tin nhắn nhóm. Cả nhóm bắt đầu bực, có bạn muốn báo cô gạch tên Huy.
+oi=17 | tuần 4 | Tự lập | Tự làm bữa sáng đơn giản | quiz: Lần đầu tự nấu ăn, điều quan trọng nhất là… -> Có người lớn hướng dẫn và giữ an toàn
+   chuyện: Cuối tuần này Khoa muốn tự làm bữa sáng cho cả nhà: trứng ốp, bánh mì và sữa. Khoa chưa từng tự dùng bếp lần nào.
+oi=18 | tuần 4 | Giải quyết vấn đề | Máy tính hỏng sát hạn nộp bài | quiz: Bài học từ sự cố mất dữ liệu là… -> Luôn có bản lưu dự phòng
+   chuyện: Tối thứ Tư, máy tính ở nhà bỗng không bật được. Bài trình chiếu Tiếng Anh nộp sáng mai vẫn đang nằm trong máy.
+oi=19 | tuần 4 | Tư duy phản biện | Sự thật hay ý kiến? | quiz: Câu nào là sự thật, không phải ý kiến? -> Lớp mình có 38 học sinh
+   chuyện: Trong giờ thảo luận, Bảo nói: “Đọc sách giấy tốt hơn đọc trên máy, ai cũng biết thế.” Vài bạn gật gù, có bạn phản đối, cả lớp bắt đầu ồn.
+oi=20 | tuần 5 | An toàn & ranh giới | Người lạ làm quen trên mạng | quiz: Khi người quen trên mạng hẹn gặp riêng, bạn nên… -> Không đi và kể với ba mẹ
+   chuyện: Một tài khoản lạ nhắn tin khen bức tranh Khoa đăng trên mạng. Sau đó người này xin kết bạn, hỏi số điện thoại và hẹn cuối tuần gặp ở quán gần trường “để tặng quà”.
+oi=21 | tuần 5 | Quản lý thời gian | Ước lượng thời gian cho sát | quiz: Người ta thường ước lượng thời gian… -> Ngắn hơn thực tế
+   chuyện: Khoa nghĩ dọn phòng chỉ mất 15 phút nên 18h45 mới bắt đầu, trong khi 19h cả nhà đi ăn mừng sinh nhật bà. Đến giờ đi, phòng vẫn bừa và Khoa chưa thay đồ.
+oi=22 | tuần 5 | Tài chính cá nhân | So sánh giá theo đơn vị | quiz: Để so sánh hai gói khác dung tích, cần tính… -> Giá trên mỗi đơn vị
+   chuyện: Đi siêu thị cùng mẹ, Khoa được giao chọn nước rửa tay. Chai nhỏ 250ml giá 30.000đ, chai lớn 500ml giá 52.000đ, còn túi thay thế 1 lít giá 90.000đ.
+oi=23 | tuần 5 | Giao tiếp | Góp ý cho bạn mà không làm bạn buồn | quiz: Góp ý hiệu quả nên… -> Cụ thể và kèm gợi ý sửa
+   chuyện: Linh nhờ Khoa đọc bài phát biểu Linh sẽ nói trước toàn trường. Bài có ý hay nhưng quá dài và phần mở đầu khó hiểu.
+oi=24 | tuần 5 | Làm việc nhóm | Cả nhóm bất đồng: quyết định thế nào? | quiz: Khi nhóm bất đồng, cách quyết định công bằng là… -> Thống nhất tiêu chí rồi so sánh, biểu quyết
+   chuyện: Nhóm bạn của Khoa được ba mẹ cho đi chơi chiều Chủ nhật, có mẹ Huy đi cùng. Ba bạn muốn đến bảo tàng khoa học, hai bạn muốn đi công viên nước, bàn mãi chưa xong.
+oi=25 | tuần 6 | Làm việc nhóm | Lần đầu làm nhóm trưởng | quiz: Một cuộc họp nhóm hiệu quả cần… -> Mục tiêu rõ và chốt việc cuối buổi
+   chuyện: Khoa được bầu làm nhóm trưởng dự án Khoa học. Buổi họp đầu, các bạn nói chuyện riêng, bàn lan man, hết giờ vẫn chưa quyết được gì.
+oi=26 | tuần 6 | Tự lập | Tự lo quần áo của mình | quiz: Tự lập với việc nhà nghĩa là… -> Có lịch riêng và làm trọn việc
+   chuyện: Sáng thứ Hai, Khoa mới phát hiện áo đồng phục vẫn nằm trong giỏ đồ bẩn. Mẹ bảo từ tuần này Khoa tự lo quần áo của mình.
+oi=27 | tuần 6 | Giải quyết vấn đề | Tìm nguyên nhân gốc của vấn đề | quiz: Trước khi sửa một vấn đề, nên… -> Tìm nguyên nhân gốc
+   chuyện: Bồn rau của lớp Khoa ở góc sân cứ héo dần dù tổ nào cũng tưới hằng ngày. Có bạn đề nghị mua cây mới về trồng lại.
+oi=28 | tuần 6 | Tư duy phản biện | Nghe cả hai phía trước khi phán xét | quiz: Trước khi tin một lời đồn về ai đó, nên… -> Nghe người trong cuộc nói
+   chuyện: Cả lớp đồn Nam lấy bút của Mai vì thấy Nam cầm một cây bút giống hệt. Nhiều bạn đã bắt đầu tránh mặt Nam.
+oi=29 | tuần 6 | An toàn & ranh giới | Ảnh của mình, mình được quyết | quiz: Trước khi đăng ảnh có người khác, cần… -> Hỏi và được họ đồng ý
+   chuyện: Trong buổi ngoại khóa, Bảo chụp được ảnh Khoa đang ngáp và nói sẽ đăng lên nhóm chat lớp cho vui. Khoa thấy ngại và không muốn ảnh bị đăng.
+oi=30 | tuần 7 | Quản lý thời gian | Việc gấp và việc quan trọng | quiz: Việc nên làm trước tiên là việc… -> Vừa quan trọng vừa gấp
+   chuyện: Tối nay Khoa phải ôn bài kiểm tra Toán sáng mai, trả lời tin nhắn nhóm chat lớp, xem tập mới của bộ phim yêu thích và giúp mẹ phơi quần áo. Việc nào cũng như đang gọi Khoa cùng lúc.
+oi=31 | tuần 7 | Tài chính cá nhân | Tiết kiệm cho một mục tiêu | quiz: Cách tiết kiệm hiệu quả là… -> Để riêng một khoản ngay khi nhận tiền
+   chuyện: Khoa muốn mua một bộ màu vẽ giá 600.000đ. Mỗi tuần Khoa được 100.000đ tiền tiêu vặt nhưng thường tiêu hết trước Chủ nhật.
+oi=32 | tuần 7 | Giao tiếp | Thuyết trình khi đang hồi hộp | quiz: Cách giảm hồi hộp khi thuyết trình hiệu quả nhất là… -> Luyện nói thành tiếng nhiều lần
+   chuyện: Ngày mai Khoa thuyết trình 5 phút trước lớp về bảo vệ nguồn nước. Nghĩ đến cảnh cả lớp nhìn mình, tim Khoa đập nhanh và Khoa muốn xin đổi cho bạn khác.
+oi=33 | tuần 7 | Quản lý cảm xúc | Khi cảm thấy bị bỏ rơi | quiz: Khi thấy bị bỏ rơi, điều nên tránh là… -> Kết luận ngay là mọi người ghét mình
+   chuyện: Khoa thấy ảnh nhóm bạn thân đi ăn kem cuối tuần mà không rủ mình. Cả buổi tối Khoa buồn và nghĩ “chắc mọi người không thích mình nữa”.
+oi=34 | tuần 7 | Tự lập | Tự đi xe buýt đến trường | quiz: Tự đi lại an toàn cần có… -> Thỏa thuận báo tin với ba mẹ
+   chuyện: Năm nay ba mẹ đồng ý cho Khoa tự đi xe buýt đến trường. Ngày đầu tiên, Khoa mải xem điện thoại và suýt lỡ bến xuống.
+oi=35 | tuần 8 | Tự lập | Tự lo bài vở sau khi nghỉ ốm | quiz: Tự lập trong học tập nghĩa là… -> Chủ động hỏi khi mình bị thiếu
+   chuyện: Khoa nghỉ ốm ba ngày. Quay lại lớp, Khoa không biết các môn đã học đến đâu, trong khi tuần sau có bài kiểm tra.
+oi=36 | tuần 8 | Giải quyết vấn đề | Cân nhắc khi có nhiều lựa chọn | quiz: Khi phải chọn giữa hai lựa chọn tốt, nên… -> So sánh theo tiêu chí mình coi trọng
+   chuyện: Khoa được mời vào cả câu lạc bộ bóng chuyền lẫn câu lạc bộ khoa học của trường, cả hai đều sinh hoạt chiều thứ Ba và thứ Năm. Khoa thích cả hai và không biết chọn bên nào.
+oi=37 | tuần 8 | Tư duy phản biện | Khi số liệu đánh lừa mình | quiz: Hai việc thường đi cùng nhau thì… -> Chưa chắc có quan hệ nguyên nhân
+   chuyện: Bảo đưa cả lớp xem biểu đồ: “Học sinh mang chai nước riêng có điểm cao hơn, vậy mang chai nước giúp học giỏi hơn!” Cả lớp cười, nhưng vài bạn bắt đầu tin.
+oi=38 | tuần 8 | An toàn & ranh giới | Khi thấy bạn bị bắt nạt trên mạng | quiz: Khi thấy bắt nạt trên mạng, điều quan trọng nhất là… -> Báo người lớn tin cậy
+   chuyện: Trong nhóm chat lớp, vài bạn liên tục chế ảnh và gọi Huy bằng biệt danh xấu. Huy không nói gì, nhưng mấy hôm nay toàn ngồi một mình.
+oi=39 | tuần 8 | Quản lý thời gian | Dự án dài: chia thành từng mốc | quiz: Với dự án dài, cách tránh dồn việc về cuối là… -> Chia thành mốc nhỏ có hạn riêng
+   chuyện: Cô giao dự án Khoa học trong bốn tuần: chọn đề tài, làm thí nghiệm trồng đậu, ghi chép và viết báo cáo. Hai tuần đầu Khoa chưa làm gì vì nghĩ còn nhiều thời gian.
+oi=40 | tuần 9 | Tài chính cá nhân | Những khoản chi nhỏ âm thầm trong ứng dụng | quiz: Tiền nạp trong trò chơi hay ứng dụng là… -> Tiền thật, cần hỏi ba mẹ
+   chuyện: Khoa chơi một trò chơi miễn phí trên điện thoại của ba. Trò chơi liên tục mời mua “gói vật phẩm chỉ 20.000đ”, mà tài khoản của ba đã lưu sẵn thẻ thanh toán.
+oi=41 | tuần 9 | Giao tiếp | Bất đồng một cách tôn trọng | quiz: Bất đồng một cách tôn trọng là… -> Nêu quan điểm có lý do, đúng lúc, và lắng nghe
+   chuyện: Thầy Minh chấm bài luận của Khoa 6 điểm, nhận xét “chưa đủ dẫn chứng”. Khoa nghĩ mình đã có dẫn chứng ở đoạn ba và thấy điểm chưa công bằng.
+oi=42 | tuần 9 | Quản lý cảm xúc | Khi quá tải và muốn bỏ cuộc | quiz: Khi thấy quá tải, bước đầu tiên nên là… -> Dừng lại, chia sẻ, và chọn một việc nhỏ
+   chuyện: Tuần này Khoa có hai bài kiểm tra, buổi tập văn nghệ và bài thuyết trình nhóm. Tối thứ Ba, nhìn đống việc, Khoa thấy ngực nặng trĩu, muốn khóc và nghĩ “mình không làm nổi”.
+oi=43 | tuần 9 | Làm việc nhóm | Hòa giải khi hai bạn trong nhóm cãi nhau | quiz: Người hòa giải giỏi sẽ… -> Giúp hai bên nghe nhau và tìm mục tiêu chung
+   chuyện: Trong buổi làm báo tường, Mai và Tí cãi nhau to vì Mai muốn vẽ tay, còn Tí muốn in ảnh. Cả nhóm im lặng, công việc dừng hẳn.
+oi=44 | tuần 9 | Giải quyết vấn đề | Lỡ làm hỏng đồ đi mượn | quiz: Khi làm hỏng đồ của người khác, cách tốt nhất là… -> Nói thật, xin lỗi và đề nghị khắc phục
+   chuyện: Khoa mượn chiếc ô của bác Hoa hàng xóm để đi học thêm. Trên đường về gió to, ô bị gãy một nan. Khoa lo bác sẽ không vui.

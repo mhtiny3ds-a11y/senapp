@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Ảnh của mình, ai được chia sẻ?",
+   "Who can share my photos?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, Bảo chụp được ảnh An đang ngáp rất to và cười: “Tớ gửi vào nhóm chat lớp nhé, buồn cười lắm!” An thấy ngượng và không muốn.",
+   "At break, Bảo snaps a photo of An mid-yawn and laughs, “I’m posting this in the class chat, it’s hilarious!” An feels embarrassed and doesn’t want that."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cười cho qua dù không thích",
+    "Laugh it off even though you mind",
+    0,
+    "Con có quyền không đồng ý với ảnh của mình. Nói ra rõ ràng là được.",
+    "You have the right to say no about your own photos. It’s fine to say so clearly."
+   ],
+   [
+    "Chụp lại một ảnh xấu của Bảo để trả đũa",
+    "Snap an embarrassing photo of Bảo to get even",
+    0,
+    "Trả đũa làm hai bạn cùng buồn. Nói rõ mong muốn của mình sẽ tốt hơn.",
+    "Getting even upsets you both. Saying what you want works better."
+   ],
+   [
+    "Nói rõ: “Tớ không đồng ý, cậu xoá giúp tớ nhé.” Nếu bạn vẫn gửi thì báo cô",
+    "Say clearly, “I don’t agree, please delete it.” If he posts it anyway, tell the teacher",
+    1,
+    "Ảnh của mình thì mình có quyền quyết định. Nói “không” rõ ràng và nhờ người lớn khi cần.",
+    "Your photo, your choice. Say no clearly and ask an adult if needed."
+   ]
+  ],
+  "qq": [
+   "Trước khi chia sẻ ảnh của người khác, cần làm gì?",
+   "Before sharing someone else’s photo, you need to…"
+  ],
+  "qo": [
+   [
+    "Hỏi ý và được người đó đồng ý",
+    "Ask and get their agreement"
+   ],
+   [
+    "Chọn ảnh thật buồn cười",
+    "Pick a really funny one"
+   ],
+   [
+    "Gửi vào nhóm nhỏ thôi",
+    "Only send it to a small group"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An chụp được ảnh em Bống ngủ há miệng rất buồn cười, định gửi vào nhóm chat lớp cho các bạn xem.",
+     "An gets a funny photo of little Bống asleep with her mouth open and wants to send it to the class chat."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gửi luôn vì em còn nhỏ, không biết đâu",
+      "Send it, she’s too little to know",
+      0,
+      "Em nhỏ cũng có quyền với ảnh của mình. Hỏi em và ba mẹ trước nhé.",
+      "Little ones have rights over their photos too. Ask her and your parents first."
+     ],
+     [
+      "Hỏi em và ba mẹ trước; nếu em không thích thì giữ ảnh trong máy gia đình thôi",
+      "Ask Bống and your parents first; if she minds, keep it on the family device only",
+      1,
+      "Ảnh của người khác cần được người đó đồng ý. Ảnh vui trong nhà cứ để trong nhà.",
+      "Other people’s photos need their OK. Funny family photos can stay in the family."
+     ],
+     [
+      "Gửi rồi xoá sau vài phút",
+      "Send it and delete it after a few minutes",
+      0,
+      "Ảnh đã gửi có thể bị lưu lại ngay. Hỏi trước khi gửi nhé.",
+      "Once sent, a photo can be saved instantly. Ask before sending."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng ba mẹ, một người lạ lại gần nói: “Cháu dễ thương quá, cho cô chụp một tấm nhé.”",
+     "At the park with Mum and Dad, a stranger comes up and says, “You’re so sweet, can I take your photo?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đứng yên cho chụp vì cô ấy khen mình",
+      "Stand still for it, she was being nice",
+      0,
+      "Khen không có nghĩa là được chụp. Con có quyền từ chối và đi về phía ba mẹ.",
+      "A compliment isn’t permission. You can say no and go to your parents."
+     ],
+     [
+      "Lễ phép nói “Cháu không muốn ạ”, đi ngay về chỗ ba mẹ và kể lại",
+      "Politely say “No, thank you,” go straight back to your parents and tell them",
+      1,
+      "Từ chối lễ phép, đến gần ba mẹ và kể lại là cách giữ an toàn cho mình.",
+      "A polite no, going to your parents and telling them keeps you safe."
+     ],
+     [
+      "Bỏ chạy thật xa",
+      "Run far away",
+      0,
+      "Chạy xa có thể làm con lạc ba mẹ. Hãy đi về phía ba mẹ nhé.",
+      "Running far might separate you from your parents. Head towards them."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Quy tắc ảnh của gia đình",
+    "Our family photo rules"
+   ],
+   "s": [
+    "Con cùng ba mẹ thoả thuận 3 quy tắc chụp và chia sẻ ảnh trong gia đình (ví dụ: hỏi trước khi chụp, hỏi trước khi gửi, ai không thích thì xoá). Viết ra và mọi người cùng ký tên.",
+    "Agree three family rules for taking and sharing photos with your parents (for example: ask before taking, ask before sending, delete if someone minds). Write them down and everyone signs."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý quy tắc, con viết lại.",
+     "Your parent suggests rules and you write them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đề xuất 3 quy tắc.",
+     "With one reminder, you propose three rules yourself."
+    ],
+    [
+     "Con tự đề xuất, giải thích từng quy tắc và mời cả nhà ký tên.",
+     "You propose and explain each rule and get the whole family to sign."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng chụp một tấm ảnh mà ai cũng thích",
+    "The family takes a photo that everyone likes"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Cất thiết bị trước giờ ngủ",
+   "Devices away before bed"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "9 giờ 30 tối, giờ ngủ của An là 10 giờ. An đang xem video và cứ tự nhủ “thêm một chút nữa thôi”.",
+   "It’s 9.30pm and An’s bedtime is 10. An is watching videos and keeps thinking, “Just a bit longer.”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mang máy lên giường xem tiếp",
+    "Take the device to bed and keep watching",
+    0,
+    "Ánh sáng màn hình làm đầu óc tỉnh táo, khó ngủ hơn. Để máy ngoài phòng ngủ nhé.",
+    "Screen light keeps your brain awake. Leave devices outside the bedroom."
+   ],
+   [
+    "Xem đến khi buồn ngủ thì thôi",
+    "Watch until you feel sleepy",
+    0,
+    "Màn hình làm mình khó thấy buồn ngủ, nên dễ thức khuya. Dừng theo giờ hẹn sẽ dễ hơn.",
+    "Screens hide sleepiness, so you stay up late. Stopping at a set time is easier."
+   ],
+   [
+    "Cất máy ở phòng khách đúng 9 giờ 30, đánh răng rồi đọc sách giấy đến giờ ngủ",
+    "Put the device in the living room at 9.30, brush your teeth, then read a paper book until bedtime",
+    1,
+    "Dừng màn hình ít nhất 30 phút trước khi ngủ giúp con ngủ ngon và sáng dậy tỉnh táo.",
+    "Stopping screens at least 30 minutes before bed helps you sleep well and wake up fresh."
+   ]
+  ],
+  "qq": [
+   "Nên dừng dùng thiết bị khi nào?",
+   "When should you stop using devices?"
+  ],
+  "qo": [
+   [
+    "Ngay lúc lên giường",
+    "Right when you get into bed"
+   ],
+   [
+    "Ít nhất 30 phút trước khi ngủ",
+    "At least 30 minutes before sleep"
+   ],
+   [
+    "Khi pin hết",
+    "When the battery dies"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sáng nay Huy ngủ gật trong lớp vì xem máy khuya. Giờ ra chơi Huy rủ An tối nay 11 giờ nhắn tin nói chuyện.",
+     "Huy dozed off in class this morning after late-night screen time. At break he asks An to chat by message at 11 tonight."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“11 giờ tớ ngủ rồi. Mai mình nói chuyện giờ ra chơi nhé”",
+      "“I’ll be asleep by 11. Let’s chat at break tomorrow”",
+      1,
+      "Giữ giờ ngủ là chăm sóc bản thân. Hẹn lúc khác vẫn giữ được tình bạn.",
+      "Keeping your bedtime is self-care. Another time keeps the friendship."
+     ],
+     [
+      "“Ừ, tớ sẽ thức chờ”",
+      "“OK, I’ll stay up”",
+      0,
+      "Thức khuya thì mai con cũng sẽ mệt như Huy. Hẹn giờ khác nhé.",
+      "Staying up means you’ll be tired like Huy. Suggest another time."
+     ],
+     [
+      "Đồng ý rồi lén mang máy vào phòng",
+      "Agree and sneak the device into your room",
+      0,
+      "Lén lút vừa mất ngủ vừa phá lời hẹn với ba mẹ. Nói thật với bạn sẽ tốt hơn.",
+      "Sneaking costs sleep and breaks your deal with your parents. Be honest with Huy."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi nghỉ cuối tuần ở nhà nghỉ ven biển. Tối đến, An muốn mượn máy của mẹ xem phim đến khuya vì “đang đi chơi mà”.",
+     "The family is on a weekend away at a seaside guesthouse. In the evening An wants to watch films on Mum’s phone late “because it’s a holiday”."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Năn nỉ mẹ cho xem đến khi hết phim",
+      "Beg to watch until the film ends",
+      0,
+      "Mai còn cả ngày đi chơi. Ngủ đủ giúp con vui trọn chuyến đi.",
+      "There’s a whole day out tomorrow. Enough sleep keeps the trip fun."
+     ],
+     [
+      "Xem thêm một chút rồi dừng, nhưng không hẹn giờ",
+      "Watch a little more with no set stop time",
+      0,
+      "Không hẹn giờ thì “một chút” dễ thành rất lâu. Đặt giờ dừng cụ thể nhé.",
+      "Without a set time, “a little” can become ages. Pick a clear stop time."
+     ],
+     [
+      "Cùng mẹ hẹn giờ cất máy như ở nhà, sau đó cả nhà kể chuyện về ngày hôm nay",
+      "Agree a put-away time with Mum like at home, then share stories about the day",
+      1,
+      "Đi chơi vẫn giữ giờ ngủ thì mai con có sức khám phá. Kể chuyện cũng là cách thư giãn rất vui.",
+      "Keeping bedtime on holiday gives you energy to explore. Story-sharing is a lovely way to wind down."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba tối cất máy đúng giờ",
+    "Three nights of devices away on time"
+   ],
+   "s": [
+    "Con cùng ba mẹ hẹn giờ cất thiết bị (ít nhất 30 phút trước giờ ngủ) và chỗ để máy ngoài phòng ngủ. Ba tối liền con cất máy đúng giờ, ba mẹ đánh dấu xác nhận.",
+    "Agree a device put-away time (at least 30 minutes before bed) and a spot outside the bedroom with your parents. For three nights in a row, put it away on time; your parent ticks each night."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nhắc mỗi tối, con cất máy cùng ba mẹ.",
+     "Your parent reminds you each night and you put it away together."
+    ],
+    [
+     "Ba mẹ nhắc một lần đầu tiên, các tối sau con tự cất.",
+     "One reminder on the first night, then you do it yourself."
+    ],
+    [
+     "Con tự nhớ cả ba tối, tự cất máy và kể sáng dậy con thấy thế nào.",
+     "You remember all three nights yourself and describe how you felt in the mornings."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ đọc truyện cho con nghe trước giờ ngủ",
+    "Your parent reads you a bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "“Quà miễn phí” trên mạng",
+   "“Free prizes” online"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở trung tâm thương mại cùng mẹ, một người phát phiếu: “Quét mã nhận quà miễn phí, điền số điện thoại của ba mẹ vào đây nhé!”",
+   "At a shopping centre with Mum, someone hands out leaflets: “Scan the code for a free gift, just fill in your parents’ phone number!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Không tự điền gì, đưa phiếu cho mẹ quyết định",
+    "Don’t fill anything in; give the leaflet to Mum to decide",
+    1,
+    "Thông tin của gia đình do ba mẹ quyết định có chia sẻ hay không. Đưa mẹ xem là đúng.",
+    "Whether to share family details is your parents’ decision. Showing Mum is right."
+   ],
+   [
+    "Điền luôn vì là quà miễn phí",
+    "Fill it in, it’s a free gift",
+    0,
+    "Quà “miễn phí” đổi lấy thông tin thì không hẳn là miễn phí. Hỏi mẹ trước nhé.",
+    "A gift in exchange for details isn’t really free. Ask Mum first."
+   ],
+   [
+    "Lấy thêm nhiều phiếu cho bạn bè",
+    "Take lots of leaflets for friends",
+    0,
+    "Chưa biết phiếu an toàn không thì đừng mang cho bạn. Cho mẹ xem trước.",
+    "If you don’t know it’s safe, don’t pass it on. Show Mum first."
+   ]
+  ],
+  "qq": [
+   "Dấu hiệu nào cho thấy “quà miễn phí” là bẫy?",
+   "Which sign shows a “free prize” is a trap?"
+  ],
+  "qo": [
+   [
+    "Có hình ảnh đẹp",
+    "It has nice pictures"
+   ],
+   [
+    "Giục gấp và đòi thông tin hoặc tiền",
+    "It rushes you and asks for details or money"
+   ],
+   [
+    "Có chữ “chúc mừng”",
+    "It says “congratulations”"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Máy tính bảng hiện tin: “Chúc mừng! Bạn đã trúng một chiếc điện thoại mới! Nhập địa chỉ và số thẻ ngân hàng của ba mẹ để trả 20.000đ phí giao hàng. Chỉ còn 5 phút!”",
+     "A message pops up on the tablet: “Congratulations! You’ve won a new phone! Enter your address and your parents’ bank card number to pay 20,000 dong delivery. Only 5 minutes left!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Không bấm, không nhập gì, đưa ba mẹ xem và chỉ ra các dấu hiệu lạ",
+      "Don’t tap or type anything; show your parents and point out the warning signs",
+      1,
+      "Không tham gia mà “trúng thưởng”, bị giục gấp, đòi thông tin và tiền: đó là ba dấu hiệu lừa đảo.",
+      "Winning something you never entered, being rushed, and being asked for details and money are three scam signs."
+     ],
+     [
+      "Nhập nhanh vì chỉ mất 20.000đ mà được điện thoại",
+      "Fill it in fast, it’s only 20,000 for a phone",
+      0,
+      "Phí nhỏ là mồi để lấy thông tin thẻ của ba mẹ. Quà thật không đòi như vậy.",
+      "The small fee is bait to get your parents’ card details. Real prizes don’t work like that."
+     ],
+     [
+      "Gửi cho bạn bè để cùng trúng",
+      "Send it to friends so they can win too",
+      0,
+      "Gửi tiếp là vô tình đưa bạn vào bẫy. Cho ba mẹ xem trước nhé.",
+      "Forwarding it pulls your friends into the trap. Show your parents first."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tí khoe ở lớp: “Có trang cho đồ miễn phí trong trò chơi, chỉ cần đăng nhập bằng tài khoản và mật khẩu của cậu thôi!”",
+     "Tí tells the class, “There’s a site giving free game items, you just log in with your username and password!”"
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Cho tớ đường link với”",
+      "“Send me the link”",
+      0,
+      "Trang đòi mật khẩu để “tặng quà” thường là để lấy tài khoản. Cẩn thận nhé.",
+      "Sites asking for passwords to “give gifts” usually want your account. Be careful."
+     ],
+     [
+      "Im lặng nhưng về nhà thử",
+      "Say nothing but try it at home",
+      0,
+      "Thử một mình có thể mất tài khoản. Hỏi ba mẹ trước nhé.",
+      "Trying alone could lose your account. Ask your parents first."
+     ],
+     [
+      "“Trang đòi mật khẩu để cho quà thường là lừa đấy. Mình hỏi thầy cô hoặc ba mẹ trước nhé”",
+      "“Sites that want your password for prizes are usually scams. Let’s ask a teacher or our parents first”",
+      1,
+      "Nhắc bạn nhẹ nhàng và hỏi người lớn giúp cả hai tránh bẫy.",
+      "A gentle warning and asking an adult keeps you both safe."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm 3 dấu hiệu lừa đảo",
+    "Spot three scam signs"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem một ví dụ tin nhắn “trúng thưởng” (ba mẹ tìm hoặc tự viết) và chỉ ra 3 dấu hiệu lừa đảo: không tham gia mà trúng, giục gấp, đòi thông tin hoặc tiền.",
+    "Look at an example “you’ve won” message with your parents (they can find or write one) and point out three scam signs: winning without entering, rushing you, asking for details or money."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ từng dấu hiệu, con nhắc lại.",
+     "Your parent points out each sign and you repeat it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm 3 dấu hiệu.",
+     "With one reminder, you find all three signs."
+    ],
+    [
+     "Con tự tìm đủ 3 dấu hiệu, giải thích con sẽ làm gì và tự viết một tin nhắn mẫu để đố ba mẹ.",
+     "You find all three, explain what you’d do, and write your own example to test your parents."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi đố vui do con ra câu hỏi",
+    "A family quiz with questions you write"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Không nói sau lưng trong nhóm chat",
+   "No talking behind backs in group chats"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong nhóm chat của năm bạn, Linh nhắn: “Tranh của Vy hôm nay xấu nhỉ, ha ha.” Vy không có trong nhóm. Mấy bạn đã thả biểu tượng cười.",
+   "In a group chat of five, Linh writes, “Vy’s drawing today was rubbish, lol.” Vy isn’t in the group, and a few have already sent laughing faces."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nhẹ nhàng đổi chủ đề: “Thôi, mai mình tập văn nghệ bài gì nhỉ?” và không viết gì về Vy",
+    "Gently change the subject, “Anyway, which song are we practising tomorrow?” and write nothing about Vy",
+    1,
+    "Chỉ viết điều mình dám nói trực tiếp. Đổi chủ đề nhẹ nhàng giúp nhóm dừng nói xấu mà không ai mất mặt.",
+    "Only write what you’d say to someone’s face. A gentle change of subject stops the gossip without embarrassing anyone."
+   ],
+   [
+    "Thả biểu tượng cười cho hợp nhóm",
+    "Send a laughing face to fit in",
+    0,
+    "Một biểu tượng cười cũng là đang hùa theo. Vy sẽ buồn nếu đọc được.",
+    "Even one laughing face joins in. Vy would be hurt if she saw it."
+   ],
+   [
+    "Chụp màn hình gửi cho Vy",
+    "Screenshot it and send it to Vy",
+    0,
+    "Gửi cho Vy làm bạn ấy buồn thêm và nhóm thêm căng thẳng. Dừng câu chuyện lại sẽ tốt hơn.",
+    "Sending it to Vy hurts her more and causes drama. Stopping the gossip is better."
+   ]
+  ],
+  "qq": [
+   "Quy tắc nào giúp không nói sau lưng trên mạng?",
+   "Which rule stops talking behind backs online?"
+  ],
+  "qo": [
+   [
+    "Chỉ viết khi không ai biết",
+    "Only write it when nobody will find out"
+   ],
+   [
+    "Viết ngắn thôi thì không sao",
+    "Short messages are fine"
+   ],
+   [
+    "Chỉ viết điều mình dám nói trực tiếp với người đó",
+    "Only write what you’d say to the person’s face"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Trong nhóm chat anh chị em họ, chị Mai nhắn chê món chè dì Lan nấu tuần trước. Dì Lan không có trong nhóm.",
+     "In the cousins’ group chat, Mai writes something mean about the sweet soup Aunt Lan made last week. Aunt Lan isn’t in the group."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hùa theo kể thêm món khác dì nấu chưa ngon",
+      "Join in with another dish she didn’t get right",
+      0,
+      "Hùa theo làm câu chuyện đi xa hơn. Nếu dì biết sẽ rất buồn.",
+      "Joining in makes it bigger. Aunt Lan would be hurt to know."
+     ],
+     [
+      "Không hùa theo, chuyển sang hỏi “Cuối tuần mình rủ nhau chơi gì?”; nếu muốn góp ý thì nói trực tiếp, nhẹ nhàng với dì",
+      "Don’t join in; switch to “What shall we play at the weekend?” Any feedback can be said kindly to her face",
+      1,
+      "Điều không dám nói trực tiếp thì đừng viết sau lưng. Đổi chủ đề là cách nhẹ nhàng nhất.",
+      "If you wouldn’t say it to her face, don’t write it behind her back. Changing the subject is gentlest."
+     ],
+     [
+      "Rời nhóm luôn",
+      "Leave the group",
+      0,
+      "Rời nhóm thì không ai giúp đổi hướng câu chuyện. Thử nói một câu chuyển chủ đề trước nhé.",
+      "Leaving means nobody steers the chat elsewhere. Try one subject-changing line first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ bơi, mấy bạn túm tụm xem điện thoại, đọc to tin nhắn trong nhóm chat đội bơi chê bạn Bảo bơi chậm.",
+     "At swimming club, some kids huddle round a phone, reading out team chat messages mocking Bảo for being slow."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đứng xem và cười cùng",
+      "Watch and laugh along",
+      0,
+      "Cười theo là đang tham gia nói sau lưng. Bảo sẽ buồn nếu biết.",
+      "Laughing along is taking part. Bảo would be hurt."
+     ],
+     [
+      "Nói “Thôi, ra khởi động đi, sắp đến giờ rồi”, không viết gì trong nhóm; nếu nhóm vẫn chê thì kể với huấn luyện viên",
+      "Say “Come on, warm-up’s starting,” write nothing in the chat; if it continues, tell the coach",
+      1,
+      "Chuyển hướng câu chuyện và nhờ người lớn khi bạn bị tổn thương là cách tử tế, an toàn.",
+      "Redirecting and getting an adult if someone’s being hurt is kind and safe."
+     ],
+     [
+      "Lặng lẽ bỏ đi không nói gì",
+      "Walk away silently",
+      0,
+      "Không tham gia là tốt rồi. Thêm một câu đổi chủ đề có thể giúp Bảo nhiều hơn.",
+      "Not joining in is good. One subject-changing line might help Bảo more."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai câu chuyển chủ đề",
+    "Two subject-changing lines"
+   ],
+   "s": [
+    "Con cùng ba mẹ nghĩ và tập nói 2 câu chuyển chủ đề khi nhóm bắt đầu nói xấu một người. Ba mẹ đóng vai bạn trong nhóm, con dùng câu đó đúng lúc.",
+    "Think up and practise two lines for changing the subject when a group starts gossiping. Your parent plays a friend in the group and you use the lines at the right moment."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu, con tập nói theo.",
+     "Your parent suggests lines and you practise them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ 2 câu và tập.",
+     "With one reminder, you think of two lines and practise."
+    ],
+    [
+     "Con tự nghĩ, tự dùng trong vai diễn và giải thích quy tắc “chỉ viết điều mình dám nói trực tiếp”.",
+     "You create them, use them in the role-play and explain the “only write what you’d say to their face” rule."
+    ]
+   ],
+   "rw": [
+    "Được chọn món ăn sáng cuối tuần",
+    "You choose the weekend breakfast"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Bực khi hết giờ dùng máy",
+   "Upset when screen time ends"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An được xem phim hoạt hình 30 phút. Chuông hẹn giờ reo đúng lúc phim đến đoạn hay nhất. An thấy bực, muốn ném điều khiển xuống ghế.",
+   "An is allowed 30 minutes of cartoons. The timer goes off just at the best bit. An feels a surge of annoyance and wants to throw the remote onto the sofa."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cãi lại và đòi thêm 15 phút",
+    "Argue and demand 15 more minutes",
+    0,
+    "Cãi nhau làm cả nhà mất vui và lần sau khó thoả thuận hơn. Thử nói ra cảm giác nhé.",
+    "Arguing spoils the mood and makes the next deal harder. Try naming the feeling."
+   ],
+   [
+    "Tắt máy nhưng đóng sập cửa dỗi cả tối",
+    "Turn it off but slam the door and sulk all evening",
+    0,
+    "Con đã giữ lời tắt máy, giỏi lắm! Giờ thử chuyển sang việc dễ chịu để cơn bực qua nhanh hơn.",
+    "You kept the deal, well done! Now try switching to something nice so the annoyance passes."
+   ],
+   [
+    "Hít một hơi, nói “Con tiếc quá”, tắt máy và chuyển sang việc đã chọn sẵn như vẽ hay chơi với mèo",
+    "Breathe, say “Aw, that’s a shame,” turn it off and switch to something you picked earlier, like drawing or playing with the cat",
+    1,
+    "Tiếc là bình thường. Chấp nhận giới hạn và chuyển sang việc dễ chịu giúp cơn bực tan nhanh.",
+    "Feeling disappointed is normal. Accepting the limit and switching to something pleasant helps it fade."
+   ]
+  ],
+  "qq": [
+   "Khi hết giờ dùng máy mà thấy bực, cách nào giúp nhất?",
+   "When screen time ends and you feel cross, what helps most?"
+  ],
+  "qo": [
+   [
+    "Chuyển sang một hoạt động dễ chịu khác",
+    "Switching to another pleasant activity"
+   ],
+   [
+    "Đòi thêm giờ",
+    "Asking for more time"
+   ],
+   [
+    "Dỗi cho đến khi được xem tiếp",
+    "Sulking until you get more"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ Tin học, thầy bảo tắt máy khi An còn hai câu nữa là xong trò ghép chữ. An nhăn mặt.",
+     "In computing, the teacher says to log off when An is two answers from finishing a word game. An frowns."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cố bấm thật nhanh cho xong rồi mới tắt",
+      "Rush to finish before logging off",
+      0,
+      "Cố làm thêm là chưa tôn trọng giờ của thầy và cả lớp. Lần sau sẽ có dịp chơi tiếp.",
+      "Squeezing in more doesn’t respect the class time. You’ll get another go."
+     ],
+     [
+      "Thở ra một hơi, tắt máy và nghĩ “Tiết sau mình chơi tiếp”",
+      "Let out a breath, log off and think, “I’ll finish next lesson”",
+      1,
+      "Chấp nhận giới hạn và nghĩ về lần sau giúp con dễ chịu hơn.",
+      "Accepting the limit and thinking about next time makes it easier."
+     ],
+     [
+      "Ngồi khoanh tay giận cả tiết sau",
+      "Sit with arms folded, cross for the next lesson",
+      0,
+      "Bực một chút là bình thường, nhưng giận lâu làm mất cả tiết sau. Chuyển sang việc mới nhé.",
+      "A little annoyance is normal, but staying cross costs the next lesson. Move on."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quán ăn, An đang xem máy tính bảng thì món ăn được mang ra. Ba mẹ bảo cất máy để cả nhà ăn và trò chuyện.",
+     "At a restaurant, An is on the tablet when the food arrives. Mum and Dad say to put it away so the family can eat and chat."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cất máy, rồi kể cho ba mẹ nghe đoạn phim vừa xem",
+      "Put it away, then tell Mum and Dad about what you were watching",
+      1,
+      "Chuyển từ màn hình sang trò chuyện là cách chuyển hoạt động rất vui.",
+      "Switching from screen to chatting is a fun way to change activity."
+     ],
+     [
+      "Vừa ăn vừa xem lén dưới bàn",
+      "Watch secretly under the table while eating",
+      0,
+      "Xem lén làm bữa ăn mất vui và dễ đổ đồ. Cất máy hẳn sẽ thoải mái hơn.",
+      "Sneaking it spoils the meal and risks spills. Putting it away fully is easier."
+     ],
+     [
+      "Ăn trong im lặng vì bực",
+      "Eat in silence because you’re annoyed",
+      0,
+      "Bực là dễ hiểu, nhưng bữa ăn cả nhà là lúc vui. Thử kể một chuyện nhé.",
+      "Annoyance is understandable, but family meals are fun. Try sharing something."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm việc vui không màn hình",
+    "Five fun screen-free activities"
+   ],
+   "s": [
+    "Con lập danh sách 5 hoạt động không màn hình con thích (vẽ, đọc truyện, nhảy dây, xếp hình…) và dán gần chỗ để máy. Lần tới hết giờ, con chọn một việc trong danh sách.",
+    "Make a list of five screen-free activities you enjoy (drawing, reading, skipping, puzzles…) and stick it near where devices live. Next time screen time ends, pick one."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ và viết danh sách.",
+     "Your parent helps you think up and write the list."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết và dán danh sách.",
+     "With one reminder, you write and stick up the list."
+    ],
+    [
+     "Con tự viết, khi hết giờ tự chọn một việc trong danh sách và kể lại cảm giác.",
+     "You write it, then when time’s up you choose an activity yourself and describe how it felt."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ chơi cùng con một việc trong danh sách",
+    "Your parent joins you for one activity on the list"
+   ]
+  }
+ }
+]

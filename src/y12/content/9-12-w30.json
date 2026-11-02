@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi đọc được lời làm mình buồn",
+   "When words online hurt"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối ở nhà, An đọc được tin nhắn trong nhóm chat của mấy bạn cùng lớp: “Không ai muốn chung nhóm với An đâu.” Mặt An nóng bừng, tay đã gõ sẵn một câu thật gay gắt.",
+   "At home one evening, An reads a message in a group chat with some classmates: “Nobody wants An in their group.” An’s face burns and a harsh reply is already typed."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Xoá câu đã gõ, đặt máy xuống, hít thở vài hơi rồi kể với ba mẹ",
+    "Delete the reply, put the device down, take a few breaths and tell Mum or Dad",
+    1,
+    "Đáp trả lúc đang giận dễ làm mọi chuyện tệ hơn. Tạm rời màn hình và nói với người lớn giúp con nhẹ lòng và có hướng giải quyết.",
+    "Replying in anger usually makes it worse. Stepping away and telling an adult helps you feel better and find a way forward."
+   ],
+   [
+    "Gửi ngay câu gay gắt cho bạn biết tay",
+    "Send the harsh reply to show them",
+    0,
+    "Lời nói lúc giận khó rút lại. Chờ bình tĩnh rồi hãy quyết định nhé.",
+    "Words sent in anger are hard to take back. Wait until you’re calm."
+   ],
+   [
+    "Tự nhủ chắc mình tệ thật rồi khóc một mình",
+    "Decide you must be awful and cry alone",
+    0,
+    "Một câu nói không định nghĩa được con. Kể với ba mẹ để không phải buồn một mình nhé.",
+    "One message doesn’t define you. Tell your parents so you’re not sad alone."
+   ]
+  ],
+  "qq": [
+   "Khi đọc được lời làm mình buồn trên mạng, việc đầu tiên nên làm là gì?",
+   "When something online hurts, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Trả lời ngay cho hả giận",
+    "Reply at once to let off steam"
+   ],
+   [
+    "Tạm rời màn hình cho bình tĩnh",
+    "Step away from the screen to calm down"
+   ],
+   [
+    "Chụp lại gửi cho cả lớp",
+    "Screenshot it to the whole class"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "An gửi bức tranh vẽ vào nhóm chat lớp. Một bạn bình luận: “Xấu thế mà cũng khoe.” Sáng mai An sẽ gặp bạn ấy ở lớp.",
+     "An shares a drawing in the class group chat. Someone comments, “That’s ugly, why show it off?” An will see them at school tomorrow."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bình luận chê lại tranh của bạn ấy",
+      "Comment that their drawings are ugly too",
+      0,
+      "Chê lại làm cả hai cùng buồn hơn. Chờ bình tĩnh và nhờ người lớn nhé.",
+      "Hitting back makes you both feel worse. Calm down and get help."
+     ],
+     [
+      "Xoá tranh và quyết định không vẽ nữa",
+      "Delete the drawing and give up drawing",
+      0,
+      "Một lời chê không nói lên giá trị của con. Đừng để nó lấy đi điều con thích.",
+      "One unkind comment doesn’t measure your worth. Don’t let it take what you love."
+     ],
+     [
+      "Không trả lời, cất máy, kể với ba mẹ và nhờ cô giáo giúp nếu cần",
+      "Don’t reply, put the device away, tell your parents and ask the teacher for help if needed",
+      1,
+      "Không đáp trả lúc giận và nói với người lớn là cách mạnh mẽ nhất.",
+      "Not replying in anger and telling an adult is the strongest move."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang ngồi chờ ba ở tiệm sửa xe, An dùng điện thoại của ba đọc tin một bạn gửi: “Đồ ích kỷ!” An thấy ngực thắt lại.",
+     "Waiting with Dad at the bike repair shop, An reads a message on Dad’s phone from a friend: “You’re so selfish!” An’s chest tightens."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cất máy, nói với ba ngay: “Con vừa đọc được tin làm con buồn”",
+      "Put it away and tell Dad straight away, “I just read something that upset me”",
+      1,
+      "Ba ở ngay cạnh, nói ra luôn giúp con không phải ôm nỗi buồn một mình.",
+      "Dad’s right there; telling him means you don’t carry it alone."
+     ],
+     [
+      "Nhắn lại mười tin liên tục hỏi “Tại sao?”",
+      "Send ten messages asking “Why?”",
+      0,
+      "Nhắn dồn dập lúc đang buồn dễ thành cãi nhau. Bình tĩnh trước đã nhé.",
+      "Lots of messages while upset can turn into a row. Calm down first."
+     ],
+     [
+      "Giấu ba, giả vờ không sao",
+      "Hide it from Dad and pretend you’re fine",
+      0,
+      "Giấu thì buồn vẫn còn. Ba muốn biết để giúp con.",
+      "Hiding it keeps the hurt. Dad wants to know so he can help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba việc khi đọc điều làm mình buồn",
+    "Three things to do when words hurt"
+   ],
+   "s": [
+    "Con cùng ba mẹ liệt kê 3 việc con sẽ làm khi đọc điều khiến con buồn trên mạng (ví dụ: tạm rời máy, hít thở, kể với ba mẹ). Viết ra và dán ở góc học tập.",
+    "With your parents, list three things you’ll do when something online upsets you (for example: step away, breathe, tell a parent). Write it out and stick it by your desk."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con chọn và viết 3 việc.",
+     "Your parent suggests ideas; you choose and write three."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ và viết 3 việc.",
+     "With one reminder, you think of and write three yourself."
+    ],
+    [
+     "Con tự viết, giải thích vì sao không nên trả lời lúc đang giận và dán ở góc học tập.",
+     "You write them, explain why not to reply in anger, and put them up."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dành 20 phút chỉ để trò chuyện cùng con",
+    "Your parent spends 20 minutes just chatting with you"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Làm việc nhóm trực tuyến",
+   "Teamwork online"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An làm bài thuyết trình trên một tài liệu chung qua mạng. Ai cũng sửa đè lên phần của nhau, còn Huy im lặng ba ngày. Hạn nộp là thứ Sáu.",
+   "An’s group is making a presentation in a shared online document. Everyone keeps writing over each other’s parts, and Huy has been silent for three days. It’s due Friday."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tự làm hết cho chắc",
+    "Do it all yourself to be safe",
+    0,
+    "Làm hết thì con mệt và các bạn không được góp sức. Chia việc rõ sẽ công bằng hơn.",
+    "Doing it all wears you out and leaves others out. Clear jobs are fairer."
+   ],
+   [
+    "Nhắn trong nhóm chê Huy lười",
+    "Post in the group that Huy is lazy",
+    0,
+    "Chê trước cả nhóm làm bạn xấu hổ. Hỏi riêng nhẹ nhàng xem bạn có gặp khó gì không.",
+    "Calling him out embarrassed him. Ask privately and kindly if something’s wrong."
+   ],
+   [
+    "Đề nghị hẹn giờ gọi ngắn, chia rõ mỗi người một phần có ghi tên, hẹn giờ phản hồi, và nhắn riêng hỏi thăm Huy",
+    "Suggest a short call, give each person a named section, agree reply times, and message Huy privately to check in",
+    1,
+    "Làm nhóm trên mạng cần hẹn giờ, chia việc rõ và phản hồi đúng hạn. Hỏi thăm bạn im lặng giúp cả nhóm không bị bỏ sót ai.",
+    "Online teamwork needs set times, clear jobs and on-time replies. Checking in on a quiet teammate keeps everyone included."
+   ]
+  ],
+  "qq": [
+   "Làm việc nhóm trên mạng hiệu quả cần gì?",
+   "Good online teamwork needs…"
+  ],
+  "qo": [
+   [
+    "Ai rảnh thì sửa",
+    "Whoever’s free edits"
+   ],
+   [
+    "Một người làm hết",
+    "One person doing everything"
+   ],
+   [
+    "Hẹn giờ, chia việc rõ và phản hồi đúng hạn",
+    "Set times, clear jobs and on-time replies"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà lập danh sách đồ mang đi chơi trên một ghi chú chung. Ba, mẹ và An cùng sửa, danh sách bị trùng và rối.",
+     "The family writes a packing list in a shared note. Dad, Mum and An all edit it and it’s a mess of repeats."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Chia mục: ba lo đồ ăn, mẹ lo quần áo, con lo đồ chơi và sách, ai xong thì đánh dấu",
+      "Split sections: Dad does food, Mum clothes, An games and books, and tick when done",
+      1,
+      "Mỗi người một phần rõ ràng thì danh sách gọn và không ai làm trùng.",
+      "Clear sections keep the list tidy with no doubling up."
+     ],
+     [
+      "Xoá hết rồi tự viết lại",
+      "Delete it all and rewrite it yourself",
+      0,
+      "Xoá phần của người khác làm mọi người buồn. Bàn cách chia trước nhé.",
+      "Deleting others’ work upsets people. Agree how to split it first."
+     ],
+     [
+      "Kệ, đến đâu hay đến đó",
+      "Leave it, it’ll sort itself out",
+      0,
+      "Danh sách rối dễ làm quên đồ. Một chút sắp xếp giúp cả nhà yên tâm.",
+      "A messy list means forgotten things. A bit of order helps everyone."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ đọc sách ở thư viện phường giao nhóm thiếu nhi làm bản tin chung qua mạng. Một bạn nộp muộn hai ngày.",
+     "The book club at the local library asks the kids’ group to make a shared online newsletter. One member is two days late."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Báo với cô phụ trách là bạn ấy không làm",
+      "Tell the leader that member did nothing",
+      0,
+      "Hỏi bạn trước đã, có thể bạn đang gặp khó. Nhờ cô khi đã thử nói chuyện.",
+      "Ask them first; they might be stuck. Involve the leader after trying."
+     ],
+     [
+      "Nhắn hỏi bạn có cần giúp không, cùng nhóm hẹn lại hạn mới rõ ràng",
+      "Message to ask if they need help and agree a clear new deadline with the group",
+      1,
+      "Hỏi han và thống nhất hạn mới giúp nhóm tiếp tục mà không ai bị bỏ lại.",
+      "Checking in and agreeing a new deadline keeps the team moving together."
+     ],
+     [
+      "Bỏ phần của bạn ra khỏi bản tin",
+      "Drop their part from the newsletter",
+      0,
+      "Bỏ phần của bạn khi chưa hỏi làm bạn thấy bị gạt ra. Hỏi trước nhé.",
+      "Cutting their part without asking leaves them out. Ask first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Làm một tài liệu chung có chia việc",
+    "Make a shared document with clear jobs"
+   ],
+   "s": [
+    "Con cùng một người thân làm một tài liệu chung nhỏ (danh sách đi chợ, kế hoạch cuối tuần) trên máy hoặc trên giấy: chia phần, ghi tên người phụ trách và hẹn giờ xong. Cho ba mẹ xem kết quả.",
+    "Make a small shared document with a family member (shopping list, weekend plan), on a device or on paper: split sections, name who does each and agree a finish time. Show your parents the result."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chia phần và ghi tên.",
+     "Your parent helps split the sections and add names."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đề nghị cách chia và hẹn giờ.",
+     "With one reminder, you suggest the split and the deadline."
+    ],
+    [
+     "Con tự tổ chức, nhắc người cùng làm đúng hẹn và kể lại nhóm đã phối hợp thế nào.",
+     "You organise it, remind your partner of the deadline and describe how you worked together."
+    ]
+   ],
+   "rw": [
+    "Kế hoạch cuối tuần con làm được cả nhà thực hiện",
+    "The family carries out the weekend plan you made"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự quản mật khẩu",
+   "Looking after my passwords"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, bạn thân Linh hỏi: “Cho tớ mật khẩu tài khoản học tập của cậu đi, tớ muốn xem điểm cậu. Bạn thân mà!”",
+   "At break, An’s best friend Linh says, “Tell me your learning account password, I want to see your marks. We’re best friends!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cho vì là bạn thân",
+    "Tell her, she’s your best friend",
+    0,
+    "Bạn thân cũng không nên biết mật khẩu. Có người biết là có người vào được tài khoản của con.",
+    "Even best friends shouldn’t know your password. Anyone who knows it can get into your account."
+   ],
+   [
+    "Nhẹ nhàng nói: “Mật khẩu thì chỉ tớ và ba mẹ tớ biết thôi. Tớ kể cậu nghe điểm của tớ được mà”",
+    "Say kindly, “Only my parents and I know my password. I can just tell you my marks”",
+    1,
+    "Từ chối nhẹ nhàng vẫn giữ được tình bạn. Mật khẩu chỉ mình và ba mẹ biết.",
+    "A kind no keeps the friendship. Passwords are for you and your parents only."
+   ],
+   [
+    "Đổi mật khẩu thành 123456 cho dễ nhớ rồi cho bạn",
+    "Change it to 123456 to make it easy and tell her",
+    0,
+    "Mật khẩu dễ đoán thì ai cũng vào được. Mật khẩu mạnh và giữ kín mới an toàn.",
+    "Easy passwords let anyone in. Strong and private is safe."
+   ]
+  ],
+  "qq": [
+   "Ai được biết mật khẩu của con?",
+   "Who can know your password?"
+  ],
+  "qo": [
+   [
+    "Chỉ con và ba mẹ",
+    "Only you and your parents"
+   ],
+   [
+    "Bạn thân của con",
+    "Your best friend"
+   ],
+   [
+    "Cả lớp, cho tiện",
+    "The whole class, to be handy"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An cần tạo mật khẩu mới cho tài khoản học tập. An định dùng ngày sinh của mình cho dễ nhớ.",
+     "An needs a new password for a learning account and plans to use their birthday to remember it easily."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Dùng ngày sinh cho dễ nhớ",
+      "Use the birthday, it’s easy",
+      0,
+      "Ngày sinh nhiều người biết nên rất dễ đoán. Thử một câu dài có số và ký hiệu nhé.",
+      "Lots of people know your birthday, so it’s easy to guess. Try a long phrase with numbers and symbols."
+     ],
+     [
+      "Dùng chữ “matkhau”",
+      "Use the word “password”",
+      0,
+      "Đây là mật khẩu bị đoán nhiều nhất. Hãy tạo cái riêng của con.",
+      "That’s one of the most guessed passwords. Make your own."
+     ],
+     [
+      "Cùng ba mẹ ghép một câu dài dễ nhớ với số và ký hiệu, rồi chỉ con và ba mẹ biết",
+      "Make a long, memorable phrase with numbers and symbols together with your parents, known only to you and them",
+      1,
+      "Mật khẩu mạnh là dài, khó đoán và chỉ người trong nhà biết.",
+      "A strong password is long, hard to guess and known only at home."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện phường, An đăng nhập tài khoản học tập trên máy tính công cộng. Làm xong, ba gọi An về.",
+     "At the local library, An logs into a learning account on a public computer. When finished, Dad calls An to go."
+    ],
+    "q": [
+     "Trước khi đi, An nên làm gì?",
+     "What should An do before leaving?"
+    ],
+    "o": [
+     [
+      "Đi luôn vì ba đang chờ",
+      "Leave straight away because Dad’s waiting",
+      0,
+      "Không đăng xuất thì người dùng sau có thể vào tài khoản của con. Chỉ mất vài giây thôi.",
+      "Without logging out, the next person could get into your account. It takes seconds."
+     ],
+     [
+      "Đăng xuất, không bấm “lưu mật khẩu”, rồi mới đứng dậy",
+      "Log out, don’t click “save password”, then get up",
+      1,
+      "Trên máy dùng chung, luôn đăng xuất và không lưu mật khẩu để giữ tài khoản an toàn.",
+      "On shared computers, always log out and never save passwords."
+     ],
+     [
+      "Chỉ tắt màn hình",
+      "Just turn the screen off",
+      0,
+      "Tắt màn hình không đăng xuất tài khoản. Nhớ bấm đăng xuất nhé.",
+      "Turning off the screen doesn’t log you out. Remember to sign out."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tạo một mật khẩu mạnh",
+    "Create a strong password"
+   ],
+   "s": [
+    "Con cùng ba mẹ tạo một mật khẩu mạnh theo công thức: một câu dễ nhớ, thêm số và ký hiệu. Mật khẩu chỉ con và ba mẹ biết, không nói cho bạn bè hay người ngoài.",
+    "Create a strong password with your parents using a formula: a memorable phrase plus numbers and symbols. Only you and your parents know it, never friends or anyone else."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hướng dẫn công thức, con làm theo từng bước.",
+     "Your parent explains the formula and you follow each step."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tạo mật khẩu rồi cho ba mẹ kiểm tra.",
+     "With one reminder, you create it and let your parent check."
+    ],
+    [
+     "Con tự tạo, giải thích vì sao nó mạnh và nói lại ai được biết, ai không.",
+     "You create it, explain why it’s strong, and say who may and may not know it."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi cả nhà chơi tối thứ Bảy",
+    "You choose the family game on Saturday evening"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Lỡ bấm vào đường link lạ",
+   "Clicked a strange link"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An bấm vào đường link “Nhận ngay bộ hình dán miễn phí”. Trang mới hiện lên, đòi nhập họ tên, số điện thoại và địa chỉ nhà. An thấy hơi lo.",
+   "An clicks a link saying “Get free stickers now”. A new page asks for full name, phone number and home address. An feels uneasy."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nhập nhanh cho xong để nhận hình dán",
+    "Fill it in quickly to get the stickers",
+    0,
+    "Thông tin cá nhân không nên nhập vào trang lạ. Dừng lại và gọi ba mẹ nhé.",
+    "Personal details should never go into strange pages. Stop and call a parent."
+   ],
+   [
+    "Tắt máy và giấu ba mẹ vì sợ bị mắng",
+    "Turn it off and hide it from your parents",
+    0,
+    "Lỡ bấm là chuyện ai cũng có thể gặp. Kể ngay để ba mẹ kiểm tra máy giúp con.",
+    "Anyone can click by mistake. Tell straight away so your parents can check the device."
+   ],
+   [
+    "Dừng lại, không nhập gì, gọi ba mẹ đến xem ngay",
+    "Stop, type nothing and call your parent over straight away",
+    1,
+    "Dừng – không nhập – báo ba mẹ: ba bước giúp lỗi nhỏ không thành chuyện lớn.",
+    "Stop, type nothing, tell a parent: three steps that stop a small slip becoming a big problem."
+   ]
+  ],
+  "qq": [
+   "Lỡ bấm vào link lạ, việc nào KHÔNG nên làm?",
+   "After clicking a strange link, what should you NOT do?"
+  ],
+  "qo": [
+   [
+    "Gọi ba mẹ đến xem",
+    "Call a parent over"
+   ],
+   [
+    "Dừng lại",
+    "Stop"
+   ],
+   [
+    "Nhập thông tin cá nhân vào trang đó",
+    "Type personal details into the page"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ Tin học, An lỡ bấm vào một quảng cáo. Cửa sổ đỏ nhảy ra: “Máy đã bị nhiễm virus! Bấm vào đây để sửa ngay!”",
+     "In computing, An clicks an ad by mistake. A red window pops up: “Your computer has a virus! Click here to fix it now!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Không bấm gì thêm, giơ tay báo thầy ngay",
+      "Don’t click anything else and put your hand up to tell the teacher",
+      1,
+      "Cảnh báo kiểu này thường là bẫy. Không bấm và báo thầy là đúng nhất.",
+      "Warnings like that are often traps. Not clicking and telling the teacher is right."
+     ],
+     [
+      "Bấm vào để sửa máy",
+      "Click it to fix the computer",
+      0,
+      "Nút “sửa ngay” trong cửa sổ lạ có thể làm máy gặp chuyện thật. Báo thầy nhé.",
+      "A “fix now” button in a strange window may cause real trouble. Tell the teacher."
+     ],
+     [
+      "Chuyển sang máy khác ngồi",
+      "Move to another computer",
+      0,
+      "Chuyển máy thì máy cũ vẫn có vấn đề. Báo thầy để thầy xử lý.",
+      "The first computer still has the problem. Tell the teacher so it’s sorted."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ngồi chờ món ở quán ăn, An dùng điện thoại của mẹ và lỡ bấm vào link trong một tin nhắn lạ.",
+     "Waiting for food at a café, An is on Mum’s phone and accidentally taps a link in a strange message."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đóng trang và không nói gì",
+      "Close it and say nothing",
+      0,
+      "Đóng trang là tốt, nhưng mẹ cần biết để kiểm tra điện thoại.",
+      "Closing it is good, but Mum needs to know so she can check the phone."
+     ],
+     [
+      "Đưa ngay điện thoại cho mẹ và nói thật: “Con lỡ bấm vào link này”",
+      "Hand the phone to Mum and say honestly, “I tapped this link by mistake”",
+      1,
+      "Nói thật ngay giúp mẹ xử lý kịp. Mẹ sẽ cảm ơn sự trung thực của con.",
+      "Telling the truth straight away lets Mum act quickly. She’ll appreciate your honesty."
+     ],
+     [
+      "Bấm tiếp xem trang đó là gì",
+      "Keep tapping to see what it is",
+      0,
+      "Bấm tiếp có thể làm mọi chuyện khó hơn. Dừng lại và báo mẹ nhé.",
+      "More tapping can make things worse. Stop and tell Mum."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập 3 bước khi lỡ bấm link lạ",
+    "Practise the three steps for a strange link"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập 3 bước khi lỡ bấm vào đường link lạ: dừng lại – không nhập gì – báo ba mẹ ngay. Ba mẹ đóng vai đưa ra một tình huống, con nói và làm đúng 3 bước.",
+    "Practise the three steps for a strange link with your parents: stop, type nothing, tell a parent at once. Your parent acts out a scenario and you say and do all three steps."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu 3 bước, con làm theo.",
+     "Your parent models the steps and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ 3 bước trong tình huống.",
+     "With one reminder, you do all three steps in the scenario."
+    ],
+    [
+     "Con tự làm, rồi nghĩ thêm một tình huống khác và giải thích cách xử lý.",
+     "You do it yourself, then invent another scenario and explain how to handle it."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một chuyện vui hồi ba mẹ mới tập dùng máy tính",
+    "Your parent tells a funny story about learning to use computers"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Tiêu đề giật gân",
+   "Clickbait headlines"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi siêu thị cùng ba, An thấy tấm biển to: “SỐC! GIẢM 90% – CHỈ HÔM NAY – NHANH TAY KẺO HẾT!” Bên dưới có dòng chữ nhỏ xíu.",
+   "At the supermarket with Dad, An sees a big sign: “SHOCKING! 90% OFF – TODAY ONLY – HURRY!” There’s tiny writing underneath."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Giục ba mua ngay kẻo hết",
+    "Hurry Dad to buy before it’s gone",
+    0,
+    "Chữ “sốc”, “nhanh tay” được dùng để mình vội. Đọc kỹ trước đã nhé.",
+    "Words like “shocking” and “hurry” are there to rush you. Read carefully first."
+   ],
+   [
+    "Cùng ba đọc dòng chữ nhỏ: chỉ giảm 90% cho một món, các món khác giảm ít hơn nhiều",
+    "Read the tiny writing with Dad: only one item is 90% off; the rest much less",
+    1,
+    "Tiêu đề phóng đại để thu hút. Đọc phần nội dung và chữ nhỏ mới biết sự thật.",
+    "Headlines exaggerate to grab you. The details and small print tell the truth."
+   ],
+   [
+    "Cho rằng biển nói dối và bỏ qua mọi biển giảm giá",
+    "Decide all sale signs lie and ignore them",
+    0,
+    "Không phải biển nào cũng sai. Chỉ cần đọc kỹ nội dung rồi tự đánh giá.",
+    "Not every sign is false. Just read the details and judge for yourself."
+   ]
+  ],
+  "qq": [
+   "Gặp tiêu đề giật gân, nên làm gì?",
+   "When you see a sensational headline, you should…"
+  ],
+  "qo": [
+   [
+    "Chia sẻ ngay cho mọi người",
+    "Share it with everyone"
+   ],
+   [
+    "Tin vì chữ to và in đậm",
+    "Believe it because it’s big and bold"
+   ],
+   [
+    "Đọc nội dung và kiểm tra nguồn trước khi tin",
+    "Read the content and check the source before believing"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở nhà, An thấy trên mạng tiêu đề: “Từ năm sau học sinh được nghỉ hè sáu tháng!” An mừng quá định khoe cả lớp.",
+     "At home, An sees a headline online: “From next year, pupils get six months of summer holiday!” An is thrilled and wants to tell the class."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gửi ngay vào nhóm chat lớp",
+      "Post it in the class chat straight away",
+      0,
+      "Tin chưa kiểm tra có thể làm cả lớp hiểu sai. Kiểm tra trước nhé.",
+      "Unchecked news could mislead the whole class. Check first."
+     ],
+     [
+      "Đọc nội dung bài, xem trang nào đăng, rồi hỏi ba mẹ hoặc xem thông báo chính thức của trường",
+      "Read the article, see which site posted it, then ask your parents or check official school news",
+      1,
+      "Tin quá hay hoặc quá sốc thường cần kiểm tra kỹ. Nguồn chính thức mới đáng tin.",
+      "News that sounds too good or too shocking needs checking. Official sources are trustworthy."
+     ],
+     [
+      "Tin luôn vì tiêu đề rất chắc chắn",
+      "Believe it, the headline sounds so sure",
+      0,
+      "Tiêu đề nói chắc không có nghĩa là đúng. Đọc nội dung mới biết.",
+      "A confident headline isn’t proof. Read the content to know."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Nam đọc to trong lớp: “Ăn kem buổi tối sẽ làm bạn mất trí nhớ!” Mấy bạn hoảng hốt, Vy bảo từ nay không ăn kem nữa.",
+     "Nam reads out in class, “Eating ice cream at night makes you lose your memory!” Some pupils panic and Vy says she’ll never eat ice cream again."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Nghe lạ quá. Mình đọc cả bài và xem ai viết, hoặc hỏi cô xem sao”",
+      "“That sounds odd. Let’s read the whole thing, see who wrote it, or ask the teacher”",
+      1,
+      "Đề nghị kiểm tra nguồn giúp cả lớp bình tĩnh và không bị tiêu đề dắt mũi.",
+      "Suggesting a source check calms everyone and stops a headline leading you astray."
+     ],
+     [
+      "“Thật hả? Tớ cũng sợ quá”",
+      "“Really? I’m scared too”",
+      0,
+      "Lo lắng khi chưa kiểm tra là dễ hiểu. Thử đọc nội dung trước đã nhé.",
+      "Worrying before checking is natural. Read the details first."
+     ],
+     [
+      "“Nam ngốc thật, tin cả cái đó”",
+      "“Nam, you’re so silly for believing that”",
+      0,
+      "Chê bạn làm bạn ngại. Cùng nhau kiểm tra sẽ vui hơn.",
+      "Calling him silly embarrasses him. Checking together is nicer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Viết lại tiêu đề cho đúng sự thật",
+    "Rewrite headlines truthfully"
+   ],
+   "s": [
+    "Con cùng ba mẹ tìm hoặc tự nghĩ 2 tiêu đề phóng đại, rồi viết lại thành tiêu đề đúng sự thật, bỏ các chữ như “sốc”, “không thể tin nổi”. Đọc cả hai bản cho ba mẹ nghe.",
+    "With your parents, find or invent 2 exaggerated headlines and rewrite them truthfully, dropping words like “shocking” or “unbelievable”. Read both versions aloud."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đưa ví dụ, con cùng ba mẹ viết lại.",
+     "Your parent gives examples and you rewrite them together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết lại 2 tiêu đề.",
+     "With one reminder, you rewrite both yourself."
+    ],
+    [
+     "Con tự tìm, tự viết lại và chỉ ra chữ nào trong tiêu đề gốc làm người đọc hiểu sai.",
+     "You find and rewrite them, and point out which words were misleading."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một tờ “báo gia đình” vui",
+    "Your parent helps you make a fun family newspaper"
+   ]
+  }
+ }
+]

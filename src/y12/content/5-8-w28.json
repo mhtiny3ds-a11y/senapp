@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Giới thiệu bản thân",
+   "Introducing myself"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp vẽ cuối tuần có nhiều bạn mới. Cô mời từng bạn giới thiệu. Đến lượt Bin, Bin run quá.",
+   "The weekend art class has lots of new children. The teacher asks each one to introduce themselves. When it’s Bin’s turn, he feels shaky."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Hít một hơi, nhìn các bạn, nói: “Mình tên Bin, 7 tuổi, mình thích vẽ khủng long”",
+    "Take a breath, look at everyone and say, “I’m Bin, I’m 7, I love drawing dinosaurs”",
+    1,
+    "Hít thở giúp đỡ run. Nói tên, tuổi, sở thích rõ ràng là các bạn nhớ con ngay.",
+    "A breath calms the wobbles. Name, age and hobby — everyone will remember you."
+   ],
+   [
+    "Nói lí nhí: “Em… thôi ạ”",
+    "Mumble, “Um… never mind”",
+    0,
+    "Run là chuyện ai cũng có. Thử hít sâu rồi nói một câu ngắn thôi.",
+    "Everyone gets nervous. Breathe deeply and say one short sentence."
+   ],
+   [
+    "Nhờ bạn bên cạnh nói hộ",
+    "Ask the child next to you to say it",
+    0,
+    "Bạn không biết con thích gì bằng con đâu. Con tự nói được mà.",
+    "Nobody knows what you like better than you. You can do it."
+   ]
+  ],
+  "qq": [
+   "Giới thiệu bản thân ngắn gọn gồm…",
+   "A short introduction includes…"
+  ],
+  "qo": [
+   [
+    "Tên, tuổi, một điều mình thích",
+    "Name, age and one thing you like"
+   ],
+   [
+    "Địa chỉ nhà và số điện thoại",
+    "Home address and phone number"
+   ],
+   [
+    "Tất cả mọi chuyện về mình",
+    "Everything about yourself"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bạn của ba đến nhà chơi, cười hỏi: “Cháu tên gì, cháu thích gì nào?” Ba mẹ đang ngồi cạnh Bin.",
+     "Dad’s friend visits and asks with a smile, “What’s your name, and what do you like?” Mum and Dad are sitting with Bin."
+    ],
+    "q": [
+     "Bin nên trả lời thế nào?",
+     "How should Bin answer?"
+    ],
+    "o": [
+     [
+      "Cúi mặt, không nói gì",
+      "Look down and say nothing",
+      0,
+      "Ngại là bình thường. Ba mẹ ở cạnh, con thử nói một câu ngắn nhé.",
+      "Shyness is normal. Mum and Dad are right here — try one short sentence."
+     ],
+     [
+      "“Cháu chào chú. Cháu tên Bin, 7 tuổi, cháu thích vẽ khủng long ạ.”",
+      "“Hello. I’m Bin, I’m 7, and I like drawing dinosaurs.”",
+      1,
+      "Chào, nói tên, tuổi và một điều mình thích: ngắn gọn mà rõ ràng!",
+      "A hello, your name, age and one thing you like — short and clear!"
+     ],
+     [
+      "Kể một mạch đủ mọi chuyện",
+      "Talk non-stop about everything",
+      0,
+      "Kể nhiều quá người nghe khó nhớ. Tên, tuổi, một sở thích là đủ.",
+      "Too much is hard to remember. Name, age and one hobby is plenty."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, mẹ ngồi gần đó. Một bạn nhỏ chạy lại hỏi: “Bạn tên gì? Chơi với tớ không?”",
+     "At the park, with Mum nearby, a child runs up: “What’s your name? Want to play?”"
+    ],
+    "q": [
+     "Bin nên nói gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Tớ không nói đâu”",
+      "“I’m not telling”",
+      0,
+      "Bạn nhỏ chỉ muốn làm quen thôi. Nói tên mình để cùng chơi nhé.",
+      "The child just wants to make friends. Saying your name is fine."
+     ],
+     [
+      "“Tớ tên Bin, nhà tớ ở số…”",
+      "“I’m Bin, I live at number…”",
+      0,
+      "Tên là đủ để làm quen. Địa chỉ nhà là thông tin riêng, không cần nói.",
+      "Your name is enough. Your address is private."
+     ],
+     [
+      "“Tớ tên Bin, tớ thích đá bóng. Mình chơi nhé!”",
+      "“I’m Bin, I like football. Let’s play!”",
+      1,
+      "Tên và một điều mình thích là đủ làm quen. Mẹ ở gần nên con yên tâm chơi.",
+      "Name and one thing you like is enough. Mum’s close, so enjoy playing."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Giới thiệu mình trong 30 giây",
+    "Introduce myself in 30 seconds"
+   ],
+   "s": [
+    "Con đứng trước cả nhà, chào và nói tên, tuổi, một điều mình thích, giọng to rõ, nhìn mọi người. Ba mẹ bấm giờ.",
+    "Stand in front of the family, say hello, your name, age and one thing you like, loudly and clearly, looking at everyone. Mum or Dad times it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giới thiệu mẫu trước, con nói theo từng phần.",
+     "Mum or Dad goes first as an example, and you copy each part."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự giới thiệu đủ ba phần.",
+     "After one reminder, you give all three parts yourself."
+    ],
+    [
+     "Con tự giới thiệu đủ ba phần, nhìn mọi người và thêm một câu chào kết.",
+     "You give all three parts, look at everyone and add a friendly closing line."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng nhảy theo một bài hát con chọn",
+    "The family dances to a song you choose"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Xấu hổ khi làm sai trước mọi người",
+   "Embarrassed in front of others"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bin đọc bài trước lớp thì đọc nhầm một chữ. Vài bạn bật cười. Mặt Bin nóng bừng.",
+   "Reading aloud to the class, Bin gets a word wrong. A few children laugh. His face goes hot."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cáu lên: “Cười gì mà cười!”",
+    "Snap: “What are you laughing at?”",
+    0,
+    "Đang ngượng thì dễ cáu. Hít thở một chút, con sẽ bình tĩnh đọc tiếp được.",
+    "Embarrassment can make us snappy. One breath helps you carry on calmly."
+   ],
+   [
+    "Về chỗ, không đọc nữa",
+    "Go back to your seat and stop",
+    0,
+    "Đọc nhầm không có nghĩa là con đọc kém. Đọc lại là được.",
+    "One mistake doesn’t mean you’re bad at reading. Just read it again."
+   ],
+   [
+    "Hít thở, cười nhẹ: “Mình đọc lại nhé”, rồi đọc tiếp",
+    "Breathe, smile a little — “Let me try again” — and carry on",
+    1,
+    "Ai cũng có lúc nhầm. Cười nhẹ rồi làm lại cho thấy con rất bình tĩnh.",
+    "Everyone slips up. A smile and a fresh try shows how calm you are."
+   ]
+  ],
+  "qq": [
+   "Khi làm sai trước mọi người, con có thể…",
+   "When you make a mistake in front of others, you can…"
+  ],
+  "qo": [
+   [
+    "Trốn đi thật nhanh",
+    "Hide quickly"
+   ],
+   [
+    "Đổ lỗi cho người khác",
+    "Blame someone else"
+   ],
+   [
+    "Hít thở, cười nhẹ và làm lại",
+    "Breathe, smile a little and try again"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà có khách. Bin bưng cốc nước mời bác thì làm đổ ra bàn. Ai cũng nhìn Bin.",
+     "There are guests. Bin carries a glass of water to offer and spills it on the table. Everyone looks at him."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy vào phòng trốn",
+      "Run and hide in your room",
+      0,
+      "Xấu hổ là cảm giác ai cũng có. Ở lại lau xong, con sẽ thấy nhẹ nhõm hơn.",
+      "Everyone feels embarrassed sometimes. Staying to clean up will make you feel better."
+     ],
+     [
+      "Hít thở, nói: “Con xin lỗi, con lau ngay ạ”",
+      "Breathe and say, “Sorry, I’ll wipe it up”",
+      1,
+      "Hít thở, xin lỗi và sửa lại: mọi người sẽ thấy con rất người lớn.",
+      "Breathe, apologise, fix it — everyone sees how grown-up you are."
+     ],
+     [
+      "Nói: “Tại cái cốc trơn”",
+      "Say, “The glass was slippery”",
+      0,
+      "Đổ nước là chuyện nhỏ, ai cũng từng làm. Mình nhận và lau là xong.",
+      "Spills happen to everyone. Own it, wipe it, done."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi văn nghệ khu phố, ba mẹ ngồi dưới xem. Bin đang hát thì quên mất một câu.",
+     "At the neighbourhood concert, with Mum and Dad in the audience, Bin forgets a line in the middle of his song."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mỉm cười, hít thở, hát tiếp câu sau",
+      "Smile, breathe and carry on with the next line",
+      1,
+      "Hát tiếp là giỏi lắm rồi! Người xem nhớ nụ cười của con hơn câu bị quên.",
+      "Carrying on is brilliant! People remember your smile, not the missing line."
+     ],
+     [
+      "Đứng im rồi khóc",
+      "Freeze and cry",
+      0,
+      "Quên lời là chuyện thường. Hít thở, nhìn ba mẹ, rồi hát tiếp nhé.",
+      "Forgetting words is normal. Breathe, look at Mum and Dad, then carry on."
+     ],
+     [
+      "Chạy xuống sân khấu",
+      "Run off the stage",
+      0,
+      "Con đã tập rất chăm. Ở lại hát hết bài, con sẽ tự hào về mình.",
+      "You practised hard. Finishing the song will make you proud."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Câu thần chú bình tĩnh",
+    "My calm-down words"
+   ],
+   "s": [
+    "Con kể ba mẹ nghe một lần con thấy xấu hổ. Cả nhà cùng nghĩ một câu ngắn giúp con bình tĩnh (ví dụ: “Không sao, mình làm lại”) và con nói to câu đó.",
+    "Tell Mum or Dad about a time you felt embarrassed. Think of a short calming sentence together (like “It’s OK, I’ll try again”) and say it out loud."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể chuyện của ba mẹ trước, rồi cùng con nghĩ câu.",
+     "Mum or Dad shares their own story first, then you think of a sentence together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể và tự chọn câu.",
+     "After one reminder, you tell your story and choose the sentence."
+    ],
+    [
+     "Con tự kể, tự nghĩ câu và tập nói câu đó ba lần kèm hít thở.",
+     "You tell the story, make up the sentence and practise it three times with a breath."
+    ]
+   ],
+   "rw": [
+    "Cùng xem ảnh hồi con còn bé",
+    "Look at baby photos of you together"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Hỏi ý từng người",
+   "Every voice in the group"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối thứ Bảy cả nhà chơi một trò chung. Bin muốn chọn ngay trò trốn tìm mà chưa hỏi ai.",
+   "On Saturday evening the family plays a game together. Bin wants to pick hide-and-seek without asking anyone."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tuyên bố: “Chơi trốn tìm!”",
+    "Announce, “Hide-and-seek!”",
+    0,
+    "Con thích trốn tìm, nhưng người khác có thể thích trò khác. Hỏi trước nhé.",
+    "You like hide-and-seek, but others may prefer something else. Ask first."
+   ],
+   [
+    "Hỏi lần lượt: “Ba thích trò gì? Mẹ? Em?”, rồi cùng chọn",
+    "Ask each person — “Dad? Mum? Bông?” — then choose together",
+    1,
+    "Hỏi ý từng người thì ai cũng thấy mình được lắng nghe, và trò chơi vui hơn.",
+    "Asking everyone makes each person feel heard, so the game is more fun."
+   ],
+   [
+    "Để ba mẹ chọn, con không nói gì",
+    "Let Mum and Dad decide and say nothing",
+    0,
+    "Ý của con cũng quan trọng. Con nói ý mình và hỏi ý mọi người nhé.",
+    "Your idea matters too. Share it and ask everyone else."
+   ]
+  ],
+  "qq": [
+   "Trước khi quyết định chung, con nên…",
+   "Before a group decision, you should…"
+  ],
+  "qo": [
+   [
+    "Hỏi ý từng người",
+    "Ask each person"
+   ],
+   [
+    "Nghe người nói to nhất",
+    "Listen to the loudest"
+   ],
+   [
+    "Tự quyết cho nhanh",
+    "Decide alone to be quick"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm bốn bạn đặt tên cho đội. Bin và Huy nói to, còn Mai ngồi im.",
+     "A group of four is naming their team. Bin and Huy talk loudly while Mai sits quietly."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chốt luôn tên Bin thích",
+      "Decide on Bin’s favourite name",
+      0,
+      "Tên đội là của cả đội. Chờ nghe đủ mọi người rồi mới chốt.",
+      "The name belongs to the whole team. Hear everyone before deciding."
+     ],
+     [
+      "Nói to hơn để Huy nghe mình",
+      "Talk louder so Huy listens",
+      0,
+      "Nói to hơn làm bạn khó nói. Thử dừng lại và hỏi bạn đang im.",
+      "Louder makes it harder for others. Pause and ask the quiet one."
+     ],
+     [
+      "Quay sang hỏi: “Mai thích tên gì?”",
+      "Turn and ask, “Mai, what name do you like?”",
+      1,
+      "Bạn ít nói cũng có ý hay. Hỏi từng người để không ai bị bỏ quên.",
+      "Quiet friends have good ideas too. Ask everyone so no one is left out."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên với gia đình Na, cả nhóm phải chọn chơi khu nào trước: cầu trượt, xích đu hay hồ cá.",
+     "At the park with Na’s family, the group must choose where to go first: the slide, the swings or the fish pond."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi từng người thích chỗ nào, rồi chọn chỗ nhiều người thích",
+      "Ask what each person likes, then pick the most popular",
+      1,
+      "Hỏi ý từng người rồi mới quyết, cả nhóm sẽ vui vẻ đi cùng nhau.",
+      "Ask everyone, then decide — the whole group stays happy together."
+     ],
+     [
+      "Chạy ngay ra cầu trượt",
+      "Run straight to the slide",
+      0,
+      "Chạy trước thì cả nhóm phải đuổi theo. Bàn chung một chút đã nhé.",
+      "Running off makes everyone chase you. Talk together first."
+     ],
+     [
+      "Nói “Sao cũng được” rồi phụng phịu",
+      "Say “Whatever” and then sulk",
+      0,
+      "Con có ý thì cứ nói ra. Mọi người muốn nghe ý của con.",
+      "If you have an idea, say it. Everyone wants to hear it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hỏi ý cả nhà",
+    "Ask the whole family"
+   ],
+   "s": [
+    "Con hỏi ý từng người trong nhà để chọn món tráng miệng hoặc trò chơi tối nay, ghi lại câu trả lời bằng chữ hoặc hình, rồi nói kết quả.",
+    "Ask each person at home to choose tonight’s pudding or game, note the answers with words or pictures, then announce the result."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đi hỏi từng người và cùng đếm.",
+     "Mum or Dad goes round with you asking and you count together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi từng người.",
+     "After one reminder, you ask everyone yourself."
+    ],
+    [
+     "Con tự hỏi đủ mọi người, tự đếm và giải thích vì sao chọn như vậy.",
+     "You ask everyone, count up and explain the choice."
+    ]
+   ],
+   "rw": [
+    "Được chọn loại trái cây tráng miệng",
+    "Choose the fruit for pudding"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chuẩn bị bữa sáng nguội",
+   "Making a simple breakfast"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng Chủ nhật, mẹ nói: “Hôm nay Bin tự chuẩn bị bữa sáng nhé, mẹ ngồi cạnh.” Trên bàn có bánh mì, sữa, đĩa chuối mẹ đã bóc.",
+   "On Sunday morning Mum says, “Make your own breakfast today — I’ll sit with you.” There’s bread, milk and a plate of peeled banana."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi chờ mẹ làm cho",
+    "Wait for Mum to do it",
+    0,
+    "Con đủ lớn để tự làm rồi đấy. Mẹ ngồi cạnh, con cứ thử nhé.",
+    "You’re big enough now. Mum’s right here — give it a go."
+   ],
+   [
+    "Tự lấy dao to cắt bánh mì",
+    "Use the big knife to cut the bread",
+    0,
+    "Dao to là việc của người lớn. Bánh mì nhờ mẹ cắt, con lo phần còn lại.",
+    "Big knives are for grown-ups. Ask Mum to slice it, you do the rest."
+   ],
+   [
+    "Lấy đĩa, đặt bánh mì, rót sữa vào cốc nhỏ, xếp chuối",
+    "Get a plate, add bread, pour milk into a small cup and add banana",
+    1,
+    "Từng bước gọn gàng, không cần bếp hay dao. Con tự làm bữa sáng giỏi quá!",
+    "Step by step, no cooker or knife. What a great breakfast you made!"
+   ]
+  ],
+  "qq": [
+   "Bữa sáng nguội con tự làm được gồm…",
+   "A cold breakfast you can make yourself includes…"
+  ],
+  "qo": [
+   [
+    "Món phải chiên trên bếp",
+    "Something fried on the cooker"
+   ],
+   [
+    "Món phải cắt bằng dao to",
+    "Something cut with a big knife"
+   ],
+   [
+    "Bánh mì, sữa, trái cây ba mẹ đã gọt",
+    "Bread, milk and fruit already peeled by a grown-up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp bán trú, đến giờ ăn phụ có sữa hộp và bánh. Bin ngồi chờ cô cắm ống hút cho.",
+     "At school snack time there are milk cartons and biscuits. Bin waits for the teacher to put his straw in."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự bóc ống hút, cắm vào hộp, ăn xong bỏ vỏ vào thùng rác",
+      "Unwrap the straw, push it in, and bin the rubbish after",
+      1,
+      "Tự làm và tự dọn là em đang lớn lên mỗi ngày. Cô sẽ rất vui!",
+      "Doing it and tidying up shows you’re growing up. Your teacher will be pleased!"
+     ],
+     [
+      "Chờ cô làm giúp",
+      "Wait for the teacher",
+      0,
+      "Cô còn nhiều bạn phải giúp. Em thử tự làm trước nhé.",
+      "The teacher has lots of children to help. Try yourself first."
+     ],
+     [
+      "Để hộp sữa đấy, không uống",
+      "Leave the milk and don’t drink it",
+      0,
+      "Bỏ bữa phụ thì chiều dễ đói. Em thử tự cắm ống hút xem.",
+      "Skipping snack makes you hungry later. Try the straw yourself."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi dã ngoại ở công viên. Ba nói mỗi người tự chuẩn bị phần ăn của mình từ giỏ đồ.",
+     "On a family picnic in the park, Dad says everyone should get their own food from the basket."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lau tay bằng khăn ướt, tự lấy hộp bánh, mở ra và ngồi ăn gọn gàng",
+      "Wipe hands with a wet wipe, get a lunchbox, open it and eat tidily",
+      1,
+      "Lau tay trước rồi tự lấy phần mình: gọn gàng và sạch sẽ.",
+      "Clean hands, then your own food — neat and hygienic."
+     ],
+     [
+      "Đổ hết giỏ ra tìm món mình thích",
+      "Tip the basket out to find what you like",
+      0,
+      "Đổ hết ra thì đồ dễ bẩn. Lấy từng món một nhé.",
+      "Tipping it out gets things dirty. Take one thing at a time."
+     ],
+     [
+      "Ăn luôn, chưa lau tay",
+      "Start eating without cleaning hands",
+      0,
+      "Chơi ngoài trời tay dễ bẩn. Lau tay trước khi ăn cho khoẻ.",
+      "Hands get grubby outside. Wipe them before eating to stay healthy."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đầu bếp bữa sáng nguội",
+    "Cold breakfast chef"
+   ],
+   "s": [
+    "Con tự chuẩn bị bữa sáng nguội cho mình (bánh mì, sữa, trái cây ba mẹ đã gọt), có ba mẹ bên cạnh. Không dùng bếp, không dùng dao. Ăn xong con tự cất đĩa cốc.",
+    "Make your own cold breakfast (bread, milk, fruit already peeled by a grown-up) with Mum or Dad beside you. No cooker, no knives. Put your plate and cup away after."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm cùng từng bước, con tự xếp đồ lên đĩa.",
+     "Mum or Dad does each step with you; you arrange the food."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị, ba mẹ ngồi cạnh.",
+     "After one reminder, you make it while Mum or Dad sits nearby."
+    ],
+    [
+     "Con tự chuẩn bị, tự dọn và kể lại các bước con đã làm.",
+     "You make it, tidy up and explain each step you did."
+    ]
+   ],
+   "rw": [
+    "Được chọn bữa sáng ngày Chủ nhật",
+    "Choose next Sunday’s breakfast"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Nghĩ nhiều cách rồi chọn",
+   "Many ideas, then choose"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, có ba mẹ ngồi gần, Bin, Na và hai bạn chỉ có một quả bóng. Ai cũng muốn chơi.",
+   "At the park, with parents nearby, Bin, Na and two friends have only one ball. Everyone wants to play."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Giữ bóng chơi một mình",
+    "Keep the ball to himself",
+    0,
+    "Một mình thì ba bạn kia buồn. Thử nghĩ trò chơi chung xem.",
+    "The others would be sad. Think of a game for everyone."
+   ],
+   [
+    "Cãi nhau xem ai được chơi trước",
+    "Argue about who goes first",
+    0,
+    "Cãi nhau tốn hết giờ chơi. Nghĩ vài trò bốn người cùng chơi được nhé.",
+    "Arguing wastes playtime. Think of games for four."
+   ],
+   [
+    "Cùng nghĩ: chuyền bóng vòng tròn, ném vào vòng, đá luân phiên, rồi chọn một trò",
+    "Brainstorm — passing in a circle, throwing at a target, taking turns — then choose",
+    1,
+    "Nghĩ ra nhiều trò trước, cả nhóm chọn được trò ai cũng vui.",
+    "Thinking of many games first means you find one everyone enjoys."
+   ]
+  ],
+  "qq": [
+   "Gặp khó, trước khi chọn cách, con nên…",
+   "When stuck, before choosing a way, you should…"
+  ],
+  "qo": [
+   [
+    "Chọn ngay cách đầu tiên",
+    "Pick the first idea"
+   ],
+   [
+    "Nghĩ ra thật nhiều cách",
+    "Think of lots of ways"
+   ],
+   [
+    "Bỏ cuộc",
+    "Give up"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Đồ chơi của Bin bừa khắp phòng mà không có hộp đựng. Bin định nhét hết xuống gầm giường.",
+     "Bin’s toys are all over his room and there’s no box for them. He plans to shove everything under the bed."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhét hết xuống gầm giường cho nhanh",
+      "Shove it all under the bed",
+      0,
+      "Cách đầu tiên chưa chắc tốt nhất. Lần sau tìm đồ sẽ rất khó.",
+      "The first idea isn’t always best. Finding things later will be hard."
+     ],
+     [
+      "Nghĩ thêm vài cách: giỏ cũ, hộp giày, túi vải, rồi chọn cách tốt nhất",
+      "Think of a few ways — an old basket, a shoebox, a cloth bag — then choose",
+      1,
+      "Nghĩ nhiều cách trước giúp con chọn được cách hợp nhất. Thông minh lắm!",
+      "Lots of ideas first helps you pick the best. Very clever!"
+     ],
+     [
+      "Để đó, mai tính",
+      "Leave it till tomorrow",
+      0,
+      "Để mai thì phòng vẫn bừa. Thử nghĩ vài cách ngay bây giờ nhé.",
+      "Tomorrow the mess is still there. Try thinking of ideas now."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Nhóm Bin phải làm cây cầu bằng giấy đỡ được một hộp bút. Bin muốn làm ngay ý đầu tiên.",
+     "Bin’s group must build a paper bridge that holds a pencil case. Bin wants to build his first idea straight away."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mỗi bạn nói một ý, cả nhóm thử rồi chọn ý tốt nhất",
+      "Everyone shares an idea, the group tries them and picks the best",
+      1,
+      "Nhiều ý thì nhiều cơ hội. Cầu gấp nếp hay cuộn ống, thử mới biết!",
+      "More ideas, more chances. Folded or rolled paper — try and see!"
+     ],
+     [
+      "Làm ngay ý của mình",
+      "Build his own idea right away",
+      0,
+      "Ý đầu có thể hay, nhưng nghe thêm ý bạn có khi còn hay hơn.",
+      "Your first idea might work, but friends’ ideas could be even better."
+     ],
+     [
+      "Bảo khó quá, không làm được",
+      "Say it’s too hard",
+      0,
+      "Thấy khó là lúc nghĩ thêm cách. Cả nhóm cùng nghĩ sẽ ra.",
+      "When it’s hard, think of more ways. Together you’ll find one."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm cách dùng một chiếc hộp",
+    "Five uses for a box"
+   ],
+   "s": [
+    "Con nghĩ năm cách dùng một chiếc hộp giấy cũ (vẽ hoặc nói ra), rồi chọn một cách và làm thử cùng ba mẹ. Ba mẹ cầm kéo nếu cần cắt.",
+    "Think of five uses for an old cardboard box (draw or say them), then choose one and try it with Mum or Dad. They handle any scissors."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý hai cách, con nghĩ thêm ba cách.",
+     "Mum or Dad suggests two; you think of three more."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ đủ năm cách.",
+     "After one reminder, you come up with all five."
+    ],
+    [
+     "Con tự nghĩ năm cách, tự chọn và nói vì sao cách đó tốt nhất.",
+     "You think of five, choose one and say why it’s best."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con xếp hình 15 phút",
+    "Fifteen minutes of building blocks with Mum or Dad"
+   ]
+  }
+ }
+]

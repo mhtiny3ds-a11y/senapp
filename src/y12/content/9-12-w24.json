@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Lập lịch lùi từ hạn nộp",
+   "Planning backwards from a deadline"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Thứ Hai, cô giao làm sổ tay về các loài chim, hạn nộp thứ Sáu. An nghĩ còn tận bốn ngày nên chưa làm. Tối thứ Năm, An mới nhận ra phải tìm tranh, viết chữ và trang trí.",
+   "On Monday the teacher sets a bird scrapbook due Friday. An thinks four days is plenty and does nothing. On Thursday night An realises there are pictures to find, writing to do and decorating."
+  ],
+  "cq": [
+   "Lần sau An nên lập kế hoạch thế nào?",
+   "How should An plan next time?"
+  ],
+  "co": [
+   [
+    "Bắt đầu từ thứ Sáu rồi lùi lại: thứ Năm trang trí, thứ Tư viết chữ, thứ Ba tìm tranh, thứ Hai chọn loài chim",
+    "Start from Friday and work back: Thursday decorate, Wednesday write, Tuesday find pictures, Monday choose birds",
+    1,
+    "Lùi từ ngày nộp giúp con thấy mỗi ngày cần làm gì. Việc lớn chia nhỏ thì không bị dồn vào phút cuối.",
+    "Working back from the deadline shows each day’s job. Big tasks split up never pile up at the end."
+   ],
+   [
+    "Làm hết trong một tối gần hạn nộp",
+    "Do it all in one evening near the deadline",
+    0,
+    "Dồn một tối thì dễ thiếu giờ và mệt. Chia ra từng ngày sẽ nhẹ nhàng hơn.",
+    "One evening is rushed and tiring. Spreading it out is easier."
+   ],
+   [
+    "Làm khi nào có hứng",
+    "Do it whenever you feel like it",
+    0,
+    "Hứng không đến đúng hẹn. Lịch rõ ràng giúp con làm đều mỗi ngày.",
+    "Inspiration doesn’t keep appointments. A clear plan keeps you going daily."
+   ]
+  ],
+  "qq": [
+   "Lập lịch lùi bắt đầu từ đâu?",
+   "Backwards planning starts from…"
+  ],
+  "qo": [
+   [
+    "Hôm nay",
+    "Today"
+   ],
+   [
+    "Ngày nộp bài",
+    "The deadline"
+   ],
+   [
+    "Ngày rảnh nhất",
+    "Your freest day"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tổ An được giao một tiết mục kể chuyện cho ngày hội đọc sách, còn hai tuần nữa. Cả tổ chưa biết bắt đầu từ đâu.",
+     "An’s group has a storytelling piece for the reading festival in two weeks. Nobody knows where to start."
+    ],
+    "q": [
+     "An có thể đề xuất gì?",
+     "What could An suggest?"
+    ],
+    "o": [
+     [
+      "Đợi tuần cuối tập một thể",
+      "Wait and rehearse in the last week",
+      0,
+      "Tuần cuối có thể có việc bất ngờ. Chia mốc sớm thì cả tổ yên tâm.",
+      "The last week may bring surprises. Early milestones keep everyone calm."
+     ],
+     [
+      "Ghi ngày hội lên giấy, lùi lại đặt mốc: tuần 1 chọn truyện và phân vai, tuần 2 tập và tổng duyệt",
+      "Write the festival date, then work back: week 1 choose a story and roles, week 2 rehearse and run through",
+      1,
+      "Đặt mốc lùi từ ngày hội giúp cả tổ biết tuần nào làm gì.",
+      "Milestones counted back from the event show the group what to do each week."
+     ],
+     [
+      "Để tổ trưởng lo hết",
+      "Leave it all to the group leader",
+      0,
+      "Việc chung cần cả tổ cùng lên kế hoạch. Con có thể góp ý cách chia mốc.",
+      "Group work needs everyone planning. You can suggest the milestones."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ba tuần nữa là buổi biểu diễn đàn ở nhà văn hoá. An cần thuộc một bản nhạc dài.",
+     "In three weeks there’s a keyboard concert at the community centre. An has a long piece to learn."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tập cả bài mỗi ngày từ đầu đến cuối",
+      "Play the whole piece daily from start to finish",
+      0,
+      "Tập cả bài dài dễ nản. Chia đoạn theo tuần sẽ hiệu quả hơn.",
+      "The whole piece every day is tiring. Splitting it by week works better."
+     ],
+     [
+      "Tuần cuối mới tập cho nhớ lâu",
+      "Practise only in the last week so it’s fresh",
+      0,
+      "Một tuần không đủ để thuộc bài dài. Lùi lại từ ngày diễn để chia việc nhé.",
+      "One week isn’t enough. Work back from the concert date."
+     ],
+     [
+      "Lùi từ ngày diễn: tuần 3 tập cả bài, tuần 2 thuộc nửa sau, tuần 1 thuộc nửa đầu",
+      "Work back from the concert: week 3 full run-throughs, week 2 second half, week 1 first half",
+      1,
+      "Lịch lùi giúp con biết tuần này cần thuộc đến đâu, và vẫn kịp tập cả bài trước ngày diễn.",
+      "Backwards planning tells you where to be each week, with time for full run-throughs."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lịch lùi của con",
+    "My backwards plan"
+   ],
+   "s": [
+    "Con chọn một bài cần nộp, lập lịch lùi trên giấy từ ngày nộp về hôm nay, rồi làm đúng theo lịch 3 ngày. Ba mẹ xác nhận mỗi ngày.",
+    "Choose a piece of work that’s due, write a backwards plan from the deadline to today, then follow it for 3 days. Your parent checks each day."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chia việc và ghi vào từng ngày.",
+     "Split the work and write it into each day with your parent."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lập lịch và làm theo.",
+     "With one reminder, you make the plan and follow it."
+    ],
+    [
+     "Con tự lập lịch, làm đủ 3 ngày và kể ngày nào khó nhất, con xử lý thế nào.",
+     "You plan, follow it for 3 days and say which day was hardest and how you coped."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một món bánh đơn giản cuối tuần",
+    "Bake something simple together at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Giúp bạn gặp khó khăn",
+   "Helping a classmate in need"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp An có bạn Nam vừa chuyển đến, cặp sách đã cũ và thiếu nhiều đồ dùng. Cô kêu gọi cả lớp ai có đồ dùng học tập còn tốt thì góp tặng bạn.",
+   "Nam has just joined An’s class; his bag is worn and he’s short of school supplies. The teacher asks if anyone has supplies in good condition to give."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mang đồ đến, giơ lên giữa lớp nói to “Tặng cậu này!”",
+    "Bring things and announce loudly “These are for you!” in front of everyone",
+    0,
+    "Con rất tốt bụng, nhưng tặng trước cả lớp có thể làm bạn ngại. Gửi cô hoặc tặng kín đáo sẽ tốt hơn.",
+    "You’re kind, but giving in front of everyone may embarrass him. Give via the teacher or quietly."
+   ],
+   [
+    "Cùng ba mẹ chọn vài đồ còn tốt, gói gọn gàng rồi gửi cô để cô trao cho bạn",
+    "Pick some good items with your parents, wrap them neatly and give them to the teacher to pass on",
+    1,
+    "Góp sức theo khả năng, kín đáo và tôn trọng giúp bạn nhận mà không thấy ngại.",
+    "Giving what you can, quietly and respectfully, helps him accept without embarrassment."
+   ],
+   [
+    "Mang đồ đã hỏng mình không dùng nữa",
+    "Bring broken things you don’t use",
+    0,
+    "Đồ hỏng thì bạn cũng không dùng được. Hãy chọn đồ còn tốt như mình muốn nhận.",
+    "Broken things don’t help. Choose items you’d be happy to receive."
+   ]
+  ],
+  "qq": [
+   "Khi giúp người gặp khó khăn, điều quan trọng là gì?",
+   "When helping someone in need, what matters is…"
+  ],
+  "qo": [
+   [
+    "Tặng thật nhiều cho mọi người biết",
+    "Giving lots so everyone knows"
+   ],
+   [
+    "Góp theo khả năng, kín đáo và tôn trọng",
+    "Giving what you can, quietly and respectfully"
+   ],
+   [
+    "Chỉ tặng khi có người khen",
+    "Only giving when you’ll be praised"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ gợi ý cả nhà dọn tủ, chọn quần áo và sách cũ để tặng các bạn nhỏ ở vùng vừa bị lũ. An có chiếc áo yêu thích đã chật và một chiếc áo rách.",
+     "Mum suggests the family sorts out old clothes and books to give to children in a flood-hit area. An has a favourite top that’s too small and a torn one."
+    ],
+    "q": [
+     "An nên chọn thế nào?",
+     "How should An choose?"
+    ],
+    "o": [
+     [
+      "Tặng chiếc áo rách vì không tiếc",
+      "Give the torn one because you won’t miss it",
+      0,
+      "Áo rách thì các bạn khó mặc. Hãy tặng đồ còn tốt như mình muốn nhận.",
+      "A torn top is hard to wear. Give things you’d be happy to receive."
+     ],
+     [
+      "Không tặng gì vì tiếc đồ",
+      "Give nothing because you’re attached",
+      0,
+      "Tiếc đồ là bình thường. Áo đã chật mà tặng đi thì sẽ có bạn mặc vừa và vui.",
+      "Feeling attached is normal, but a top that’s too small could make someone else happy."
+     ],
+     [
+      "Gấp gọn chiếc áo còn tốt dù đã chật, viết kèm một lời chúc ngắn",
+      "Fold the good top that no longer fits and add a short kind note",
+      1,
+      "Đồ còn tốt và một lời chúc chân thành là món quà tôn trọng người nhận.",
+      "Good items and a sincere note show respect for the receiver."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Thư viện khu phố tổ chức góc góp sách cho các bạn nhỏ. An đi cùng ba mang sách đến và thấy vài bạn đang đứng chọn sách được tặng.",
+     "The local library runs a book donation corner for children. An goes with Dad to drop books off and sees some children choosing donated books."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đặt sách vào kệ gọn gàng, mỉm cười chào các bạn rồi cùng ba ra về",
+      "Place the books neatly on the shelf, smile hello and leave with Dad",
+      1,
+      "Tặng kín đáo, nhẹ nhàng giúp người nhận thoải mái. Giúp người là để họ vui, không phải để được chú ý.",
+      "Giving quietly lets people feel comfortable. Helping is about their happiness, not attention."
+     ],
+     [
+      "Đứng nhìn xem bạn nào lấy sách của mình",
+      "Watch to see who takes your books",
+      0,
+      "Nhìn chằm chằm có thể làm các bạn ngại. Tặng xong thì để các bạn tự nhiên chọn nhé.",
+      "Staring may make them uncomfortable. Once given, let them choose freely."
+     ],
+     [
+      "Nói to “Sách đó của tớ đấy!”",
+      "Say loudly “That one’s mine!”",
+      0,
+      "Nói vậy làm bạn nhận thấy ngại. Món quà đẹp nhất là quà tặng kín đáo.",
+      "That makes the receiver feel awkward. The best gifts are given quietly."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Gói quà đồ dùng còn tốt",
+    "A parcel of good supplies"
+   ],
+   "s": [
+    "Cùng ba mẹ chọn đồ dùng học tập còn tốt (bút, thước, vở chưa dùng…) để tặng lại qua thầy cô hoặc nơi quyên góp, gói cẩn thận kèm một lời chúc.",
+    "With your parent, choose school supplies in good condition (pens, rulers, unused notebooks…) to pass on via a teacher or donation point, wrapped neatly with a kind note."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn và gói đồ.",
+     "Choose and wrap the items with your parent."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn đồ và gói.",
+     "With one reminder, you choose and wrap the items."
+    ],
+    [
+     "Con tự chọn, kiểm tra đồ còn tốt, gói và viết lời chúc, rồi nói vì sao nên tặng kín đáo.",
+     "You choose, check the condition, wrap, write a note and explain why giving quietly matters."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng xem lại ảnh cũ và kể chuyện ngày con còn nhỏ",
+    "Look through old photos together and hear stories from when you were little"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Cảm ơn bác bảo vệ, cô lao công",
+   "Thanking the people who help us"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bác thu gom rác ở khu phố đến mỗi tối. Hôm nay An đi cùng mẹ đổ rác thì gặp bác.",
+   "The rubbish collector comes round the neighbourhood every evening. Today An is with Mum taking the rubbish out and meets him."
+  ],
+  "cq": [
+   "An có thể làm gì?",
+   "What could An do?"
+  ],
+  "co": [
+   [
+    "Đổ rác rồi đi về",
+    "Drop the rubbish and go",
+    0,
+    "Không sao cả, nhưng một lời chào có thể làm bác vui hơn sau ngày làm việc vất vả.",
+    "That’s fine, but a hello could cheer him after a long day."
+   ],
+   [
+    "Đứng xa vì sợ bẩn",
+    "Stand back because it’s dirty",
+    0,
+    "Bác làm việc này để khu phố sạch cho mọi người. Một lời chào lễ phép là đủ ấm lòng.",
+    "He does this so everyone has a clean street. A polite greeting is heart-warming."
+   ],
+   [
+    "Chào bác và nói: “Cháu cảm ơn bác đã giữ khu phố sạch sẽ ạ”, buộc túi rác gọn gàng",
+    "Greet him and say: “Thank you for keeping our street clean,” with the bag neatly tied",
+    1,
+    "Cảm ơn cụ thể và buộc rác gọn gàng là cách tôn trọng công việc của bác.",
+    "A specific thank-you and a neatly tied bag both respect his work."
+   ]
+  ],
+  "qq": [
+   "Lời cảm ơn hay nhất là lời cảm ơn thế nào?",
+   "The best thank-you is…"
+  ],
+  "qo": [
+   [
+    "Nói thật to",
+    "Very loud"
+   ],
+   [
+    "Chỉ nói khi được nhắc",
+    "Only when reminded"
+   ],
+   [
+    "Chân thành và nói rõ mình cảm ơn điều gì",
+    "Sincere and says exactly what for"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nào bà cũng nấu cơm và rửa bát. An ăn xong thường đi ngay vào phòng.",
+     "Every evening Grandma cooks and washes up. An usually goes straight to the bedroom after eating."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Cảm ơn bà: “Món canh bà nấu hôm nay ngon lắm ạ”, rồi giúp bà dọn bát",
+      "Thank Grandma: “The soup was lovely tonight”, then help clear the bowls",
+      1,
+      "Lời cảm ơn cụ thể kèm một việc giúp đỡ làm bà thấy công sức của mình được trân trọng.",
+      "A specific thank-you plus a little help shows Grandma her effort is valued."
+     ],
+     [
+      "Không cần cảm ơn vì là người nhà",
+      "No need to thank family",
+      0,
+      "Người nhà càng cần nghe lời cảm ơn. Một câu nhỏ làm bà rất vui.",
+      "Family especially deserve thanks. One small sentence means a lot."
+     ],
+     [
+      "Nói “Cảm ơn” thật nhanh rồi đi",
+      "Mumble “thanks” and leave",
+      0,
+      "Có cảm ơn là tốt rồi. Thêm điều cụ thể sẽ làm lời cảm ơn ấm áp hơn.",
+      "Saying thanks is a start. Adding something specific makes it warmer."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Sáng nào An cũng thấy bác bảo vệ mở cổng trường và cô lao công quét sân từ sớm. Hôm nay sân trường ướt mưa, cô đã lau khô lối đi trước giờ vào lớp.",
+     "Every morning An sees the school guard open the gate and the cleaner sweeping the yard early. Today it rained and she dried the path before lessons."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Chạy vào lớp như mọi ngày",
+      "Rush into class as usual",
+      0,
+      "Không ai trách con cả, nhưng một lời cảm ơn nhỏ có thể làm cô vui cả ngày.",
+      "No one would blame you, but a small thank-you could make her day."
+     ],
+     [
+      "Dừng lại chào và nói: “Cháu cảm ơn cô đã lau lối đi, sáng nay cháu không bị trượt ạ.”",
+      "Stop and say: “Thank you for drying the path, I didn’t slip this morning.”",
+      1,
+      "Lời cảm ơn cụ thể cho thấy con thật sự để ý đến công việc của cô.",
+      "A specific thank-you shows you really noticed her work."
+     ],
+     [
+      "Nghĩ đó là việc của cô nên không cần cảm ơn",
+      "Think it’s her job so no thanks needed",
+      0,
+      "Dù là công việc, ai cũng vui khi được ghi nhận. Một câu cảm ơn không mất gì cả.",
+      "Even when it’s a job, everyone likes being appreciated. Thanks cost nothing."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một lời cảm ơn cụ thể",
+    "One specific thank-you"
+   ],
+   "s": [
+    "Con chào và cảm ơn một bác bảo vệ, cô lao công (ở trường hoặc khu nhà) bằng một câu cụ thể, đi cùng hoặc có ba mẹ ở gần, rồi kể lại với ba mẹ.",
+    "Greet and thank a guard or cleaner (at school or where you live) with a specific sentence, with your parent with you or nearby, then tell them about it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đi cùng, nói mẫu trước, con cảm ơn theo.",
+     "Your parent comes along and models it, then you say thank you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chào và cảm ơn.",
+     "With one reminder, you greet and thank them yourself."
+    ],
+    [
+     "Con tự nhớ, tự cảm ơn bằng câu cụ thể và kể lại người đó đã phản ứng thế nào.",
+     "You remember, thank them specifically and describe how they reacted."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể về một người đã giúp ba mẹ hồi nhỏ",
+    "Your parent tells you about someone who helped them as a child"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Tự tin khi nhận việc mới",
+   "Confidence in a new role"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ giao An việc mới: mỗi tối kèm em đọc bài 15 phút. An lo em không nghe lời và mình giảng không hay.",
+   "Mum gives An a new job: helping little sister read for 15 minutes each evening. An worries she won’t listen and the explanations won’t be good."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi mẹ vài cách kèm em, bắt đầu với một bài ngắn và khen em khi em đọc tốt",
+    "Ask Mum for tips, start with a short text and praise sister when she reads well",
+    1,
+    "Bắt đầu từ việc nhỏ và có người hướng dẫn giúp con tự tin dần lên.",
+    "Starting small with some guidance builds confidence step by step."
+   ],
+   [
+    "Nói với mẹ là con không làm được đâu",
+    "Tell Mum you can’t do it",
+    0,
+    "Thử rồi mới biết! Hỏi mẹ vài mẹo sẽ giúp con bắt đầu dễ hơn.",
+    "Try first! A few tips from Mum will make it easier to begin."
+   ],
+   [
+    "Làm qua loa cho xong",
+    "Rush through it",
+    0,
+    "Làm vội thì em khó học. Chuẩn bị một chút sẽ giúp cả hai vui hơn.",
+    "Rushing doesn’t help her learn. A bit of preparation makes it fun for both."
+   ]
+  ],
+  "qq": [
+   "Khi lo lắng vì nhận việc mới, nên làm gì?",
+   "When a new role makes you nervous…"
+  ],
+  "qo": [
+   [
+    "Chuẩn bị kỹ và bắt đầu từ việc nhỏ",
+    "Prepare well and start small"
+   ],
+   [
+    "Từ chối cho an toàn",
+    "Say no to be safe"
+   ],
+   [
+    "Giả vờ không lo",
+    "Pretend you’re not worried"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "An được cô chọn làm người dẫn chương trình buổi sinh hoạt lớp tuần sau. An vừa vui vừa lo: “Lỡ mình nói vấp thì sao? Mọi người cười thì sao?”",
+     "An is chosen to host next week’s class assembly. An feels excited and worried: “What if I stumble? What if people laugh?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xin cô đổi cho bạn khác",
+      "Ask the teacher to choose someone else",
+      0,
+      "Lo lắng là bình thường. Chuẩn bị kỹ sẽ giúp con tự tin hơn mình nghĩ.",
+      "Nerves are normal. Good preparation can make you more confident than you expect."
+     ],
+     [
+      "Nói ra nỗi lo với ba mẹ, viết các câu dẫn ra giấy và tập trước gương mỗi tối một lần",
+      "Share the worry with your parents, write your lines down and practise in the mirror each evening",
+      1,
+      "Gọi tên nỗi lo rồi chuẩn bị từng bước nhỏ giúp con bớt lo và tự tin dần.",
+      "Naming the worry and preparing in small steps eases nerves and builds confidence."
+     ],
+     [
+      "Không chuẩn bị, đến hôm đó tính",
+      "Don’t prepare; see on the day",
+      0,
+      "Không chuẩn bị thì càng dễ lo. Tập trước vài lần sẽ giúp con vững vàng.",
+      "No preparation makes nerves worse. A few practices help you feel steady."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi sinh hoạt thiếu nhi khu phố, cô phụ trách mời An đọc một bài thơ ngắn. An chưa bao giờ đọc thơ trước nhiều người.",
+     "At the neighbourhood children’s gathering, the leader invites An to recite a short poem. An has never done this in front of a crowd."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc thật nhanh cho xong",
+      "Read super fast to get it over with",
+      0,
+      "Đọc nhanh thì mọi người khó nghe. Hít thở sâu rồi đọc chậm lại nhé.",
+      "Too fast is hard to follow. Take a breath and slow down."
+     ],
+     [
+      "Trốn sau ba mẹ",
+      "Hide behind your parents",
+      0,
+      "Ngại là bình thường. Ba mẹ ở đó để cổ vũ con, con thử một lần nhé.",
+      "Shyness is normal. Your parents are there to cheer you on; give it a go."
+     ],
+     [
+      "Nhận lời, tập đọc với ba mẹ vài lần, hôm đó hít thở sâu trước khi bắt đầu",
+      "Say yes, practise with your parents a few times, and take a deep breath before starting",
+      1,
+      "Chuẩn bị trước và một hơi thở sâu giúp con bình tĩnh. Lần đầu nào cũng hơi run.",
+      "Preparing and a deep breath help you stay calm. Every first time feels a bit shaky."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Việc mới, nỗi lo và cách chuẩn bị",
+    "New job, one worry, one plan"
+   ],
+   "s": [
+    "Con nhận một việc mới trong nhà (tưới cây, xếp tủ giày, kèm em đọc…), nói ra một điều con lo và một cách con chuẩn bị, rồi làm thử.",
+    "Take on a new job at home (watering plants, sorting shoes, reading with a sibling…), say one worry and one way you’ll prepare, then try it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn việc, nghe nỗi lo và làm cùng lần đầu.",
+     "Choose the job with your parent, share the worry and do it together the first time."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói nỗi lo, cách chuẩn bị và làm.",
+     "With one reminder, you say your worry and plan, then do it."
+    ],
+    [
+     "Con tự chọn việc, chuẩn bị, làm và kể nỗi lo đã thay đổi thế nào.",
+     "You choose, prepare, do it and describe how the worry changed."
+    ]
+   ],
+   "rw": [
+    "Con được chọn bộ phim gia đình xem cùng cuối tuần",
+    "You choose the family film at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Thi đua giữa các tổ",
+   "Friendly competition between teams"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cuối tháng, tổ An thua tổ Mai trong cuộc thi đua giữ lớp sạch. Bảo trong tổ An nói: “Tổ Mai chắc được cô thiên vị!” Cả tổ bắt đầu bực bội.",
+   "At the end of the month An’s team loses the clean-classroom challenge to Mai’s team. Bảo says: “The teacher must favour them!” The team starts getting cross."
+  ],
+  "cq": [
+   "An nên nói gì?",
+   "What should An say?"
+  ],
+  "co": [
+   [
+    "“Ừ, chắc chắn là cô thiên vị.”",
+    "“Yeah, it’s definitely favouritism.”",
+    0,
+    "Đổ lỗi không giúp tổ tiến bộ. Hãy xem tổ bạn làm tốt điều gì.",
+    "Blaming doesn’t help you improve. Look at what the other team did well."
+   ],
+   [
+    "“Tổ Mai giữ góc lớp rất gọn. Mình chúc mừng họ và học cách đó, tháng sau cố hơn.”",
+    "“Mai’s team kept their corner really tidy. Let’s congratulate them, learn from it and try harder next month.”",
+    1,
+    "Cạnh tranh lành mạnh là tôn trọng đội bạn, học điều hay và vui vì mình đã cố gắng.",
+    "Healthy competition means respecting the other team, learning from them and being proud of your effort."
+   ],
+   [
+    "“Lần sau mình không thèm thi nữa.”",
+    "“We’re not bothering next time.”",
+    0,
+    "Thua thì buồn, nhưng thi đua là để cùng nhau tốt hơn. Đừng bỏ cuộc nhé.",
+    "Losing stings, but competition is about getting better. Don’t give up."
+   ]
+  ],
+  "qq": [
+   "Thi đua lành mạnh là thế nào?",
+   "Healthy competition means…"
+  ],
+  "qo": [
+   [
+    "Thắng bằng mọi giá",
+    "Winning at all costs"
+   ],
+   [
+    "Tôn trọng đội bạn và vui vì đã cố gắng",
+    "Respecting the other team and being proud of your effort"
+   ],
+   [
+    "Chê đội thắng",
+    "Criticising the winners"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà thi xem đội nào dọn phòng nhanh và gọn hơn: An với ba, em với mẹ. Đội em thắng, em nhảy cẫng lên.",
+     "The family has a race to tidy rooms: An with Dad, little sister with Mum. Sister’s team wins and she jumps for joy."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói đội em ăn gian",
+      "Say her team cheated",
+      0,
+      "Nói vậy làm em buồn và trò chơi hết vui. Chúc mừng em sẽ hay hơn.",
+      "That upsets her and spoils the fun. Congratulate her instead."
+     ],
+     [
+      "Giận dỗi không chơi nữa",
+      "Sulk and stop playing",
+      0,
+      "Thua thì hơi tiếc, nhưng trò chơi gia đình là để vui cùng nhau.",
+      "Losing is a shame, but family games are about fun together."
+     ],
+     [
+      "Chúc mừng em và khen: “Em xếp sách thẳng hàng đẹp quá!”",
+      "Congratulate her: “You lined up the books so neatly!”",
+      1,
+      "Khen đội thắng một điều cụ thể cho thấy con là người chơi đẹp.",
+      "Praising the winners specifically shows you’re a good sport."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đội bóng thiếu nhi của An thua trận giao hữu với đội phường bên. Một bạn trong đội định không bắt tay đội thắng.",
+     "An’s kids’ football team loses a friendly match to the next ward’s team. A teammate wants to skip shaking hands with the winners."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Rủ bạn cùng bắt tay đội thắng và nói “Các cậu chơi hay lắm”",
+      "Ask your teammate to shake hands with you and say “Well played”",
+      1,
+      "Bắt tay và khen đội bạn sau trận đấu là tinh thần thể thao đẹp.",
+      "Shaking hands and praising the other team is true sportsmanship."
+     ],
+     [
+      "Cũng không bắt tay cho đồng lòng",
+      "Skip it too to stick together",
+      0,
+      "Đồng lòng với bạn là tốt, nhưng bắt tay là tôn trọng đội bạn. Rủ bạn cùng bắt tay nhé.",
+      "Sticking together is good, but a handshake respects the other team. Invite your teammate along."
+     ],
+     [
+      "Về luôn không chào ai",
+      "Leave without saying goodbye",
+      0,
+      "Thua làm mình buồn, nhưng chào hỏi sau trận là phép lịch sự. Lần sau mình cố hơn.",
+      "Losing hurts, but a goodbye after a match is good manners. Try again next time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Trò thi đua cả nhà",
+    "A family challenge"
+   ],
+   "s": [
+    "Cả nhà chơi một trò thi đua (xếp đồ nhanh, đố vui, ném bóng vào rổ giấy…) chia hai đội. Cuối cùng mỗi đội khen đội kia một điều cụ thể.",
+    "Play a family challenge in two teams (speed tidying, a quiz, throwing paper balls into a basket…). At the end, each team praises the other with something specific."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn trò, con chơi và khen đội bạn theo gợi ý.",
+     "Your parent picks the game, you play and praise the other team with help."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự khen đội kia sau trận.",
+     "With one reminder, you praise the other team after the game."
+    ],
+    [
+     "Con tự tổ chức trò chơi, nhắc luật chơi đẹp và khen đội kia dù thắng hay thua.",
+     "You organise the game, remind everyone to play fair and praise the other team win or lose."
+    ]
+   ],
+   "rw": [
+    "Đội thắng và đội thua cùng được chọn bài hát cho cả nhà hát",
+    "Both teams get to choose a song for everyone to sing"
+   ]
+  }
+ }
+]

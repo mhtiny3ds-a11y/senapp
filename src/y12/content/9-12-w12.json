@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi bị hiểu lầm",
+   "When I’m misunderstood"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bình hoa trên bàn bị vỡ. Mẹ về thấy An đứng gần đó liền hỏi “Sao con nghịch thế?”. Thật ra chú mèo nhảy lên làm đổ, An chỉ vừa chạy ra xem.",
+   "The vase on the table is broken. Mum comes in, sees An standing there and says, “Why were you messing about?” Actually, the cat knocked it over and An just ran in to look."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Thở chậm, rồi nói “Mẹ ơi, con chưa chạm vào bình. Mèo nhảy lên làm đổ, con vừa chạy ra thấy”",
+    "Breathe slowly, then say “Mum, I didn’t touch it. The cat jumped up and knocked it, I just came to look”",
+    1,
+    "Bình tĩnh giải thích một lần thật rõ là cách nhanh nhất để mẹ hiểu. Nếu mẹ cần thời gian thì con cứ chờ.",
+    "Calmly explaining once, clearly, is the fastest way for Mum to understand. If she needs time, that’s OK."
+   ],
+   [
+    "Hét lên “Không phải con!” rồi bỏ đi",
+    "Shout “It wasn’t me!” and storm off",
+    0,
+    "Bị nghĩ oan thật khó chịu, nhưng hét lên làm mẹ khó nghe con. Thở một hơi rồi nói rõ nhé.",
+    "Being wrongly blamed is upsetting, but shouting makes it hard for Mum to hear you. Breathe, then explain."
+   ],
+   [
+    "Im lặng nhận lỗi cho xong chuyện",
+    "Stay quiet and take the blame to get it over with",
+    0,
+    "Nhận lỗi không phải của mình làm con buồn lâu hơn. Con có quyền nói ra sự thật một cách lễ phép.",
+    "Taking blame that isn’t yours makes you feel worse for longer. You can tell the truth politely."
+   ]
+  ],
+  "qq": [
+   "Khi bị hiểu lầm, nên làm gì?",
+   "When you’re misunderstood, what should you do?"
+  ],
+  "qo": [
+   [
+    "Bình tĩnh giải thích một lần thật rõ",
+    "Calmly explain once, clearly"
+   ],
+   [
+    "Cãi lại thật to cho đến khi người kia tin",
+    "Argue loudly until they believe you"
+   ],
+   [
+    "Im lặng mãi",
+    "Stay silent forever"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô thấy An quay sang bàn bên trong giờ học nên nhắc nhở. Thật ra Mai hỏi mượn thước và An chỉ đưa thước cho bạn.",
+     "The teacher sees An turn to the next desk and tells An off. Actually, Mai asked to borrow a ruler and An was just passing it."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cãi ngay giữa giờ “Em có nói chuyện đâu!”",
+      "Argue in the middle of the lesson “I wasn’t talking!”",
+      0,
+      "Cãi giữa giờ làm cả lớp mất tập trung và cô khó nghe con. Chờ lúc phù hợp sẽ tốt hơn.",
+      "Arguing mid-lesson disrupts everyone and it’s hard for the teacher to listen. Wait for the right moment."
+     ],
+     [
+      "Hậm hực suốt buổi và không học nữa",
+      "Sulk all lesson and stop working",
+      0,
+      "Hậm hực làm con mất cả buổi học. Ghi nhớ chuyện đó và nói với cô sau giờ là đủ.",
+      "Sulking costs you the whole lesson. Remember it and talk to the teacher afterwards."
+     ],
+     [
+      "Cuối giờ đến gặp cô, lễ phép nói “Thưa cô, lúc nãy em đưa thước cho bạn Mai ạ”",
+      "After class, go to the teacher and politely say “Miss, I was passing Mai my ruler earlier”",
+      1,
+      "Chọn đúng lúc và nói ngắn gọn, lễ phép giúp cô dễ hiểu và quý sự bình tĩnh của con.",
+      "Picking the right moment and keeping it short and polite helps the teacher understand and respect your calm."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở cửa hàng tiện lợi cùng ba, An cầm hộp sữa lên xem hạn dùng. Cô bán hàng nhắc “Cháu đừng bóc đồ nhé” dù An chưa bóc gì.",
+     "At the corner shop with Dad, An picks up a carton of milk to check the date. The shop assistant says “Don’t open that, please,” though An hasn’t."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ném hộp sữa xuống kệ cho bõ tức",
+      "Drop the carton on the shelf in a huff",
+      0,
+      "Làm vậy khiến cô càng nghĩ sai về con. Lời nói bình tĩnh sẽ giúp cô hiểu.",
+      "That only makes her think worse of you. Calm words help her understand."
+     ],
+     [
+      "Lễ phép nói “Dạ cháu chỉ xem hạn dùng thôi ạ” và đặt lại ngay ngắn",
+      "Politely say “I was just checking the date” and put it back neatly",
+      1,
+      "Một câu giải thích nhẹ nhàng là đủ. Cô có thể chỉ nhắc chung, không phải trách con.",
+      "One gentle sentence is enough. She may just have been reminding, not blaming."
+     ],
+     [
+      "Bực bội kể với ba là cô ấy xấu tính",
+      "Grumble to Dad that she’s mean",
+      0,
+      "Cô có thể chỉ muốn giữ hàng cẩn thận. Giải thích một câu rồi cho qua sẽ nhẹ lòng hơn.",
+      "She may just be looking after the stock. Explain once and let it go."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập giải thích bình tĩnh trong ba câu",
+    "Practise a calm three-sentence explanation"
+   ],
+   "s": [
+    "Con kể với ba mẹ một lần bị hiểu lầm, rồi tập lại cách giải thích bình tĩnh trong 3 câu: chuyện thật là gì, con đã làm gì, con mong người kia hiểu điều gì.",
+    "Tell your parent about a time you were misunderstood, then practise explaining it calmly in three sentences: what really happened, what you did, and what you’d like them to understand."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đóng vai người hiểu lầm và gợi ý từng câu cho con.",
+     "Your parent plays the person who got it wrong and helps with each sentence."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ 3 câu với giọng bình tĩnh.",
+     "With one reminder, you say the three sentences yourself in a calm voice."
+    ],
+    [
+     "Con tự chọn chuyện, nói 3 câu bình tĩnh, rồi kể ba mẹ nghe con sẽ làm gì nếu người kia vẫn chưa tin.",
+     "You choose the story, say it calmly, then tell your parent what you’d do if they still didn’t believe you."
+    ]
+   ],
+   "rw": [
+    "Được ngủ muộn thêm 15 phút tối thứ Bảy",
+    "An extra 15 minutes before bed on Saturday"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Thắng cùng nhau, thua cùng nhau",
+   "Win together, lose together"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở giải bóng đá thiếu nhi của phường, đội An thắng nhờ Nam ghi bàn. Mọi người chỉ khen Nam, còn thủ môn Linh đã cứu nhiều bàn thì không ai nhắc.",
+   "In the local children’s football tournament, An’s team wins thanks to Nam’s goal. Everyone praises Nam, but nobody mentions keeper Linh’s many saves."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cũng chỉ khen Nam vì Nam ghi bàn",
+    "Just praise Nam because he scored",
+    0,
+    "Bàn thắng là của cả đội. Nhắc đến công của mọi người giúp ai cũng thấy mình quan trọng.",
+    "The win belongs to the whole team. Mentioning everyone’s part helps all feel valued."
+   ],
+   [
+    "Nói với cả đội “Linh cứu nhiều bàn quá, cả đội ai cũng góp sức!”",
+    "Tell the team “Linh made so many saves – everyone played a part!”",
+    1,
+    "Thắng cùng nhau nghĩa là ghi nhận công của mọi người, không chỉ người nổi bật nhất.",
+    "Winning together means recognising everyone, not just the most visible player."
+   ],
+   [
+    "Kể với mọi người là mình chuyền bóng cho Nam",
+    "Tell everyone you passed to Nam",
+    0,
+    "Con góp sức thật, nhưng nhắc đến bạn khác trước sẽ làm cả đội vui hơn.",
+    "You did help, but mentioning others first makes the whole team happier."
+   ]
+  ],
+  "qq": [
+   "Khi đội thua, điều nên làm là gì?",
+   "When your team loses, what should you do?"
+  ],
+  "qo": [
+   [
+    "Tìm xem ai có lỗi",
+    "Find out whose fault it was"
+   ],
+   [
+    "Cùng tìm điều cả đội rút ra",
+    "Find a lesson together as a team"
+   ],
+   [
+    "Không chơi đồng đội nữa",
+    "Stop playing team games"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chơi đố chữ chia hai đội. Đội An và ba thua vì An đoán sai câu cuối. Ba chỉ cười.",
+     "The family plays a word game in two teams. An and Dad’s team loses because An gets the last answer wrong. Dad just laughs."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cười cùng ba, rồi bàn “Lần sau mình gợi ý ngắn hơn nhé ba”",
+      "Laugh with Dad and say “Next time let’s keep our clues shorter”",
+      1,
+      "Cùng cười và cùng rút kinh nghiệm là tinh thần đồng đội đẹp nhất, kể cả ở nhà.",
+      "Laughing together and learning together is great teamwork, even at home."
+     ],
+     [
+      "Tự trách mình và không chơi nữa",
+      "Blame yourself and refuse to play again",
+      0,
+      "Đoán sai là bình thường. Cả đội cùng chơi thì cả đội cùng thua, không ai phải gánh một mình.",
+      "Wrong guesses happen. You play as a team and lose as a team – nobody carries it alone."
+     ],
+     [
+      "Bảo “Tại ba gợi ý khó quá!”",
+      "Say “It’s because Dad’s clues were too hard!”",
+      0,
+      "Đổ lỗi qua lại làm trò chơi mất vui. Cùng nhau xem lần sau gợi ý thế nào sẽ hay hơn.",
+      "Blaming each other spoils the fun. Working out better clues together is more useful."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Đội kéo co của lớp An thua sát nút. Vài bạn quay sang trách Bảo: “Tại cậu trượt chân!”. Bảo cúi đầu, mắt rưng rưng.",
+     "An’s class loses the tug-of-war by a whisker. A few classmates turn on Bảo: “It’s your fault, you slipped!” Bảo looks down, close to tears."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gật đầu đồng ý với các bạn",
+      "Nod along with the others",
+      0,
+      "Cả đội cùng kéo thì thắng thua cũng là của cả đội. Đổ lỗi cho một người làm bạn ấy rất buồn.",
+      "The whole team pulled, so the result belongs to everyone. Blaming one person really hurts."
+     ],
+     [
+      "Bỏ về lớp vì chán",
+      "Walk off because it’s boring now",
+      0,
+      "Lúc thua là lúc đội cần nhau nhất. Ở lại động viên sẽ giúp ích nhiều.",
+      "Losing is when a team most needs each other. Staying to encourage helps a lot."
+     ],
+     [
+      "Nói “Cả đội mình cùng thua mà. Lần sau mình tập đứng chân cho chắc nhé”",
+      "Say “We lost as a team. Next time let’s practise our footing together”",
+      1,
+      "Không đổ lỗi mà cùng tìm điều rút ra giúp đội gắn bó và mạnh hơn lần sau.",
+      "No blame, just a lesson for everyone – that makes the team closer and stronger next time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Trò chơi đồng đội của cả nhà",
+    "A family team game"
+   ],
+   "s": [
+    "Con chơi một trò đồng đội với gia đình như ném bóng vào rổ hay đố chữ chia đội. Chơi xong, mỗi người nói một điều cả đội đã làm tốt, dù thắng hay thua.",
+    "Play a team game with your family, like throwing a ball into a basket or a word game in teams. Afterwards, everyone says one thing the team did well, win or lose."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn trò và mở đầu phần nói điều cả đội làm tốt.",
+     "Your parent chooses the game and starts the round of “what we did well”."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự mời mọi người nói sau khi chơi.",
+     "With one reminder, you invite everyone to share after the game."
+    ],
+    [
+     "Con tự tổ chức trò chơi và phần chia sẻ, kể cả khi đội con thua.",
+     "You organise the game and the sharing yourself, even if your team loses."
+    ]
+   ],
+   "rw": [
+    "Cả nhà đạp xe hoặc đi bộ cùng nhau cuối tuần",
+    "A family bike ride or walk at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Giữ lời hẹn với bạn",
+   "Keeping my promises to friends"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An hứa với em Bảo cuối tuần sẽ cùng em làm diều. Nhưng cuối tuần ấy An lại có hẹn đi sinh nhật bạn cả chiều.",
+   "An promised little Bảo they’d make a kite together at the weekend. But that weekend An also has a friend’s birthday party all afternoon."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Lờ đi, chắc em quên rồi",
+    "Ignore it – Bảo has probably forgotten",
+    0,
+    "Em nhỏ thường nhớ rất lâu lời hứa của anh chị. Nói rõ với em sẽ tốt hơn.",
+    "Little ones remember promises for a long time. Being honest with him is better."
+   ],
+   [
+    "Bỏ sinh nhật bạn mà không báo ai",
+    "Skip the party without telling anyone",
+    0,
+    "Giữ lời này mà phá lời khác thì vẫn có người buồn. Sắp xếp lại và báo trước nhé.",
+    "Keeping one promise by breaking another still upsets someone. Rearrange and tell people early."
+   ],
+   [
+    "Nói trước với em, xin lỗi và hẹn làm diều vào sáng Chủ nhật",
+    "Tell Bảo in advance, say sorry and set Sunday morning for the kite",
+    1,
+    "Nếu không giữ được lời đúng hạn, báo sớm và hẹn lại cụ thể là cách giữ lòng tin.",
+    "If you can’t keep the original plan, telling early and setting a new time keeps trust."
+   ]
+  ],
+  "qq": [
+   "Muốn giữ lời hứa, nên làm gì?",
+   "To keep a promise, what should you do?"
+  ],
+  "qo": [
+   [
+    "Hứa thật nhiều cho bạn vui",
+    "Promise lots to make friends happy"
+   ],
+   [
+    "Nhờ người khác nhắc",
+    "Get someone else to remind you"
+   ],
+   [
+    "Chỉ hứa điều làm được và tự ghi lại để nhớ",
+    "Only promise what you can do and write it down"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Thứ Hai, An hứa mang cuốn truyện cho Vy mượn. Đến thứ Tư An vẫn quên, Vy hỏi lần thứ ba. An hứa “Mai nhất định!” nhưng chưa biết làm sao để nhớ.",
+     "On Monday, An promised to lend Vy a book. By Wednesday An has forgotten again and Vy asks for the third time. An says “Definitely tomorrow!” but isn’t sure how to remember."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hứa tiếp và hy vọng mai sẽ nhớ",
+      "Promise again and hope you remember",
+      0,
+      "Hứa mà không có cách nhớ thì dễ quên tiếp. Một mẹo nhỏ sẽ giúp con giữ lời.",
+      "Promising without a plan to remember usually means forgetting again. A small trick helps."
+     ],
+     [
+      "Viết giấy nhắc dán lên cặp và để sẵn truyện cạnh cặp ngay tối nay",
+      "Write a reminder on a note stuck to the school bag and put the book next to the bag tonight",
+      1,
+      "Tự ghi và chuẩn bị sẵn giúp con không phải dựa vào trí nhớ. Giữ lời là xây lòng tin.",
+      "Writing it down and getting it ready means you don’t rely on memory. Keeping promises builds trust."
+     ],
+     [
+      "Bảo Vy “Cậu tự nhắc tớ nhé”",
+      "Tell Vy “You remind me”",
+      0,
+      "Lời hứa là của con, nên việc nhớ cũng là của con. Đừng nhờ bạn gánh hộ nhé.",
+      "It’s your promise, so remembering is your job. Don’t hand it to your friend."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An hẹn Nam 4 giờ chiều gặp ở sân bóng khu phố, ba An đồng ý đưa An đi. Đến 3 giờ 50, An vẫn mải đọc truyện.",
+     "An arranged to meet Nam at the local pitch at 4pm, and Dad agreed to take An. At 3:50, An is still lost in a book."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gấp truyện, đánh dấu trang và nhờ ba đưa đi ngay",
+      "Close the book, mark the page and ask Dad to go now",
+      1,
+      "Giữ đúng giờ hẹn là tôn trọng bạn. Lần sau con có thể đặt chuông nhắc trước 15 phút.",
+      "Being on time shows respect. Next time, set a reminder 15 minutes before."
+     ],
+     [
+      "Đọc nốt chương rồi mới đi, muộn chút không sao",
+      "Finish the chapter first – a bit late is fine",
+      0,
+      "Đến muộn làm bạn phải chờ. Lần sau đặt chuông nhắc trước giờ hẹn nhé.",
+      "Being late keeps your friend waiting. Next time set an alarm before you need to leave."
+     ],
+     [
+      "Bỏ hẹn vì đang đọc hay",
+      "Cancel because the book is too good",
+      0,
+      "Bỏ hẹn vào phút cuối làm bạn buồn và mất lòng tin. Cuốn truyện vẫn đợi con về.",
+      "Cancelling at the last minute lets your friend down. The book will still be there later."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Giấy nhắc cho một lời hứa nhỏ",
+    "A reminder note for a small promise"
+   ],
+   "s": [
+    "Con hứa một việc nhỏ với người trong nhà (như tưới cây, xếp dép), ghi vào giấy nhắc dán ở chỗ dễ thấy và tự hoàn thành trong ngày. Ba mẹ xác nhận.",
+    "Make a small promise to someone at home (like watering the plants or tidying the shoes), write it on a reminder note somewhere visible and do it today. Your parent confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn lời hứa và viết giấy nhắc.",
+     "Your parent helps choose the promise and write the note."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết giấy nhắc và tự làm.",
+     "With one reminder, you write the note and keep the promise yourself."
+    ],
+    [
+     "Con tự hứa, tự nhắc, tự làm xong rồi kể ba mẹ nghe mẹo nhớ của con.",
+     "You make, remember and keep the promise alone, then share your memory trick with your parent."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ đọc to một chương truyện con thích",
+    "Your parent reads aloud a chapter of your favourite book"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Bạn xin chép bài",
+   "A friend asks to copy my homework"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Sáng sớm, Tí chạy đến bàn An: “Cho tớ chép bài Toán với, tối qua tớ không hiểu gì cả!”. Còn 15 phút nữa vào học.",
+   "Early in the morning, Tí rushes over to An: “Let me copy your maths homework, I didn’t get any of it last night!” Lessons start in 15 minutes."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nhẹ nhàng nói “Tớ không cho chép đâu, nhưng tớ giảng nhanh bài 1 cho cậu nhé”",
+    "Gently say “I won’t let you copy, but I can quickly explain question 1”",
+    1,
+    "Từ chối rõ ràng mà vẫn đưa tay giúp: Tí hiểu được bài và hai bạn vẫn vui vẻ.",
+    "A clear no plus real help: Tí understands and you stay friends."
+   ],
+   [
+    "Cho chép vì là bạn thân",
+    "Let him copy – he’s a good friend",
+    0,
+    "Cho chép giúp Tí qua hôm nay, nhưng mai Tí vẫn chưa hiểu bài. Giúp bạn hiểu mới là giúp thật.",
+    "Copying gets him through today, but he still won’t understand tomorrow. Helping him learn is real help."
+   ],
+   [
+    "Nói to “Lười thế thì chịu!”",
+    "Say loudly “That’s what you get for being lazy!”",
+    0,
+    "Có thể Tí thật sự không hiểu chứ không lười. Từ chối nhẹ nhàng sẽ giữ được tình bạn.",
+    "Maybe he really didn’t understand. A kind refusal keeps the friendship."
+   ]
+  ],
+  "qq": [
+   "Khi bạn xin chép bài, cách giúp tốt nhất là gì?",
+   "When a friend asks to copy, what’s the best help?"
+  ],
+  "qo": [
+   [
+    "Từ chối nhẹ nhàng và giúp bạn hiểu bài",
+    "Refuse kindly and help them understand"
+   ],
+   [
+    "Cho chép để bạn khỏi bị điểm kém",
+    "Let them copy to avoid a bad mark"
+   ],
+   [
+    "Mặc kệ bạn",
+    "Ignore them"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em họ Linh học lớp dưới sang nhà chơi, xin chép bài tập tiếng Việt của An năm ngoái để nộp cho nhanh.",
+     "Younger cousin Linh visits and asks to copy An’s old Vietnamese homework from last year to hand in quickly."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đưa vở cũ cho em chép",
+      "Hand over the old exercise book",
+      0,
+      "Chép bài cũ thì em không học được gì. Cùng em làm sẽ giúp em nhiều hơn.",
+      "Copying old work teaches her nothing. Working through it together helps more."
+     ],
+     [
+      "Bảo em “Tự làm đi” rồi đi chỗ khác",
+      "Say “Do it yourself” and walk off",
+      0,
+      "Không cho chép là đúng, nhưng giúp em một chút sẽ ấm áp hơn.",
+      "Not letting her copy is right, but a little help is kinder."
+     ],
+     [
+      "Ngồi cạnh, gợi ý cho em cách làm từng câu để em tự viết",
+      "Sit beside her and give hints so she writes each answer herself",
+      1,
+      "Gợi ý để em tự làm giúp em hiểu bài. Đó là cách làm anh chị tốt nhất.",
+      "Hints so she does it herself help her really learn. That’s being a great older cousin."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp học thêm tiếng Anh, bạn ngồi cạnh xin nhìn bài kiểm tra của An khi thầy quay đi.",
+     "At extra English class, the child next to An asks to look at An’s test while the teacher’s back is turned."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xoay bài cho bạn nhìn",
+      "Turn the paper so they can see",
+      0,
+      "Cho xem bài trong giờ kiểm tra là không trung thực, cả hai có thể bị nhắc nhở.",
+      "Sharing answers in a test isn’t honest, and you could both get in trouble."
+     ],
+     [
+      "Che bài lại, nói nhỏ “Xin lỗi, không được đâu”, rồi tập trung làm tiếp",
+      "Cover the paper, whisper “Sorry, I can’t”, and keep working",
+      1,
+      "Bài kiểm tra là để mỗi người biết mình hiểu đến đâu. Từ chối ngắn gọn là đủ, sau giờ có thể cùng ôn.",
+      "A test shows what each person knows. A short no is enough – you can revise together afterwards."
+     ],
+     [
+      "Giơ tay mách thầy ngay giữa giờ",
+      "Put your hand up and tell on them mid-test",
+      0,
+      "Con có thể từ chối trước. Nếu bạn vẫn làm phiền, nói với thầy sau giờ sẽ nhẹ nhàng hơn.",
+      "You can say no first. If it continues, tell the teacher afterwards, more gently."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba cách giúp bạn mà không cho chép",
+    "Three ways to help without copying"
+   ],
+   "s": [
+    "Con cùng ba mẹ nghĩ 3 cách giúp bạn mà không cho chép bài, chọn cách con thấy hợp nhất và tập nói câu từ chối kèm lời giúp đỡ.",
+    "With your parent, think of three ways to help a friend without letting them copy, choose the one that suits you best and practise saying no while offering help."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý các cách, con chọn và nói theo câu mẫu.",
+     "Your parent suggests ideas; you choose one and repeat a model sentence."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ 3 cách và tự tập nói.",
+     "With one reminder, you think of three ways and practise on your own."
+    ],
+    [
+     "Con tự làm, đóng vai với ba mẹ làm bạn năn nỉ, và vẫn từ chối nhẹ nhàng.",
+     "You do it alone, role-play with your parent as a pleading friend, and still say no kindly."
+    ]
+   ],
+   "rw": [
+    "Con được chọn bữa sáng Chủ nhật cho cả nhà",
+    "You choose Sunday breakfast for the family"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nhìn bạn qua việc làm, không qua vẻ ngoài",
+   "Judging by actions, not looks"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở thư viện khu phố cùng mẹ, An thấy một anh mặc áo rộng thùng thình, tóc rối. An nghĩ anh không biết đọc sách. Lát sau anh kiên nhẫn đọc truyện cho một nhóm em nhỏ.",
+   "At the local library with Mum, An sees a young man in baggy clothes with messy hair and assumes he’s not a reader. Later he patiently reads stories to a group of small children."
+  ],
+  "cq": [
+   "An rút ra điều gì?",
+   "What does An learn?"
+  ],
+  "co": [
+   [
+    "Anh ấy chỉ làm cho vui",
+    "He’s just doing it for fun",
+    0,
+    "Dù lý do là gì, việc anh làm cho thấy anh kiên nhẫn và tốt bụng. Đó mới là điều đáng nhìn.",
+    "Whatever the reason, it shows patience and kindness. That’s what counts."
+   ],
+   [
+    "Không nên đánh giá ai qua quần áo, việc làm mới nói lên con người",
+    "Don’t judge people by clothes – actions show who they are",
+    1,
+    "Vẻ ngoài chỉ là lớp vỏ. Điều người ta làm mới cho mình biết họ là người thế nào.",
+    "Looks are just the outside. What people do tells you who they are."
+   ],
+   [
+    "Người ăn mặc gọn gàng thì luôn tốt hơn",
+    "Neat people are always better",
+    0,
+    "Gọn gàng là thói quen hay, nhưng không quyết định ai tốt hay không.",
+    "Neatness is a good habit, but it doesn’t decide who is good."
+   ]
+  ],
+  "qq": [
+   "Cách đánh giá một người công bằng nhất là gì?",
+   "What’s the fairest way to judge someone?"
+  ],
+  "qo": [
+   [
+    "Nhìn quần áo, đầu tóc",
+    "Look at their clothes and hair"
+   ],
+   [
+    "Dựa vào việc người đó làm",
+    "Go by what they do"
+   ],
+   [
+    "Nghe người khác kể",
+    "Listen to what others say"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bác hàng xóm mới chuyển đến trông nghiêm và ít cười. An hơi sợ. Hôm qua bác giúp ba mang hộ bao gạo nặng lên tầng.",
+     "The new neighbour looks stern and rarely smiles. An feels a bit nervous. Yesterday he helped Dad carry a heavy sack of rice upstairs."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "What should An think?"
+    ],
+    "o": [
+     [
+      "Bác ấy giúp ba, chắc bác tốt bụng; lần sau gặp mình chào bác",
+      "He helped Dad, so he’s probably kind – I’ll say hello next time",
+      1,
+      "Vẻ nghiêm không nói lên tấm lòng. Việc làm tốt là bằng chứng rõ nhất.",
+      "A stern face says little about a person’s heart. Kind actions are the clearest clue."
+     ],
+     [
+      "Vẫn tránh mặt bác vì trông đáng sợ",
+      "Still avoid him because he looks scary",
+      0,
+      "Cẩn thận với người lạ là đúng, nhưng bác là hàng xóm ba mẹ đã quen. Chào hỏi lễ phép là được.",
+      "Being careful with strangers is right, but your parents know him. A polite hello is fine."
+     ],
+     [
+      "Kể với bạn bè là hàng xóm mới khó tính",
+      "Tell friends the new neighbour is grumpy",
+      0,
+      "Nói vậy khi chưa hiểu bác là không công bằng. Hãy nhìn vào việc bác làm.",
+      "That’s unfair before you know him. Look at what he does."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp có bạn mới tên Bảo, ít nói, lúc nào cũng cau mày. Vài bạn thì thầm “Chắc khó gần lắm”. Hôm ấy An quên bút, chính Bảo lặng lẽ cho An mượn.",
+     "There’s a new boy called Bảo, quiet and always seeming to frown. Some classmates whisper, “He must be hard to get on with.” That day An forgets a pen, and it’s Bảo who quietly lends one."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "What should An think?"
+    ],
+    "o": [
+     [
+      "Vẫn tin lời các bạn vì nhiều người nói vậy",
+      "Still believe the others because lots of people say so",
+      0,
+      "Lời thì thầm chỉ dựa vào vẻ ngoài. Việc Bảo làm cho con thấy một điều khác.",
+      "The whispers are based only on looks. What Bảo did shows something different."
+     ],
+     [
+      "Cảm ơn nhưng vẫn giữ khoảng cách",
+      "Say thanks but keep your distance",
+      0,
+      "Cảm ơn là tốt. Cho bạn một cơ hội làm quen sẽ giúp con hiểu bạn hơn.",
+      "Thanking is good. Giving him a chance helps you see who he is."
+     ],
+     [
+      "Nghĩ “Bạn ấy tốt bụng”, rồi rủ Bảo ăn trưa cùng để hiểu thêm",
+      "Think “He’s kind”, then invite Bảo to lunch to get to know him",
+      1,
+      "Ấn tượng ban đầu có thể sai. Dựa vào việc làm và trò chuyện thêm mới hiểu đúng một người.",
+      "First impressions can be wrong. Actions and getting to know someone show who they really are."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kể về một người mình đã hiểu hơn",
+    "A person I got to know better"
+   ],
+   "s": [
+    "Con kể với ba mẹ về một người con từng nghĩ khác, rồi hiểu hơn sau khi cùng làm việc hay trò chuyện: lúc đầu con nghĩ gì, việc gì làm con thay đổi.",
+    "Tell your parent about someone you first saw differently and understood better after working or talking together: what you thought at first, and what changed your mind."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể một ví dụ của ba mẹ trước, rồi gợi ý để con kể.",
+     "Your parent shares their own example first, then helps you tell yours."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn người và kể đủ hai ý.",
+     "With one reminder, you choose the person and cover both points."
+    ],
+    [
+     "Con tự kể, rồi nói thêm một việc con muốn làm để hiểu một bạn mới.",
+     "You tell it yourself and add one thing you’ll do to get to know someone new."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đi thư viện và con chọn sách mượn về",
+    "A family trip to the library where you choose the books"
+   ]
+  }
+ }
+]

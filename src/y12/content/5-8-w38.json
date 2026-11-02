@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Vì sao kẹo để ngang tầm mắt?",
+   "Why sweets sit at eye level"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở quầy tính tiền siêu thị, Bin thấy kẹo xếp ngay trước mặt, ngang tầm mắt mình. Bin đòi mẹ mua.",
+   "At the supermarket checkout, Bin sees sweets right in front of him at eye level. He asks Mum to buy some."
+  ],
+  "cq": [
+   "Bin có thể nghĩ gì?",
+   "What could Bin think?"
+  ],
+  "co": [
+   [
+    "“Cửa hàng để kẹo ở đây cho mình dễ thấy và muốn mua. Mình có thật cần không?”",
+    "“The shop puts sweets here so I’ll see them and want them. Do I really need them?”",
+    1,
+    "Đồ để chỗ dễ thấy là để mời mình mua. Dừng lại hỏi “mình có cần không” trước nhé.",
+    "Things placed where you can see them are there to tempt you. Stop and ask “do I need it?” first."
+   ],
+   [
+    "“Kẹo để đây là để cho trẻ em lấy”",
+    "“Sweets are here for children to take”",
+    0,
+    "Kẹo vẫn phải trả tiền. Cửa hàng để thấp là để trẻ em dễ thấy và đòi mua đấy.",
+    "Sweets still cost money. They’re placed low so children see them and ask."
+   ],
+   [
+    "“Đồ để chỗ dễ thấy chắc là đồ tốt nhất”",
+    "“Things that are easy to see must be the best”",
+    0,
+    "Chỗ dễ thấy chưa chắc là đồ tốt nhất. Con nhìn kỹ và nghĩ xem mình có cần không.",
+    "Easy to see doesn’t mean best. Look carefully and think about whether you need it."
+   ]
+  ],
+  "qq": [
+   "Vì sao cửa hàng để đồ ở chỗ dễ thấy?",
+   "Why do shops put things where they’re easy to see?"
+  ],
+  "qo": [
+   [
+    "Vì đồ đó rẻ nhất",
+    "Because they’re cheapest"
+   ],
+   [
+    "Vì đồ đó tốt nhất",
+    "Because they’re the best"
+   ],
+   [
+    "Để mời mình mua",
+    "To tempt you to buy them"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin xem quảng cáo đồ chơi trên ti vi. Bạn nhỏ trong đó cười rất tươi. Bin muốn có ngay.",
+     "Bin watches a toy advert on the telly. The child in it is grinning. Bin wants one right away."
+    ],
+    "q": [
+     "Bin có thể nghĩ gì?",
+     "What could Bin think?"
+    ],
+    "o": [
+     [
+      "“Có đồ chơi này thì mình sẽ vui mãi”",
+      "“If I get this toy I’ll be happy forever”",
+      0,
+      "Đồ chơi mới vui một lúc thôi. Con nghĩ xem mình có đồ chơi giống vậy chưa nhé.",
+      "New toys are fun for a while. Think whether you have something like it already."
+     ],
+     [
+      "“Quảng cáo làm đồ chơi trông vui hơn. Mình có thật cần không?”",
+      "“Adverts make toys look more fun. Do I really need it?”",
+      1,
+      "Quảng cáo được làm để mình muốn mua. Nghĩ lại một chút giúp con chọn khôn ngoan.",
+      "Adverts are made to make you want things. A moment’s thought helps you choose wisely."
+     ],
+     [
+      "Chạy đi đòi mẹ mua ngay",
+      "Run and ask Mum to buy it now",
+      0,
+      "Chờ một chút và nghĩ kỹ, có khi con thấy không cần nữa.",
+      "Wait a bit and think, and you might find you don’t need it after all."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô hỏi cả lớp: “Vì sao kẹo hay được để gần chỗ tính tiền?”",
+     "The teacher asks the class, “Why are sweets often next to the checkout?”"
+    ],
+    "q": [
+     "Bin nên trả lời gì?",
+     "What should Bin answer?"
+    ],
+    "o": [
+     [
+      "“Vì kẹo nhẹ ạ”",
+      "“Because sweets are light”",
+      0,
+      "Kẹo nhẹ thật, nhưng đó không phải lý do. Con nghĩ xem ai đứng ở chỗ đó nhé.",
+      "They are light, but that’s not why. Think about who stands there."
+     ],
+     [
+      "“Vì cô bán hàng thích kẹo ạ”",
+      "“Because the shop assistant likes sweets”",
+      0,
+      "Ý vui đấy! Nhưng cửa hàng xếp như vậy là để mời người mua.",
+      "Fun idea! But shops do it to tempt shoppers."
+     ],
+     [
+      "“Để người đứng chờ nhìn thấy và mua thêm ạ”",
+      "“So people waiting see them and buy more”",
+      1,
+      "Đúng rồi. Hiểu cách cửa hàng xếp đồ giúp con không mua theo ý thích bất chợt.",
+      "That’s right. Knowing how shops arrange things helps you avoid impulse buys."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm ba món để ở chỗ dễ thấy",
+    "Spot three eye-catching products"
+   ],
+   "s": [
+    "Khi đi siêu thị cùng ba mẹ, con tìm ba món được để ở chỗ dễ thấy (ngang tầm mắt, gần quầy tính tiền) và nói vì sao cửa hàng để ở đó.",
+    "At the supermarket with Mum or Dad, find three things placed where they’re easy to see (eye level, by the checkout) and say why the shop put them there."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ một món mẫu, con tìm thêm cùng ba mẹ.",
+     "Mum or Dad shows one example and you find more together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm đủ ba món.",
+     "Mum or Dad reminds you once and you find all three."
+    ],
+    [
+     "Con tự tìm ba món, giải thích vì sao và nói con có cần món nào không.",
+     "You find three, explain why, and say whether you need any of them."
+    ]
+   ],
+   "rw": [
+    "Được cùng ba mẹ chọn rau quả cho bữa tối",
+    "You help choose the fruit and veg for dinner"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Thang máy, thang cuốn an toàn",
+   "Lifts and escalators"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi trung tâm mua sắm với mẹ. Thấy thang cuốn đang chạy, Bin muốn nhảy lên thật nhanh.",
+   "Bin is at a shopping centre with Mum. Seeing the escalator moving, he wants to jump on quickly."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nhảy lên bậc thang rồi chạy",
+    "Jump on and run up",
+    0,
+    "Chạy trên thang cuốn dễ trượt chân. Con đứng yên nhé.",
+    "Running on an escalator can make you slip. Stand still."
+   ],
+   [
+    "Ngồi xuống bậc thang cho đỡ mỏi",
+    "Sit on the step for a rest",
+    0,
+    "Ngồi trên thang có thể bị kẹt quần áo. Con đứng và vịn tay vịn nhé.",
+    "Sitting can get clothes caught. Stand and hold the rail."
+   ],
+   [
+    "Nắm tay mẹ, bước lên giữa bậc, đứng yên và vịn tay vịn",
+    "Hold Mum’s hand, step onto the middle of the step, stand still and hold the rail",
+    1,
+    "Đứng yên, vịn tay vịn và đi cùng người lớn giúp con không bị ngã trên thang.",
+    "Standing still, holding the rail and staying with a grown-up stops you falling."
+   ]
+  ],
+  "qq": [
+   "Đi thang cuốn cần nhớ…",
+   "On an escalator, remember to…"
+  ],
+  "qo": [
+   [
+    "Chạy lên cho nhanh",
+    "Run up quickly"
+   ],
+   [
+    "Đứng yên, vịn tay vịn, đi cùng người lớn",
+    "Stand still, hold the rail, stay with a grown-up"
+   ],
+   [
+    "Ngồi trên bậc",
+    "Sit on the step"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở chung cư nhà Bin, cửa thang máy sắp đóng mà bà còn ở phía sau.",
+     "In Bin’s block of flats, the lift doors are closing and Grandma is still behind."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng ngoài chờ bà, để bà bấm nút gọi thang",
+      "Wait outside with Grandma and let her press the button",
+      1,
+      "Đi thang máy cùng người lớn là an toàn. Lỡ chuyến thì mình chờ chuyến sau.",
+      "Using the lift with a grown-up is safe. If you miss it, wait for the next."
+     ],
+     [
+      "Lấy tay chặn cửa thang",
+      "Put his hand in the doors",
+      0,
+      "Tay chặn cửa có thể bị kẹp đau. Con đứng chờ cùng bà nhé.",
+      "Hands in the doors can get pinched. Wait with Grandma."
+     ],
+     [
+      "Chạy vào đi một mình trước",
+      "Run in and go up alone",
+      0,
+      "Trẻ nhỏ đi thang máy cần người lớn đi cùng. Con chờ bà nhé.",
+      "Young children need a grown-up in the lift. Wait for Grandma."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Trường Bin có thang máy cho thầy cô. Mấy bạn rủ nhau vào bấm nút chơi.",
+     "Bin’s school has a lift for teachers. Some children want to go in and play with the buttons."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Vào bấm hết các nút",
+      "Go in and press all the buttons",
+      0,
+      "Bấm lung tung có thể làm thang dừng giữa chừng. Con không vào chơi nhé.",
+      "Pressing everything can stop the lift between floors. Don’t play in it."
+     ],
+     [
+      "Không vào, nhắc bạn thang máy không phải chỗ chơi, bạn vẫn chơi thì báo cô",
+      "Stay out, remind them it’s not for playing, and tell a teacher if they carry on",
+      1,
+      "Thang máy không phải đồ chơi. Báo cô giúp các bạn được an toàn.",
+      "Lifts aren’t toys. Telling a teacher keeps your friends safe."
+     ],
+     [
+      "Đứng nhảy trong thang",
+      "Jump up and down inside",
+      0,
+      "Nhảy trong thang máy không an toàn. Con ra ngoài và báo cô nhé.",
+      "Jumping in a lift isn’t safe. Come out and tell a teacher."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba quy tắc khi đi thang cuốn",
+    "Three escalator rules"
+   ],
+   "s": [
+    "Con nói ba quy tắc khi đi thang cuốn (nắm tay người lớn, đứng yên, vịn tay vịn) và làm đúng khi đi cùng ba mẹ.",
+    "Say three escalator rules (hold a grown-up’s hand, stand still, hold the rail) and follow them when you go with Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói từng quy tắc, con nhắc lại và làm theo.",
+     "Mum or Dad says each rule and you repeat and follow it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói và làm đúng.",
+     "Mum or Dad reminds you once, then you say and do it yourself."
+    ],
+    [
+     "Con tự nói đủ ba quy tắc và nhắc cả nhà làm theo.",
+     "You say all three rules and remind the family too."
+    ]
+   ],
+   "rw": [
+    "Một cái ôm và lời khen “con thật an toàn và giỏi”",
+    "A hug and praise: “You were so safe and sensible”"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Đi đường mất bao lâu?",
+   "How long is the trip?"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin hẹn đến nhà Na chơi lúc 4 giờ, ba sẽ chở đi. Gần 4 giờ, Bin vẫn đang mải xếp hình.",
+   "Bin is due at Na’s house at four, and Dad will drive him. It’s nearly four and Bin is still busy with a puzzle."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đúng 4 giờ mới đi",
+    "Leave at exactly four",
+    0,
+    "Đi lúc 4 giờ thì đến nơi muộn rồi. Phải tính cả thời gian đi đường.",
+    "Leaving at four means arriving late. Count the travel time too."
+   ],
+   [
+    "Hỏi ba đường đến nhà Na mất bao lâu để biết lúc nào phải đi",
+    "Ask Dad how long it takes to get to Na’s, so he knows when to leave",
+    1,
+    "Biết đường đi mất bao lâu thì biết lúc nào nên xuất phát để đến đúng giờ.",
+    "Knowing how long the trip takes tells you when to set off to arrive on time."
+   ],
+   [
+    "Xếp hình xong rồi tính",
+    "Finish the puzzle first and see",
+    0,
+    "Mải chơi dễ bị muộn và Na phải chờ. Con hỏi ba giờ đi trước nhé.",
+    "Getting caught up can make you late and Na will wait. Ask Dad first."
+   ]
+  ],
+  "qq": [
+   "Muốn đến nơi đúng giờ, cần biết gì?",
+   "To arrive on time, you need to know…"
+  ],
+  "qo": [
+   [
+    "Đi đường mất bao lâu",
+    "How long the trip takes"
+   ],
+   [
+    "Đường có đẹp không",
+    "Whether the route is pretty"
+   ],
+   [
+    "Mặc áo màu gì",
+    "What colour to wear"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô nói đi từ lớp xuống thư viện mất 5 phút, mà 9 giờ là tiết thư viện.",
+     "The teacher says it takes five minutes to walk to the library, and library time starts at nine."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đúng 9 giờ mới bắt đầu cất sách",
+      "Start packing away at nine",
+      0,
+      "Lúc đó là muộn rồi. Con nhớ cộng thêm 5 phút đi đường nhé.",
+      "That’s already late. Remember to add the five-minute walk."
+     ],
+     [
+      "Chạy thật nhanh ở hành lang cho kịp",
+      "Run down the corridor to make it",
+      0,
+      "Chạy ở hành lang dễ va vào bạn. Chuẩn bị sớm thì không cần chạy.",
+      "Running in corridors causes bumps. Getting ready early means no rushing."
+     ],
+     [
+      "Cất đồ và xếp hàng trước 9 giờ 5 phút để xuống kịp",
+      "Pack away and line up five minutes before nine",
+      1,
+      "Tính trước thời gian đi giúp cả lớp đến đúng giờ.",
+      "Allowing for the walk gets the class there on time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin và mẹ đi bộ ra chợ. Mẹ hỏi: “Con đoán mình đi mất bao lâu?”",
+     "Bin and Mum walk to the market. Mum asks, “How long do you think it’ll take?”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đoán thử, rồi cùng mẹ xem đồng hồ lúc đi và lúc đến",
+      "Make a guess, then check the clock with Mum when they leave and arrive",
+      1,
+      "Đoán rồi đo giúp con biết thời gian thật, lần sau đoán giỏi hơn.",
+      "Guessing then measuring shows the real time, so you guess better next time."
+     ],
+     [
+      "Nói đại “một tiếng”",
+      "Say “an hour” without thinking",
+      0,
+      "Đoán thì được, nhưng nhớ đo lại xem đúng không nhé.",
+      "Guessing is fine, but measure to check."
+     ],
+     [
+      "Nói “Con không cần biết”",
+      "Say “I don’t need to know”",
+      0,
+      "Biết đường đi mất bao lâu giúp cả nhà không bị muộn. Thử đo xem nhé.",
+      "Knowing trip times stops the family being late. Try measuring."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đoán rồi đo thời gian đi đường",
+    "Guess, then time a trip"
+   ],
+   "s": [
+    "Con đoán đi từ nhà đến trường hoặc chợ mất bao lâu, rồi cùng ba mẹ xem đồng hồ lúc đi và lúc đến để biết đúng bao nhiêu phút.",
+    "Guess how long it takes to get from home to school or the shop, then check the clock with Mum or Dad when you leave and arrive."
+   ],
+   "lv": [
+    [
+     "Ba mẹ xem giờ cùng con lúc đi và lúc đến.",
+     "Mum or Dad checks the time with you at both ends."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhớ xem giờ lúc đi và lúc đến.",
+     "Mum or Dad reminds you once; you remember to check both times."
+    ],
+    [
+     "Con tự đoán, tự xem giờ và nói lần sau nên đi lúc mấy giờ.",
+     "You guess, check the times and say when to leave next time."
+    ]
+   ],
+   "rw": [
+    "Được làm “người bấm giờ” cho chuyến đi tiếp theo",
+    "You’re the official timekeeper on the next trip"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Tiền mặt và thẻ",
+   "Cash and cards"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở cửa hàng, Bin thấy mẹ chỉ chạm điện thoại vào máy là trả xong. Bin nói: “Thế là không tốn tiền mẹ nhỉ!”",
+   "In a shop, Bin sees Mum just tap her phone on the machine to pay. He says, “So that doesn’t cost any money!”"
+  ],
+  "cq": [
+   "Điều nào đúng?",
+   "Which is true?"
+  ],
+  "co": [
+   [
+    "Trả bằng điện thoại hay thẻ cũng là tiêu tiền thật của mẹ",
+    "Paying by phone or card still spends Mum’s real money",
+    1,
+    "Tiền vẫn bị trừ, chỉ là không nhìn thấy tờ tiền. Vì vậy mua gì cũng cần nghĩ kỹ.",
+    "The money still goes; you just don’t see the notes. So we still think before buying."
+   ],
+   [
+    "Chạm điện thoại là được đồ miễn phí",
+    "Tapping a phone makes things free",
+    0,
+    "Không có gì miễn phí đâu con. Tiền được trả từ tài khoản của mẹ.",
+    "Nothing is free. The money comes out of Mum’s account."
+   ],
+   [
+    "Có thẻ là mua gì cũng được, không bao giờ hết",
+    "With a card you can buy anything and never run out",
+    0,
+    "Tiền trong thẻ cũng có hạn, tiêu rồi sẽ hết. Mình vẫn phải chọn kỹ.",
+    "Card money runs out too. We still choose carefully."
+   ]
+  ],
+  "qq": [
+   "Trả bằng thẻ hay điện thoại là…",
+   "Paying by card or phone is…"
+  ],
+  "qo": [
+   [
+    "Không mất tiền",
+    "Free"
+   ],
+   [
+    "Tiêu tiền thật",
+    "Spending real money"
+   ],
+   [
+    "Tiền không bao giờ hết",
+    "Money that never runs out"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin thấy mẹ trả tiền điện trên điện thoại. Bin hỏi: “Sao mẹ không đưa tiền cho ai?”",
+     "Bin sees Mum pay the electricity bill on her phone. He asks, “Why didn’t you give anyone money?”"
+    ],
+    "q": [
+     "Bin nên hiểu thế nào?",
+     "What should Bin understand?"
+    ],
+    "o": [
+     [
+      "Tiền điện thì không cần trả",
+      "Electricity doesn’t need paying for",
+      0,
+      "Điện, nước đều phải trả tiền hằng tháng. Đó là lý do mình tắt đèn khi không dùng.",
+      "Electricity and water are paid for every month. That’s why we switch off lights."
+     ],
+     [
+      "Điện thoại tự có tiền",
+      "The phone makes its own money",
+      0,
+      "Điện thoại không tạo ra tiền. Tiền là do ba mẹ đi làm mà có.",
+      "Phones don’t make money. It comes from your parents’ work."
+     ],
+     [
+      "Tiền vẫn được trả, chỉ là trả qua điện thoại",
+      "The money is still paid, just through the phone",
+      1,
+      "Trả qua điện thoại vẫn là trả bằng tiền thật của ba mẹ.",
+      "Paying by phone still uses your parents’ real money."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô hỏi cả lớp: “Có những cách nào để trả tiền khi mua đồ?”",
+     "The teacher asks, “What ways are there to pay for things?”"
+    ],
+    "q": [
+     "Bin nên trả lời gì?",
+     "What should Bin answer?"
+    ],
+    "o": [
+     [
+      "“Chỉ có tiền giấy mới là tiền ạ”",
+      "“Only paper money is real money”",
+      0,
+      "Thẻ và điện thoại cũng dùng tiền thật, chỉ không nhìn thấy thôi.",
+      "Cards and phones use real money too, you just can’t see it."
+     ],
+     [
+      "“Tiền mặt, thẻ hoặc điện thoại, cách nào cũng là tiền thật ạ”",
+      "“Cash, card or phone – they’re all real money”",
+      1,
+      "Đúng rồi. Dù trả cách nào, mình cũng cần nghĩ kỹ trước khi mua.",
+      "Exactly. However we pay, we still think before we buy."
+     ],
+     [
+      "“Dùng thẻ thì không phải trả ạ”",
+      "“With a card you don’t pay”",
+      0,
+      "Dùng thẻ vẫn là trả tiền. Tiền bị trừ trong tài khoản.",
+      "A card is still paying. The money leaves the account."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cùng ba mẹ xem một hoá đơn",
+    "Look at a receipt with Mum or Dad"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem một hoá đơn mua hàng (trả bằng tiền mặt hay thẻ đều được) và nói tiền đã trả cho những món gì.",
+    "Look at a shopping receipt with Mum or Dad (cash or card) and say what the money paid for."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc từng dòng, con chỉ vào món đồ tương ứng.",
+     "Mum or Dad reads each line and you point to the matching item."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc tên ba món trên hoá đơn.",
+     "Mum or Dad reminds you once and you read three items on the receipt."
+    ],
+    [
+     "Con tự kể các món đã mua và nói trả bằng tiền mặt hay thẻ cũng là tiền thật.",
+     "You list the items and explain that cash or card are both real money."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi bàn cờ cả nhà chơi tối nay",
+    "You choose the board game for family time tonight"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Gọi món lịch sự",
+   "Ordering politely"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi ăn phở với ba. Cô phục vụ hỏi: “Cháu ăn gì?” Bin ngại, chỉ nhìn ba.",
+   "Bin is out for noodle soup with Dad. The waitress asks, “What would you like?” Bin feels shy and looks at Dad."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nhìn cô và nói: “Cháu ăn một bát phở gà nhỏ ạ. Cháu cảm ơn cô.”",
+    "Look at her and say, “A small chicken noodle soup, please. Thank you.”",
+    1,
+    "Nói rõ món mình muốn, thêm “ạ” và cảm ơn thì cô hiểu ngay và rất vui.",
+    "Saying clearly what you want, politely, with a thank you, makes it easy and kind."
+   ],
+   [
+    "Chỉ tay vào bàn bên cạnh",
+    "Point at the next table",
+    0,
+    "Chỉ tay dễ nhầm món. Con nói thành lời nhé, ba ở ngay đây.",
+    "Pointing can lead to mix-ups. Use words, Dad’s right here."
+   ],
+   [
+    "Nói “Phở!” rồi quay đi",
+    "Say “Noodles!” and look away",
+    0,
+    "Nói cụt quá nghe chưa lễ phép. Con thêm “ạ” và “cảm ơn” nhé.",
+    "That’s a bit short. Add please and thank you."
+   ]
+  ],
+  "qq": [
+   "Gọi món lịch sự cần…",
+   "Ordering politely needs…"
+  ],
+  "qo": [
+   [
+    "Nói rõ món, thêm “ạ” và cảm ơn",
+    "Saying the dish clearly, please and thank you"
+   ],
+   [
+    "Chỉ tay",
+    "Pointing"
+   ],
+   [
+    "Nói thật nhanh",
+    "Talking very fast"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ hỏi: “Sáng mai con muốn ăn bánh mì hay xôi?”",
+     "Mum asks, “Would you like bread or sticky rice for breakfast tomorrow?”"
+    ],
+    "q": [
+     "Bin nên trả lời thế nào?",
+     "How should Bin answer?"
+    ],
+    "o": [
+     [
+      "“Gì cũng được”, rồi sáng mai chê",
+      "“Whatever”, then complain in the morning",
+      0,
+      "Nếu con có ý thích thì nói luôn từ hôm nay nhé.",
+      "If you have a preference, say it now."
+     ],
+     [
+      "“Con muốn ăn xôi ạ. Con cảm ơn mẹ”",
+      "“Sticky rice, please. Thank you, Mum”",
+      1,
+      "Nói rõ điều mình muốn giúp mẹ chuẩn bị đúng, lời cảm ơn làm mẹ vui.",
+      "Saying clearly what you want helps Mum, and thank you makes her smile."
+     ],
+     [
+      "Không trả lời, mải chơi",
+      "Ignore her and keep playing",
+      0,
+      "Mẹ đang chờ con trả lời. Dừng chơi một chút để nói nhé.",
+      "Mum is waiting. Pause your game to answer."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ở nhà ăn của trường, cô hỏi Bin muốn lấy sữa hay nước cam.",
+     "In the school canteen, the dinner lady asks if Bin wants milk or orange juice."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Với tay tự lấy",
+      "Reach over and grab one",
+      0,
+      "Chờ cô đưa và nói lời cảm ơn nhé.",
+      "Wait for her to hand it over and say thank you."
+     ],
+     [
+      "Lắc đầu im lặng",
+      "Shake his head and say nothing",
+      0,
+      "Cô không biết con muốn gì. Con nói thành lời nhé.",
+      "She won’t know what you want. Use your words."
+     ],
+     [
+      "“Em lấy sữa ạ. Em cảm ơn cô”",
+      "“Milk, please. Thank you”",
+      1,
+      "Trả lời rõ ràng, lễ phép giúp cô phục vụ cả lớp nhanh hơn.",
+      "A clear, polite answer helps her serve everyone faster."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự gọi món của mình",
+    "Order my own food"
+   ],
+   "s": [
+    "Khi ăn ngoài cùng ba mẹ (hoặc đóng vai nhà hàng ở nhà), con tự gọi món của mình: nói rõ món, thêm “ạ” và cảm ơn.",
+    "When eating out with Mum or Dad (or playing restaurants at home), order your own food: name the dish, say please and thank you."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu, con gọi món theo.",
+     "Mum or Dad says it first and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự gọi món.",
+     "Mum or Dad reminds you once, then you order by yourself."
+    ],
+    [
+     "Con tự gọi món, tự cảm ơn khi được mang đồ ăn ra.",
+     "You order and say thank you when the food arrives, all by yourself."
+    ]
+   ],
+   "rw": [
+    "Được chọn món cho bữa ăn chung cuối tuần",
+    "You choose the dish for the weekend family meal"
+   ]
+  }
+ }
+]

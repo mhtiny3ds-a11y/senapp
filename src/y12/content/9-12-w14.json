@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Cả nhà dọn dẹp như một đội",
+   "Cleaning up as a family team"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cuối buổi liên hoan lớp, giấy gói và cốc giấy vương khắp nơi. Vài bạn đã xách cặp định về.",
+   "At the end of the class party, wrappers and paper cups are everywhere. Some pupils are already picking up their bags to leave."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Về luôn vì cô sẽ gọi người dọn",
+    "Leave – someone else will clean",
+    0,
+    "Cả lớp cùng vui thì cả lớp cùng dọn. Làm chung chỉ mất vài phút.",
+    "The whole class had fun, so the whole class tidies. Together it takes minutes."
+   ],
+   [
+    "Tự nhặt hết một mình",
+    "Pick it all up yourself",
+    0,
+    "Con rất tốt bụng, nhưng rủ cả lớp cùng làm sẽ nhanh và công bằng hơn.",
+    "That’s kind, but getting everyone involved is faster and fairer."
+   ],
+   [
+    "Rủ các bạn chia nhau: tổ 1 nhặt giấy, tổ 2 xếp bàn, tổ 3 lau bảng",
+    "Get groups to split it: group 1 picks up rubbish, group 2 straightens desks, group 3 cleans the board",
+    1,
+    "Chia việc theo tổ giúp lớp dọn nhanh và không ai phải làm một mình.",
+    "Splitting jobs by group is quick and nobody is left doing it alone."
+   ]
+  ],
+  "qq": [
+   "Một đội dọn dẹp tốt thường làm thế nào?",
+   "How does a good clean-up team work?"
+  ],
+  "qo": [
+   [
+    "Người nhanh nhất làm hết",
+    "The fastest person does it all"
+   ],
+   [
+    "Mỗi người một khu, xong thì giúp người khác",
+    "Everyone takes an area and helps others when done"
+   ],
+   [
+    "Ai bừa thì người đó dọn",
+    "Whoever made the mess cleans it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng Chủ nhật, nhà cửa bừa bộn sau một tuần bận rộn. Mẹ lau bếp một mình, ba gấp quần áo, còn An và chị Vy vẫn ngồi đọc truyện.",
+     "On Sunday morning the house is a mess after a busy week. Mum is wiping the kitchen alone, Dad is folding laundry, and An and sister Vy are still reading."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc xong truyện rồi tính",
+      "Finish the book first",
+      0,
+      "Ba mẹ đang làm một mình. Vào cuộc sớm thì cả nhà còn thời gian nghỉ cùng nhau.",
+      "Mum and Dad are doing it alone. Joining early leaves time to relax together."
+     ],
+     [
+      "Đề nghị “Mỗi người nhận một khu nhé, con nhận phòng khách, ai xong trước thì sang giúp người khác”",
+      "Suggest “Let’s each take an area – I’ll do the living room, and whoever finishes first helps someone else”",
+      1,
+      "Chia khu rõ ràng giúp không ai làm quá nhiều, và giúp nhau khi xong làm cả nhà xong nhanh hơn.",
+      "Clear areas mean nobody does too much, and helping when you finish gets everyone done sooner."
+     ],
+     [
+      "Chỉ dọn góc học tập của mình rồi thôi",
+      "Tidy only your own desk and stop",
+      0,
+      "Dọn đồ của mình là tốt, nhưng nhà là của chung. Một đội thì giúp nhau đến khi xong.",
+      "Tidying your own things is good, but the home is shared. A team helps until it’s all done."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi dã ngoại ở bãi cỏ ven sông. Ăn xong, rác và đồ đạc bày khắp tấm bạt, ai cũng muốn chạy đi chơi.",
+     "The family has a picnic on the grass by the river. After eating, rubbish and things are all over the rug and everyone wants to run off and play."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "“Mình chia nhé: con gom rác, chị gấp bạt, ba mẹ xếp đồ ăn, xong mình cùng đi chơi”",
+      "“Let’s split it: I’ll collect rubbish, Vy folds the rug, you pack the food, then we all go and play”",
+      1,
+      "Mỗi người một việc nhỏ thì 5 phút là xong, và cả nhà được chơi cùng nhau.",
+      "One small job each and it’s done in five minutes – then everyone plays together."
+     ],
+     [
+      "Để ba mẹ dọn, mình đi chơi trước",
+      "Let Mum and Dad clean while you play",
+      0,
+      "Ai cũng muốn đi chơi, kể cả ba mẹ. Cùng dọn nhanh thì cả nhà cùng chơi.",
+      "Everyone wants to play, parents too. Clean up together and you all play sooner."
+     ],
+     [
+      "Bỏ rác lại vì sẽ có người quét",
+      "Leave the rubbish – someone will sweep it",
+      0,
+      "Giữ sạch nơi công cộng là việc của mọi người. Mang rác đến thùng là phép lịch sự.",
+      "Keeping public places clean is everyone’s job. Binning rubbish is basic courtesy."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mười lăm phút dọn nhà kiểu đồng đội",
+    "A 15-minute team tidy"
+   ],
+   "s": [
+    "Cuối tuần, con nhận một khu trong nhà để dọn trong 15 phút. Xong khu của mình, con sang giúp thêm một người khác. Ba mẹ xác nhận.",
+    "At the weekend, take one area of the home to tidy in 15 minutes. When yours is done, go and help someone else. Your parent confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn khu cho con và cùng con dọn phần khó.",
+     "Your parent picks your area and helps with the tricky bits."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn khu, tự dọn và tự sang giúp.",
+     "With one reminder, you choose an area, tidy it and go and help."
+    ],
+    [
+     "Con tự đề nghị cả nhà chia khu, dọn xong khu mình rồi hỏi “Con giúp ai được ạ?”.",
+     "You suggest the family splits areas, finish yours, then ask “Who can I help?”"
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con thích cho bữa tối",
+    "The family cooks your favourite dinner"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự giặt đồ nhỏ của mình",
+   "Washing my own small items"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "Đôi tất thể dục của An bẩn từ hôm qua, mai lại có giờ thể dục. Máy giặt cả nhà chỉ chạy vào cuối tuần.",
+   "An’s PE socks have been dirty since yesterday, and there’s PE again tomorrow. The family’s washing machine only runs at the weekend."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tự giặt tay bằng xà phòng trong chậu, xả sạch, vắt khô và phơi lên",
+    "Hand-wash them with soap in a bowl, rinse, wring and hang them up",
+    1,
+    "Tự giặt đồ nhỏ là bước lớn của tự lập. Giặt buổi tối thì sáng mai tất đã khô.",
+    "Washing small things yourself is a big step towards independence. Wash tonight and they’ll be dry by morning."
+   ],
+   [
+    "Đi tất bẩn thêm một ngày",
+    "Wear the dirty socks one more day",
+    0,
+    "Tất bẩn dễ có mùi và không tốt cho chân. Giặt tay một đôi tất chỉ mất vài phút.",
+    "Dirty socks smell and aren’t good for your feet. Hand-washing a pair takes minutes."
+   ],
+   [
+    "Nhờ mẹ giặt gấp cho mình",
+    "Ask Mum to wash them urgently",
+    0,
+    "Mẹ cũng nhiều việc. Đôi tất nhỏ là việc con hoàn toàn tự làm được.",
+    "Mum is busy too. A pair of socks is something you can manage yourself."
+   ]
+  ],
+  "qq": [
+   "Thứ tự giặt tay đúng là gì?",
+   "What’s the right order for hand-washing?"
+  ],
+  "qo": [
+   [
+    "Ngâm nước rồi phơi luôn",
+    "Soak, then hang straight away"
+   ],
+   [
+    "Phơi trước rồi giặt sau",
+    "Hang first, wash later"
+   ],
+   [
+    "Xà phòng, vò, xả sạch, vắt, phơi",
+    "Soap, scrub, rinse, wring, hang"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trong chuyến ngoại khoá hai ngày của lớp, khăn mặt của An bị dính bùn sau buổi chơi ngoài trời. Cô giáo nhắc các bạn tự chăm đồ của mình.",
+     "On the class’s two-day trip, An’s face cloth gets muddy after outdoor games. The teacher reminds everyone to look after their own things."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhét khăn bẩn vào túi chung với quần áo sạch",
+      "Stuff it into your bag with the clean clothes",
+      0,
+      "Khăn bẩn làm bẩn cả đồ sạch. Giặt nhanh hoặc để túi riêng sẽ tốt hơn.",
+      "It’ll dirty the clean clothes. Wash it or bag it separately."
+     ],
+     [
+      "Mượn khăn của bạn dùng tạm",
+      "Borrow a friend’s cloth",
+      0,
+      "Khăn mặt là đồ dùng riêng, không nên dùng chung. Tự giặt khăn của mình nhé.",
+      "Face cloths are personal and shouldn’t be shared. Wash your own."
+     ],
+     [
+      "Vò khăn với xà phòng ở bồn rửa, xả sạch rồi phơi chỗ cô chỉ",
+      "Scrub it with soap at the sink, rinse it and hang it where the teacher says",
+      1,
+      "Biết tự giặt đồ nhỏ giúp con tự lo được khi đi xa mà không phải nhờ ai.",
+      "Knowing how to wash small things means you can manage when away from home."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà bà ngoại cuối tuần, An làm đổ nước cam lên chiếc khăn tay bà tặng. Bà đang tưới rau ngoài vườn.",
+     "At Grandma’s for the weekend, An spills orange juice on a handkerchief Grandma gave as a present. Grandma is watering vegetables in the garden."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giấu khăn đi để bà không thấy",
+      "Hide it so Grandma won’t see",
+      0,
+      "Giấu đi thì vết bẩn để lâu khó giặt hơn. Giặt ngay là cách giữ khăn đẹp.",
+      "Hidden stains set and get harder to clean. Washing straight away keeps it nice."
+     ],
+     [
+      "Hỏi bà xà phòng ở đâu, rồi tự giặt ngay vết bẩn và phơi lên",
+      "Ask Grandma where the soap is, then wash the stain straight away and hang it up",
+      1,
+      "Giặt ngay khi vết bẩn còn mới thì dễ sạch. Bà sẽ vui vì cháu biết tự lo.",
+      "Fresh stains wash out easily. Grandma will be pleased you took care of it."
+     ],
+     [
+      "Để đó, về nhà nhờ mẹ giặt",
+      "Leave it for Mum to wash at home",
+      0,
+      "Để lâu vết cam khó sạch hơn. Đây là việc nhỏ con tự làm được.",
+      "The stain gets harder with time. This small job is one you can do."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự giặt tay một đôi tất",
+    "Hand-wash a pair of socks"
+   ],
+   "s": [
+    "Con tự giặt tay một đôi tất hoặc một chiếc khăn nhỏ theo đủ các bước: xà phòng, vò, xả sạch, vắt, phơi gọn. Ba mẹ kiểm tra khi phơi xong.",
+    "Hand-wash a pair of socks or a small towel through all the steps: soap, scrub, rinse, wring, hang neatly. Your parent checks when it’s hung up."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu một chiếc, con làm chiếc còn lại.",
+     "Your parent shows you with one sock, you do the other."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự giặt và phơi.",
+     "With one reminder, you wash and hang it yourself."
+    ],
+    [
+     "Con tự nhớ giặt, phơi gọn và hôm sau tự cất đồ khô vào tủ.",
+     "You remember to wash and hang it, and put it away dry the next day."
+    ]
+   ],
+   "rw": [
+    "Được chọn bản nhạc cả nhà nghe khi làm việc nhà",
+    "You choose the music the family listens to while doing chores"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Mất điện buổi tối thì làm gì?",
+   "A power cut in the evening"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi siêu thị cùng ba buổi tối, cả khu bỗng mất điện, chỉ còn vài đèn khẩn cấp. Mọi người bắt đầu đi lại vội vàng.",
+   "Shopping with Dad one evening, the whole building suddenly loses power except a few emergency lights. People start moving around quickly."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đi tìm lối ra một mình cho nhanh",
+    "Look for the exit on your own",
+    0,
+    "Đi một mình lúc đông và tối dễ lạc. Luôn ở cạnh ba nhé.",
+    "Going alone in a dark crowd means you could get lost. Stay with Dad."
+   ],
+   [
+    "Nắm tay ba thật chặt, đứng gần ba và làm theo hướng dẫn của nhân viên",
+    "Hold Dad’s hand tightly, stay close and follow staff instructions",
+    1,
+    "Ở cạnh người lớn đi cùng và nghe theo nhân viên là cách an toàn nhất nơi đông người.",
+    "Staying with your grown-up and following staff is safest in a crowd."
+   ],
+   [
+    "Ngồi thụp xuống khóc",
+    "Crouch down and cry",
+    0,
+    "Sợ là bình thường. Nắm tay ba và hít thở chậm sẽ giúp con bình tĩnh hơn.",
+    "Being scared is normal. Holding Dad’s hand and breathing slowly will calm you."
+   ]
+  ],
+  "qq": [
+   "Khi mất điện, việc nên làm đầu tiên là gì?",
+   "When the power goes out, what should you do first?"
+  ],
+  "qo": [
+   [
+    "Bình tĩnh, ở yên và gọi người lớn",
+    "Stay calm, stay put and call an adult"
+   ],
+   [
+    "Chạy tìm công tắc",
+    "Run to find the switch"
+   ],
+   [
+    "Thắp nến một mình",
+    "Light a candle by yourself"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay An đang làm bài thì cả nhà mất điện, tối om. Em Bảo bắt đầu khóc, mẹ gọi “An ơi, con ở yên đó nhé!”.",
+     "An is doing homework this evening when the power goes out and everything is pitch dark. Little Bảo starts crying, and Mum calls, “An, stay where you are!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ở yên, đáp “Dạ con đây”, nói với em “Bảo đừng sợ, mẹ đang lấy đèn” và chờ mẹ mang đèn pin đến",
+      "Stay put, answer “I’m here!”, tell Bảo “I’m here, Mum’s getting the torch” and wait for the torch",
+      1,
+      "Bình tĩnh, giữ chỗ và trấn an em là việc tốt nhất. Đèn pin để chỗ đã định sẽ được tìm thấy nhanh.",
+      "Staying calm, staying put and reassuring Bảo is best. A torch kept in a set place is found fast."
+     ],
+     [
+      "Chạy đi tìm mẹ trong bóng tối",
+      "Run to find Mum in the dark",
+      0,
+      "Chạy trong tối dễ va vấp, ngã. Ở yên và đáp lời mẹ sẽ an toàn hơn.",
+      "Running in the dark leads to bumps and falls. Staying put and answering Mum is safer."
+     ],
+     [
+      "Mò ra ổ điện xem có hỏng không",
+      "Feel your way to the socket to check it",
+      0,
+      "Ổ điện và cầu dao là việc của người lớn. Con tránh xa và chờ ba mẹ xử lý.",
+      "Sockets and fuse boxes are for adults. Keep away and let your parents handle it."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Đang học buổi chiều thì lớp mất điện, phòng tối hẳn vì trời mưa to. Vài bạn hò hét, chạy ra cửa.",
+     "During an afternoon lesson the classroom loses power and goes dark because of a heavy storm. Some pupils shout and run to the door."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chạy theo các bạn ra ngoài",
+      "Run out with them",
+      0,
+      "Chen nhau chạy ra cửa dễ xô ngã. Ngồi yên chờ cô hướng dẫn sẽ an toàn hơn.",
+      "Rushing to the door causes pushing and falls. Wait for the teacher’s instructions."
+     ],
+     [
+      "Hò hét cho vui",
+      "Shout and make it fun",
+      0,
+      "Ồn ào làm các bạn sợ hơn và khó nghe cô nói. Giữ trật tự giúp cả lớp.",
+      "Noise frightens others and drowns out the teacher. Keeping calm helps everyone."
+     ],
+     [
+      "Ngồi yên tại chỗ, nghe cô giáo hướng dẫn và nhắc bạn bên cạnh cùng ngồi",
+      "Stay in your seat, listen to the teacher and encourage the person next to you to do the same",
+      1,
+      "Trong lớp, cô là người lớn chịu trách nhiệm. Ngồi yên và lắng nghe giúp cả lớp an toàn.",
+      "In class, the teacher is in charge. Staying seated and listening keeps everyone safe."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chỗ cố định cho đèn pin",
+    "A fixed spot for the torch"
+   ],
+   "s": [
+    "Con cùng ba mẹ chọn một chỗ cố định để đèn pin, kiểm tra đèn còn sáng, rồi tắt đèn phòng và tập tìm thấy đèn pin trong 1 phút khi có ba mẹ bên cạnh.",
+    "Choose a fixed place for the torch with your parent, check it works, then switch off the room light and practise finding the torch within a minute with your parent beside you."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cầm tay dẫn con đến chỗ đèn pin trong lần tập đầu.",
+     "Your parent guides you to the torch on the first try."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đi đến lấy đèn pin.",
+     "With one reminder, you go and get the torch yourself."
+    ],
+    [
+     "Con tự tìm được trong 1 phút và nói lại 3 việc cần làm khi mất điện.",
+     "You find it within a minute and say the three things to do in a power cut."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi đoán bóng tay bằng đèn pin",
+    "A family shadow-puppet game by torchlight"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Vì sao nhà mình có quy định này?",
+   "Why does my family have this rule?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở bể bơi khu phố có biển “Trẻ em dưới 12 tuổi phải có người lớn đi kèm”. An bơi khá giỏi, thấy quy định này không cần với mình.",
+   "At the local pool a sign says “Children under 12 must be with an adult.” An swims quite well and thinks the rule isn’t needed."
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "How should An think about it?"
+  ],
+  "co": [
+   [
+    "Lẻn vào bơi một mình vì mình bơi giỏi",
+    "Sneak in alone because you’re a good swimmer",
+    0,
+    "Quy định an toàn áp dụng cho mọi người, kể cả người bơi giỏi. Luôn đi bơi cùng người lớn nhé.",
+    "Safety rules apply to everyone, even good swimmers. Always swim with an adult."
+   ],
+   [
+    "Nghĩ quy định chỉ dành cho trẻ bơi kém",
+    "Decide the rule is only for weak swimmers",
+    0,
+    "Chưa hỏi lý do mà đã kết luận là vội. Bất ngờ có thể xảy ra với bất kỳ ai.",
+    "Deciding without asking is hasty. Surprises can happen to anyone."
+   ],
+   [
+    "Hỏi ba vì sao có quy định này, và nghĩ đến những lúc bất ngờ như chuột rút",
+    "Ask Dad why the rule exists and think about surprises like cramp",
+    1,
+    "Tìm hiểu lý do cho thấy quy định này giữ an toàn cả khi mình giỏi. Đó là suy nghĩ chín chắn.",
+    "Finding out the reason shows the rule keeps even good swimmers safe. That’s mature thinking."
+   ]
+  ],
+  "qq": [
+   "Trước khi đồng ý hay phản đối một quy định, nên làm gì?",
+   "Before agreeing or disagreeing with a rule, what should you do?"
+  ],
+  "qo": [
+   [
+    "Làm theo ý mình",
+    "Do what you want"
+   ],
+   [
+    "Tìm hiểu lý do đằng sau nó",
+    "Find out the reason behind it"
+   ],
+   [
+    "Hỏi bạn bè có thích không",
+    "Ask friends if they like it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà An có quy định: không mang điện thoại vào bàn ăn. An thấy khó chịu vì bạn bè nhắn tin trong nhóm chat lớp đúng giờ cơm, An nghĩ quy định này thật vô lý.",
+     "An’s family has a rule: no phones at the table. An finds it annoying because the class chat is busy at dinner time and thinks the rule makes no sense."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Lén mang điện thoại vào xem dưới gầm bàn",
+      "Sneak the phone in and look under the table",
+      0,
+      "Làm lén làm mất lòng tin của ba mẹ. Nếu thấy chưa hợp lý thì hỏi thẳng nhé.",
+      "Sneaking breaks your parents’ trust. If a rule seems odd, ask about it."
+     ],
+     [
+      "Hỏi ba mẹ “Vì sao nhà mình có quy định này ạ?”, nghe lý do rồi mới nói suy nghĩ của mình",
+      "Ask “Why do we have this rule?”, listen to the reason, then share your view",
+      1,
+      "Hiểu lý do trước rồi mới đồng ý hay góp ý là cách nghĩ công bằng. Có khi con thấy quy định hợp lý hơn.",
+      "Understanding the reason before agreeing or disagreeing is fair thinking. You may find it makes more sense."
+     ],
+     [
+      "Than phiền là nhà bạn khác không có quy định đó",
+      "Complain that other families don’t have it",
+      0,
+      "Mỗi nhà có lý do riêng. Hỏi lý do của nhà mình sẽ có ích hơn so sánh.",
+      "Every family has reasons. Asking about yours helps more than comparing."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An có quy định: ra chơi không được chạy ở hành lang. An thấy chạy cho nhanh thì có sao đâu.",
+     "An’s school has a rule: no running in the corridors at break. An thinks running is quicker, so what’s the harm?"
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An think about it?"
+    ],
+    "o": [
+     [
+      "Tự hỏi: hành lang hẹp, đông người, chạy thì chuyện gì có thể xảy ra?",
+      "Ask yourself: the corridor is narrow and busy – what could happen if people run?",
+      1,
+      "Tự đặt câu hỏi giúp con hiểu lý do: tránh va chạm và ngã. Hiểu rồi sẽ dễ làm theo hơn.",
+      "Asking yourself shows the reason: avoiding crashes and falls. Understanding makes it easier to follow."
+     ],
+     [
+      "Chạy khi không có thầy cô nhìn thấy",
+      "Run when no teacher is looking",
+      0,
+      "Quy định không chỉ để tránh bị nhắc. Thử tìm hiểu vì sao có nó nhé.",
+      "Rules aren’t just about not getting caught. Try to find out why it exists."
+     ],
+     [
+      "Bảo các bạn cùng phản đối quy định",
+      "Get friends to protest the rule",
+      0,
+      "Góp ý là quyền của con, nhưng hãy hiểu lý do trước khi phản đối.",
+      "You can give feedback, but understand the reason first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Viết lại một nội quy bằng lời của con",
+    "One family rule in my own words"
+   ],
+   "s": [
+    "Con chọn một nội quy trong nhà, hỏi ba mẹ lý do, rồi viết lại nội quy và lý do bằng lời của con. Nếu có góp ý, con nói lễ phép với ba mẹ.",
+    "Choose a family rule, ask your parent the reason, then write the rule and the reason in your own words. If you have a suggestion, share it politely."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn nội quy và giải thích, con viết lại cùng ba mẹ.",
+     "Your parent picks the rule and explains; you write it up together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn nội quy, tự hỏi và tự viết.",
+     "With one reminder, you choose, ask and write it yourself."
+    ],
+    [
+     "Con tự làm, thêm một câu “Con đồng ý vì…” hoặc “Con góp ý là…” và trao đổi với ba mẹ.",
+     "You do it alone, add “I agree because…” or “My suggestion is…”, and discuss it with your parent."
+    ]
+   ],
+   "rw": [
+    "Con được làm “người đặt tên” cho bữa tối hôm nay",
+    "You get to name tonight’s dinner"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Khi người lạ gọi điện đến nhà",
+   "When a stranger calls home"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ ra cổng nói chuyện với bác hàng xóm, An ở trong nhà. Điện thoại bàn reo, một giọng lạ hỏi “Cháu ở nhà một mình à? Bố mẹ cháu đâu?”.",
+   "Mum and Dad are at the gate chatting to a neighbour while An is inside. The landline rings and an unknown voice asks, “Are you home alone? Where are your parents?”"
+  ],
+  "cq": [
+   "An nên trả lời thế nào?",
+   "How should An answer?"
+  ],
+  "co": [
+   [
+    "“Dạ ba mẹ cháu đang bận, chú cho cháu xin lời nhắn ạ”, ghi lại rồi ra báo ba mẹ ngay",
+    "“My parents are busy right now – can I take a message?”, write it down and tell them straight away",
+    1,
+    "Không nói mình ở một mình, không cho thông tin, chỉ ghi lời nhắn và báo ba mẹ – đó là quy tắc an toàn.",
+    "Don’t say you’re alone, don’t give details – just take a message and tell your parents. That’s the safety rule."
+   ],
+   [
+    "“Dạ cháu ở nhà một mình, ba mẹ ra ngoài rồi ạ”",
+    "“Yes, I’m on my own – they’ve gone out”",
+    0,
+    "Không bao giờ nói với người lạ là con ở một mình. Chỉ cần nói ba mẹ đang bận.",
+    "Never tell a stranger you’re alone. Just say your parents are busy."
+   ],
+   [
+    "Đọc địa chỉ nhà khi người đó hỏi",
+    "Give the home address when asked",
+    0,
+    "Địa chỉ và thông tin gia đình chỉ ba mẹ mới quyết định cho ai biết. Con ghi lời nhắn là đủ.",
+    "Only your parents decide who gets your address. Taking a message is enough."
+   ]
+  ],
+  "qq": [
+   "Khi người lạ gọi điện đến nhà, con nên làm gì?",
+   "When a stranger calls home, what should you do?"
+  ],
+  "qo": [
+   [
+    "Kể hết cho người đó nghe",
+    "Tell them everything"
+   ],
+   [
+    "Hẹn gặp người đó",
+    "Arrange to meet them"
+   ],
+   [
+    "Không cho thông tin, ghi lời nhắn và báo ba mẹ",
+    "Give no details, take a message and tell your parents"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, Linh kể có người lạ gọi vào máy của Linh, hỏi tên trường và lớp của Linh. Linh đã định nói.",
+     "At break, Linh says a stranger rang her phone asking for her school and class. She nearly told them."
+    ],
+    "q": [
+     "An nên khuyên Linh thế nào?",
+     "What should An advise Linh?"
+    ],
+    "o": [
+     [
+      "“Cứ nói, có sao đâu”",
+      "“Just tell them, it’s fine”",
+      0,
+      "Tên trường, lớp là thông tin riêng. Người lạ không cần biết điều đó.",
+      "School and class are personal details. A stranger doesn’t need them."
+     ],
+     [
+      "“Lần sau cậu hỏi người đó là ai rồi nói chuyện tiếp”",
+      "“Next time ask who they are and keep chatting”",
+      0,
+      "Người lạ có thể nói bất kỳ tên nào. Tốt nhất là không trò chuyện và báo người lớn.",
+      "Strangers can claim to be anyone. Best not to chat and to tell an adult."
+     ],
+     [
+      "“Lần sau cậu đừng nói gì, cúp máy và kể với bố mẹ hoặc cô giáo nhé”",
+      "“Next time don’t say anything, hang up and tell your parents or teacher”",
+      1,
+      "Không cho thông tin và báo người lớn tin cậy là cách giữ an toàn cho bạn.",
+      "Giving nothing away and telling a trusted adult keeps her safe."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà bà, chuông điện thoại reo khi bà đang tắm. Người gọi tự nhận là “nhân viên ngân hàng”, hỏi số tài khoản của bà.",
+     "At Grandma’s, the phone rings while she’s in the shower. The caller says they’re from the bank and asks for Grandma’s account number."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tìm sổ của bà để đọc số cho nhanh",
+      "Find Grandma’s papers and read the number out",
+      0,
+      "Số tài khoản và mật khẩu không bao giờ được đọc qua điện thoại cho người lạ.",
+      "Account numbers and passwords are never given to strangers over the phone."
+     ],
+     [
+      "Nói “Bà cháu đang bận, cháu sẽ nhắn lại”, cúp máy và kể với bà",
+      "Say “Grandma’s busy, I’ll pass a message on”, hang up and tell her",
+      1,
+      "Không cho thông tin, ghi lại và báo người lớn. Bà và ba mẹ sẽ kiểm tra cuộc gọi.",
+      "Give nothing, note it, tell an adult. Grandma and your parents will check the call."
+     ],
+     [
+      "Hỏi lại người đó nhiều câu xem có thật không",
+      "Quiz them to see if they’re real",
+      0,
+      "Không cần tự kiểm tra. Cúp máy và báo người lớn là đủ an toàn.",
+      "You don’t need to check yourself. Hanging up and telling an adult is safest."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đóng vai hai cuộc gọi lạ",
+    "Role-play two strange calls"
+   ],
+   "s": [
+    "Con đóng vai với ba mẹ 2 cuộc gọi lạ: một người hỏi “Cháu ở nhà một mình à?”, một người hỏi địa chỉ. Con tập trả lời an toàn, ghi lời nhắn và báo ba mẹ.",
+    "Role-play two strange calls with your parent: one asks “Are you home alone?”, the other asks for your address. Practise answering safely, taking a message and telling your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu trả lời, con nói theo.",
+     "Your parent suggests the replies and you repeat them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự trả lời cả 2 cuộc gọi.",
+     "With one reminder, you answer both calls yourself."
+    ],
+    [
+     "Con tự trả lời, ghi lời nhắn ra giấy và nhắc lại 3 điều không bao giờ nói với người lạ.",
+     "You answer, write the message down and repeat three things never to tell a stranger."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một chuyện hồi nhỏ về điện thoại bàn ngày xưa",
+    "Your parent tells a childhood story about old landline phones"
+   ]
+  }
+ }
+]

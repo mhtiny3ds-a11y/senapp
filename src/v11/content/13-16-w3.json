@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Tỉnh táo trước quảng cáo “giảm giá sốc”",
+   "Seeing through “mega sale” ads"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi siêu thị cùng ba, Khoa thấy biển “Giảm 50%! Chỉ hôm nay!” trên một chiếc tai nghe. Giá cũ ghi 800.000đ, giá mới 400.000đ, và Khoa muốn mua ngay bằng tiền tiết kiệm.",
+   "Shopping with Dad, Khoa spots a sign on some headphones: “50% off! Today only!” Old price 800,000₫, new price 400,000₫ — and Khoa wants to buy them right now with savings."
+  ],
+  "cq": [
+   "Khoa nên nghĩ gì trước?",
+   "What should Khoa think about first?"
+  ],
+  "co": [
+   [
+    "Giảm một nửa thì quá hời, mua ngay kẻo hết",
+    "Half price is a steal — buy before it’s gone",
+    0,
+    "“Chỉ hôm nay” tạo cảm giác gấp để mình không kịp nghĩ. Giá cũ chưa chắc là giá thật.",
+    "“Today only” rushes you so you don’t think. The old price may never have been real."
+   ],
+   [
+    "Hỏi nhân viên bán hàng xem có nên mua không",
+    "Ask the sales assistant if it’s worth it",
+    0,
+    "Nhân viên có thể nhiệt tình, nhưng việc của họ là bán hàng. Câu trả lời nên đến từ thông tin mình tự kiểm tra.",
+    "The assistant may be helpful, but their job is to sell. Your answer should come from checks you make."
+   ],
+   [
+    "Tự hỏi: mình có cần tai nghe không, giá thường ở chỗ khác là bao nhiêu, và hỏi ý ba",
+    "Ask yourself: do I need headphones, what do they usually cost elsewhere — and ask Dad",
+    1,
+    "Câu hỏi đúng tách được nhu cầu thật khỏi cảm giác vội. So giá thì biết món hời thật hay không.",
+    "The right questions separate a real need from the rush. Comparing prices shows whether it’s truly a deal."
+   ]
+  ],
+  "qq": [
+   "Câu “Chỉ hôm nay!” trong quảng cáo thường nhằm…",
+   "“Today only!” in an ad usually aims to…"
+  ],
+  "qo": [
+   [
+    "Giúp mình tiết kiệm",
+    "Help you save"
+   ],
+   [
+    "Báo giá chính xác",
+    "Give an exact price"
+   ],
+   [
+    "Làm mình quyết định vội",
+    "Rush your decision"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Vy xem một đoạn quảng cáo trên mạng: “Uống sữa này, chỉ hai tuần là cao vượt trội!” Vy xin mẹ mua ngay.",
+     "Little Vy sees an online ad: “Drink this milk and grow taller in just two weeks!” Vy begs Mum to buy it."
+    ],
+    "q": [
+     "Khoa nên nói gì với em?",
+     "What should Khoa tell her?"
+    ],
+    "o": [
+     [
+      "“Quảng cáo nào cũng nói dối, đừng tin.”",
+      "“All ads lie — ignore them.”",
+      0,
+      "Không phải quảng cáo nào cũng sai. Dạy em cách đặt câu hỏi sẽ có ích lâu hơn.",
+      "Not every ad is false. Teaching her to ask questions lasts longer."
+     ],
+     [
+      "“Cao lên trong hai tuần là lời hứa rất lớn. Mình hỏi mẹ và tìm xem ai đã kiểm chứng điều đó nhé.”",
+      "“Taller in two weeks is a huge promise. Let’s ask Mum and see who’s actually checked that.”",
+      1,
+      "Lời hứa càng to càng cần bằng chứng rõ. Hướng em đến người lớn và nguồn tin cậy là đúng.",
+      "The bigger the promise, the clearer the proof needed. Pointing her to an adult and reliable sources is right."
+     ],
+     [
+      "“Mua thử xem sao.”",
+      "“Let’s just try it.”",
+      0,
+      "Thử thì tốn tiền mà không trả lời được câu hỏi. Kiểm tra lời hứa trước đã.",
+      "Trying costs money and answers nothing. Check the claim first."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Một bạn trong lớp giới thiệu khóa học “Đảm bảo 9 điểm Toán sau 1 tháng, nếu không hoàn tiền”, kèm ảnh nhiều học sinh cười tươi.",
+     "A classmate shares a course: “Guaranteed 9 in maths in one month or your money back,” with photos of smiling students."
+    ],
+    "q": [
+     "Khoa nên nghĩ thế nào?",
+     "How should Khoa think about it?"
+    ],
+    "o": [
+     [
+      "Không ai đảm bảo chắc chắn kết quả học tập được; muốn biết thêm thì hỏi thầy cô hoặc ba mẹ",
+      "Nobody can guarantee a learning result; ask a teacher or parent if you want to know more",
+      1,
+      "Chữ “đảm bảo” đi với điểm số là dấu hiệu cần cảnh giác. Người lớn hiểu mình sẽ giúp chọn đúng hơn.",
+      "A “guarantee” on grades is a warning sign. Adults who know you can help choose better."
+     ],
+     [
+      "Nhiều ảnh học sinh vui thế chắc là thật",
+      "All those happy students — must be real",
+      0,
+      "Ảnh minh họa có thể lấy ở bất cứ đâu. Ảnh đẹp không chứng minh được kết quả.",
+      "Promo photos can come from anywhere. Nice pictures don’t prove results."
+     ],
+     [
+      "Có hoàn tiền thì cứ đăng ký, không mất gì",
+      "Money back means nothing to lose — sign up",
+      0,
+      "Hoàn tiền thường kèm nhiều điều kiện khó. Và thời gian của mình cũng là thứ quý giá.",
+      "Refunds often come with tricky conditions. And your time is valuable too."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Giữ mật khẩu cho riêng mình",
+   "Keeping passwords private"
+  ],
+  "m": [
+   "11 phút",
+   "11 min"
+  ],
+  "base": "B",
+  "story": [
+   "Linh, bạn thân của Khoa, xin mật khẩu tài khoản học trực tuyến của Khoa để “xem giúp bài tập”. Linh nói: “Bạn thân mà, có gì đâu.”",
+   "Linh, Khoa’s best friend, asks for Khoa’s online learning password “to check the homework”. “We’re best friends, what’s the big deal?”"
+  ],
+  "cq": [
+   "Khoa nên trả lời thế nào?",
+   "How should Khoa reply?"
+  ],
+  "co": [
+   [
+    "“Tớ không chia mật khẩu với ai ngoài ba mẹ, nhưng tớ chụp đề bài gửi cậu nhé.”",
+    "“I don’t share passwords with anyone but my parents — but I’ll send you a photo of the task.”",
+    1,
+    "Giữ ranh giới mà vẫn giúp được bạn. Từ chối việc, không từ chối người.",
+    "Holding the line while still helping. Refuse the request, not the friend."
+   ],
+   [
+    "Đưa vì Linh là bạn thân",
+    "Hand it over — Linh’s a best friend",
+    0,
+    "Bạn thân vẫn có thể vô tình làm lộ. Mật khẩu chỉ nên chia với ba mẹ.",
+    "Even a best friend can leak it by accident. Passwords are for you and your parents only."
+   ],
+   [
+    "Đưa rồi tối về đổi mật khẩu",
+    "Give it, then change it tonight",
+    0,
+    "Trong lúc chưa đổi, tài khoản vẫn mở với người khác. Cách an toàn là không đưa ngay từ đầu.",
+    "Until you change it, the account is open. The safe move is not sharing it at all."
+   ]
+  ],
+  "qq": [
+   "Mật khẩu có thể chia sẻ với…",
+   "Your passwords can be shared with…"
+  ],
+  "qo": [
+   [
+    "Ba mẹ hoặc người giám hộ",
+    "Your parents or guardian"
+   ],
+   [
+    "Bạn thân nhất",
+    "Your best friend"
+   ],
+   [
+    "Ai hứa giữ bí mật",
+    "Anyone who promises secrecy"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Khoa nhận được tin nhắn: “Tài khoản của bạn sắp bị khóa. Bấm vào đường dẫn và nhập mật khẩu để giữ tài khoản.” Ba mẹ đang ở phòng bên.",
+     "Khoa gets a message: “Your account will be locked. Click the link and enter your password to keep it.” Mum and Dad are in the next room."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Bấm vào xem thử, chưa nhập gì thì không sao",
+      "Click just to look — no harm if you don’t type anything",
+      0,
+      "Một số đường dẫn lạ vẫn có thể gây hại. Không bấm là an toàn nhất.",
+      "Some strange links can cause harm even so. Not clicking is safest."
+     ],
+     [
+      "Nhập nhanh kẻo bị khóa",
+      "Type it in quickly before it’s locked",
+      0,
+      "Tin nhắn dọa khóa tài khoản là chiêu lừa quen thuộc. Nơi thật sẽ không đòi mật khẩu qua đường dẫn.",
+      "Lock threats are a classic scam. Real services don’t ask for passwords through links."
+     ],
+     [
+      "Không bấm, mang cho ba mẹ xem và xóa tin nhắn theo hướng dẫn của ba mẹ",
+      "Don’t click; show your parents and delete it as they advise",
+      1,
+      "Tin nhắn hối thúc nhập mật khẩu là dấu hiệu lừa đảo. Hỏi người lớn tin cậy là bước đúng.",
+      "A rushed request for your password is a scam sign. Asking a trusted adult is the right step."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện quận cùng chị gái, Khoa dùng máy tính chung để đăng nhập tài khoản học tập và in bài.",
+     "At the district library with an older sister, Khoa uses a shared computer to log in and print an assignment."
+    ],
+    "q": [
+     "In xong, Khoa nên làm gì?",
+     "After printing, what should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cứ để đó, người khác không biết đâu",
+      "Leave it — no one will notice",
+      0,
+      "Người sau chỉ cần mở trình duyệt là thấy. Mất vài giây đăng xuất sẽ an toàn hơn.",
+      "The next person just has to open the browser. A few seconds to log out is safer."
+     ],
+     [
+      "Đăng xuất, không lưu mật khẩu trên trình duyệt và đóng hết cửa sổ",
+      "Log out, don’t save the password in the browser, and close every window",
+      1,
+      "Máy dùng chung thì người sau có thể vào tài khoản của mình. Đăng xuất giống như khóa cửa khi rời đi.",
+      "On a shared computer, the next person could get in. Logging out is locking the door behind you."
+     ],
+     [
+      "Bấm “nhớ mật khẩu” cho lần sau nhanh hơn",
+      "Tick “remember password” to save time next visit",
+      0,
+      "Tiện cho mình nhưng cũng tiện cho người lạ. Chỉ lưu mật khẩu trên máy của gia đình.",
+      "Handy for you, handy for strangers. Only save passwords on the family’s own devices."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Làm chủ giờ dùng điện thoại",
+   "Managing screen time"
+  ],
+  "m": [
+   "11 phút",
+   "11 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khoa định xem điện thoại 15 phút sau bữa tối rồi học bài. Ngẩng lên đã gần 21h, bài Hóa vẫn chưa động tới.",
+   "Khoa meant to spend 15 minutes on the phone after dinner, then study. Looking up, it’s nearly 9pm and chemistry hasn’t been touched."
+  ],
+  "cq": [
+   "Từ mai Khoa nên làm gì?",
+   "What should Khoa do from tomorrow?"
+  ],
+  "co": [
+   [
+    "Tự nhủ sẽ cố gắng tự giác hơn",
+    "Promise yourself to be more disciplined",
+    0,
+    "Quyết tâm suông thường thua những đoạn phim nối nhau. Cần một cách làm cụ thể hơn.",
+    "Willpower alone usually loses to the next video. You need a concrete method."
+   ],
+   [
+    "Xóa hết ứng dụng giải trí",
+    "Delete every fun app",
+    0,
+    "Cắt sạch thường khó giữ lâu. Giới hạn hợp lý bền hơn cấm hẳn.",
+    "Cutting everything rarely lasts. A sensible limit outlasts a total ban."
+   ],
+   [
+    "Học xong mới dùng điện thoại, hẹn giờ 20 phút, và để máy ngoài phòng khi học",
+    "Study first, then a 20-minute timer for the phone, and keep it outside the room while studying",
+    1,
+    "Đổi thứ tự và đặt giới hạn rõ ràng giúp mình làm chủ thời gian. Máy để xa thì bớt bị kéo đi.",
+    "Swapping the order and setting a clear limit puts you in charge. Out of reach means out of mind."
+   ]
+  ],
+  "qq": [
+   "Cách giữ giới hạn giờ màn hình hiệu quả nhất?",
+   "The most effective way to keep a screen-time limit?"
+  ],
+  "qo": [
+   [
+    "Tự nhắc trong đầu",
+    "Reminding yourself mentally"
+   ],
+   [
+    "Hẹn giờ và để máy xa khi làm việc",
+    "A timer and the phone out of reach"
+   ],
+   [
+    "Chỉ dùng khi buồn chán",
+    "Only using it when bored"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi nào Khoa cũng cúi vào điện thoại. Hôm nay Nam rủ đá cầu, Khoa bảo “chờ tí” rồi hết giờ luôn.",
+     "Every break Khoa’s head is in the phone. Today Nam asked Khoa to play shuttlecock; Khoa said “one sec” and the break was over."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Đặt quy tắc riêng: giờ ra chơi để điện thoại trong cặp, và chủ động rủ lại Nam",
+      "Set your own rule: the phone stays in your bag at break — and invite Nam back",
+      1,
+      "Quy tắc đơn giản giúp mình không phải giằng co mỗi lần. Thời gian với bạn bè là thời gian đáng giá.",
+      "A simple rule saves a battle every time. Time with real friends is time well spent."
+     ],
+     [
+      "Rủ Nam xem điện thoại cùng",
+      "Get Nam to join you on the phone",
+      0,
+      "Hai người cùng nhìn màn hình vẫn là bỏ lỡ giờ chơi thật. Thử để máy trong cặp một hôm.",
+      "Two people staring at a screen still miss the break. Try leaving it in your bag for a day."
+     ],
+     [
+      "Mai nói với Nam là hôm qua bận",
+      "Tell Nam tomorrow you were busy",
+      0,
+      "Lý do này không thật và Nam có thể buồn. Thử đặt một quy tắc cho giờ ra chơi.",
+      "It isn’t true and Nam may feel brushed off. Try a rule for breaktime instead."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi dã ngoại ở công viên cuối tuần. Khoa mải lướt điện thoại, em Bảo rủ ba lần đi thả diều mà Khoa không để ý.",
+     "The family has a weekend picnic in the park. Khoa is scrolling; little Bảo has asked three times to fly the kite."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cho em mượn điện thoại chơi",
+      "Let Bảo play on the phone",
+      0,
+      "Như vậy cả hai cùng bỏ lỡ buổi dã ngoại. Chiếc diều đang chờ cả hai đó.",
+      "Then you both miss the picnic. The kite is waiting for you two."
+     ],
+     [
+      "Cất điện thoại, chỉ mở khi cần chụp ảnh hoặc liên lạc, và đi thả diều với em",
+      "Put the phone away, use it only for photos or calls, and fly the kite with Bảo",
+      1,
+      "Dùng điện thoại có mục đích giúp mình có mặt trọn vẹn với gia đình.",
+      "Using the phone with a purpose lets you be fully there with family."
+     ],
+     [
+      "Hứa với em “lát nữa” rồi lướt tiếp",
+      "Promise Bảo “in a bit” and keep scrolling",
+      0,
+      "“Lát nữa” không có giờ hẹn dễ thành không bao giờ. Em sẽ thấy mình không quan trọng.",
+      "“In a bit” with no time often means never. Bảo will feel unimportant."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Ghi chép chi tiêu một tuần",
+   "Tracking a week of spending"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Khoa được ba mẹ cho tiền tiêu vặt mỗi tuần. Hôm nay mới thứ Năm mà ví đã gần hết, Khoa không nhớ tiền đã đi đâu: vài cây bút, nước uống ở căng tin, một quyển truyện…",
+   "Khoa gets weekly pocket money. It’s only Thursday and the wallet’s nearly empty — Khoa can’t remember where it went: some pens, drinks from the canteen, a comic…"
+  ],
+  "cq": [
+   "Khoa nên làm gì để biết tiền đi đâu?",
+   "How can Khoa find out where the money goes?"
+  ],
+  "co": [
+   [
+    "Ghi mọi khoản chi vào sổ nhỏ hoặc điện thoại trong một tuần, cuối tuần cộng theo từng nhóm",
+    "Log every spend in a notebook or on the phone for a week, then total by category at the weekend",
+    1,
+    "Nhìn con số theo nhóm, mình sẽ thấy khoản nhỏ cộng lại lớn thế nào. Hiểu rồi mới điều chỉnh được.",
+    "Grouped totals show how small spends add up. Understand first, then adjust."
+   ],
+   [
+    "Tuần sau xin thêm tiền",
+    "Ask for more next week",
+    0,
+    "Thêm tiền mà không biết tiền đi đâu thì cũng sẽ hết như cũ. Ghi lại trước đã.",
+    "More money with no idea where it goes ends the same way. Track it first."
+   ],
+   [
+    "Tuần sau không tiêu gì cả",
+    "Spend nothing at all next week",
+    0,
+    "Nhịn hết khó giữ và không giúp mình hiểu thói quen. Ghi chép mới chỉ ra chỗ cần đổi.",
+    "Spending nothing is hard to keep and teaches you little. Tracking shows what to change."
+   ]
+  ],
+  "qq": [
+   "Ghi chép chi tiêu giúp mình…",
+   "Tracking spending helps you…"
+  ],
+  "qo": [
+   [
+    "Được cho thêm tiền",
+    "Get more money"
+   ],
+   [
+    "Không bao giờ phải tiêu",
+    "Never spend"
+   ],
+   [
+    "Thấy khoản nhỏ cộng lại thành bao nhiêu",
+    "See how small spends add up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cuối tuần, Khoa cộng sổ chi tiêu và thấy riêng trà sữa đã hết 120.000đ, gần một nửa tiền tiêu vặt.",
+     "At the weekend Khoa totals the log: bubble tea alone came to 120,000₫, almost half the pocket money."
+    ],
+    "q": [
+     "Khoa nên làm gì với thông tin này?",
+     "What should Khoa do with this?"
+    ],
+    "o": [
+     [
+      "Thấy buồn rồi bỏ sổ",
+      "Feel bad and abandon the log",
+      0,
+      "Con số không để trách mình, mà để chọn lại. Tiếp tục ghi sẽ thấy mình tiến bộ.",
+      "The number isn’t for blame — it’s for choosing again. Keep logging and you’ll see progress."
+     ],
+     [
+      "Đặt mức mới: mỗi tuần một cốc, phần còn lại bỏ ống tiết kiệm, và ghi tiếp để kiểm tra",
+      "Set a new limit — one a week, the rest into savings — and keep logging to check",
+      1,
+      "Ghi chép chỉ có ích khi mình đổi một việc cụ thể. Đặt mức rõ ràng và theo dõi tiếp.",
+      "Tracking pays off when you change one specific thing. Set a clear limit and keep watching."
+     ],
+     [
+      "Không sao, tiền của mình mà",
+      "It’s fine, it’s my money",
+      0,
+      "Đúng là tiền của mình, nên mình được chọn. Thử nhìn lại xem có điều gì mình muốn hơn không.",
+      "It is yours — so you get to choose. Check whether there’s something you’d rather have."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ cùng bà, Khoa được bà nhờ cầm tiền và ghi lại các món đã mua. Về nhà bà hỏi: “Hôm nay hết bao nhiêu cháu?”",
+     "At the market with Grandma, Khoa holds the money and notes what’s bought. At home Grandma asks, “How much did we spend today?”"
+    ],
+    "q": [
+     "Ở chợ, Khoa nên làm gì?",
+     "What should Khoa do at the market?"
+    ],
+    "o": [
+     [
+      "Nhớ trong đầu là được",
+      "Just keep it in your head",
+      0,
+      "Nhiều món nhỏ thì rất dễ quên. Ghi ra giấy luôn chính xác hơn.",
+      "With lots of small items, memory slips. Writing it down is always more accurate."
+     ],
+     [
+      "Chỉ ghi các món đắt",
+      "Only note the expensive things",
+      0,
+      "Món nhỏ cộng lại có khi bằng món lớn. Ghi đủ mới biết tổng thật.",
+      "Small items can add up to a big one. Log them all to know the real total."
+     ],
+     [
+      "Ghi ngay từng món và giá sau khi trả tiền, về nhà cộng lại và đối chiếu với tiền còn lại",
+      "Note each item and price right after paying, then total it at home and check against the change",
+      1,
+      "Ghi ngay và đối chiếu giúp số liệu khớp. Lần sau bà sẽ yên tâm giao việc cho mình.",
+      "Logging on the spot and checking keeps the numbers right. Grandma will trust you with it again."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Dừng lại trước khi trả lời lúc đang giận",
+   "Pausing when I’m furious"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong nhóm chat lớp, Tí đăng ảnh bài vẽ của Khoa kèm câu đùa “tranh của bé mẫu giáo”. Vài bạn thả biểu tượng cười. Khoa nóng mặt, đang gõ một câu thật gay gắt.",
+   "In the class group chat, Tí posts a photo of Khoa’s drawing captioned “a nursery kid’s picture”. A few people react with laughing faces. Khoa’s face burns, already typing something harsh."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Gửi luôn câu gay gắt để Tí biết mình không dễ bị trêu",
+    "Send the harsh reply so Tí knows you won’t take it",
+    0,
+    "Lời viết lúc giận khó rút lại và có thể làm chuyện căng hơn. Hãy cho mình vài phút.",
+    "Words typed in anger are hard to take back and can escalate things. Give yourself a few minutes."
+   ],
+   [
+    "Đặt điện thoại xuống, thở chậm vài lần, bình tĩnh rồi nhắn riêng: “Tớ thấy không vui với câu đó, cậu gỡ giúp tớ nhé.”",
+    "Put the phone down, take slow breaths, then message privately: “That comment upset me — please take it down.”",
+    1,
+    "Dừng lại giúp cơn giận hạ xuống để mình nói rõ điều mình cần. Nếu bạn vẫn tiếp tục, hãy báo thầy cô.",
+    "Pausing lets the anger settle so you can say what you need. If it carries on, tell a teacher."
+   ],
+   [
+    "Rời nhóm chat và không nói với ai",
+    "Leave the chat and tell nobody",
+    0,
+    "Im lặng giữ hết nỗi buồn trong lòng. Nói với bạn hoặc người lớn tin cậy sẽ nhẹ hơn.",
+    "Silence keeps the hurt bottled up. Telling the friend or a trusted adult helps."
+   ]
+  ],
+  "qq": [
+   "Khi đang rất giận, việc nên làm đầu tiên là…",
+   "When you’re furious, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Trả lời ngay cho hả",
+    "Reply at once to vent"
+   ],
+   [
+    "Dừng lại và để cơn giận hạ xuống",
+    "Pause and let the anger settle"
+   ],
+   [
+    "Giả vờ không sao",
+    "Pretend it’s fine"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Bảo làm đổ nước lên mô hình Khoa làm cả tuần cho môn Công nghệ. Khoa thấy cơn giận dâng lên.",
+     "Little Bảo spills water over the model Khoa spent all week building for design class. Khoa feels anger rising."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Quát em thật to",
+      "Shout at Bảo",
+      0,
+      "Quát làm em sợ mà mô hình vẫn ướt. Dừng lại vài giây giúp mình chọn việc có ích hơn.",
+      "Shouting scares him and the model’s still wet. A few seconds’ pause helps you choose something useful."
+     ],
+     [
+      "Mặc kệ và không nói chuyện với em cả tối",
+      "Ignore him all evening",
+      0,
+      "Giận lặng lẽ cũng làm em buồn mà mình vẫn bực. Bình tĩnh rồi nói ra sẽ nhẹ cho cả hai.",
+      "Silent anger hurts him and you stay upset. Calm down, then talk — easier for both."
+     ],
+     [
+      "Ra chỗ khác vài phút cho dịu, rồi quay lại cùng em lau khô và xem có sửa được không",
+      "Step away for a few minutes to cool down, then come back and dry it with Bảo to see what can be fixed",
+      1,
+      "Rời đi một chút là cách hạ cơn giận an toàn. Quay lại cùng em khắc phục giúp em học được trách nhiệm.",
+      "Stepping away is a safe way to cool off. Coming back to fix it together teaches him responsibility."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Trên xe buýt, một người chen lấn làm Khoa rơi hộp cơm. Người đó đi thẳng, không xin lỗi.",
+     "On the bus someone shoves past and Khoa’s lunchbox falls. They walk off without apologising."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Thở sâu, nhặt hộp cơm, tự nhủ “bực thật, nhưng không đáng để mình mất cả buổi”",
+      "Breathe deeply, pick up the lunchbox, and tell yourself, “Annoying, but not worth my whole morning”",
+      1,
+      "Gọi tên cảm xúc và tự nói lời bình tĩnh giúp cơn giận qua nhanh. Không cần tranh cãi với người lạ.",
+      "Naming the feeling and calming self-talk help it pass. There’s no need to argue with a stranger."
+     ],
+     [
+      "Đuổi theo đòi người đó xin lỗi",
+      "Chase them and demand an apology",
+      0,
+      "Tranh cãi với người lạ trên xe có thể không an toàn. Nếu cần, hãy nhờ bác tài hoặc người lớn giúp.",
+      "Arguing with a stranger on the bus may not be safe. If needed, ask the driver or an adult for help."
+     ],
+     [
+      "Bực bội cả ngày và kể cho mọi người",
+      "Stay angry all day and tell everyone",
+      0,
+      "Ôm cơn giận cả ngày làm mình mệt hơn người kia. Kể một lần với người thân cho nhẹ lòng là đủ.",
+      "Carrying it all day costs you more than them. Telling one person close to you is enough."
+     ]
+    ]
+   }
+  }
+ }
+]

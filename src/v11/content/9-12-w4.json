@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Hồi hộp trước khi biểu diễn",
+   "Nerves before a performance"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Chiều nay An đánh đàn ở buổi biểu diễn của lớp nhạc tại nhà văn hoá phường. Ngồi chờ đến lượt, tay An lạnh ngắt, tim đập thình thịch.",
+   "This afternoon An plays the keyboard at the music class concert in the community hall. Waiting for a turn, An’s hands are cold and heart is pounding."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Thở chậm: hít vào đếm 4, thở ra đếm 6, và tự nhủ “Hồi hộp nghĩa là mình đang quan tâm”",
+    "Breathe slowly — in for 4, out for 6 — and tell yourself “Nerves mean I care”",
+    1,
+    "Thở ra dài giúp cơ thể dịu lại. Gọi tên cảm xúc một cách tử tế giúp con tập trung vào bài đàn.",
+    "Long out-breaths calm the body. Naming the feeling kindly helps you focus on the music."
+   ],
+   [
+    "Xin ba mẹ cho về, không biểu diễn nữa",
+    "Ask to go home and skip it",
+    0,
+    "Né tránh làm nỗi sợ lớn thêm cho lần sau. Hồi hộp là bình thường, con vẫn làm được khi có cách.",
+    "Avoiding it makes the fear bigger next time. Nerves are normal and you can still do it."
+   ],
+   [
+    "Cố nghĩ là mình không hề sợ",
+    "Force yourself to think you’re not scared at all",
+    0,
+    "Phủ nhận cảm xúc thường làm nó mạnh hơn. Chấp nhận rồi thở đều sẽ hiệu quả hơn.",
+    "Denying a feeling often makes it stronger. Accepting it and breathing steadily works better."
+   ]
+  ],
+  "qq": [
+   "Hồi hộp trước một việc quan trọng là…",
+   "Feeling nervous before something big is…"
+  ],
+  "qo": [
+   [
+    "Dấu hiệu mình sẽ thất bại",
+    "A sign you’ll fail"
+   ],
+   [
+    "Điều phải giấu đi",
+    "Something to hide"
+   ],
+   [
+    "Bình thường, và có cách làm dịu",
+    "Normal, and there are ways to calm it"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối mai An lần đầu được ngủ lại nhà ông bà mà không có ba mẹ. An thấy bồn chồn, không muốn ăn tối.",
+     "Tomorrow night An will sleep over at Grandma and Grandpa’s without Mum and Dad for the first time. An feels jittery and doesn’t want dinner."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Im lặng chịu đựng vì sợ bị cười",
+      "Keep quiet in case someone laughs",
+      0,
+      "Nỗi lo không nói ra thường to dần. Ba mẹ luôn muốn nghe, không ai cười con đâu.",
+      "Unspoken worries tend to grow. Your parents want to hear it — nobody will laugh."
+     ],
+     [
+      "Bỏ bữa tối cho đỡ lo",
+      "Skip dinner to feel better",
+      0,
+      "Bỏ ăn làm cơ thể mệt và dễ lo hơn. Ăn một chút và nói chuyện với mẹ sẽ giúp con.",
+      "Skipping food makes you tired and more anxious. Eat a little and talk to Mum."
+     ],
+     [
+      "Nói với mẹ điều mình lo, rồi cùng mẹ chuẩn bị đồ quen thuộc như gối và truyện",
+      "Tell Mum what you’re worried about and pack familiar things like your pillow and a book together",
+      1,
+      "Nói ra nỗi lo giúp nó nhẹ đi. Mang theo đồ quen làm chỗ mới bớt lạ.",
+      "Saying the worry out loud shrinks it. Familiar things make a new place feel less strange."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ngày mai An phải đọc thơ trước lớp. Tối nay An cứ nghĩ mãi đến cảnh cả lớp nhìn mình và quên hết bài.",
+     "Tomorrow An must recite a poem in front of the class. Tonight An keeps imagining everyone staring and the words vanishing."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thức khuya học đi học lại thật nhiều lần",
+      "Stay up late going over it again and again",
+      0,
+      "Ngủ không đủ làm trí nhớ kém đi. Tập vừa đủ rồi ngủ ngon mới giúp con nhớ bài.",
+      "Too little sleep weakens memory. Practise enough, then sleep well."
+     ],
+     [
+      "Tập đọc trước gương hai lần, rồi đọc cho ba nghe một lần",
+      "Practise twice in front of a mirror, then once for Dad",
+      1,
+      "Tập trước người thân giúp việc đứng trước lớp bớt lạ. Mỗi lần tập là một lần bớt run.",
+      "Rehearsing for family makes the class feel less scary. Every practice takes the edge off."
+     ],
+     [
+      "Xin nghỉ học ngày mai",
+      "Ask to stay home tomorrow",
+      0,
+      "Nghỉ học chỉ hoãn nỗi sợ sang hôm khác. Chuẩn bị tốt sẽ giúp con vượt qua.",
+      "Staying home only postpones the fear. Good preparation gets you through."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Đón nhận ý tưởng của bạn",
+   "Welcoming my teammates’ ideas"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An chọn chủ đề cho tiết mục kịch ngắn. An đã có ý muốn diễn chuyện cổ tích, nhưng Linh đề nghị diễn cảnh đi chợ vui nhộn.",
+   "An’s group is choosing a theme for a short play. An wants a fairy tale, but Linh suggests a funny market scene."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nói ngay: “Ý của Linh không hay bằng ý mình”",
+    "Say right away: “Linh’s idea isn’t as good as mine”",
+    0,
+    "Chê ý bạn trước khi nghe làm bạn ngại góp ý lần sau. Nhóm mạnh khi ai cũng dám nói.",
+    "Dismissing an idea before hearing it makes people stop sharing. Teams are strong when everyone speaks up."
+   ],
+   [
+    "Im lặng làm theo dù không thích",
+    "Go along quietly even though you don’t like it",
+    0,
+    "Ý của con cũng đáng được nghe. Hãy nói ra để nhóm có thêm lựa chọn.",
+    "Your idea deserves a hearing too. Share it so the group has more options."
+   ],
+   [
+    "Hỏi Linh thêm về ý đó, nêu ý của mình, rồi cả nhóm cùng chọn hoặc kết hợp hai ý",
+    "Ask Linh more about her idea, share yours, then choose or combine them together",
+    1,
+    "Nghe kỹ ý bạn rồi mới so sánh giúp nhóm chọn điều tốt nhất. Đôi khi hai ý ghép lại còn hay hơn.",
+    "Hearing an idea out before comparing helps the group pick the best. Sometimes two ideas combine into something better."
+   ]
+  ],
+  "qq": [
+   "Trong nhóm, khi bạn đưa ra ý khác mình, mình nên…",
+   "In a team, when someone suggests a different idea, you should…"
+  ],
+  "qo": [
+   [
+    "Hỏi thêm để hiểu ý bạn",
+    "Ask questions to understand it"
+   ],
+   [
+    "Bác bỏ ngay",
+    "Reject it straight away"
+   ],
+   [
+    "Giả vờ đồng ý",
+    "Pretend to agree"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà bàn chuyện cuối tuần đi đâu. An muốn đi công viên nước, còn em muốn đến thư viện thiếu nhi.",
+     "The family is planning the weekend. An wants the water park; An’s younger brother wants the children’s library."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi em thích gì ở thư viện, rồi đề nghị sáng đi thư viện, chiều đi công viên nếu ba mẹ đồng ý",
+      "Ask what he likes about the library, then suggest library in the morning and park later if Mum and Dad agree",
+      1,
+      "Hiểu lý do của người khác giúp mình tìm ra phương án chung mà cả nhà đều vui.",
+      "Understanding someone’s reasons helps you find a plan the whole family enjoys."
+     ],
+     [
+      "Khóc lóc để được đi công viên nước",
+      "Make a fuss to get the water park",
+      0,
+      "Làm ầm lên có thể thắng một lần, nhưng không ai thấy vui. Cùng tìm cách để ai cũng có phần.",
+      "A fuss might win once, but nobody enjoys it. Look for a plan with something for everyone."
+     ],
+     [
+      "Nói “Thư viện chán lắm” cho em đổi ý",
+      "Say “The library is boring” to change his mind",
+      0,
+      "Chê sở thích của em làm em buồn. Mỗi người thích một thứ là bình thường.",
+      "Knocking his choice hurts. Different tastes are normal."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ thiếu nhi khu phố cùng trang trí bảng tin. Một bạn đề nghị dán ảnh hoa lá, An lại muốn vẽ tranh. Cô phụ trách đứng gần đó.",
+     "The neighbourhood kids’ club is decorating the notice board. One child wants to stick on pictures of flowers; An wants to paint. The club leader is nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tự vẽ phần của mình, mặc kệ bạn",
+      "Paint your bit and ignore the others",
+      0,
+      "Mỗi người một kiểu dễ làm bảng tin rối mắt. Thống nhất trước thì kết quả đẹp hơn.",
+      "Everyone doing their own thing makes a messy board. Agreeing first looks better."
+     ],
+     [
+      "Gợi ý vẽ khung tranh rồi dán ảnh hoa vào bên trong, hỏi ý cả nhóm",
+      "Suggest painting a frame and sticking the flowers inside, and ask the group",
+      1,
+      "Kết hợp ý tưởng giúp mọi người đều thấy phần đóng góp của mình.",
+      "Combining ideas lets everyone see their part in the result."
+     ],
+     [
+      "Nhờ cô quyết định thay cả nhóm",
+      "Ask the leader to decide for everyone",
+      0,
+      "Cô có thể giúp khi nhóm bế tắc, nhưng hãy thử tự bàn trước. Đó là cơ hội tập làm việc nhóm.",
+      "The leader can help if you’re stuck, but try discussing first. It’s teamwork practice."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chuẩn bị bữa sáng đơn giản",
+   "Making a simple breakfast myself"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng thứ Bảy, ba đi làm sớm, mẹ đang bận cho em bé ăn. Mẹ nhờ An tự chuẩn bị bữa sáng; trong bếp có bánh mì, trứng luộc sẵn, sữa và chuối.",
+   "On Saturday morning Dad has left early for work and Mum is busy feeding the baby. She asks An to make breakfast; the kitchen has bread, boiled eggs, milk and bananas."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chờ mẹ cho em ăn xong rồi làm cho",
+    "Wait until Mum is free to make it",
+    0,
+    "Mẹ tin con làm được nên mới nhờ. Những món có sẵn thế này con tự lo được.",
+    "She asked because she trusts you. You can manage with what’s ready."
+   ],
+   [
+    "Tự bật bếp ga chiên trứng mà không hỏi mẹ",
+    "Light the gas hob to fry an egg without asking",
+    0,
+    "Dùng bếp cần có người lớn hướng dẫn bên cạnh. Món cần nấu thì hỏi mẹ trước nhé.",
+    "The hob needs a grown-up beside you. Ask Mum first for anything that needs cooking."
+   ],
+   [
+    "Rửa tay, bày bánh mì, trứng, chuối và sữa ra đĩa, ăn xong rửa đĩa",
+    "Wash hands, set out bread, egg, banana and milk, then wash up after",
+    1,
+    "Một bữa sáng không cần nấu vẫn đủ chất. Tự dọn sau khi ăn là một phần của tự lập.",
+    "A no-cook breakfast can still be nutritious. Clearing up afterwards is part of being independent."
+   ]
+  ],
+  "qq": [
+   "Khi tự chuẩn bị đồ ăn, mình nên…",
+   "When making food for yourself, you should…"
+  ],
+  "qo": [
+   [
+    "Thử nấu món mới thật khó",
+    "Try a tricky new recipe"
+   ],
+   [
+    "Ăn bánh kẹo cho nhanh",
+    "Just eat sweets"
+   ],
+   [
+    "Chọn món an toàn, hỏi người lớn trước khi dùng bếp hay dao sắc",
+    "Pick safe foods and ask an adult before using the hob or a sharp knife"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở trường bán trú, cô giao mỗi bạn tự lấy khay, xếp hàng nhận cơm và dọn khay sau bữa trưa. Hôm nay An lỡ làm đổ canh ra bàn.",
+     "At school lunch, each pupil gets their own tray, queues, and clears up afterwards. Today An spills soup on the table."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Lấy khăn lau sạch, rồi mới mang khay đi cất",
+      "Get a cloth, wipe it up, then return the tray",
+      1,
+      "Tự xử lý việc mình gây ra là tự lập và cũng là tôn trọng người khác.",
+      "Dealing with your own spill is independence and respect for others."
+     ],
+     [
+      "Bỏ đi, để cô lao công lau",
+      "Leave it for the cleaner",
+      0,
+      "Mình làm đổ thì mình lau. Như vậy cô lao công và các bạn ngồi sau đều đỡ vất vả.",
+      "You spilled it, you wipe it. It saves the cleaner and the next pupils trouble."
+     ],
+     [
+      "Lấy giấy che lên chỗ đổ",
+      "Cover the spill with a napkin",
+      0,
+      "Che đi thì bàn vẫn bẩn và người sau dễ bị dính. Lau sạch chỉ mất một phút.",
+      "Covering it leaves a mess for the next person. Wiping takes a minute."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dã ngoại cùng gia đình bác, mỗi bạn nhỏ được giao tự chuẩn bị phần ăn trưa của mình từ đồ người lớn mang theo.",
+     "On a picnic with an uncle’s family, each child is asked to put together their own lunch from the food the adults brought."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chỉ lấy bánh kẹo ăn vặt vì thích",
+      "Take only crisps because you like them",
+      0,
+      "Ăn toàn đồ vặt thì nhanh đói và mệt. Thử chọn có cơm hoặc bánh mì, rau và trái cây.",
+      "Only snacks leaves you hungry and tired. Pick bread or rice, veg and fruit."
+     ],
+     [
+      "Rửa tay, lấy đủ cơm hoặc bánh mì, rau và trái cây, gói phần dư lại cẩn thận",
+      "Wash hands, take bread or rice, veg and fruit, and wrap up the leftovers neatly",
+      1,
+      "Tự chọn bữa ăn đủ chất và gọn gàng là kỹ năng dùng cả đời.",
+      "Choosing a balanced meal and keeping things tidy is a skill for life."
+     ],
+     [
+      "Chờ các bạn khác lấy hộ",
+      "Wait for someone else to do it",
+      0,
+      "Người lớn giao việc này để con tập tự lo. Con chọn được món mình cần mà.",
+      "The adults want you to practise. You can choose what you need."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Việc lớn thì chia thành bước nhỏ",
+   "Breaking a big job into small steps"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Phòng của An bừa bộn sau cả tuần: sách trên sàn, quần áo trên ghế, đồ chơi khắp nơi. An nhìn mà không biết bắt đầu từ đâu nên cứ ngồi đó.",
+   "After a busy week An’s room is chaos: books on the floor, clothes on the chair, toys everywhere. An doesn’t know where to start, so just sits there."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Dọn tất cả cùng lúc thật nhanh",
+    "Try to tidy everything at once",
+    0,
+    "Làm mọi thứ cùng lúc dễ rối và bỏ dở giữa chừng. Đi từng bước sẽ chắc hơn.",
+    "Doing everything at once gets confusing and half-finished. Step by step is steadier."
+   ],
+   [
+    "Đóng cửa phòng lại cho khỏi thấy",
+    "Shut the door so you can’t see it",
+    0,
+    "Không nhìn thấy thì phòng vẫn bừa. Bắt đầu bằng một việc nhỏ nhất thôi cũng được.",
+    "Out of sight is still a mess. Even starting with the smallest job helps."
+   ],
+   [
+    "Chia ra từng bước: nhặt sách trước, rồi quần áo, rồi đồ chơi, mỗi bước 10 phút",
+    "Split it up: books first, then clothes, then toys — 10 minutes each",
+    1,
+    "Việc lớn trông đáng sợ, nhưng từng bước nhỏ thì làm được. Xong một bước sẽ có động lực làm bước tiếp.",
+    "Big jobs look scary; small steps are doable. Finishing one step gives you energy for the next."
+   ]
+  ],
+  "qq": [
+   "Khi gặp một việc quá lớn, mình nên…",
+   "When a job feels too big, you should…"
+  ],
+  "qo": [
+   [
+    "Bỏ cuộc",
+    "Give up"
+   ],
+   [
+    "Chia thành các bước nhỏ và làm từng bước",
+    "Break it into small steps and do one at a time"
+   ],
+   [
+    "Chờ người khác làm giúp",
+    "Wait for someone to help"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giao làm mô hình hệ Mặt Trời trong hai tuần. An thấy việc này to quá, chưa biết bắt đầu thế nào.",
+     "The teacher has set a two-week project to build a model of the solar system. It feels huge and An doesn’t know how to start."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đợi tuần sau mới tính",
+      "Leave it until next week",
+      0,
+      "Để dồn thì việc lớn càng lớn thêm. Lên các bước từ hôm nay sẽ nhẹ hơn.",
+      "Waiting makes a big job bigger. Planning steps today keeps it light."
+     ],
+     [
+      "Viết danh sách các bước: tìm hiểu, chuẩn bị vật liệu, làm từng hành tinh, ghép lại, rồi ghi ngày cho mỗi bước",
+      "List the steps — research, gather materials, make each planet, assemble — and give each a date",
+      1,
+      "Có danh sách các bước, con biết hôm nay cần làm gì và không bị dồn vào cuối.",
+      "With a list of steps you know what to do today and nothing piles up at the end."
+     ],
+     [
+      "Nhờ ba mẹ làm giúp hết",
+      "Ask your parents to do it all",
+      0,
+      "Ba mẹ có thể giúp chuẩn bị vật liệu, nhưng tự làm mới là học. Chia nhỏ việc sẽ giúp con tự làm được.",
+      "Parents can help find materials, but doing it yourself is the learning. Small steps make it possible."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ khu phố nhờ các bạn nhỏ nhặt rác quanh sân chơi, có các bác tổ dân phố cùng làm. Sân rộng, rác nhiều, nhóm An thấy nản.",
+     "The neighbourhood club asks the kids to pick up litter around the playground, with some grown-ups helping. It’s a big area and An’s group feels discouraged."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chia sân thành bốn góc, mỗi lần làm sạch một góc, đeo găng tay và để người lớn xử lý vật sắc nhọn",
+      "Split the playground into four corners, clear one at a time, wear gloves, and leave anything sharp to the adults",
+      1,
+      "Chia nhỏ giúp nhóm thấy rõ từng phần đã sạch. Đeo găng và nhờ người lớn với đồ sắc là an toàn.",
+      "Splitting it up shows each section getting done. Gloves and leaving sharp things to adults keeps it safe."
+     ],
+     [
+      "Nhặt vài cái rồi nghỉ",
+      "Pick up a few bits and stop",
+      0,
+      "Làm lẻ tẻ thì khó thấy kết quả và dễ nản. Chia khu vực sẽ thấy tiến bộ rõ ràng.",
+      "Scattered effort hides progress. Dividing the area shows how far you’ve come."
+     ],
+     [
+      "Ai thích chỗ nào thì nhặt chỗ đó",
+      "Everyone picks wherever they like",
+      0,
+      "Không chia việc thì có chỗ nhiều người làm, có chỗ bị bỏ sót. Lên kế hoạch giúp làm hết.",
+      "Without a plan, some spots get crowded and others missed. Planning covers it all."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nghe cả hai phía trước khi phán xét",
+   "Hearing both sides before judging"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Vy kể với An rằng Mai đã lấy hộp bút của Vy mà không hỏi. Vy rủ An cùng không chơi với Mai nữa.",
+   "Vy tells An that Mai took Vy’s pencil case without asking, and wants An to stop playing with Mai too."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đồng ý ngay vì Vy là bạn thân",
+    "Agree straight away because Vy’s your best friend",
+    0,
+    "Mới nghe một phía thì chưa đủ để kết luận. Có thể còn điều mình chưa biết.",
+    "One side isn’t enough to decide. There may be something you don’t know."
+   ],
+   [
+    "Đi kể với cả lớp chuyện Mai lấy đồ",
+    "Tell the whole class Mai took it",
+    0,
+    "Lan truyền khi chưa rõ thật giả có thể làm Mai bị oan và buồn.",
+    "Spreading it before knowing the truth could hurt Mai unfairly."
+   ],
+   [
+    "Nói với Vy: “Mình hỏi Mai xem chuyện thế nào đã nhé”, rồi nghe Mai kể",
+    "Tell Vy: “Let’s hear what Mai says first,” then listen to Mai",
+    1,
+    "Nghe cả hai phía giúp mình công bằng. Biết đâu Mai chỉ mượn tạm và định trả.",
+    "Hearing both sides keeps you fair. Maybe Mai only borrowed it and meant to give it back."
+   ]
+  ],
+  "qq": [
+   "Trước khi kết luận ai đúng ai sai, mình nên…",
+   "Before deciding who’s right, you should…"
+  ],
+  "qo": [
+   [
+    "Nghe cả hai phía",
+    "Hear both sides"
+   ],
+   [
+    "Nghe người mình thân hơn",
+    "Listen to whoever you like more"
+   ],
+   [
+    "Nghe người nói to hơn",
+    "Listen to whoever is louder"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An đi học về thấy chiếc cốc yêu thích bị vỡ. Em của An nói là tại con mèo, còn bà nói thấy em chơi bóng trong nhà.",
+     "An comes home to find a favourite mug broken. An’s brother says the cat did it; Grandma says she saw him playing ball indoors."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mắng em ngay vì chắc chắn em nói dối",
+      "Tell him off — he must be lying",
+      0,
+      "Kết luận vội có thể oan cho em. Hỏi thêm sẽ giúp biết chuyện thật.",
+      "Jumping to conclusions might be unfair. Asking more finds the truth."
+     ],
+     [
+      "Bình tĩnh hỏi em kể lại, rồi nhờ ba mẹ cùng nói chuyện",
+      "Calmly ask him to explain, then talk it over with Mum and Dad",
+      1,
+      "Nghe đủ các bên và nhờ người lớn giúp làm rõ là cách công bằng nhất.",
+      "Hearing everyone and getting an adult to help is the fairest way."
+     ],
+     [
+      "Đổ lỗi cho con mèo cho nhanh",
+      "Blame the cat and move on",
+      0,
+      "Kết luận cho xong thì không ai học được gì. Tìm hiểu thêm một chút là đủ.",
+      "Settling it quickly means nobody learns anything. A little more asking is enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi chung cư, hai bạn nhỏ cãi nhau vì cái xích đu. Bạn nào cũng nói mình đến trước. Bác bảo vệ đang ở gần đó.",
+     "In the apartment playground, two younger kids argue over a swing. Each says they were first. The building guard is nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nghe mỗi em nói, gợi ý chia lượt mỗi em năm phút, nếu căng thẳng thì nhờ bác bảo vệ",
+      "Hear each one, suggest five-minute turns, and ask the guard if it gets heated",
+      1,
+      "Nghe cả hai rồi tìm cách chung giúp mọi người thấy được tôn trọng. Nhờ người lớn khi cần là an toàn.",
+      "Hearing both and finding a shared fix makes everyone feel respected. Get an adult if needed."
+     ],
+     [
+      "Bênh bạn mình quen",
+      "Side with the kid you know",
+      0,
+      "Quen hay không không quyết định ai đúng. Công bằng là nghe cả hai.",
+      "Knowing someone doesn’t make them right. Fair means hearing both."
+     ],
+     [
+      "Mặc kệ, việc của các em",
+      "Ignore it, not your business",
+      0,
+      "Không phải lúc nào cũng cần xen vào, nhưng nếu các em sắp xô đẩy thì nên nhờ người lớn.",
+      "You needn’t always step in, but if they’re about to push, get an adult."
+     ]
+    ]
+   }
+  }
+ }
+]

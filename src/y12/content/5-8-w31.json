@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Đùa quá tay thì nói dừng",
+   "Rough play: saying stop"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Anh Bảo cù lét Bin. Lúc đầu Bin cười, nhưng giờ Bin thấy đau bụng và không thích nữa.",
+   "Big brother Bảo is tickling Bin. At first Bin laughed, but now his tummy hurts and he doesn’t like it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cố cười tiếp cho anh vui",
+    "Keep laughing so Bảo’s happy",
+    0,
+    "Cười khi không thích làm anh tưởng con vẫn vui. Nói rõ “dừng lại” nhé.",
+    "Laughing makes him think you’re enjoying it. Say “stop” clearly."
+   ],
+   [
+    "Nói to, rõ: “Dừng lại!”",
+    "Say loudly and clearly, “Stop!”",
+    1,
+    "Khi con nói “dừng”, người khác phải dừng. Nếu anh không dừng, con gọi ba mẹ.",
+    "When you say “stop”, others must stop. If he doesn’t, call Mum or Dad."
+   ],
+   [
+    "Cắn tay anh",
+    "Bite his hand",
+    0,
+    "Cắn làm anh đau. Dùng lời nói “Dừng lại!” mạnh mẽ hơn nhiều.",
+    "Biting hurts. Saying “Stop!” is much stronger."
+   ]
+  ],
+  "qq": [
+   "Khi có người nói “dừng”, người kia phải…",
+   "When someone says “stop”, the other person must…"
+  ],
+  "qo": [
+   [
+    "Dừng lại ngay",
+    "Stop straight away"
+   ],
+   [
+    "Đùa thêm chút nữa",
+    "Carry on a bit more"
+   ],
+   [
+    "Cười to hơn",
+    "Laugh louder"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, Tí vật nhau đùa và kéo áo Bin rất mạnh. Bin thấy đau.",
+     "At break, Tí is play-wrestling and pulls Bin’s shirt really hard. It hurts."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kéo lại mạnh hơn",
+      "Pull back harder",
+      0,
+      "Kéo qua kéo lại dễ làm cả hai ngã. Nói “dừng” rõ ràng nhé.",
+      "Pulling back can make you both fall. Say “stop” clearly."
+     ],
+     [
+      "Nói: “Dừng lại, tớ đau!”; bạn không dừng thì báo cô",
+      "Say, “Stop, that hurts!”; if he doesn’t, tell the teacher",
+      1,
+      "Nói rõ là con đau, bạn sẽ hiểu. Bạn không dừng thì cô sẽ giúp.",
+      "Saying it hurts helps him understand. If he won’t stop, the teacher will help."
+     ],
+     [
+      "Cố chịu vì đang chơi",
+      "Put up with it because it’s a game",
+      0,
+      "Trò chơi phải vui cho cả hai. Đau thì con được quyền nói dừng.",
+      "A game should be fun for both. If it hurts, you can say stop."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi, ba ngồi gần đó. Chơi đuổi bắt, một bạn cứ xô Bin mạnh, Bin suýt ngã.",
+     "At the playground, with Dad nearby, a child playing tag keeps shoving Bin hard. He nearly falls."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói “Dừng lại, đừng xô nữa!”, rồi đến chỗ ba nếu bạn vẫn xô",
+      "Say, “Stop, no pushing!” and go to Dad if it carries on",
+      1,
+      "Nói dừng rồi tìm người lớn khi cần: con tự bảo vệ mình rất giỏi.",
+      "Saying stop and finding a grown-up when needed — great self-protection."
+     ],
+     [
+      "Xô lại bạn",
+      "Shove back",
+      0,
+      "Xô lại có thể làm ai đó ngã đau. Nói dừng và tìm ba nhé.",
+      "Shoving back could hurt someone. Say stop and find Dad."
+     ],
+     [
+      "Chơi tiếp dù sợ",
+      "Keep playing though scared",
+      0,
+      "Sợ là dấu hiệu cần dừng. Con được nói “dừng” bất cứ lúc nào.",
+      "Feeling scared means it’s time to stop. You can say “stop” any time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tín hiệu “Dừng” của nhà mình",
+    "Our family “stop” signal"
+   ],
+   "s": [
+    "Con và ba mẹ thống nhất một tín hiệu “dừng” khi chơi đùa (nói “Dừng!” và giơ tay). Chơi đùa nhẹ một chút và tập dùng tín hiệu: ai thấy tín hiệu cũng dừng ngay.",
+    "Agree on a “stop” signal for play with Mum or Dad (say “Stop!” and raise a hand). Play gently and practise: whoever sees the signal stops at once."
+   ],
+   "lv": [
+    [
+     "Ba mẹ dùng tín hiệu trước, con tập dừng và tập ra tín hiệu.",
+     "Mum or Dad uses the signal first; you practise stopping and giving it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự ra tín hiệu khi muốn dừng.",
+     "After one reminder, you give the signal when you want to stop."
+    ],
+    [
+     "Con tự ra tín hiệu rõ ràng, và cũng dừng ngay khi người khác ra tín hiệu.",
+     "You give the signal clearly and stop at once when someone else does."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ xoa lưng cho con trước khi ngủ",
+    "A back rub from Mum or Dad at bedtime"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Đang vui mà phải về",
+   "Leaving when the fun isn’t over"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, Bin đang chơi cát. Mẹ nói: “Năm phút nữa mình về nhé.”",
+   "At the park, Bin is playing in the sand. Mum says, “We’re leaving in five minutes.”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Lờ đi, chơi tiếp",
+    "Ignore it and keep playing",
+    0,
+    "Lờ lời nhắc thì lúc phải về con sẽ bất ngờ và buồn hơn.",
+    "Ignoring it makes leaving feel more sudden and sad."
+   ],
+   [
+    "Khóc khi đến giờ về",
+    "Cry when it’s time to go",
+    0,
+    "Đang vui mà phải về thì buồn thật. Lần sau mình lại đến chơi nhé.",
+    "Leaving the fun is hard. We can come back another day."
+   ],
+   [
+    "Xây nốt lâu đài cát, rồi tự phủi tay và đi cùng mẹ",
+    "Finish the sandcastle, dust off and go with Mum",
+    1,
+    "Con đã dùng năm phút để làm nốt và tự dừng đúng giờ. Mẹ rất tự hào!",
+    "You used the five minutes well and stopped on time. Mum is proud!"
+   ]
+  ],
+  "qq": [
+   "Nghe lời nhắc “còn năm phút”, con nên…",
+   "When you hear “five more minutes”, you should…"
+  ],
+  "qo": [
+   [
+    "Bắt đầu trò mới",
+    "Start something new"
+   ],
+   [
+    "Chuẩn bị dừng chơi",
+    "Get ready to stop"
+   ],
+   [
+    "Giả vờ không nghe",
+    "Pretend not to hear"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin đang xếp khối thành lâu đài. Ba nhắc: “Năm phút nữa đi tắm nhé.”",
+     "Bin is building a block castle. Dad says, “Bath in five minutes.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xếp nốt cái tháp, rồi cất khối vào hộp khi hết năm phút",
+      "Finish the tower, then pack the blocks away when five minutes are up",
+      1,
+      "Lời nhắc năm phút giúp con kịp làm nốt phần nhỏ. Dừng đúng giờ giỏi lắm!",
+      "The five-minute warning lets you finish a small bit. Great stopping on time!"
+     ],
+     [
+      "Xếp tiếp, coi như không nghe",
+      "Keep building as if he didn’t hear",
+      0,
+      "Lời nhắc là để con chuẩn bị. Dùng năm phút đó làm nốt phần nhỏ nhé.",
+      "The warning is there to help you get ready. Use it to finish a small part."
+     ],
+     [
+      "Phá lâu đài vì bực",
+      "Knock the castle down in a huff",
+      0,
+      "Phải dừng thì hơi tiếc. Con có thể để lâu đài đó, mai chơi tiếp.",
+      "Stopping feels a shame. You could leave it to play with tomorrow."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, cô báo: “Còn năm phút nữa vào lớp.” Bin đang chơi ô ăn quan rất hăng.",
+     "At break, the teacher says, “Five minutes until class.” Bin is deep in a pebble game."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chơi đến khi trống đánh mới chạy",
+      "Play until the bell, then dash",
+      0,
+      "Chạy vội dễ va ngã và vào lớp muộn. Chuẩn bị từ lúc cô nhắc nhé.",
+      "Dashing can cause bumps and lateness. Get ready when warned."
+     ],
+     [
+      "Bắt đầu ván mới",
+      "Start a new game",
+      0,
+      "Ván mới chưa kịp xong đâu. Chơi nốt lượt rồi cất sỏi nhé.",
+      "There isn’t time for a new game. Finish your turn and tidy up."
+     ],
+     [
+      "Chơi nốt lượt, cất sỏi, rửa tay rồi vào lớp",
+      "Finish the turn, put the pebbles away, wash hands and go in",
+      1,
+      "Nghe lời nhắc để chuẩn bị thì vào lớp thong thả, không vội vàng.",
+      "Using the warning to get ready means going in calmly, not in a rush."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Dừng chơi đúng giờ",
+    "Stop playing on time"
+   ],
+   "s": [
+    "Lần chơi tới, ba mẹ nhắc “Còn năm phút nữa”. Con làm nốt một phần nhỏ, rồi tự dừng và cất đồ khi hết giờ.",
+    "Next time you play, Mum or Dad says “Five more minutes”. Finish a small part, then stop and tidy up when time is up."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nhắc năm phút và cùng con đếm ngược, cùng cất đồ.",
+     "Mum or Dad gives the warning, counts down with you and helps tidy."
+    ],
+    [
+     "Ba mẹ nhắc một lần năm phút, con tự dừng đúng giờ.",
+     "After one five-minute warning, you stop on time yourself."
+    ],
+    [
+     "Con tự dừng đúng giờ, tự cất đồ và nói “Con xong rồi ạ” không cần nhắc lại.",
+     "You stop on time, tidy up and say “I’m done” with no second reminder."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đi dạo công viên",
+    "A family walk in the park"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Ghi lại tiền nhà tiêu",
+   "Writing down what we spend"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối nay, mẹ nói: “Không biết hôm nay nhà mình tiêu tiền vào những gì nhỉ?” Bin có cuốn sổ nhỏ và bút màu.",
+   "This evening Mum says, “I wonder what we spent money on today?” Bin has a little notebook and crayons."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "“Mình cùng ghi lại nhé: rau, sữa, bánh mì. Con vẽ hình cho từng món!”",
+    "“Let’s write it down: veg, milk, bread. I’ll draw each one!”",
+    1,
+    "Ghi lại giúp cả nhà biết tiền đã đi đâu. Vẽ hình cũng là cách ghi rất hay.",
+    "Writing it down shows where the money went. Drawing works brilliantly too."
+   ],
+   [
+    "“Kệ đi mẹ, tiêu rồi thì thôi”",
+    "“Never mind, Mum, it’s spent”",
+    0,
+    "Không ghi thì lần sau lại không nhớ. Ghi lại giúp nhà mình tiêu khéo hơn.",
+    "Without notes, we forget again. Writing it down helps spend wisely."
+   ],
+   [
+    "“Mình đoán đại đi mẹ”",
+    "“Let’s just guess”",
+    0,
+    "Đoán dễ sai lắm. Ghi lại từng món mới chắc chắn.",
+    "Guesses are often wrong. Writing each item down is sure."
+   ]
+  ],
+  "qq": [
+   "Ghi lại tiền đã tiêu giúp…",
+   "Writing down spending helps…"
+  ],
+  "qo": [
+   [
+    "Tiêu được nhiều hơn",
+    "Spend more"
+   ],
+   [
+    "Không cần đi chợ nữa",
+    "Never need to shop"
+   ],
+   [
+    "Biết tiền đã đi đâu",
+    "Know where the money went"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Bin cùng trồng một chậu hoa. Cô đã mua đất, hạt giống và chậu. Cô hỏi: “Làm sao để nhớ lớp mình đã tiêu tiền vào gì?”",
+     "Bin’s class is growing a flower pot. The teacher bought soil, seeds and a pot. She asks, “How can we remember what we spent money on?”"
+    ],
+    "q": [
+     "Bin nên trả lời gì?",
+     "What should Bin answer?"
+    ],
+    "o": [
+     [
+      "“Mình nhớ trong đầu là được ạ”",
+      "“We can just remember it”",
+      0,
+      "Nhớ trong đầu dễ quên lắm. Ghi ra giấy thì ai cũng xem lại được.",
+      "Memories fade. Writing it down lets everyone check."
+     ],
+     [
+      "“Ghi từng món lên một tờ giấy dán ở góc lớp ạ”",
+      "“Write each item on a sheet on the class wall”",
+      1,
+      "Ghi lại rõ ràng giúp cả lớp biết tiền đã dùng vào việc gì.",
+      "Clear notes show the whole class where the money went."
+     ],
+     [
+      "“Không cần biết đâu ạ”",
+      "“We don’t need to know”",
+      0,
+      "Biết tiền đi đâu giúp lần sau tính toán dễ hơn. Ghi lại nhé.",
+      "Knowing where it went makes planning easier next time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin đi chợ cùng ba. Ba mua nhiều thứ và bảo: “Về nhà chắc ba quên mất đã mua những gì.”",
+     "Bin is at the market with Dad. Dad buys lots of things and says, “I’ll probably forget what I bought by the time we’re home.”"
+    ],
+    "q": [
+     "Bin có thể giúp gì?",
+     "How could Bin help?"
+    ],
+    "o": [
+     [
+      "Xin ba tờ giấy, vẽ từng món ba vừa mua",
+      "Ask Dad for paper and draw each thing he buys",
+      1,
+      "Con đang giúp ba ghi lại tiền đã tiêu. Về nhà xem lại là biết ngay!",
+      "You’re helping Dad record the spending. At home, you’ll both know!"
+     ],
+     [
+      "Xin ba mua thêm đồ chơi",
+      "Ask Dad for a toy too",
+      0,
+      "Lúc này mình đang giúp ba nhớ. Đồ chơi để dịp khác nhé.",
+      "Right now you’re helping Dad remember. Toys can wait."
+     ],
+     [
+      "Chạy lên trước xem hàng",
+      "Run ahead to look at stalls",
+      0,
+      "Ở chợ đông người, luôn đi sát ba nhé. Con có thể giúp ba ghi lại.",
+      "Markets are busy — stay close to Dad. You could help him take notes."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Sổ tiêu tiền của nhà mình",
+    "Our family spending notebook"
+   ],
+   "s": [
+    "Con cùng ba mẹ ghi lại ba khoản tiền nhà đã tiêu hôm nay bằng chữ hoặc hình vẽ (ví dụ: vẽ bó rau, hộp sữa), rồi đọc lại cho cả nhà nghe.",
+    "With Mum or Dad, record three things the family spent money on today using words or pictures (like a bunch of veg, a carton of milk), then read it back to everyone."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể từng khoản, con vẽ hoặc viết theo.",
+     "Mum or Dad names each item and you draw or write it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi và ghi ba khoản.",
+     "After one reminder, you ask and record three items."
+    ],
+    [
+     "Con tự hỏi, tự ghi ba khoản và nói khoản nào là cần, khoản nào là muốn.",
+     "You ask, record three and say which were needs and which were wants."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ nặn đất sét",
+    "Play with modelling clay with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Rủ bạn chơi lại sau khi giận",
+   "Inviting a friend back after a fight"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Hôm qua Bin và Huy giận nhau vì tranh bóng. Hôm nay Bin muốn chơi lại với Huy nhưng ngại.",
+   "Yesterday Bin and Huy fell out over a ball. Today Bin wants to play with Huy again but feels awkward."
+  ],
+  "cq": [
+   "Bin nên nói gì?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "Không nói gì, chờ Huy rủ",
+    "Say nothing and wait for Huy",
+    0,
+    "Huy có thể cũng đang ngại như con. Một người mở lời là đủ.",
+    "Huy may feel awkward too. It only takes one person to start."
+   ],
+   [
+    "Kể với bạn khác là Huy xấu tính",
+    "Tell others Huy is mean",
+    0,
+    "Nói xấu làm chuyện khó làm lành hơn. Thử rủ Huy chơi nhé.",
+    "Saying unkind things makes it harder to fix. Try inviting Huy."
+   ],
+   [
+    "“Hôm qua tớ xin lỗi nhé. Mình chơi bóng cùng không?”",
+    "“Sorry about yesterday. Want to play ball?”",
+    1,
+    "Một lời xin lỗi và lời rủ chơi giúp hai bạn làm lành. Con dũng cảm lắm!",
+    "A sorry and an invitation help you make up. That’s brave!"
+   ]
+  ],
+  "qq": [
+   "Sau khi giận, điều giúp hai bạn làm lành là…",
+   "After a fight, what helps friends make up is…"
+  ],
+  "qo": [
+   [
+    "Một lời rủ chơi lại",
+    "An invitation to play again"
+   ],
+   [
+    "Không nói chuyện mãi",
+    "Never talking again"
+   ],
+   [
+    "Chờ người kia xin lỗi",
+    "Waiting for the other to apologise"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin và em Bông giận nhau vì hộp bút màu. Giờ Bin muốn chơi với em nhưng ngại mở lời.",
+     "Bin and little Bông fell out over the crayons. Now Bin wants to play with her but feels shy about saying so."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chờ em làm lành trước",
+      "Wait for Bông to make up first",
+      0,
+      "Chờ mãi thì cả hai cùng buồn lâu hơn. Con có thể mở lời trước.",
+      "Waiting means you’re both sad for longer. You can go first."
+     ],
+     [
+      "Đưa em một cây bút: “Mình cùng vẽ nhé?”",
+      "Hand her a crayon: “Shall we draw together?”",
+      1,
+      "Một lời rủ chơi kèm hành động nhỏ giúp hai anh em làm lành rất nhanh.",
+      "An invitation with a small kind act helps you make up fast."
+     ],
+     [
+      "Giấu hết bút màu đi",
+      "Hide all the crayons",
+      0,
+      "Giấu bút làm em buồn thêm. Rủ em cùng vẽ thì vui hơn.",
+      "Hiding them makes her sadder. Inviting her to draw is better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chung cư, mẹ ngồi gần đó. Hôm trước Bin và Nam cãi nhau. Hôm nay Nam đang đá bóng một mình.",
+     "In the flats’ playground, with Mum nearby, Bin sees Nam kicking a ball alone. They argued the other day."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Vẫy tay: “Nam ơi, cho tớ chơi chuyền bóng với!”",
+      "Wave: “Nam, can I pass the ball with you?”",
+      1,
+      "Một cái vẫy tay và lời rủ chơi giúp hai bạn quên chuyện cũ.",
+      "A wave and an invitation help you both move on."
+     ],
+     [
+      "Quay đi chỗ khác",
+      "Turn away",
+      0,
+      "Tránh mặt thì hai bạn mãi xa nhau. Thử chào một câu nhé.",
+      "Avoiding him keeps you apart. Try saying hello."
+     ],
+     [
+      "Đứng nhìn, chờ Nam đá hỏng",
+      "Watch and wait for Nam to miss",
+      0,
+      "Chờ bạn hỏng không làm con vui. Rủ chơi cùng thì vui hơn nhiều.",
+      "Waiting for him to mess up won’t cheer you. Playing together is much better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai câu mở lời làm lành",
+    "Two make-up lines"
+   ],
+   "s": [
+    "Con cùng ba mẹ đóng vai hai bạn vừa giận nhau. Con tập nói hai câu mở lời làm lành (ví dụ: “Tớ xin lỗi nhé”, “Mình chơi cùng không?”).",
+    "Role-play two friends who just fell out with Mum or Dad. Practise two make-up lines (like “I’m sorry” and “Want to play together?”)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu hai câu, con nói theo.",
+     "Mum or Dad says two lines and you repeat them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói hai câu.",
+     "After one reminder, you say both lines yourself."
+    ],
+    [
+     "Con tự nghĩ hai câu, nói thật ấm áp và kể một lần con đã làm lành với bạn.",
+     "You make up two warm lines and tell about a time you made up with a friend."
+    ]
+   ],
+   "rw": [
+    "Được nghe thêm một câu chuyện trước khi ngủ",
+    "One extra bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi con quá phấn khích",
+   "When I’m too excited"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở tiệc sinh nhật bạn, ba mẹ ngồi gần đó. Bin vui quá, chạy vòng quanh bàn bánh kem.",
+   "At a friend’s birthday party, with parents nearby, Bin is so excited he runs circles round the cake table."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chạy nhanh hơn nữa",
+    "Run faster",
+    0,
+    "Chạy quanh bàn dễ va làm đổ bánh. Dừng lại thở chậm nhé.",
+    "Running round the table could knock the cake. Stop and breathe slowly."
+   ],
+   [
+    "Đứng lại, đặt tay lên bụng, thở chậm năm lần rồi vào chơi cùng các bạn",
+    "Stand still, hand on tummy, five slow breaths, then join the games",
+    1,
+    "Vui mà vẫn biết dịu lại thì ai cũng thoải mái. Con giỏi lắm!",
+    "Joyful and calm means everyone is comfortable. Well done!"
+   ],
+   [
+    "Kéo các bạn chạy theo",
+    "Get friends to chase you",
+    0,
+    "Cả nhóm chạy quanh bàn càng dễ va ngã. Rủ chơi trò ngồi yên hơn nhé.",
+    "A group running round the table is even riskier. Suggest a calmer game."
+   ]
+  ],
+  "qq": [
+   "Khi vui quá, con có thể…",
+   "When you’re very excited, you can…"
+  ],
+  "qo": [
+   [
+    "Hét thật to",
+    "Shout really loudly"
+   ],
+   [
+    "Chạy thật nhanh",
+    "Run really fast"
+   ],
+   [
+    "Đếm đến năm và thở chậm",
+    "Count to five and breathe slowly"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ông bà sắp đến chơi. Bin vui quá, nhảy trên ghế, hét to và suýt va vào em.",
+     "Grandma and Grandpa are coming. Bin is so excited he jumps on the sofa, shouts and nearly bumps into Bông."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhảy tiếp cho vui",
+      "Keep jumping for fun",
+      0,
+      "Vui là tốt, nhưng nhảy trên ghế dễ ngã và va vào em. Dịu lại chút nhé.",
+      "Being happy is great, but sofa-jumping can cause falls. Calm down a little."
+     ],
+     [
+      "Dừng lại, đếm đến năm và thở chậm, rồi vẽ tranh tặng ông bà",
+      "Stop, count to five and breathe slowly, then draw a picture for them",
+      1,
+      "Thở chậm giúp niềm vui dịu lại mà vẫn còn nguyên. Vẽ tranh chờ ông bà, hay quá!",
+      "Slow breaths calm the excitement while keeping the joy. A picture for them — lovely!"
+     ],
+     [
+      "Hét to hơn nữa",
+      "Shout even louder",
+      0,
+      "Hét to làm em giật mình. Thử thì thầm “Ông bà sắp đến!” xem.",
+      "Shouting startles Bông. Try whispering “They’re nearly here!”"
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Sắp đến giờ đi tham quan, cả lớp háo hức. Bin nhảy cẫng lên và vô tình đẩy vào bạn Vy.",
+     "It’s nearly time for the class trip and everyone is buzzing. Bin jumps about and accidentally bumps into Vy."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xin lỗi Vy, rồi đếm đến năm và thở chậm",
+      "Say sorry to Vy, then count to five and breathe slowly",
+      1,
+      "Xin lỗi và thở chậm giúp con dịu lại để chuyến đi an toàn, vui vẻ.",
+      "Saying sorry and breathing helps you calm down for a safe, fun trip."
+     ],
+     [
+      "Cười rồi nhảy tiếp",
+      "Laugh and keep jumping",
+      0,
+      "Vy có thể bị đau. Dừng lại hỏi bạn và dịu xuống nhé.",
+      "Vy might be hurt. Stop, check on her and calm down."
+     ],
+     [
+      "Chạy quanh lớp",
+      "Run around the classroom",
+      0,
+      "Chạy trong lớp dễ va vào bàn ghế. Thở chậm giúp con bình tĩnh lại.",
+      "Running indoors can cause bumps. Slow breathing helps you settle."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đếm năm, thở chậm",
+    "Count five, breathe slow"
+   ],
+   "s": [
+    "Khi đang quá hào hứng (lúc chơi, lúc chờ khách…), con tập dừng lại, đếm đến năm và thở chậm. Ba mẹ quan sát và xác nhận.",
+    "When you’re very excited (playing, waiting for visitors…), practise stopping, counting to five and breathing slowly. Mum or Dad watches."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ra hiệu, cùng con đếm và thở.",
+     "Mum or Dad gives a sign and counts and breathes with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đếm và thở.",
+     "After one reminder, you count and breathe yourself."
+    ],
+    [
+     "Con tự nhận ra mình đang quá phấn khích, tự đếm và thở, rồi kể lại.",
+     "You notice it yourself, count and breathe, then tell what happened."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ ngắm sao trên ban công",
+    "Stargazing on the balcony with Mum or Dad"
+   ]
+  }
+ }
+]

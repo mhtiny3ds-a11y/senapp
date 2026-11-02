@@ -1,0 +1,130 @@
+{
+ "sk": 7,
+ "t": [
+  "Lên kế hoạch tuần với bảng giờ",
+  "Planning my week"
+ ],
+ "m": [
+  "10 phút",
+  "10 min"
+ ],
+ "base": "A",
+ "story": [
+  "Tuần này An có bài kiểm tra Toán, buổi bơi, sinh nhật bạn và một video muốn dựng. Tối nào An cũng thức khuya mà vẫn chưa xong gì.",
+  "This week An has a maths test, swimming, a friend’s birthday and a video to edit. Every night runs late and nothing is finished."
+ ],
+ "cq": [
+  "An nên bắt đầu từ đâu?",
+  "Where should An start?"
+ ],
+ "co": [
+  [
+   "Làm việc thích nhất trước: dựng video",
+   "Start with the fun one: edit the video",
+   0,
+   "Việc thích ăn hết buổi tối, còn bài kiểm tra vẫn chờ ở đó.",
+   "The fun task eats the evening and the test is still waiting."
+  ],
+  [
+   "Ghi hết ra, đánh dấu việc có hạn cố định, rồi xếp việc còn lại vào ô trống",
+   "Write everything down, mark the fixed deadlines, then fit the rest into the gaps",
+   1,
+   "Việc có hạn cố định xếp trước, việc linh hoạt xếp sau. Kế hoạch là bản đồ, không phải lời hứa.",
+   "Fixed deadlines first, flexible work after. A plan is a map, not a promise."
+  ],
+  [
+   "Cứ làm tới đâu tính tới đó",
+   "Just wing it day by day",
+   0,
+   "Không có bản đồ thì việc gấp nhất luôn đến muộn nhất.",
+   "With no map, the most urgent thing always arrives last."
+  ]
+ ],
+ "qq": [
+  "Xếp lịch nên bắt đầu bằng gì?",
+  "Scheduling starts with…"
+ ],
+ "qo": [
+  [
+   "Những việc có hạn cố định",
+   "The fixed deadlines"
+  ],
+  [
+   "Việc mình thích nhất",
+   "Your favourite task"
+  ],
+  [
+   "Việc nhanh nhất",
+   "The quickest task"
+  ]
+ ],
+ "qa": 0,
+ "ctx": {
+  "B": {
+   "s": [
+    "Cô giao ba bài tập lớn cùng hạn thứ Sáu. An còn hai buổi học thêm trong tuần.",
+    "Three big assignments are due Friday, and An has two extra classes this week."
+   ],
+   "q": [
+    "An nên bắt đầu từ đâu?",
+    "Where should An start?"
+   ],
+   "o": [
+    [
+     "Làm bài dễ nhất trước cho có động lực",
+     "Start with the easiest one for momentum",
+     0,
+     "Bài dễ làm mình thấy đã làm được việc, nhưng bài nặng nhất vẫn nằm nguyên đến tối thứ Năm.",
+     "The easy one feels productive, but the heaviest task still lands on Thursday night."
+    ],
+    [
+     "Ước lượng mỗi bài mất bao lâu, rồi đặt bài nặng nhất vào ngày trống nhất",
+     "Estimate each task, then put the heaviest on your emptiest day",
+     1,
+     "Xếp lịch bắt đầu bằng ước lượng thời gian, rồi mới ghép vào chỗ trống thật sự có.",
+     "Scheduling starts with an estimate, then fits tasks into the time that actually exists."
+    ],
+    [
+     "Để cả ba bài vào tối thứ Năm",
+     "Leave all three for Thursday night",
+     0,
+     "Dồn vào một tối thì chỉ cần một việc bất ngờ là mất cả ba bài.",
+     "Pile them into one night and a single surprise costs you all three."
+    ]
+   ]
+  },
+  "C": {
+   "s": [
+    "An nhận lời sinh nhật bạn lúc 4h chiều Chủ nhật, rồi lại hứa đi tập bóng cũng 4h chiều hôm đó.",
+    "An has said yes to a friend’s birthday at 4pm Sunday, then promised to be at football practice at the same time."
+   ],
+   "q": [
+    "An nên làm gì?",
+    "What should An do?"
+   ],
+   "o": [
+    [
+     "Im lặng rồi đến muộn cả hai chỗ",
+     "Say nothing and turn up late to both",
+     0,
+     "Không báo trước làm cả hai bên phải chờ. Trùng lịch là chuyện thường, giấu mới là vấn đề.",
+     "Not warning them leaves both sides waiting. Clashes are normal; hiding them isn’t."
+    ],
+    [
+     "Gọi ngay cho bên nhận lời sau: xin lỗi, nói rõ mình trùng giờ và hẹn một dịp khác",
+     "Call the second one now: apologise, explain the clash, and offer another time",
+     1,
+     "Báo sớm và đề nghị phương án thay thế thì lời từ chối vẫn giữ được quan hệ.",
+     "Telling them early with an alternative keeps the relationship intact."
+    ],
+    [
+     "Nhờ một bạn báo hộ",
+     "Ask a friend to pass the message",
+     0,
+     "Lời hẹn của mình thì mình báo. Nhờ người khác làm giảm mức tin cậy.",
+     "Your commitment, your message. Delegating it costs you trust."
+    ]
+   ]
+  }
+ }
+}

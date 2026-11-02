@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Mời bạn ít nói góp ý",
+   "Bringing in the quiet voices"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An bàn cách làm mô hình ngôi nhà tiết kiệm điện. An và Huy nói liên tục. Mai ngồi im, tay cầm tờ giấy đã vẽ sẵn một ý tưởng.",
+   "An’s group is planning a model of an energy-saving house. An and Huy talk non-stop. Mai sits quietly holding a sheet with an idea already sketched."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cứ bàn tiếp, Mai muốn nói thì sẽ tự nói",
+    "Keep going; Mai will speak if she wants",
+    0,
+    "Bạn ít nói thường chờ được mời. Nếu không hỏi, nhóm có thể bỏ lỡ một ý hay.",
+    "Quiet people often wait to be asked. Without asking, the group may miss a great idea."
+   ],
+   [
+    "Lấy tờ giấy của Mai rồi tự trình bày giúp",
+    "Take Mai’s sheet and present it for her",
+    0,
+    "Muốn giúp là tốt, nhưng ý của Mai thì Mai nói sẽ hay nhất. Hãy mời bạn tự trình bày.",
+    "Wanting to help is kind, but Mai should share her own idea. Invite her to explain it."
+   ],
+   [
+    "Dừng lại và hỏi: “Mai ơi, cậu vẽ gì thế? Cậu nói ý của cậu đi, bọn tớ nghe.”",
+    "Pause and ask: “Mai, what have you drawn? Tell us your idea, we’re listening.”",
+    1,
+    "Một lời mời nhẹ nhàng giúp bạn ít nói tự tin chia sẻ. Nhóm có thêm góc nhìn thì sản phẩm tốt hơn.",
+    "A gentle invitation helps quieter people share. More viewpoints make a better result."
+   ]
+  ],
+  "qq": [
+   "Vì sao nên mời bạn ít nói chia sẻ?",
+   "Why invite quieter people to share?"
+  ],
+  "qo": [
+   [
+    "Để nhóm có đủ các góc nhìn",
+    "So the group hears every viewpoint"
+   ],
+   [
+    "Để bạn ấy bớt im lặng",
+    "To stop them being quiet"
+   ],
+   [
+    "Để mình đỡ phải nói",
+    "So you don’t have to talk"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bữa tối, cả nhà bàn chuyện nghỉ hè. Ba mẹ và An nói nhiều, còn ông chỉ ngồi nghe, lâu lâu mỉm cười.",
+     "At dinner the family talks about the summer holiday. Mum, Dad and An do most of the talking; Grandpa just listens and smiles now and then."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Quay sang hỏi: “Ông ơi, hồi trước ông thích đi đâu chơi nhất ạ?” rồi lắng nghe hết",
+      "Turn and ask: “Grandpa, where did you most like going?” and listen to the end",
+      1,
+      "Mời người ít nói chia sẻ trước và nghe trọn vẹn làm họ thấy được trân trọng.",
+      "Inviting quieter people and listening fully makes them feel valued."
+     ],
+     [
+      "Nói tiếp kế hoạch của mình",
+      "Carry on with your own plans",
+      0,
+      "Kế hoạch của con hay, nhưng ông cũng có thể có ý rất thú vị. Hỏi ông nhé.",
+      "Your plans are good, but Grandpa might have great ideas too. Ask him."
+     ],
+     [
+      "Nghĩ là ông không quan tâm",
+      "Assume Grandpa isn’t interested",
+      0,
+      "Im lặng chưa chắc là không quan tâm. Có khi ông chỉ chờ được hỏi.",
+      "Quiet doesn’t mean uninterested. He may just be waiting to be asked."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ khoa học thiếu nhi, cô chia nhóm làm thí nghiệm nảy mầm hạt đậu. Có một bạn mới tên Bảo rất ngại, chưa nói câu nào.",
+     "At the kids’ science club, groups are growing bean sprouts. A new boy, Bảo, is very shy and hasn’t said a word."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giao cho Bảo việc rửa cốc để Bảo khỏi phải nói",
+      "Give Bảo the cup-washing so he doesn’t have to speak",
+      0,
+      "Có việc làm là tốt, nhưng Bảo cũng có thể có ý tưởng. Mời bạn góp ý nữa nhé.",
+      "A task is nice, but he may have ideas too. Invite him to share."
+     ],
+     [
+      "Hỏi Bảo một câu dễ trả lời: “Cậu nghĩ nên đặt cốc ở chỗ sáng hay chỗ tối?”",
+      "Ask Bảo an easy question: “Do you think the cup should go somewhere bright or dark?”",
+      1,
+      "Câu hỏi dễ, cụ thể giúp bạn ngại nói có cơ hội bắt đầu.",
+      "An easy, specific question gives a shy person a way in."
+     ],
+     [
+      "Để Bảo một mình cho đỡ ngại",
+      "Leave him alone so he’s comfortable",
+      0,
+      "Để yên có thể làm bạn mới thấy lạc lõng. Một câu hỏi nhẹ nhàng sẽ giúp bạn hoà nhập.",
+      "Leaving him might make him feel left out. A gentle question helps."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Người ít nói nói trước",
+    "Quietest voice first"
+   ],
+   "s": [
+    "Trong bữa tối, con mời người ít nói nhất trong nhà chia sẻ trước về một chủ đề (ví dụ điều vui trong ngày) và lắng nghe hết, không chen ngang.",
+    "At dinner, invite the quietest person at home to share first on a topic (like the best bit of their day) and listen to the end without interrupting."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn câu hỏi mời, con hỏi trong bữa tối.",
+     "Choose an inviting question with your parent, then ask it at dinner."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự mời và lắng nghe.",
+     "With one reminder, you invite and listen."
+    ],
+    [
+     "Con tự nhận ra ai ít nói, tự mời, lắng nghe và hỏi thêm một câu.",
+     "You notice who’s quiet, invite them, listen and ask a follow-up question."
+    ]
+   ],
+   "rw": [
+    "Ông bà hoặc ba mẹ kể một chuyện ngày xưa con chọn",
+    "A grandparent or parent tells an old story of your choice"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Giữ gìn đồ dùng chung",
+   "Caring for shared things"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cả nhà dùng chung một chiếc kéo và cuộn băng dính. Dùng xong An hay để trên bàn học, hôm nay mẹ tìm mãi không thấy để gói quà.",
+   "The family shares one pair of scissors and a roll of tape. An often leaves them on the desk after use, and today Mum can’t find them to wrap a present."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mang ngay ra cho mẹ, xin lỗi và từ nay dùng xong cất lại vào ngăn kéo chung",
+    "Bring them to Mum, say sorry and from now on put them back in the shared drawer",
+    1,
+    "Đồ dùng chung cất đúng chỗ thì ai cần cũng tìm thấy ngay. Đó là cách tôn trọng mọi người.",
+    "Shared things in their place mean anyone can find them. That respects everyone."
+   ],
+   [
+    "Nói với mẹ: “Chắc ai đó lấy rồi.”",
+    "Tell Mum: “Someone else must have taken them.”",
+    0,
+    "Đổ cho người khác không giúp tìm thấy đồ. Nhận lỗi và cất đúng chỗ từ nay sẽ tốt hơn.",
+    "Blaming others won’t find them. Own up and put them back from now on."
+   ],
+   [
+    "Giữ luôn trong phòng mình cho tiện",
+    "Keep them in your room for convenience",
+    0,
+    "Tiện cho con nhưng khó cho cả nhà. Đồ chung nên ở chỗ chung.",
+    "Handy for you, hard for everyone else. Shared things belong in a shared place."
+   ]
+  ],
+  "qq": [
+   "Dùng đồ chung đúng cách là thế nào?",
+   "Using shared things well means…"
+  ],
+  "qo": [
+   [
+    "Dùng xong để đâu cũng được",
+    "Leaving them anywhere"
+   ],
+   [
+    "Chỉ mình được dùng",
+    "Keeping them for yourself"
+   ],
+   [
+    "Cất đúng chỗ, giữ sạch và báo ngay khi hỏng",
+    "Putting them back, keeping them clean, reporting damage"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp có hộp bút màu chung. Khi dùng, An làm gãy một cây và thấy vài cây khác chưa đậy nắp.",
+     "The class shares a box of felt-tip pens. Using it, An breaks one and notices others with lids off."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giấu cây gãy xuống đáy hộp",
+      "Hide the broken one at the bottom",
+      0,
+      "Giấu đi thì bạn sau sẽ bất ngờ khi dùng. Nói thật thì không sao cả.",
+      "Hiding it surprises the next person. Being honest is fine."
+     ],
+     [
+      "Đậy nắp các cây bút, xếp gọn vào hộp và báo cô cây bị gãy",
+      "Put the lids on, tidy the box and tell the teacher about the broken pen",
+      1,
+      "Báo ngay khi hỏng giúp cô kịp thay. Giữ gìn đồ chung là giúp cả lớp.",
+      "Reporting damage lets the teacher replace it. Caring for shared things helps everyone."
+     ],
+     [
+      "Không phải bút mình làm mở nắp nên mặc kệ",
+      "Those aren’t your lids, so ignore them",
+      0,
+      "Đồ chung là của cả lớp. Đậy giúp vài cây chỉ mất một chút thời gian.",
+      "Shared means everyone’s. Capping a few takes seconds."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố, An mượn một cuốn truyện. Về nhà, em An làm rách một góc trang.",
+     "An borrows a book from the local library. At home little sister tears the corner of a page."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Trả sách mà không nói gì",
+      "Return it without saying anything",
+      0,
+      "Người mượn sau sẽ thấy trang rách. Báo cô thủ thư là cách trung thực.",
+      "The next reader will find it. Telling the librarian is honest."
+     ],
+     [
+      "Tự dán băng dính thật nhiều rồi trả",
+      "Tape it up heavily yourself and return it",
+      0,
+      "Dán vụng có khi làm sách hỏng thêm. Hỏi cô thủ thư cách sửa nhé.",
+      "Clumsy taping can do more damage. Ask the librarian how to fix it."
+     ],
+     [
+      "Cùng ba mẹ mang sách đến, báo cô thủ thư và hỏi cách sửa, từ nay để sách xa tầm tay em",
+      "Take it back with a parent, tell the librarian and ask how to fix it, and keep books out of sister’s reach",
+      1,
+      "Báo ngay khi hỏng và rút kinh nghiệm cách cất giữ là giữ gìn đồ chung.",
+      "Reporting damage and learning to store things safely is how we care for shared things."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một món đồ chung sạch sẽ",
+    "One shared thing, sparkling"
+   ],
+   "s": [
+    "Con chọn một món đồ dùng chung trong nhà (điều khiển, kéo, hộp bút…), lau sạch và cất đúng chỗ. Ba mẹ xác nhận.",
+    "Pick one shared item at home (remote, scissors, pen pot…), clean it and put it in its proper place. Your parent confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ, chỉ chỗ cất và lau cùng.",
+     "Choose the item with your parent, find its place and clean it together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lau và cất.",
+     "With one reminder, you clean and put it away."
+    ],
+    [
+     "Con tự chọn đồ, lau, cất và đề xuất một chỗ cất chung dễ nhớ cho cả nhà.",
+     "You choose, clean, put it away and suggest an easy-to-remember spot for everyone."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cho con tự chọn chỗ đặt một món đồ trang trí trong nhà",
+    "You choose where a decoration goes at home"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Bạn cùng bàn lấn chỗ",
+   "My deskmate takes my space"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nam ngồi cùng bàn để sách vở tràn sang chỗ An, khuỷu tay còn hay huých vào tay An khi viết. Chữ An bị lệch dòng mấy lần.",
+   "An’s deskmate Nam spreads books onto An’s side and keeps nudging An’s arm while writing. An’s handwriting goes wonky several times."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đẩy sách của Nam về chỗ cũ thật mạnh",
+    "Shove Nam’s books back hard",
+    0,
+    "Đẩy mạnh dễ làm bạn giận và hai bạn cãi nhau. Nói nhẹ nhàng trước sẽ hiệu quả hơn.",
+    "Shoving starts an argument. Speaking kindly first works better."
+   ],
+   [
+    "Nói nhẹ nhàng: “Nam ơi, sách cậu sang chỗ tớ rồi. Mình chia đôi bàn, lấy cái thước làm vạch nhé?”",
+    "Say kindly: “Nam, your books are on my side. Shall we split the desk with a ruler as the line?”",
+    1,
+    "Nói nhẹ nhàng và đề xuất cách chia công bằng giúp hai bạn cùng thoải mái. Nếu vẫn chưa ổn thì nhờ cô giúp.",
+    "Speaking kindly with a fair plan helps you both. If it still doesn’t work, ask the teacher."
+   ],
+   [
+    "Im lặng chịu cả năm",
+    "Put up with it all year",
+    0,
+    "Chịu đựng mãi làm con khó tập trung. Bạn có thể không biết mình lấn chỗ đâu.",
+    "Putting up with it makes focusing hard. Nam may not even realise."
+   ]
+  ],
+  "qq": [
+   "Khi ai đó lấn chỗ của mình, nên làm gì trước?",
+   "When someone takes your space, first…"
+  ],
+  "qo": [
+   [
+    "Lấn lại cho bằng",
+    "Take their space back"
+   ],
+   [
+    "Nói nhẹ nhàng và đề xuất cách chia công bằng",
+    "Speak kindly and suggest a fair split"
+   ],
+   [
+    "Mách cô ngay lập tức",
+    "Tell the teacher immediately"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An và em dùng chung bàn học. Em bày bút màu khắp bàn, An không còn chỗ mở vở.",
+     "An and little brother share a desk. He spreads crayons everywhere and An has no room to open a book."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gạt hết bút màu của em xuống",
+      "Sweep his crayons off",
+      0,
+      "Gạt đồ làm em buồn và có thể làm hỏng bút. Thử thoả thuận với em nhé.",
+      "Sweeping them off upsets him and can break things. Try agreeing a plan."
+     ],
+     [
+      "Ôm vở ra ngồi dưới đất",
+      "Take your book and sit on the floor",
+      0,
+      "Nhường em là tốt bụng, nhưng con cũng cần chỗ học tốt. Hãy thoả thuận chia chỗ.",
+      "Giving way is kind, but you need a good place to study too. Agree on sharing."
+     ],
+     [
+      "Bảo em: “Mình chia mỗi người nửa bàn, em để bút trong hộp này nhé”, cần thì nhờ ba mẹ",
+      "Tell him: “Let’s have half each, and keep your crayons in this box”, and ask a parent if needed",
+      1,
+      "Một cách chia rõ ràng giúp cả hai cùng có chỗ. Ba mẹ có thể giúp nếu em còn nhỏ.",
+      "A clear split gives you both room. Your parents can help if he’s little."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Trên xe khách về quê cùng ba mẹ, bạn nhỏ ghế bên cạnh duỗi chân và để túi sang chỗ ngồi của An.",
+     "On the coach to the countryside with Mum and Dad, the child in the next seat stretches out and puts a bag on An’s seat."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói lịch sự: “Bạn ơi, cho mình xin chỗ này nhé, mình để túi bạn xuống dưới được không?”, nếu không được thì nhờ ba mẹ",
+      "Say politely: “Could I have this seat? Can we put your bag down below?”, and ask your parents if that doesn’t work",
+      1,
+      "Lời đề nghị lịch sự và cụ thể thường giải quyết được ngay. Người lớn sẽ giúp nếu cần.",
+      "A polite, specific request usually sorts it. The grown-ups can help if needed."
+     ],
+     [
+      "Ngồi chen chúc suốt đường",
+      "Squash up for the whole journey",
+      0,
+      "Chuyến đi dài mà ngồi chật sẽ rất mệt. Hỏi lịch sự một câu là được.",
+      "A long squashed trip is tiring. One polite question can fix it."
+     ],
+     [
+      "Gạt túi xuống sàn",
+      "Push the bag onto the floor",
+      0,
+      "Tự ý gạt đồ người khác dễ gây khó chịu. Hỏi trước sẽ lịch sự hơn.",
+      "Moving others’ things without asking causes upset. Ask first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đóng vai chia chỗ công bằng",
+    "Role-play a fair split"
+   ],
+   "s": [
+    "Cùng ba mẹ đóng vai bạn cùng bàn lấn chỗ: con tập nói nhẹ nhàng, đề xuất cách chia chỗ công bằng và nói khi nào cần nhờ thầy cô.",
+    "Role-play a desk-hogging deskmate with your parent: practise speaking kindly, suggesting a fair split, and saying when you’d ask the teacher."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu, con nói theo.",
+     "Your parent models it, then you try."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói và đề xuất.",
+     "With one reminder, you speak and suggest a split yourself."
+    ],
+    [
+     "Con tự xử lý hai tình huống khác nhau ba mẹ đưa ra.",
+     "You handle two different situations your parent sets."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi một ván cờ hoặc trò chơi bàn cờ con chọn",
+    "A family round of a board game of your choice"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nhận xét bài bạn có căn cứ",
+   "Feedback with evidence"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở lớp vẽ cuối tuần, cô nhờ các bạn nhận xét tranh của nhau theo hai tiêu chí: màu sắc và bố cục. Linh hỏi An: “Cậu thấy tranh tớ thế nào?”",
+   "At weekend art class the teacher asks everyone to give feedback on two things: colour and layout. Linh asks An: “What do you think of my picture?”"
+  ],
+  "cq": [
+   "An nên nhận xét thế nào?",
+   "How should An give feedback?"
+  ],
+  "co": [
+   [
+    "“Đẹp lắm!”",
+    "“It’s lovely!”",
+    0,
+    "Khen là tốt, nhưng chưa nói được đẹp ở đâu. Nói cụ thể giúp bạn biết giữ điều gì.",
+    "Praise is nice, but it doesn’t say what works. Specifics help your friend."
+   ],
+   [
+    "“Không đẹp bằng tranh tớ.”",
+    "“Not as good as mine.”",
+    0,
+    "So sánh như vậy làm bạn buồn và không giúp bạn sửa. Hãy dựa vào tiêu chí.",
+    "That comparison hurts and doesn’t help. Use the criteria."
+   ],
+   [
+    "“Màu trời và biển hợp nhau. Còn bố cục, con thuyền hơi sát mép, dịch vào giữa sẽ cân hơn.”",
+    "“The sky and sea colours go well together. For layout, the boat is close to the edge; moving it in would balance it.”",
+    1,
+    "Nói điều tốt, điều chưa tốt và vì sao, theo đúng tiêu chí, giúp nhận xét công bằng và hữu ích.",
+    "Saying what works, what doesn’t and why, using the criteria, makes feedback fair and useful."
+   ]
+  ],
+  "qq": [
+   "Một lời nhận xét có căn cứ cần gì?",
+   "Feedback with evidence needs…"
+  ],
+  "qo": [
+   [
+    "Chỉ khen cho bạn vui",
+    "Only praise"
+   ],
+   [
+    "Chỉ ra lỗi thật nhiều",
+    "Lots of faults"
+   ],
+   [
+    "Điểm tốt, điểm cần sửa và lý do dựa trên tiêu chí",
+    "Strengths, things to improve and reasons based on criteria"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em An khoe bức vẽ con mèo và hỏi: “Em vẽ có đẹp không?”",
+     "Little sister shows a drawing of a cat and asks: “Is it good?”"
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Em tô màu lông mèo rất đều. Nếu vẽ thêm ria thì nhìn giống mèo hơn đấy.”",
+      "“You coloured the fur really evenly. Adding whiskers would make it look even more like a cat.”",
+      1,
+      "Khen cụ thể và gợi ý một điều nhỏ giúp em vui và biết cách vẽ đẹp hơn.",
+      "Specific praise and one small tip makes her happy and helps her improve."
+     ],
+     [
+      "“Mèo gì trông như con chuột!”",
+      "“That cat looks like a mouse!”",
+      0,
+      "Đùa kiểu này làm em buồn. Hãy chỉ ra điểm hay trước rồi gợi ý nhẹ nhàng.",
+      "Joking like that hurts. Start with something good, then suggest gently."
+     ],
+     [
+      "“Ừ, đẹp”, rồi quay đi",
+      "“Yeah, nice,” and turn away",
+      0,
+      "Em muốn nghe anh chị nhận xét thật. Một câu cụ thể sẽ làm em rất vui.",
+      "She wants real feedback. One specific comment would delight her."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô cho đổi vở chấm chéo bài văn theo hai tiêu chí: đủ ba phần và dùng từ hay. Bài của Huy thiếu phần kết.",
+     "The teacher has pupils swap essays and mark them on two criteria: three parts, and good word choice. Huy’s essay has no ending."
+    ],
+    "q": [
+     "An nên ghi nhận xét thế nào?",
+     "What should An write?"
+    ],
+    "o": [
+     [
+      "“Bài tệ.”",
+      "“Bad essay.”",
+      0,
+      "Nhận xét chung chung không giúp bạn biết sửa ở đâu. Hãy dựa vào tiêu chí.",
+      "Vague comments don’t show what to fix. Use the criteria."
+     ],
+     [
+      "“Bạn dùng từ “lấp lánh” rất hay. Bài còn thiếu phần kết, thêm một câu cảm nghĩ là đủ ba phần.”",
+      "“Great use of the word “sparkling”. It’s missing an ending; one sentence of reflection would complete it.”",
+      1,
+      "Nhận xét theo tiêu chí, có điểm tốt và gợi ý sửa cụ thể, giúp bạn biết phải làm gì.",
+      "Criteria-based feedback with a strength and a clear fix tells Huy what to do."
+     ],
+     [
+      "Không ghi gì vì ngại",
+      "Write nothing because it’s awkward",
+      0,
+      "Ngại là bình thường, nhưng nhận xét tử tế giúp bạn tiến bộ.",
+      "Feeling awkward is normal, but kind feedback helps Huy improve."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nhận xét theo hai tiêu chí",
+    "Feedback on two criteria"
+   ],
+   "s": [
+    "Con nhận xét một bức vẽ hay bài viết của người nhà theo 2 tiêu chí đã chọn: nói một điểm tốt, một điểm có thể làm tốt hơn và vì sao.",
+    "Give feedback on a family member’s drawing or writing using 2 chosen criteria: one strength, one thing to improve and why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn tiêu chí và nói mẫu một lời nhận xét.",
+     "Choose criteria with your parent, who models one comment."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhận xét theo 2 tiêu chí.",
+     "With one reminder, you give feedback on 2 criteria."
+    ],
+    [
+     "Con tự chọn tiêu chí, nhận xét và hỏi người kia thấy lời nhận xét có hữu ích không.",
+     "You choose the criteria, give feedback and ask if it was helpful."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ nhận xét lại một bức vẽ của con theo cách con vừa làm",
+    "Your parent gives feedback on one of your drawings the same way"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Tôn trọng ranh giới của bạn",
+   "Respecting other people’s boundaries"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An thích cù em, nhưng hôm nay em nói: “Dừng lại đi, em không thích!” An nghĩ em đang đùa.",
+   "An loves tickling little brother, but today he says: “Stop, I don’t like it!” An thinks he’s joking."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Dừng ngay và hỏi: “Em muốn chơi trò gì khác không?”",
+    "Stop straight away and ask: “Want to play something else?”",
+    1,
+    "Dừng khi nghe “không” giúp em tin tưởng con. Ai cũng có quyền với cơ thể mình.",
+    "Stopping at “no” builds trust. Everyone has a say over their own body."
+   ],
+   [
+    "Cù tiếp vì em đang cười",
+    "Keep going because he’s laughing",
+    0,
+    "Cười chưa chắc là thích. Khi em nói “dừng” thì dừng ngay.",
+    "Laughing doesn’t mean liking it. When he says stop, stop."
+   ],
+   [
+    "Giận vì em làm mất vui",
+    "Get cross for spoiling the fun",
+    0,
+    "Em có quyền nói không. Tìm trò khác cả hai cùng thích nhé.",
+    "He has the right to say no. Find a game you both enjoy."
+   ]
+  ],
+  "qq": [
+   "Khi ai đó nói “không”, con nên làm gì?",
+   "When someone says “no”, you should…"
+  ],
+  "qo": [
+   [
+    "Thuyết phục thêm vài lần",
+    "Keep persuading"
+   ],
+   [
+    "Dừng lại và tôn trọng",
+    "Stop and respect it"
+   ],
+   [
+    "Làm khi bạn không để ý",
+    "Do it when they’re not looking"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, An thấy cuốn sổ vẽ đẹp trên bàn Vy liền cầm lên xem. Vy chạy lại: “Đừng, tớ chưa muốn cho ai xem!” An định cười: “Xem tí thôi mà.”",
+     "At break An spots Vy’s beautiful sketchbook on her desk and picks it up. Vy rushes over: “Don’t, I’m not ready to show anyone!” An is about to laugh: “Just a quick look.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xem nhanh rồi trả",
+      "Have a quick look, then hand it back",
+      0,
+      "Bạn đã nói “không” rồi. Xem tiếp làm bạn thấy không được tôn trọng.",
+      "She said no. Carrying on makes her feel disrespected."
+     ],
+     [
+      "Đặt lại sổ, xin lỗi Vy và lần sau hỏi trước khi cầm đồ của bạn",
+      "Put it back, apologise and ask first next time",
+      1,
+      "Nghe “không” thì dừng ngay. Hỏi trước khi chạm vào đồ của người khác là tôn trọng bạn.",
+      "When you hear “no”, stop right away. Asking first is how we respect others."
+     ],
+     [
+      "Giơ sổ lên cho các bạn khác xem cùng",
+      "Hold it up for others to see",
+      0,
+      "Như vậy làm Vy rất buồn và xấu hổ. Đồ của bạn, bạn quyết định ai được xem.",
+      "That would really upset Vy. Her things, her choice who sees them."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng ba, An thấy một chú chó rất đáng yêu do một cô dắt. An muốn chạy đến xoa đầu nó ngay.",
+     "At the park with Dad, An sees a cute dog on a lead with its owner. An wants to run over and pat it right away."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chạy đến xoa luôn",
+      "Run over and pat it",
+      0,
+      "Có chú chó không thích người lạ chạm vào. Luôn hỏi chủ trước nhé.",
+      "Some dogs don’t like strangers touching them. Always ask the owner first."
+     ],
+     [
+      "Gọi to cho chó chạy lại",
+      "Call the dog loudly",
+      0,
+      "Gọi to có thể làm chó giật mình. Đi cùng ba và hỏi chủ trước an toàn hơn.",
+      "Shouting can startle it. Go with Dad and ask the owner."
+     ],
+     [
+      "Cùng ba đến hỏi: “Cô ơi, con xoa đầu chó được không ạ?”; cô nói không thì thôi",
+      "Go with Dad and ask: “May I pat your dog?”; if the answer is no, that’s fine",
+      1,
+      "Hỏi trước khi chạm vào đồ hay thú cưng của người khác là tôn trọng ranh giới.",
+      "Asking before touching other people’s things or pets respects their boundaries."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba câu xin phép",
+    "Three ways to ask"
+   ],
+   "s": [
+    "Con tập 3 câu xin phép với ba mẹ (ví dụ “Mình xem được không?”, “Mình mượn nhé?”, “Cậu có muốn… không?”) và dùng chúng trong tuần, rồi kể lại.",
+    "Practise 3 asking phrases with your parent (like “Can I look?”, “May I borrow…?”, “Would you like…?”) and use them this week, then report back."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu 3 câu, con nói theo và dùng một câu trong ngày.",
+     "Your parent models 3 phrases, you repeat them and use one today."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự dùng các câu xin phép trong tuần.",
+     "With one reminder, you use the phrases during the week."
+    ],
+    [
+     "Con tự dùng đủ 3 câu, kể lại tình huống và cách con làm khi nghe “không”.",
+     "You use all 3, describe when, and what you did when someone said no."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một tấm thiệp tặng người con quý",
+    "Make a card together for someone you care about"
+   ]
+  }
+ }
+]

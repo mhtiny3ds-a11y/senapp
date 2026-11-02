@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Đi đường an toàn",
+   "Staying safe on the road"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bà đưa An đi bộ đến trường. Thấy bạn Nam ở bên kia đường, An muốn chạy ngay qua dù đèn dành cho người đi bộ đang đỏ.",
+   "Grandma is walking An to school. Seeing Nam across the road, An wants to dash over even though the pedestrian light is red."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đứng cạnh bà, chờ đèn xanh, nhìn trái phải rồi cùng bà qua ở vạch kẻ đường",
+    "Stay by Grandma, wait for green, look both ways, then cross together at the crossing",
+    1,
+    "Đèn tín hiệu, vạch kẻ và người lớn đi cùng là ba điều giữ con an toàn. Bạn vẫn sẽ chờ con ở đó.",
+    "Lights, the crossing and a grown-up beside you keep you safe. Nam will still be there."
+   ],
+   [
+    "Chạy nhanh qua vì đường đang vắng",
+    "Run across quickly since the road looks empty",
+    0,
+    "Đường trông vắng nhưng xe có thể đến rất nhanh. Chờ đèn xanh mới là an toàn.",
+    "An empty-looking road can fill fast. Waiting for green is what keeps you safe."
+   ],
+   [
+    "Gọi Nam chạy sang bên này",
+    "Shout for Nam to run over to you",
+    0,
+    "Rủ bạn chạy qua đường làm bạn gặp nguy hiểm. Vẫy tay chào rồi chờ gặp nhau ở cổng trường.",
+    "Calling Nam to run puts Nam at risk. Wave and meet at the school gate."
+   ]
+  ],
+  "qq": [
+   "Khi qua đường, điều quan trọng nhất là…",
+   "When crossing the road, the most important thing is…"
+  ],
+  "qo": [
+   [
+    "Đi thật nhanh",
+    "Go as fast as you can"
+   ],
+   [
+    "Đi theo bạn bè",
+    "Follow your friends"
+   ],
+   [
+    "Đi theo đèn tín hiệu và vạch kẻ, nhìn kỹ hai bên",
+    "Follow the lights and crossing, and look both ways"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Chiều nay An được ba cho đạp xe trong con hẻm trước nhà. Mũ bảo hiểm hơi chật nên An định không đội.",
+     "This afternoon Dad lets An ride a bike in the lane outside the house. The helmet feels tight, so An plans to leave it off."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Không đội vì chỉ đạp gần nhà",
+      "Skip it — it’s only near home",
+      0,
+      "Va chạm có thể xảy ra ngay cả ở gần nhà. Đội mũ là thói quen bảo vệ đầu.",
+      "Bumps happen close to home too. A helmet is a habit that protects your head."
+     ],
+     [
+      "Đội lỏng quai cho đỡ chật",
+      "Wear it with the strap loose",
+      0,
+      "Quai lỏng thì mũ dễ tuột khi cần nhất. Hãy chỉnh cho vừa.",
+      "A loose strap lets it slip when you need it most. Adjust it to fit."
+     ],
+     [
+      "Nhờ ba chỉnh lại quai cho vừa, đội rồi mới đạp",
+      "Ask Dad to adjust the strap, then put it on before riding",
+      1,
+      "Mũ vừa vặn vừa thoải mái vừa an toàn. Nhờ ba giúp chỉ mất một phút.",
+      "A helmet that fits is comfy and safe. Dad can sort it in a minute."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tan học, cổng trường rất đông xe đón. Vài bạn rủ An chạy ra giữa đường cho nhanh tìm ba.",
+     "After school the gate is packed with parents’ motorbikes. Some classmates tell An to run into the road to find Dad faster."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chạy theo các bạn",
+      "Run with the others",
+      0,
+      "Giữa dòng xe đông, người lái khó nhìn thấy trẻ em. Đứng ở chỗ an toàn sẽ tốt hơn.",
+      "In heavy traffic drivers struggle to see children. Stay somewhere safe."
+     ],
+     [
+      "Đứng chờ ở chỗ hẹn trên vỉa hè hoặc trong sân trường cho đến khi thấy ba",
+      "Wait at the agreed spot on the pavement or in the school yard until you see Dad",
+      1,
+      "Có chỗ hẹn cố định thì ba dễ tìm con và con luôn an toàn.",
+      "A fixed meeting spot means Dad finds you easily and you stay safe."
+     ],
+     [
+      "Tự đi bộ về nhà cho nhanh",
+      "Walk home by yourself to save time",
+      0,
+      "Tự về khi chưa có thoả thuận làm ba mẹ lo và không an toàn. Hãy chờ đúng chỗ hẹn.",
+      "Going home without an agreement worries your parents and isn’t safe. Wait at the meeting spot."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Giờ dùng màn hình có giới hạn",
+   "Keeping screen time in check"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ cho An xem phim hoạt hình 30 phút sau khi làm bài. Hết giờ, phim đang đến đoạn hay, An xin xem thêm “một tập nữa thôi”.",
+   "Mum and Dad let An watch 30 minutes of cartoons after homework. Time’s up just as it gets exciting, and An begs for “just one more episode”."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tắt khi đồng hồ báo, và ghi tên tập để mai xem tiếp",
+    "Switch off when the timer goes and note the episode for tomorrow",
+    1,
+    "Giữ đúng thoả thuận giúp ba mẹ tin con hơn. Phim vẫn ở đó chờ con ngày mai.",
+    "Keeping the deal builds trust. The show will still be there tomorrow."
+   ],
+   [
+    "Xin thêm một tập, rồi lại thêm một tập",
+    "Ask for one more, then another",
+    0,
+    "Phim thường được làm để mình muốn xem tiếp mãi. Tự dừng đúng giờ là kỹ năng quan trọng.",
+    "Shows are designed to keep you watching. Stopping on time is an important skill."
+   ],
+   [
+    "Lén xem tiếp khi ba mẹ không để ý",
+    "Watch secretly when no one’s looking",
+    0,
+    "Lén lút làm mất lòng tin và con cũng không thấy thoải mái. Thành thật thoả thuận lại sẽ tốt hơn.",
+    "Sneaking breaks trust and doesn’t feel good. Honestly agreeing a new deal is better."
+   ]
+  ],
+  "qq": [
+   "Cách giúp dừng xem màn hình đúng giờ là…",
+   "A way to stop screen time on time is…"
+  ],
+  "qo": [
+   [
+    "Đặt hẹn giờ và có sẵn việc khác để làm tiếp",
+    "Set a timer and plan what to do next"
+   ],
+   [
+    "Xem cho đến khi chán",
+    "Watch until you’re bored"
+   ],
+   [
+    "Để ba mẹ giật điều khiển",
+    "Wait for a parent to grab the remote"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, các bạn chụm đầu xem video trên máy tính bảng mà một bạn mang đi dù trường không cho. Bạn rủ An xem cùng.",
+     "At break, classmates crowd round a tablet someone brought in, though school rules say no. They call An over."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ngồi xem cùng cho vui",
+      "Join in, it’s fun",
+      0,
+      "Nội quy có lý do: giờ ra chơi để vận động và trò chuyện. Rủ bạn chơi trò khác sẽ vui hơn.",
+      "Rules have reasons — break is for moving and chatting. Suggest another game."
+     ],
+     [
+      "Rủ các bạn chơi nhảy dây và nhắc nhẹ về nội quy",
+      "Invite them to skipping and gently mention the rule",
+      1,
+      "Đưa ra một trò khác hấp dẫn giúp các bạn rời màn hình dễ dàng hơn.",
+      "Offering a fun alternative makes it easier to leave the screen."
+     ],
+     [
+      "Đi mách cô ngay mà không nói gì với bạn",
+      "Go and tell the teacher without a word to them",
+      0,
+      "Nhắc bạn trước là cách tử tế. Nếu bạn vẫn tiếp tục, khi ấy hãy nhờ cô.",
+      "Reminding them first is kind. If they carry on, then ask the teacher."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi ăn tối ở nhà hàng mừng sinh nhật ông. An mang máy tính bảng theo và muốn xem phim trong lúc chờ món.",
+     "The family is out at a restaurant for Grandpa’s birthday. An brought the tablet and wants to watch while waiting for food."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đeo tai nghe xem suốt bữa ăn",
+      "Put headphones on and watch all meal",
+      0,
+      "Hôm nay là ngày của ông. Ông sẽ vui khi được cháu trò chuyện cùng.",
+      "Today is Grandpa’s day. He’ll love chatting with you."
+     ],
+     [
+      "Xem đến khi đồ ăn ra rồi mới cất",
+      "Watch until the food arrives, then stop",
+      0,
+      "Thời gian chờ món cũng là lúc trò chuyện vui nhất. Thử cất máy từ đầu xem sao.",
+      "Waiting for food is often the best time to chat. Try leaving it in the bag."
+     ],
+     [
+      "Cất máy, hỏi ông chuyện ngày xưa và rủ cả nhà chơi đố vui",
+      "Put it away, ask Grandpa about the old days, and start a quiz game",
+      1,
+      "Bữa ăn chung là lúc kết nối với nhau. Màn hình có thể chờ.",
+      "Family meals are for connecting. The screen can wait."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "So sánh giá trước khi mua",
+   "Comparing prices before buying"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi chợ cùng mẹ, An được tự mua trái cây ăn vặt trong tuần bằng 40.000 đồng. Sạp đầu tiên bán cam 30.000 đồng một ký, An định mua luôn.",
+   "At the market with Mum, An can buy fruit for the week with 40,000₫. The first stall sells oranges at 30,000₫ a kilo, and An is about to buy."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi giá thêm hai sạp nữa, xem cam có tươi không, rồi mới chọn",
+    "Check two more stalls, look at freshness, then decide",
+    1,
+    "So sánh cả giá lẫn chất lượng giúp mình mua được thứ tốt với giá hợp lý.",
+    "Comparing price and quality gets you good value."
+   ],
+   [
+    "Mua luôn cho đỡ mất thời gian",
+    "Buy now to save time",
+    0,
+    "Mua ngay ở chỗ đầu tiên có thể đắt hơn chỗ khác. Đi xem thêm vài phút có khi tiết kiệm được.",
+    "The first stall might be dearer. A few minutes looking could save money."
+   ],
+   [
+    "Chọn chỗ rẻ nhất dù cam đã dập",
+    "Pick the cheapest even if the oranges are bruised",
+    0,
+    "Rẻ nhất chưa chắc là tốt nhất. Cam dập nhanh hỏng thì phí tiền hơn.",
+    "Cheapest isn’t always best. Bruised fruit goes off quickly and wastes money."
+   ]
+  ],
+  "qq": [
+   "So sánh khi mua sắm nghĩa là…",
+   "Comparing when shopping means…"
+  ],
+  "qo": [
+   [
+    "Chỉ nhìn giá thấp nhất",
+    "Only looking at the lowest price"
+   ],
+   [
+    "Mua chỗ đông người nhất",
+    "Buying where it’s busiest"
+   ],
+   [
+    "Xem cả giá và chất lượng ở vài nơi",
+    "Checking price and quality in a few places"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ nhờ An chọn kem đánh răng trên trang mua sắm, mẹ ngồi cạnh. Có tuýp nhỏ 20.000 đồng và tuýp gấp đôi 32.000 đồng.",
+     "Mum asks An to choose toothpaste on a shopping website while she sits beside. There’s a small tube for 20,000₫ and a double-size one for 32,000₫."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chọn tuýp nhỏ vì số tiền ít hơn",
+      "Pick the small one because it costs less",
+      0,
+      "Số tiền ít hơn chưa chắc rẻ hơn. Hãy tính giá cho cùng một lượng.",
+      "Less money isn’t always cheaper. Compare the price for the same amount."
+     ],
+     [
+      "Tính ra hai tuýp nhỏ là 40.000 đồng, nên tuýp lớn lợi hơn, rồi hỏi mẹ có dùng hết trước hạn không",
+      "Work out two small tubes cost 40,000₫ so the big one is better value, then ask Mum if you’ll use it before it expires",
+      1,
+      "So sánh theo cùng một lượng cho biết đâu là giá tốt. Kiểm tra hạn dùng để không phí.",
+      "Comparing the same amount shows the real deal. Checking the date avoids waste."
+     ],
+     [
+      "Chọn tuýp có hình đẹp hơn",
+      "Pick the one with nicer packaging",
+      0,
+      "Vỏ đẹp không làm kem tốt hơn. Nhìn vào lượng và giá sẽ chính xác hơn.",
+      "Pretty packaging doesn’t improve the product. Look at size and price."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Hội chợ sách của trường bán một cuốn truyện An thích với giá 60.000 đồng. An nhớ hiệu sách gần nhà bán 45.000 đồng, nhưng hội chợ có tặng kèm thẻ đánh dấu sách.",
+     "The school book fair sells a story An wants for 60,000₫. An remembers the shop near home sells it for 45,000₫, but the fair gives a free bookmark."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua ngay ở hội chợ vì có quà",
+      "Buy at the fair for the freebie",
+      0,
+      "Quà tặng nhỏ không đáng chênh 15.000 đồng. Hãy so sánh tổng giá trị.",
+      "A small freebie isn’t worth 15,000₫ more. Compare the full value."
+     ],
+     [
+      "Mua cả hai nơi cho chắc",
+      "Buy it in both places to be safe",
+      0,
+      "Mua hai cuốn giống nhau là phí tiền. Chọn một nơi có lợi nhất.",
+      "Two copies wastes money. Pick the better deal."
+     ],
+     [
+      "Nghĩ xem chênh 15.000 đồng có đáng với chiếc thẻ đánh dấu sách không, rồi bàn với ba mẹ",
+      "Think whether the bookmark is worth 15,000₫ extra, then talk it over with your parents",
+      1,
+      "Đồ tặng kèm hay làm mình quên so sánh. Tính ra chênh lệch giúp quyết định khôn ngoan.",
+      "Freebies make us forget to compare. Working out the difference helps you decide wisely."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nhờ giúp đỡ cho rõ ràng",
+   "Asking for help clearly"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An làm bài Toán đố mãi không ra. An chạy đến chỗ ba đang nấu cơm và nói: “Ba ơi, bài này khó quá, con không làm được!”",
+   "An is stuck on a maths word problem. An runs to Dad, who’s cooking dinner, and says: “Dad, this is too hard, I can’t do it!”"
+  ],
+  "cq": [
+   "An nên nhờ ba thế nào cho rõ?",
+   "How could An ask more clearly?"
+  ],
+  "co": [
+   [
+    "Đưa vở cho ba và chờ ba làm hộ",
+    "Hand Dad the book and wait for him to do it",
+    0,
+    "Ba làm hộ thì con không hiểu bài. Nói rõ chỗ vướng để ba hướng dẫn con tự làm.",
+    "If Dad does it, you don’t learn. Say where you’re stuck so he can guide you."
+   ],
+   [
+    "Nói: “Con hiểu đề rồi, nhưng không biết bước tiếp theo. Lúc ba nấu xong, ba xem giúp con được không?”",
+    "Say: “I understand the question but not the next step. Could you look when you’ve finished cooking?”",
+    1,
+    "Nói rõ mình đã làm được gì, vướng ở đâu và hỏi lúc nào tiện giúp người khác dễ giúp mình.",
+    "Saying what you’ve done, where you’re stuck and asking when suits them makes it easy to help."
+   ],
+   [
+    "Ngồi khóc vì không ai giúp",
+    "Sit and cry because no one helps",
+    0,
+    "Buồn khi bí bài là bình thường. Nói rõ điều cần sẽ giúp người khác biết cách giúp con.",
+    "Feeling upset is normal. Saying what you need lets others help."
+   ]
+  ],
+  "qq": [
+   "Một lời nhờ giúp rõ ràng cần có…",
+   "A clear request for help includes…"
+  ],
+  "qo": [
+   [
+    "Giọng thật to",
+    "A loud voice"
+   ],
+   [
+    "Mình cần giúp việc gì và vướng ở đâu",
+    "What you need and where you’re stuck"
+   ],
+   [
+    "Câu “Làm hộ con với”",
+    "“Just do it for me”"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô vừa giảng cách chia số có hai chữ số. An chưa hiểu bước thứ hai, nhưng ngại giơ tay vì sợ các bạn cười.",
+     "The teacher has just explained dividing by two-digit numbers. An doesn’t get step two but is shy to ask in case others laugh."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gật đầu như đã hiểu",
+      "Nod as if you understand",
+      0,
+      "Giả vờ hiểu thì về nhà vẫn bí. Hỏi một câu bây giờ đỡ cả buổi tối loay hoay.",
+      "Pretending leaves you stuck at home. One question now saves an evening of struggle."
+     ],
+     [
+      "Chép bài bạn cho xong",
+      "Copy a friend’s work",
+      0,
+      "Chép thì không hiểu, đến bài kiểm tra vẫn bí. Nhờ giảng lại sẽ giúp con thật sự biết.",
+      "Copying doesn’t teach you, and you’ll be stuck in the test. Ask for help instead."
+     ],
+     [
+      "Cuối giờ đến bàn cô: “Thưa cô, em chưa hiểu bước thứ hai, cô giảng lại giúp em được không ạ?”",
+      "After class, go to the teacher: “I didn’t understand step two. Could you explain it again, please?”",
+      1,
+      "Hỏi riêng cuối giờ vừa bớt ngại vừa rõ ràng. Thầy cô luôn vui khi học sinh muốn hiểu bài.",
+      "Asking privately after class is less awkward and clear. Teachers are glad when you want to understand."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện thiếu nhi, mẹ đang đọc sách ở góc bên kia. An muốn tìm sách về khủng long nhưng không thấy ở kệ nào.",
+     "At the children’s library, Mum is reading on the other side. An wants a dinosaur book but can’t find the right shelf."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đến bàn cô thủ thư: “Cháu chào cô, cô chỉ giúp cháu kệ sách về khủng long cho thiếu nhi được không ạ?”",
+      "Go to the librarian: “Hello, could you show me where the children’s dinosaur books are, please?”",
+      1,
+      "Chào hỏi, nói rõ mình cần gì và cảm ơn — người giúp sẽ biết ngay cách giúp con.",
+      "Greet, say exactly what you need, and thank them — they’ll know how to help."
+     ],
+     [
+      "Lục tung các kệ cho đến khi thấy",
+      "Pull books off every shelf until you find one",
+      0,
+      "Lục kệ làm sách lộn xộn và mất thời gian. Hỏi cô thủ thư nhanh hơn nhiều.",
+      "Rummaging messes up shelves and takes ages. Asking the librarian is quicker."
+     ],
+     [
+      "Bỏ cuộc, đọc đại cuốn khác",
+      "Give up and read any old book",
+      0,
+      "Con biết mình muốn gì, chỉ cần hỏi đúng người. Thử nhờ cô thủ thư xem.",
+      "You know what you want — just ask the right person. Try the librarian."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Khi bạn trong nhóm chưa làm phần việc",
+   "When a teammate hasn’t done their part"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An làm bài thuyết trình về rác thải nhựa. Ngày mai trình bày rồi mà phần tìm hình ảnh của Bảo vẫn chưa có, cả nhóm bắt đầu bực.",
+   "An’s group is doing a talk on plastic waste. It’s tomorrow, and Bảo’s picture section still isn’t done. Everyone’s getting annoyed."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi riêng Bảo có gặp khó khăn gì không, rồi cùng tìm cách: chia bớt việc hoặc giúp Bảo làm cho kịp",
+    "Ask Bảo privately if something’s wrong, then find a fix together — share out the work or help Bảo finish",
+    1,
+    "Có thể bạn đang gặp chuyện mình chưa biết. Hỏi han trước rồi cùng giải quyết giúp nhóm về đích.",
+    "Bảo may have a problem you don’t know about. Asking first, then fixing it together, gets the team there."
+   ],
+   [
+    "Nói trong nhóm chat: “Bảo lười quá!”",
+    "Post in the group chat: “Bảo is so lazy!”",
+    0,
+    "Chê bạn trước mọi người làm bạn xấu hổ và càng khó hợp tác. Hỏi riêng sẽ tốt hơn.",
+    "Calling someone out in front of everyone shames them and makes teamwork harder. Ask privately."
+   ],
+   [
+    "Tự làm hết phần của Bảo và không nói gì",
+    "Quietly do all of Bảo’s part yourself",
+    0,
+    "Ôm hết việc làm con quá tải và Bảo không có cơ hội góp sức. Nói chuyện với bạn trước nhé.",
+    "Taking it all on overloads you and leaves Bảo out. Talk to Bảo first."
+   ]
+  ],
+  "qq": [
+   "Khi một bạn trong nhóm chậm việc, nên làm gì trước?",
+   "When a teammate falls behind, what should you do first?"
+  ],
+  "qo": [
+   [
+    "Hỏi bạn xem có khó khăn gì",
+    "Ask if they’re having trouble"
+   ],
+   [
+    "Báo cô ngay để trừ điểm bạn",
+    "Tell the teacher so they lose marks"
+   ],
+   [
+    "Không chơi với bạn nữa",
+    "Stop being their friend"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chia việc dọn nhà cuối tuần. Em của An được giao lau bàn ghế nhưng vẫn ngồi chơi xếp hình, còn An đã quét nhà xong.",
+     "The family is sharing weekend cleaning. An’s younger sibling was meant to wipe the furniture but is still playing with blocks, while An has finished sweeping."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đi mách mẹ ngay",
+      "Run and tell Mum",
+      0,
+      "Mách ngay có thể làm em giận. Thử rủ em làm cùng trước đã.",
+      "Telling straight away might upset your sibling. Try inviting them to help first."
+     ],
+     [
+      "Lau hộ luôn rồi cằn nhằn cả buổi",
+      "Do it for them and grumble all day",
+      0,
+      "Làm hộ rồi cằn nhằn thì con mệt mà em cũng không học được gì.",
+      "Doing it and grumbling tires you out and teaches them nothing."
+     ],
+     [
+      "Rủ em: “Mình thi xem ai lau xong ba cái ghế trước nhé!” và làm cùng em một lúc",
+      "Invite them: “Race you to wipe three chairs!” and work together for a bit",
+      1,
+      "Biến việc thành trò chơi giúp em hào hứng. Làm cùng nhau thì việc xong nhanh hơn.",
+      "Making it a game gets them going. Working together finishes faster."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ trồng cây khu phố chia nhóm tưới cây cho vườn chung, có cô phụ trách đi cùng. Đến lượt nhóm An, một bạn trong nhóm chỉ đứng xem điện thoại.",
+     "The neighbourhood gardening club has groups watering the shared garden, with a leader present. On An’s group’s turn, one member just stands looking at a phone."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tưới nước vào bạn cho bạn chú ý",
+      "Splash them to get their attention",
+      0,
+      "Đùa kiểu đó dễ làm bạn giận và hỏng điện thoại. Mời bạn bằng lời sẽ hiệu quả hơn.",
+      "That could upset them and soak the phone. Inviting them with words works better."
+     ],
+     [
+      "Hỏi bạn có muốn cầm vòi tưới hay xách bình, để bạn chọn phần mình thích",
+      "Ask if they’d like the hose or the watering can, so they can pick",
+      1,
+      "Mời bạn chọn việc giúp bạn thấy mình được cần đến. Ai cũng thích có phần của mình.",
+      "Letting them choose helps them feel needed. Everyone likes having their own job."
+     ],
+     [
+      "Kệ bạn, nhóm tự làm",
+      "Leave them and just get on with it",
+      0,
+      "Bỏ qua thì bạn càng đứng ngoài nhóm. Một lời mời có thể thay đổi điều đó.",
+      "Ignoring them keeps them on the outside. One invitation can change that."
+     ]
+    ]
+   }
+  }
+ }
+]

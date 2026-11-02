@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Nghe điện thoại lịch sự",
+   "Answering the phone politely"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Điện thoại nhà reo, mẹ đang phơi đồ. Bin nhấc máy và nói cộc lốc: “Ai đấy?”",
+   "The home phone rings while Mum hangs out the washing. Bin picks up and says bluntly, “Who’s that?”"
+  ],
+  "cq": [
+   "Bin nên nói thế nào?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "“Con chào bác ạ. Ai gọi đấy ạ? Bác chờ con mời mẹ nhé.”",
+    "“Hello. Who’s calling, please? Please wait while I get Mum.”",
+    1,
+    "Chào, hỏi ai gọi, rồi mời người lớn. Người gọi sẽ thấy con rất lễ phép.",
+    "Greet, ask who’s calling, then fetch a grown-up. The caller will think you’re very polite."
+   ],
+   [
+    "“Gì thế? Nói nhanh đi!”",
+    "“What? Be quick!”",
+    0,
+    "Câu này nghe hơi khó chịu. Con thử bắt đầu bằng lời chào nhé.",
+    "That sounds a bit rude. Try starting with a hello."
+   ],
+   [
+    "Nhấc máy rồi chạy đi, để máy đó",
+    "Pick up, then run off and leave the phone",
+    0,
+    "Người gọi sẽ không biết chuyện gì. Con nói “Bác chờ một chút ạ” rồi mời mẹ.",
+    "The caller won’t know what’s happening. Say “Please wait” and then get Mum."
+   ]
+  ],
+  "qq": [
+   "Khi nghe máy, việc đầu tiên con làm là…",
+   "When you answer the phone, first you…"
+  ],
+  "qo": [
+   [
+    "Hỏi “Gì đấy?”",
+    "Say “What?”"
+   ],
+   [
+    "Im lặng chờ",
+    "Wait silently"
+   ],
+   [
+    "Chào lễ phép",
+    "Say hello politely"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ Tiếng Việt, cô cho đóng vai nghe điện thoại. Huy là người gọi, Bin là người nghe máy.",
+     "In Vietnamese class, the children role-play phone calls. Huy is calling and Bin answers."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cười đùa, không nói gì",
+      "Giggle and say nothing",
+      0,
+      "Tập nghiêm túc một chút, lần sau nghe máy thật con sẽ tự tin hơn.",
+      "Practise properly and you’ll feel confident when the phone really rings."
+     ],
+     [
+      "Chào bạn, hỏi bạn là ai, rồi nói “Bạn chờ mình mời ba mẹ nhé”",
+      "Say hello, ask who it is, then say, “Please wait, I’ll get my parents”",
+      1,
+      "Ba bước chào, hỏi, mời người lớn giúp cuộc gọi lịch sự và rõ ràng.",
+      "Greet, ask, fetch a grown-up: three steps make a call polite and clear."
+     ],
+     [
+      "Kể hết địa chỉ nhà mình",
+      "Tell the caller your home address",
+      0,
+      "Không nói địa chỉ hay thông tin nhà mình qua điện thoại. Hãy mời người lớn nghe.",
+      "Never give your address over the phone. Get a grown-up instead."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi cùng mẹ, điện thoại mẹ reo khi mẹ đang xách đồ nặng. Mẹ nhờ Bin nghe giúp.",
+     "Out with Mum, her phone rings while her hands are full. She asks Bin to answer."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói “Mẹ bận rồi” rồi tắt máy",
+      "Say “Mum’s busy” and hang up",
+      0,
+      "Người gọi có thể có việc cần. Con nhờ bác chờ một chút nhé.",
+      "The caller may need something. Ask them to hold on."
+     ],
+     [
+      "Không nói gì, chỉ áp máy vào tai",
+      "Hold it to your ear and say nothing",
+      0,
+      "Người gọi không biết có ai nghe. Con chào trước nhé.",
+      "The caller won’t know anyone’s there. Say hello first."
+     ],
+     [
+      "“Con chào bác ạ, mẹ con đang bận tay, bác chờ một chút ạ” rồi đưa máy cho mẹ",
+      "“Hello, Mum’s hands are full, please hold on a moment,” then pass the phone to Mum",
+      1,
+      "Lời chào và câu báo rõ ràng giúp người gọi yên tâm chờ.",
+      "A greeting and a clear message help the caller wait happily."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập nghe điện thoại lịch sự",
+    "Practise answering the phone"
+   ],
+   "s": [
+    "Con tập nghe máy với ba mẹ: chào, hỏi “Ai gọi đấy ạ?” và mời người lớn nghe.",
+    "Practise with Mum or Dad: say hello, ask “Who’s calling, please?” and fetch a grown-up."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu cả ba câu, con nói theo từng câu.",
+     "Mum or Dad says all three lines first; you repeat each one."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ ba bước khi ba mẹ giả vờ gọi.",
+     "Mum or Dad reminds you once; you say all three steps when they pretend to call."
+    ],
+    [
+     "Con tự nói đủ ba bước và nhớ không nói địa chỉ nhà cho người gọi.",
+     "You say all three steps yourself and remember not to give out your address."
+    ]
+   ],
+   "rw": [
+    "Được chọn bài hát trên đường đi học",
+    "You pick the song on the way to school"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi nhớ người ở xa",
+   "Missing someone far away"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba đi công tác xa cả tuần. Tối nào Bin cũng nhìn chiếc ghế của ba và thấy buồn buồn.",
+   "Dad is away for work all week. Every evening Bin looks at Dad’s chair and feels a bit sad."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Giấu nỗi buồn, không nói với ai",
+    "Hide the sad feeling and tell no one",
+    0,
+    "Nói ra cảm xúc giúp lòng nhẹ hơn. Mẹ luôn muốn nghe con.",
+    "Saying how you feel makes it lighter. Mum always wants to listen."
+   ],
+   [
+    "Nói với mẹ “Con nhớ ba” và cùng mẹ vẽ tranh gửi ba",
+    "Tell Mum “I miss Dad” and draw him a picture together",
+    1,
+    "Nhớ ai là vì thương người đó. Gửi lời nhắn giúp con thấy gần ba hơn.",
+    "Missing someone means you love them. Sending a message helps you feel closer."
+   ],
+   [
+    "Cáu với mọi người trong nhà",
+    "Get cross with everyone at home",
+    0,
+    "Buồn có thể làm mình dễ cáu. Con thử nói “Con nhớ ba” xem, sẽ dễ chịu hơn.",
+    "Sadness can make us grumpy. Try saying “I miss Dad”; it helps."
+   ]
+  ],
+  "qq": [
+   "Khi nhớ ai đó, con có thể…",
+   "When you miss someone, you can…"
+  ],
+  "qo": [
+   [
+    "Giấu thật kỹ nỗi buồn",
+    "Hide the sadness"
+   ],
+   [
+    "Giận người đó",
+    "Be cross with them"
+   ],
+   [
+    "Gửi lời nhắn hoặc tranh vẽ cho người đó",
+    "Send them a message or a drawing"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bạn Mai chuyển sang trường khác. Giờ ra chơi, Bin thấy thiếu Mai và ngồi im một chỗ.",
+     "Mai has moved to another school. At break, Bin misses her and sits quietly on his own."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự nhủ “Không được buồn”",
+      "Tell yourself “I mustn’t be sad”",
+      0,
+      "Buồn khi nhớ bạn là bình thường. Con được phép buồn và nói ra.",
+      "It’s normal to feel sad when you miss a friend. It’s okay to say so."
+     ],
+     [
+      "Giận Mai vì đã chuyển đi",
+      "Be cross with Mai for leaving",
+      0,
+      "Mai chuyển trường không phải lỗi của bạn. Con gửi bạn lời nhắn thương nhé.",
+      "Moving wasn’t Mai’s fault. Send her a kind message."
+     ],
+     [
+      "Nói với cô là mình nhớ Mai, cùng cô viết một tấm thiệp gửi bạn",
+      "Tell the teacher you miss Mai and make her a card together",
+      1,
+      "Nỗi nhớ là bình thường. Gửi thiệp giúp con và Mai vẫn thấy gần nhau.",
+      "Missing someone is normal. A card helps you and Mai feel close."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở bến xe tiễn ông bà về quê, Bin bật khóc vì sắp phải xa ông bà.",
+     "At the coach station, seeing Grandma and Grandpa off, Bin starts to cry."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ôm ông bà, nói “Cháu sẽ nhớ ông bà” và hẹn cuối tuần gọi điện",
+      "Hug them, say “I’ll miss you” and plan a call at the weekend",
+      1,
+      "Nói lời thương và hẹn gọi điện giúp con biết mình vẫn gần ông bà.",
+      "Saying it and planning a call helps you know you’re still close."
+     ],
+     [
+      "Giận dỗi, không chào ông bà",
+      "Sulk and not say goodbye",
+      0,
+      "Con buồn vì thương ông bà. Một cái ôm sẽ giúp cả nhà vui hơn.",
+      "You’re sad because you love them. A hug will help everyone."
+     ],
+     [
+      "Đòi đi theo ông bà ngay",
+      "Insist on going with them now",
+      0,
+      "Con cùng ba mẹ hẹn dịp về thăm, và gọi điện cho ông bà nhé.",
+      "Plan a visit with Mum and Dad, and call them meanwhile."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Gửi lời nhắn cho người thân ở xa",
+    "Send a message to someone far away"
+   ],
+   "s": [
+    "Con vẽ một bức tranh hoặc nhờ ba mẹ thu một lời nhắn ngắn gửi người thân ở xa.",
+    "Draw a picture, or ask Mum or Dad to record a short message, for a relative who lives far away."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn người nhận và cùng vẽ hoặc nói lời nhắn.",
+     "Mum or Dad helps you choose who to send it to and makes it with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ hoặc tự nói lời nhắn.",
+     "Mum or Dad reminds you once; you draw or say the message yourself."
+    ],
+    [
+     "Con tự nghĩ ra lời nhắn, nói rõ “Con nhớ… vì…” và nhờ ba mẹ gửi đi.",
+     "You make up the message, say “I miss you because…” and ask Mum or Dad to send it."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ gấp một con vật bằng giấy",
+    "Fold a paper animal with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng giữ yên lặng khi người khác nghỉ",
+   "Keeping quiet together"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin cùng mẹ vào thư viện thiếu nhi. Mọi người đang ngồi đọc sách rất yên lặng.",
+   "Bin and Mum go into the children’s library. Everyone is reading quietly."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Gọi to: “Mẹ ơi, cuốn này hay quá!”",
+    "Call out, “Mum, this book’s great!”",
+    0,
+    "Con vui là tốt, nhưng thì thầm thôi để mọi người vẫn đọc được.",
+    "It’s great you’re excited; whisper so others can keep reading."
+   ],
+   [
+    "Đi nhẹ, nói thì thầm với mẹ",
+    "Walk softly and whisper to Mum",
+    1,
+    "Ở chỗ chung, mình cùng giữ quy tắc yên lặng để ai cũng dễ chịu.",
+    "In shared places, keeping quiet together makes it nice for everyone."
+   ],
+   [
+    "Chạy quanh các giá sách",
+    "Run around the shelves",
+    0,
+    "Chạy nhảy dễ va vào người khác. Đi nhẹ nhàng nhé.",
+    "Running can bump into people. Walk gently."
+   ]
+  ],
+  "qq": [
+   "Giữ yên lặng khi có người nghỉ giúp…",
+   "Keeping quiet when someone rests helps…"
+  ],
+  "qo": [
+   [
+    "Chỉ người lớn vui",
+    "Only grown-ups be happy"
+   ],
+   [
+    "Mọi người cùng dễ chịu",
+    "Everyone feel comfortable"
+   ],
+   [
+    "Mình được chơi to hơn",
+    "You play louder"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Buổi trưa, bà đang ngủ. Bin và em Bông chơi đuổi bắt trong nhà, cười rất to.",
+     "At midday Grandma is napping. Bin and little Bông are playing chase indoors, laughing loudly."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bảo em im, còn mình vẫn chạy",
+      "Tell Bông to hush but keep running yourself",
+      0,
+      "Quy tắc là của cả nhà. Mình làm cùng em thì em dễ làm theo.",
+      "The rule is for everyone. If you do it too, Bông will follow."
+     ],
+     [
+      "Chơi tiếp, bà quen rồi",
+      "Keep playing, Grandma’s used to it",
+      0,
+      "Bà cần nghỉ để khoẻ. Con thử chọn trò chơi yên lặng nhé.",
+      "Grandma needs rest. Try a quiet game."
+     ],
+     [
+      "Rủ em chơi trò “mèo đi rón rén”: xếp hình thật khẽ, nói thì thầm",
+      "Invite Bông to play “tiptoe cats”: quiet puzzles and whispering",
+      1,
+      "Cả hai cùng giữ quy tắc yên lặng thì bà ngủ ngon mà hai anh em vẫn vui.",
+      "When you both keep the quiet rule, Grandma sleeps well and you still have fun."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ngủ trưa ở lớp bán trú, Bin không buồn ngủ. Bạn nằm cạnh đã ngủ say.",
+     "At nap time at school, Bin isn’t sleepy. The friend next to him is fast asleep."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nằm yên, nhắm mắt nghe tiếng quạt, cùng cả lớp giữ yên lặng",
+      "Lie still, close your eyes and listen to the fan, keeping quiet with the class",
+      1,
+      "Cả lớp cùng giữ yên lặng thì ai cũng được nghỉ ngơi.",
+      "When the whole class keeps quiet, everyone gets to rest."
+     ],
+     [
+      "Thì thầm gọi bạn dậy chơi",
+      "Whisper to wake your friend up",
+      0,
+      "Bạn đang cần ngủ. Con chờ đến giờ dậy rồi rủ bạn chơi nhé.",
+      "Your friend needs sleep. Wait till nap time ends to play."
+     ],
+     [
+      "Lục cặp sột soạt tìm đồ chơi",
+      "Rustle through your bag for a toy",
+      0,
+      "Tiếng sột soạt làm các bạn thức giấc. Con nằm yên thêm chút nhé.",
+      "Rustling wakes others. Try lying still a bit longer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chơi trò yên lặng mười lăm phút",
+    "Play a 15-minute quiet game"
+   ],
+   "s": [
+    "Khi có người trong nhà đang nghỉ, con rủ một người chơi trò yên lặng 15 phút (xếp hình, vẽ, đọc thầm).",
+    "When someone at home is resting, invite a family member to play a quiet game for 15 minutes (puzzles, drawing, silent reading)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn trò yên lặng và chơi cùng con.",
+     "Mum or Dad chooses a quiet game with you and plays it too."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự rủ người nhà chơi trò yên lặng.",
+     "Mum or Dad reminds you once; you invite someone to a quiet game."
+    ],
+    [
+     "Con tự nhận ra có người đang nghỉ và tự rủ người nhà chơi yên lặng đủ 15 phút.",
+     "You notice someone is resting and start a quiet game for the full 15 minutes."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ đọc truyện bằng giọng các nhân vật",
+    "Mum or Dad reads a story with funny character voices"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự gấp chăn buổi sáng",
+   "Making my bed"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ở lớp bán trú, sau giờ ngủ trưa cô nhắc cả lớp cất chăn gối. Bin vẫn ngồi dụi mắt.",
+   "After nap time at school, the teacher asks everyone to put away their blankets. Bin is still rubbing his eyes."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đợi cô gấp giúp",
+    "Wait for the teacher to do it",
+    0,
+    "Cô phải lo cho cả lớp. Con tự gấp được, cô sẽ khen đấy.",
+    "The teacher looks after the whole class. You can do yours."
+   ],
+   [
+    "Tự gấp chăn của mình, xếp gối lên trên rồi cất vào tủ",
+    "Fold your own blanket, put the pillow on top and put it away",
+    1,
+    "Tự lo chỗ ngủ của mình giúp cô và các bạn, lớp cũng gọn hơn.",
+    "Looking after your own bedding helps your teacher and keeps the room tidy."
+   ],
+   [
+    "Nhét cả chăn vào tủ cho nhanh",
+    "Stuff the blanket into the cupboard",
+    0,
+    "Nhét vội thì chăn nhăn và tủ bừa. Gấp gọn chỉ mất chút xíu.",
+    "Stuffing makes it crumpled. Folding takes a moment."
+   ]
+  ],
+  "qq": [
+   "Tự gấp chăn mỗi sáng giúp con…",
+   "Making your bed each morning helps you…"
+  ],
+  "qo": [
+   [
+    "Có góc ngủ gọn và tự lo việc của mình",
+    "Have a tidy bed and look after yourself"
+   ],
+   [
+    "Được ngủ thêm",
+    "Sleep longer"
+   ],
+   [
+    "Không phải dậy sớm",
+    "Not get up early"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng nào Bin dậy cũng để chăn gối lộn xộn trên giường, mẹ lại phải gấp giúp.",
+     "Every morning Bin leaves the blanket and pillow in a heap, and Mum tidies it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Gấp chăn làm đôi, gấp đôi lần nữa, đặt gối lên trên",
+      "Fold the blanket in half, then in half again, and put the pillow on top",
+      1,
+      "Chia thành từng bước nhỏ thì việc gấp chăn dễ lắm. Góc ngủ gọn, con cũng thấy vui.",
+      "Small steps make bed-making easy. A tidy bed feels good."
+     ],
+     [
+      "Kéo chăn trùm lên gối cho nhanh",
+      "Just pull the blanket over the pillow",
+      0,
+      "Nhanh nhưng chưa gọn. Con thử gấp đôi chăn, cũng chỉ một phút thôi.",
+      "Quick but not tidy. Folding takes only a minute."
+     ],
+     [
+      "Chờ mẹ gấp như mọi khi",
+      "Wait for Mum as usual",
+      0,
+      "Con đã đủ lớn để tự làm. Mẹ sẽ rất vui khi thấy con tự gấp.",
+      "You’re big enough to do it. Mum will be so pleased."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin cùng cả nhà đi chơi xa, ngủ ở nhà nghỉ. Sáng ra, ba mẹ thu dọn đồ để về.",
+     "On a family trip, Bin sleeps at a guesthouse. In the morning, Mum and Dad are packing to leave."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy ra ngoài chơi trong lúc ba mẹ dọn",
+      "Run off to play while they pack",
+      0,
+      "Ba mẹ đang rất bận. Con giúp phần của mình nhé.",
+      "Mum and Dad are busy. Help with your part."
+     ],
+     [
+      "Để nguyên, không phải nhà mình",
+      "Leave it, it’s not our house",
+      0,
+      "Gọn gàng ở nơi mình ở nhờ cũng là lịch sự.",
+      "Leaving a place tidy is good manners too."
+     ],
+     [
+      "Gấp gọn chăn của mình và xếp đồ của mình vào túi",
+      "Fold your blanket and pack your own things into your bag",
+      1,
+      "Ở đâu con cũng tự lo được phần của mình. Cả nhà sẽ xong nhanh hơn.",
+      "Wherever you are, you can look after your part. Everyone finishes faster."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự gấp chăn ba buổi sáng",
+    "Make my bed three mornings"
+   ],
+   "s": [
+    "Mỗi sáng trong ba ngày, con tự gấp chăn và xếp gối gọn gàng rồi gọi ba mẹ đến xem.",
+    "For three mornings, fold your blanket, straighten your pillow and call Mum or Dad to see."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gấp cùng con: ba mẹ cầm một đầu chăn, con cầm đầu kia.",
+     "Mum or Dad folds it with you, holding one end each."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự gấp chăn và xếp gối.",
+     "Mum or Dad reminds you once; you fold and tidy it yourself."
+    ],
+    [
+     "Con tự nhớ gấp chăn ngay sau khi dậy, cả ba buổi sáng.",
+     "You remember to make your bed straight after getting up, all three mornings."
+    ]
+   ],
+   "rw": [
+    "Được dựng lều bằng chăn trong phòng khách cuối tuần",
+    "Build a blanket fort in the living room at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Khách sắp đến mà nhà còn bừa",
+   "Guests coming, house messy"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ba nói: “Năm phút nữa cả nhà đi công viên.” Bin muốn mang theo thật nhiều đồ chơi.",
+   "Dad says, “We leave for the park in five minutes.” Bin wants to bring lots of toys."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Lấy trước chai nước và mũ, rồi chọn một món đồ chơi",
+    "Get your water bottle and hat first, then pick one toy",
+    1,
+    "Đồ cần thiết lấy trước, đồ chơi chọn sau. Như vậy đi đúng giờ mà vẫn đủ đồ.",
+    "Essentials first, then a toy. You leave on time with what you need."
+   ],
+   [
+    "Chọn đồ chơi thật lâu",
+    "Spend ages choosing toys",
+    0,
+    "Hết năm phút mà chưa có nước, có mũ. Lấy đồ cần trước nhé.",
+    "Time runs out with no water or hat. Get the essentials first."
+   ],
+   [
+    "Mang cả thùng đồ chơi",
+    "Bring the whole toy box",
+    0,
+    "Mang nhiều thì nặng và dễ quên đồ cần. Chọn một món thôi nhé.",
+    "Too much is heavy and you may forget essentials. Pick one."
+   ]
+  ],
+  "qq": [
+   "Khi có ít thời gian, con nên làm…",
+   "When time is short, you should do…"
+  ],
+  "qo": [
+   [
+    "Việc quan trọng nhất trước",
+    "The most important thing first"
+   ],
+   [
+    "Việc mình thích trước",
+    "The thing you like first"
+   ],
+   [
+    "Tất cả cùng một lúc",
+    "Everything at once"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ báo: “Mười phút nữa cô chú sang chơi!” Phòng khách đầy đồ chơi, sách và áo khoác của Bin.",
+     "Mum says, “Our friends arrive in ten minutes!” The living room is full of Bin’s toys, books and jacket."
+    ],
+    "q": [
+     "Bin nên làm gì trước?",
+     "What should Bin do first?"
+    ],
+    "o": [
+     [
+      "Lau từng chiếc lá cây cảnh",
+      "Dust every leaf on the plant",
+      0,
+      "Việc đó tốt nhưng chưa gấp. Con dọn chỗ ngồi trước nhé.",
+      "Nice, but not urgent. Clear the seats first."
+     ],
+     [
+      "Dọn đồ trên ghế và sàn, chỗ khách ngồi và đi qua trước",
+      "Clear the sofa and floor first, where guests sit and walk",
+      1,
+      "Ít thời gian thì làm chỗ quan trọng nhất trước. Khách có chỗ ngồi là ổn rồi.",
+      "Short on time? Do the most important spot first. Guests need somewhere to sit."
+     ],
+     [
+      "Hoảng quá, ngồi im không làm gì",
+      "Panic and do nothing",
+      0,
+      "Con chỉ cần bắt đầu từ một chỗ. Chọn chiếc ghế trước nhé.",
+      "Just start with one spot. Begin with the sofa."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Còn năm phút nữa là hết giờ vẽ, tranh bông hoa của Bin vẫn chưa tô màu.",
+     "Five minutes are left in art, and Bin’s flower picture still isn’t coloured."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tô thật kỹ từng chiếc lá nhỏ",
+      "Carefully colour each tiny leaf",
+      0,
+      "Tô kỹ là tốt, nhưng hết giờ thì bông hoa chưa có màu. Tô phần chính trước nhé.",
+      "Careful is good, but the flower may stay blank. Do the main part first."
+     ],
+     [
+      "Bỏ dở vì không kịp",
+      "Give up because there’s no time",
+      0,
+      "Năm phút vẫn làm được nhiều. Chọn phần quan trọng nhất và bắt đầu nhé.",
+      "Five minutes is enough for a lot. Pick the key part and start."
+     ],
+     [
+      "Tô phần chính trước là bông hoa to, chi tiết nhỏ để sau",
+      "Colour the main part first, the big flower, and leave tiny details",
+      1,
+      "Ít thời gian thì làm phần quan trọng nhất trước, tranh vẫn đẹp.",
+      "With little time, do the most important part first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Dọn phòng khách mười phút",
+    "Tidy the living room in ten minutes"
+   ],
+   "s": [
+    "Con dọn phòng khách trong 10 phút, tự chọn ba chỗ quan trọng nhất để làm trước và nói cho ba mẹ biết vì sao.",
+    "Tidy the living room in 10 minutes, choosing the three most important spots to do first and telling Mum or Dad why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ ba chỗ quan trọng, con dọn cùng ba mẹ.",
+     "Mum or Dad points out three key spots and tidies with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn ba chỗ và dọn trong 10 phút.",
+     "Mum or Dad reminds you once; you pick three spots and tidy in 10 minutes."
+    ],
+    [
+     "Con tự chọn, tự dọn kịp giờ và kể lại vì sao chọn những chỗ đó.",
+     "You choose, finish on time and explain why you chose those spots."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con thích",
+    "The family cooks your favourite dish"
+   ]
+  }
+ }
+]

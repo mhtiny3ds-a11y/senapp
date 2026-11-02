@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Nơi đông người làm con lo",
+   "Crowds make me nervous"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ngày mai cả nhà đi lễ hội hoa. Mẹ kể ở đó rất đông người. Bin thấy bụng thắt lại vì lo.",
+   "Tomorrow the family is going to a flower festival. Mum says it’ll be very busy. Bin’s tummy feels tight with worry."
+  ],
+  "cq": [
+   "Điều gì giúp Bin bớt lo?",
+   "What would help Bin worry less?"
+  ],
+  "co": [
+   [
+    "Giấu nỗi lo, không nói với ai",
+    "Hide the worry and tell no one",
+    0,
+    "Giấu đi thì lo càng to. Con nói với ba mẹ để cả nhà cùng chuẩn bị nhé.",
+    "Hidden worries grow. Tell Mum and Dad so you can plan together."
+   ],
+   [
+    "Nhất định không đi",
+    "Refuse to go",
+    0,
+    "Lo là bình thường. Có kế hoạch cùng ba mẹ, con có thể thử và vẫn vui.",
+    "Worry is normal. With a plan, you can give it a try and still have fun."
+   ],
+   [
+    "Cùng ba mẹ chọn một điểm hẹn và một câu nói giúp bình tĩnh",
+    "Choose a meeting point and a calming phrase with Mum and Dad",
+    1,
+    "Biết trước phải làm gì giúp con an tâm hơn, nỗi lo sẽ nhỏ lại.",
+    "Knowing what to do ahead of time helps you feel safe, and the worry shrinks."
+   ]
+  ],
+  "qq": [
+   "Trước khi đến nơi đông người, điều gì giúp con bớt lo?",
+   "Before going somewhere busy, what helps you worry less?"
+  ],
+  "qo": [
+   [
+    "Không nghĩ gì cả",
+    "Not thinking about it"
+   ],
+   [
+    "Giấu nỗi lo đi",
+    "Hiding the worry"
+   ],
+   [
+    "Có điểm hẹn và kế hoạch với ba mẹ",
+    "A meeting point and plan with your parents"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Hôm hội diễn văn nghệ, sân trường rất đông. Bin thấy tim đập nhanh.",
+     "At the school concert, the yard is packed. Bin’s heart is racing."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng cạnh cô, hít sâu và tự nói “Mình ổn, cô ở đây”",
+      "Stand by the teacher, breathe deeply and tell himself, “I’m OK, my teacher’s here”",
+      1,
+      "Ở gần người lớn tin cậy và hít thở sâu giúp tim con chậm lại.",
+      "Staying near a trusted grown-up and breathing deeply calms your heart."
+     ],
+     [
+      "Bỏ chạy ra cổng",
+      "Run off towards the gate",
+      0,
+      "Chạy đi một mình chỗ đông rất dễ lạc. Con đứng cạnh cô nhé.",
+      "Running off alone in a crowd is easy to get lost. Stay by the teacher."
+     ],
+     [
+      "Khóc mà không nói với ai",
+      "Cry without telling anyone",
+      0,
+      "Khóc cũng được, nhưng con nói với cô để cô giúp con nhé.",
+      "Crying is OK, but tell the teacher so she can help."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở khu vui chơi đông người, Bin thấy lo và nắm chặt tay mẹ.",
+     "At a crowded play centre, Bin feels nervous and grips Mum’s hand."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Buông tay mẹ chạy đi chỗ khác",
+      "Let go of Mum and run off",
+      0,
+      "Buông tay ở chỗ đông dễ lạc nhau. Con cứ nắm tay mẹ nhé.",
+      "Letting go in a crowd can mean getting lost. Keep holding on."
+     ],
+     [
+      "Nói với mẹ “Con hơi sợ”, cùng mẹ ra chỗ thoáng hít thở",
+      "Tell Mum, “I’m a bit scared”, and go somewhere quieter to breathe",
+      1,
+      "Nói ra để mẹ biết và giúp. Một chỗ thoáng làm con dễ thở hơn.",
+      "Saying it lets Mum help. A quieter spot makes breathing easier."
+     ],
+     [
+      "Im lặng chịu đựng",
+      "Keep quiet and put up with it",
+      0,
+      "Con không cần chịu một mình. Nói với mẹ, mẹ sẽ giúp.",
+      "You don’t have to cope alone. Tell Mum and she’ll help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chọn điểm hẹn và câu nói bình tĩnh",
+    "Pick a meeting point and calming words"
+   ],
+   "s": [
+    "Trước khi đến một nơi đông người, con cùng ba mẹ chọn một “điểm hẹn” dễ thấy và một câu nói giúp con bình tĩnh, rồi nhắc lại cho ba mẹ nghe.",
+    "Before going somewhere busy, choose an easy-to-spot meeting point and a calming phrase with Mum or Dad, then say them back."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý điểm hẹn và câu nói, con chọn và nói theo.",
+     "Mum or Dad suggests options; you choose and repeat."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn và nói lại.",
+     "Mum or Dad reminds you once; you choose and say them back."
+    ],
+    [
+     "Con tự nghĩ ra câu nói của mình và nhớ điểm hẹn khi đến nơi.",
+     "You make up your own phrase and remember the meeting point when you arrive."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ ôm con và nói ba điều ba mẹ thích ở con",
+    "Mum or Dad hugs you and tells you three things they love about you"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng xếp hàng ngay ngắn",
+   "Lining up together"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Đến giờ ăn trưa, cả lớp ùa ra cửa, ai cũng muốn đi đầu. Bin bị chen suýt ngã.",
+   "At lunchtime the whole class rushes to the door, all wanting to be first. Bin gets squashed and nearly falls."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Chen lên trước",
+    "Push to the front",
+    0,
+    "Chen lấn dễ làm mình và bạn ngã. Xếp hàng thì nhanh hơn đấy.",
+    "Pushing can make people fall. A line is actually quicker."
+   ],
+   [
+    "Đứng vào hàng và rủ các bạn: “Mình xếp hàng đi, ai cũng sẽ đến lượt”",
+    "Join a line and say, “Let’s line up – everyone gets a turn”",
+    1,
+    "Mọi người cùng xếp hàng thì ai cũng đến lượt và không ai bị ngã.",
+    "When everyone lines up, all get a turn and no one falls."
+   ],
+   [
+    "Đẩy bạn ra cho rộng chỗ",
+    "Push others away for space",
+    0,
+    "Đẩy bạn có thể làm bạn đau. Con rủ các bạn xếp hàng nhé.",
+    "Pushing can hurt. Invite everyone to line up."
+   ]
+  ],
+  "qq": [
+   "Vì sao cần xếp hàng?",
+   "Why do we line up?"
+  ],
+  "qo": [
+   [
+    "Để ai cũng đến lượt, không ai bị ngã",
+    "So everyone gets a turn and no one falls"
+   ],
+   [
+    "Để người khoẻ đi trước",
+    "So the strongest go first"
+   ],
+   [
+    "Cho vui thôi",
+    "Just for fun"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Buổi sáng, cả nhà cùng cần dùng phòng tắm để đánh răng.",
+     "In the morning, everyone needs the bathroom to brush their teeth."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy vào chiếm trước",
+      "Dash in first",
+      0,
+      "Chiếm chỗ làm người khác khó chịu. Con rủ cả nhà chia lượt nhé.",
+      "Grabbing the bathroom upsets others. Suggest taking turns."
+     ],
+     [
+      "Đập cửa giục người bên trong",
+      "Bang on the door",
+      0,
+      "Đập cửa làm mọi người giật mình. Chờ đến lượt sẽ dễ chịu hơn.",
+      "Banging startles people. Waiting your turn is nicer."
+     ],
+     [
+      "Rủ cả nhà chia lượt theo thứ tự, ai xong thì gọi người tiếp theo",
+      "Suggest taking turns in order, each calling the next person",
+      1,
+      "Có thứ tự rõ ràng thì cả nhà không phải tranh nhau và không ai muộn.",
+      "A clear order means no arguing and no one is late."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quầy bán vé khu vui chơi, nhiều người đang xếp hàng. Bin muốn kéo mẹ lên trước.",
+     "At a ticket desk, lots of people are queuing. Bin wants to pull Mum to the front."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ đứng sau người cuối hàng và chờ đến lượt",
+      "Stand at the back with Mum and wait",
+      1,
+      "Ai cũng đang chờ như mình. Đứng đúng chỗ là tôn trọng mọi người.",
+      "Everyone is waiting just like you. Standing in place respects them."
+     ],
+     [
+      "Kéo mẹ lên đầu hàng",
+      "Pull Mum to the front",
+      0,
+      "Lên trước người khác là không công bằng. Con đứng cuối hàng cùng mẹ nhé.",
+      "Jumping ahead isn’t fair. Stand at the back with Mum."
+     ],
+     [
+      "Lách qua người khác",
+      "Squeeze past people",
+      0,
+      "Lách qua làm mọi người khó chịu. Xếp hàng sẽ đến lượt thôi.",
+      "Squeezing past annoys people. Your turn will come."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chơi trò “lên tàu” xếp hàng",
+    "Play the “all aboard” queuing game"
+   ],
+   "s": [
+    "Con tổ chức cho cả nhà chơi trò “lên tàu”: mọi người xếp hàng theo thứ tự, lần lượt “lên tàu”, không ai chen lên trước.",
+    "Organise an “all aboard” game for the family: everyone lines up in order and boards the “train” one by one, no pushing in."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con sắp xếp hàng và hướng dẫn mọi người.",
+     "Mum or Dad helps you arrange the line and explain the game."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự xếp hàng cho cả nhà.",
+     "Mum or Dad reminds you once; you line everyone up."
+    ],
+    [
+     "Con tự tổ chức trò chơi và giải thích vì sao cần xếp hàng.",
+     "You run the game and explain why we line up."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng hát bài con thích",
+    "The family sings your favourite song together"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Đi vệ sinh nơi công cộng",
+   "Using a public toilet"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở siêu thị, Bin muốn đi vệ sinh. Mẹ đưa Bin đến cửa nhà vệ sinh và nói: “Mẹ đứng chờ ngay đây.”",
+   "At the supermarket Bin needs the toilet. Mum takes him to the door and says, “I’ll wait right here.”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tự đi, chốt cửa, xong rửa tay rồi ra ngay chỗ mẹ đứng",
+    "Go by himself, lock the door, wash his hands and come straight back to Mum",
+    1,
+    "Con tự làm được các bước. Biết mẹ đứng ở đâu thì ra là thấy mẹ ngay.",
+    "You can do the steps yourself. Knowing where Mum is means you find her straight away."
+   ],
+   [
+    "Xong thì đi lung tung xem đồ chơi",
+    "Wander off to look at toys afterwards",
+    0,
+    "Mẹ đang chờ ở cửa, đi lung tung mẹ sẽ lo. Con ra ngay chỗ mẹ nhé.",
+    "Mum is waiting at the door and will worry. Come straight back."
+   ],
+   [
+    "Quên rửa tay vì vội",
+    "Skip washing hands to hurry",
+    0,
+    "Rửa tay chỉ mất một chút mà giữ con khoẻ. Con nhớ rửa nhé.",
+    "Washing takes a moment and keeps you healthy. Remember to do it."
+   ]
+  ],
+  "qq": [
+   "Đi vệ sinh nơi công cộng, con nhớ…",
+   "At a public toilet, remember to…"
+  ],
+  "qo": [
+   [
+    "Đi đâu cũng được sau đó",
+    "Go anywhere afterwards"
+   ],
+   [
+    "Không cần rửa tay",
+    "Skip washing hands"
+   ],
+   [
+    "Tự làm các bước, rửa tay, ra đúng chỗ người lớn chờ",
+    "Do the steps, wash hands, return to where your grown-up waits"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Trước khi đi chơi, mẹ hỏi Bin: “Đến nơi đông người mà con muốn đi vệ sinh thì làm sao?”",
+     "Before an outing, Mum asks, “If you need the toilet somewhere busy, what do you do?”"
+    ],
+    "q": [
+     "Bin nên trả lời gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Con tự đi tìm”",
+      "“I’ll find it myself”",
+      0,
+      "Ở nơi lạ, con luôn đi cùng ba mẹ. Con báo ba mẹ trước nhé.",
+      "In new places, always go with your parents. Tell them first."
+     ],
+     [
+      "“Con nhịn đến khi về nhà”",
+      "“I’ll hold it till we get home”",
+      0,
+      "Nhịn lâu không tốt cho sức khoẻ. Con cứ báo ba mẹ nhé.",
+      "Holding on for ages isn’t healthy. Just tell your parents."
+     ],
+     [
+      "“Con báo ba mẹ, ba mẹ đưa con đến cửa và đứng chờ”",
+      "“I tell you, you take me to the door and wait”",
+      1,
+      "Báo người lớn trước giúp con luôn an toàn ở nơi lạ.",
+      "Telling a grown-up first keeps you safe in new places."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Đang giờ học, Bin muốn đi vệ sinh.",
+     "During a lesson, Bin needs the toilet."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự đi không nói với ai",
+      "Go without telling anyone",
+      0,
+      "Cô sẽ lo khi không thấy con. Con giơ tay xin phép nhé.",
+      "The teacher will worry. Put your hand up and ask."
+     ],
+     [
+      "Giơ tay xin phép cô, đi xong quay về lớp ngay",
+      "Put his hand up to ask, go, and come straight back",
+      1,
+      "Xin phép giúp cô biết con ở đâu. Quay về ngay để không lỡ bài.",
+      "Asking lets the teacher know where you are. Coming back quickly means you don’t miss much."
+     ],
+     [
+      "Cố nhịn đến hết tiết",
+      "Hold on until the end of the lesson",
+      0,
+      "Nhịn khó chịu lắm và không tốt. Con cứ xin phép cô nhé.",
+      "Holding on is uncomfortable and not healthy. Just ask."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nói các bước khi đi vệ sinh nơi công cộng",
+    "Say the public toilet steps"
+   ],
+   "s": [
+    "Trước khi ra ngoài, con nói với ba mẹ các bước tự làm khi đi vệ sinh nơi công cộng và chỗ ba mẹ sẽ đứng chờ.",
+    "Before going out, tell Mum or Dad the steps you do yourself at a public toilet and where they’ll wait for you."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói từng bước, con nhắc lại.",
+     "Mum or Dad says each step and you repeat it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ các bước.",
+     "Mum or Dad reminds you once; you say all the steps."
+    ],
+    [
+     "Con tự nói đủ các bước và làm đúng khi ra ngoài.",
+     "You say every step and follow them when you’re out."
+    ]
+   ],
+   "rw": [
+    "Được chọn sách tranh ở thư viện cùng ba mẹ",
+    "You choose a picture book at the library with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Đồ mới mua bị lỗi",
+   "When something we bought is faulty"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mua cho Bin chiếc ô tô chạy pin. Về nhà lắp pin vào, xe không chạy. Bin buồn muốn khóc.",
+   "Dad buys Bin a battery car. At home they put the batteries in, but it won’t go. Bin feels like crying."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nhờ ba kiểm tra lại, giữ hộp và hoá đơn để mang đi đổi",
+    "Ask Dad to check, and keep the box and receipt to swap it",
+    1,
+    "Đồ mới bị lỗi thường đổi được. Giữ hoá đơn và nhờ ba mẹ, không cần khóc hay vứt đi.",
+    "Faulty new things can usually be swapped. Keep the receipt and ask a parent – no need to cry or throw it out."
+   ],
+   [
+    "Vứt xe đi",
+    "Throw the car away",
+    0,
+    "Vứt đi thì không đổi được nữa. Con giữ lại cùng hộp nhé.",
+    "Throw it away and you can’t swap it. Keep it with the box."
+   ],
+   [
+    "Tự tháo tung xe ra",
+    "Take the car apart himself",
+    0,
+    "Tháo ra có thể làm hỏng thêm và khó đổi. Con nhờ ba xem nhé.",
+    "Taking it apart could break it more. Ask Dad to look."
+   ]
+  ],
+  "qq": [
+   "Đồ mới mua bị hỏng thì…",
+   "If something new is broken…"
+  ],
+  "qo": [
+   [
+    "Vứt đi",
+    "Throw it away"
+   ],
+   [
+    "Giữ hoá đơn, nhờ ba mẹ đổi",
+    "Keep the receipt and ask a parent to swap it"
+   ],
+   [
+    "Tự tháo ra",
+    "Take it apart"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô phát cho Bin hộp bút màu mới, mở ra thấy một cây gãy đôi.",
+     "The teacher gives Bin a new box of colouring pencils. One is snapped in half."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Giấu đi, không nói",
+      "Hide it and say nothing",
+      0,
+      "Giấu đi thì không ai giúp được con. Con báo cô nhé.",
+      "Hiding it means nobody can help. Tell the teacher."
+     ],
+     [
+      "Mang đến nói với cô để cô giúp",
+      "Show the teacher so she can help",
+      1,
+      "Báo cô sớm thì cô có cách giúp con, có khi đổi được hộp khác.",
+      "Telling her early means she can help, maybe with a new box."
+     ],
+     [
+      "Lén đổi với hộp của bạn",
+      "Secretly swap with a friend’s box",
+      0,
+      "Đổi lén là lấy đồ của bạn. Con nói với cô nhé.",
+      "Swapping secretly takes your friend’s things. Tell the teacher."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin và mẹ mua bánh mì. Ra khỏi cửa hàng, Bin thấy bánh bị dập nát.",
+     "Bin and Mum buy bread. Outside the shop, Bin sees it’s squashed."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ném bánh vào thùng rác",
+      "Throw it in the bin",
+      0,
+      "Vứt đi thì phí. Con nói với mẹ để thử đổi nhé.",
+      "That’s a waste. Tell Mum so you can try to swap it."
+     ],
+     [
+      "Cáu với mẹ vì bánh hỏng",
+      "Get cross with Mum",
+      0,
+      "Không phải lỗi của mẹ đâu. Cùng mẹ quay lại hỏi nhé.",
+      "It’s not Mum’s fault. Go back and ask together."
+     ],
+     [
+      "Nói với mẹ để cùng quay vào nhờ cô bán hàng đổi",
+      "Tell Mum so they can go back and ask to swap it",
+      1,
+      "Đồ vừa mua bị hỏng thì có thể nhờ đổi. Đi cùng mẹ và nói lễ phép nhé.",
+      "If something you just bought is damaged, you can ask to swap it. Go with Mum and ask politely."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kiểm tra đồ mới mua",
+    "Check something new"
+   ],
+   "s": [
+    "Con cùng ba mẹ kiểm tra một món mới mua (đồ chơi, đồ dùng học tập) và nói nếu nó hỏng thì làm gì: giữ hộp, giữ hoá đơn, nhờ ba mẹ đổi.",
+    "Check something new with Mum or Dad (a toy or school item) and say what to do if it’s faulty: keep the box and receipt, ask a parent to swap it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kiểm tra cùng con và nói mẫu các bước.",
+     "Mum or Dad checks with you and says the steps first."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kiểm tra và nói các bước.",
+     "Mum or Dad reminds you once; you check and say the steps."
+    ],
+    [
+     "Con tự kiểm tra, tự cất hoá đơn vào chỗ an toàn và nói lại các bước.",
+     "You check it, put the receipt somewhere safe and say the steps."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể chuyện một lần ba mẹ giải quyết được rắc rối",
+    "Mum or Dad tells you about a time they solved a problem"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Hình trên hộp và đồ thật",
+   "Box picture vs real thing"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Hộp bánh quy có hình chiếc bánh to, phủ đầy sô-cô-la. Mở ra, bánh nhỏ hơn và ít sô-cô-la hơn nhiều.",
+   "The biscuit box shows a big biscuit covered in chocolate. Inside, the biscuits are smaller with much less chocolate."
+  ],
+  "cq": [
+   "Bin có thể nghĩ gì?",
+   "What could Bin think?"
+  ],
+  "co": [
+   [
+    "“Chắc mẹ mua nhầm hộp”",
+    "“Mum must have bought the wrong box”",
+    0,
+    "Mẹ không nhầm đâu. Hình trên hộp thường được làm đẹp hơn đồ thật.",
+    "Mum didn’t get it wrong. Box pictures are made to look nicer."
+   ],
+   [
+    "“Hình trên hộp lúc nào cũng giống thật”",
+    "“Box pictures always look like the real thing”",
+    0,
+    "Không phải lúc nào cũng giống. Con so sánh thử sẽ thấy.",
+    "Not always. Compare them and see."
+   ],
+   [
+    "“Hình trên hộp được chụp cho thật đẹp. Lần sau mình nhìn kỹ đồ thật nhé.”",
+    "“The box photo is made to look great. Next time I’ll look at the real thing.”",
+    1,
+    "Hình trên bao bì thường đẹp hơn đồ thật. Nhìn kỹ và so sánh giúp con không bị bất ngờ.",
+    "Box pictures usually look better than the real thing. Looking closely helps you avoid surprises."
+   ]
+  ],
+  "qq": [
+   "Hình trên bao bì thường…",
+   "Pictures on packaging usually…"
+  ],
+  "qo": [
+   [
+    "Giống hệt đồ thật",
+    "Look exactly the same"
+   ],
+   [
+    "Xấu hơn đồ thật",
+    "Look worse"
+   ],
+   [
+    "Đẹp hơn đồ thật",
+    "Look better than the real thing"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho cả lớp xem hình quả táo trên hộp nước ép và một quả táo thật.",
+     "The teacher shows the class a picture of an apple on a juice carton and a real apple."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhìn kỹ và nói điểm khác: hình bóng hơn, đỏ hơn quả thật",
+      "Look closely and say the difference: the picture is shinier and redder",
+      1,
+      "So sánh từng chi tiết giúp con thấy hình có thể được làm đẹp thêm.",
+      "Comparing details shows how pictures can be made to look nicer."
+     ],
+     [
+      "Nói hai thứ giống hệt nhau",
+      "Say they’re exactly the same",
+      0,
+      "Con nhìn kỹ lại màu và độ bóng xem nhé.",
+      "Look again at the colour and shine."
+     ],
+     [
+      "Không cần so sánh",
+      "Not bother comparing",
+      0,
+      "So sánh vui lắm, con sẽ phát hiện nhiều điều.",
+      "Comparing is fun – you’ll spot lots."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở cửa hàng đồ chơi, hộp xe có hình chiếc xe đang bay trên trời. Bin tin là xe bay được thật.",
+     "In a toy shop, a car box shows the car flying through the sky. Bin believes it really flies."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi mua ngay để xe bay",
+      "Ask to buy it now so it can fly",
+      0,
+      "Hình trên hộp chưa chắc đúng. Con hỏi mẹ xem kỹ trước nhé.",
+      "The picture might not be true. Check with Mum first."
+     ],
+     [
+      "Hỏi mẹ đọc chữ trên hộp hoặc xem mẫu thật trước",
+      "Ask Mum to read the box or look at a real sample first",
+      1,
+      "Hình chỉ để minh hoạ cho vui. Đọc chữ và xem đồ thật mới biết chính xác.",
+      "The picture is just for fun. Reading the box and seeing the real one tells you the truth."
+     ],
+     [
+      "Tin hết những gì hình vẽ",
+      "Believe everything in the picture",
+      0,
+      "Hình được vẽ cho hấp dẫn. Con nhìn kỹ và hỏi người lớn nhé.",
+      "Pictures are drawn to look exciting. Look closely and ask a grown-up."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "So sánh hình trên bao bì với đồ thật",
+    "Compare a package picture with the real thing"
+   ],
+   "s": [
+    "Con chọn một món ăn có hình trên bao bì, mở ra cùng ba mẹ, so sánh với hình và nói ít nhất hai điểm khác nhau.",
+    "Choose a food with a picture on its packet, open it with Mum or Dad, compare it with the picture and say at least two differences."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý chỗ nhìn (kích thước, màu sắc), con so sánh cùng ba mẹ.",
+     "Mum or Dad suggests what to look at (size, colour) and you compare together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm hai điểm khác.",
+     "Mum or Dad reminds you once; you find two differences."
+    ],
+    [
+     "Con tự tìm ba điểm khác và nói vì sao hình trên hộp được làm đẹp hơn.",
+     "You find three differences and say why box pictures look nicer."
+    ]
+   ],
+   "rw": [
+    "Được cùng ba mẹ bày món ăn thật đẹp ra đĩa",
+    "You help Mum or Dad arrange a plate of food beautifully"
+   ]
+  }
+ }
+]

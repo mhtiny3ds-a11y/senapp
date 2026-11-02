@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi con thấy tủi thân ở nhà",
+   "When I feel left out at home"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà mua cho em Tí một chiếc mũ mới. Bin không có gì, thấy tủi thân và muốn giật mũ của em.",
+   "Grandma buys little Tí a new hat. Bin gets nothing, feels left out and wants to snatch the hat."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Giật mũ của em",
+    "Snatch Tí’s hat",
+    0,
+    "Giật mũ thì em khóc mà con vẫn buồn. Nói ra cảm xúc của mình sẽ tốt hơn.",
+    "Snatching makes Tí cry and you still feel sad. Saying how you feel works better."
+   ],
+   [
+    "Đóng sầm cửa, dỗi cả buổi",
+    "Slam the door and sulk all afternoon",
+    0,
+    "Dỗi thì không ai biết con cần gì. Thử nói “Con thấy… khi…” nhé.",
+    "Sulking means nobody knows what you need. Try “I feel… when…”."
+   ],
+   [
+    "Nói với mẹ: “Con thấy tủi khi em có quà còn con thì không”",
+    "Tell Mum: “I feel left out when Tí gets a present and I don’t”",
+    1,
+    "Tủi thân là cảm xúc bình thường. Nói ra bằng lời giúp mẹ hiểu và ôm con.",
+    "Feeling left out is normal. Saying it in words helps Mum understand and give you a cuddle."
+   ]
+  ],
+  "qq": [
+   "Khi thấy tủi thân hay ghen tị, con nên…",
+   "When you feel left out or jealous, you should…"
+  ],
+  "qo": [
+   [
+    "Làm ầm lên",
+    "Make a big fuss"
+   ],
+   [
+    "Nói ra với ba mẹ bằng lời",
+    "Tell Mum or Dad in words"
+   ],
+   [
+    "Trút giận lên em",
+    "Take it out on your sibling"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô khen bài vẽ của Na trước lớp. Bin cũng vẽ rất cố gắng mà chưa được khen, thấy tủi.",
+     "The teacher praises Na’s drawing in front of the class. Bin tried hard too but wasn’t mentioned and feels left out."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Hít thở, chúc mừng Na, rồi xin cô xem tranh của mình",
+      "Breathe, congratulate Na, then ask the teacher to look at yours",
+      1,
+      "Con được nói điều mình mong muốn một cách nhẹ nhàng. Cô sẽ vui khi xem tranh của con.",
+      "You can gently ask for what you’d like. The teacher will be glad to see your work."
+     ],
+     [
+      "Nói với bạn: “Tranh Na xấu mà”",
+      "Tell a friend “Na’s picture is ugly anyway”",
+      0,
+      "Chê bạn không làm con vui hơn. Bạn được khen không có nghĩa là con kém.",
+      "Putting Na down won’t help. Her praise doesn’t mean you’re less."
+     ],
+     [
+      "Ngồi buồn, không vẽ nữa",
+      "Sit sadly and stop drawing",
+      0,
+      "Buồn là bình thường, nhưng đừng bỏ điều con thích. Nói ra mong muốn của mình nhé.",
+      "Feeling sad is OK, but don’t give up what you love. Say what you’d like."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, ba mải chụp ảnh cho em Tí. Bin đứng cạnh, thấy mình như bị quên mất.",
+     "At the park, Dad is busy taking photos of Tí. Bin stands nearby, feeling forgotten."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Bỏ đi chỗ khác cho ba phải tìm",
+      "Wander off so Dad has to look for you",
+      0,
+      "Đi khỏi ba ở nơi đông người rất không an toàn. Ở cạnh ba và nói ra nhé.",
+      "Leaving Dad in a busy place isn’t safe. Stay close and tell him."
+     ],
+     [
+      "Nói: “Ba ơi, chụp cả con nữa nhé”",
+      "Say: “Dad, take one of me too, please”",
+      1,
+      "Nói nhẹ nhàng điều mình muốn giúp ba biết ngay mà không ai buồn.",
+      "Saying gently what you want lets Dad know straight away, and nobody gets upset."
+     ],
+     [
+      "Đẩy em ra khỏi ảnh",
+      "Push Tí out of the photo",
+      0,
+      "Đẩy em có thể làm em ngã. Nói với ba bằng lời sẽ tốt hơn.",
+      "Pushing could make Tí fall. Telling Dad in words is better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nói ra khi con thấy tủi",
+    "Say it when I feel left out"
+   ],
+   "s": [
+    "Con kể với ba mẹ một lần con thấy tủi bằng câu “Con thấy… khi…”, rồi cùng ba mẹ hẹn một giờ chơi riêng.",
+    "Tell Mum or Dad about a time you felt left out using “I feel… when…”, then plan some special one-to-one time together."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu câu, con nói theo về một lần con thấy tủi.",
+     "Mum or Dad models the sentence and you copy it about your own moment."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể bằng câu “Con thấy… khi…”.",
+     "Mum or Dad reminds you once; you use “I feel… when…” yourself."
+    ],
+    [
+     "Con tự mở lời kể, nói đủ câu và cùng ba mẹ chọn giờ chơi riêng.",
+     "You start by yourself, say the full sentence and choose your special time together."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ đi dạo công viên",
+    "A walk in the park with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Trò chơi gia đình có luật",
+   "Family games with clear rules"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, nhóm Bin chơi trốn tìm. Có bạn mới đếm đến năm đã đi tìm, cả nhóm kêu không công bằng.",
+   "At break, Bin’s group plays hide-and-seek. One friend counts to five and starts seeking; everyone says it’s unfair."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Không chơi với bạn đó nữa",
+    "Never play with that friend again",
+    0,
+    "Bạn có thể chưa biết luật. Nói lại luật cho cả nhóm sẽ tốt hơn.",
+    "Maybe they didn’t know. Agreeing the rules together works better."
+   ],
+   [
+    "Rủ cả nhóm nói lại luật: đếm đến hai mươi rồi mới tìm",
+    "Get the group to agree: count to twenty before seeking",
+    1,
+    "Nói rõ luật cho cả nhóm nghe giúp mọi người chơi công bằng và không giận nhau.",
+    "Saying the rule clearly to everyone keeps it fair and stops quarrels."
+   ],
+   [
+    "Đến lượt mình thì đếm còn nhanh hơn",
+    "Count even faster on your turn",
+    0,
+    "Phá luật để trả đũa thì trò chơi càng rối. Cùng thống nhất lại nhé.",
+    "Breaking rules to get even makes it worse. Agree them again."
+   ]
+  ],
+  "qq": [
+   "Trò chơi vui hơn khi…",
+   "Games are more fun when…"
+  ],
+  "qo": [
+   [
+    "Mỗi người một luật",
+    "Everyone has their own rules"
+   ],
+   [
+    "Người thắng tự đặt luật",
+    "The winner makes the rules"
+   ],
+   [
+    "Cả nhà thống nhất luật trước và ai cũng giữ",
+    "Everyone agrees the rules first and keeps them"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chơi cờ cá ngựa. Chưa nói luật mà ai cũng đi theo kiểu của mình, rồi cãi nhau ai đúng.",
+     "The family plays a board game. Nobody agreed the rules, so everyone plays their own way and they argue."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Chơi theo luật của mình vì mình đúng",
+      "Play your way because you’re right",
+      0,
+      "Ai cũng nghĩ mình đúng thì cãi mãi. Thống nhất một luật chung sẽ vui hơn.",
+      "If everyone thinks they’re right, the arguing never stops. Agree one set of rules."
+     ],
+     [
+      "Bỏ cuộc vì cãi nhau mệt quá",
+      "Give up because of the arguing",
+      0,
+      "Bỏ cuộc thì mất vui. Thử rủ cả nhà nói lại luật nhé.",
+      "Quitting spoils the fun. Try getting everyone to agree the rules."
+     ],
+     [
+      "Đề nghị dừng lại, cả nhà thống nhất luật rồi chơi tiếp",
+      "Suggest pausing so everyone agrees the rules, then carry on",
+      1,
+      "Thống nhất luật trước và ai cũng giữ luật thì trò chơi mới công bằng và vui.",
+      "Agreeing rules first, and everyone keeping them, makes the game fair and fun."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, mấy bạn cùng chơi cầu trượt, ai cũng chen lên trước. Mẹ ngồi ghế gần đó.",
+     "At the local playground, children crowd the slide, all pushing to go first. Mum sits on a bench nearby."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Rủ các bạn: “Mình xếp hàng, mỗi người trượt một lượt nhé”",
+      "Suggest: “Let’s queue up, one go each”",
+      1,
+      "Một luật đơn giản mọi người cùng đồng ý giúp trò chơi vui và an toàn.",
+      "One simple rule everyone agrees on keeps play fun and safe."
+     ],
+     [
+      "Chen lên trước cho nhanh",
+      "Push to the front",
+      0,
+      "Chen lấn trên cầu trượt dễ ngã. Có luật xếp hàng thì ai cũng an toàn.",
+      "Pushing on the slide can cause falls. A queue keeps everyone safe."
+     ],
+     [
+      "Mách mẹ rồi về luôn",
+      "Tell Mum and go home",
+      0,
+      "Nhờ mẹ cũng được, nhưng con có thể thử rủ các bạn đặt luật trước.",
+      "Asking Mum is OK, but you could first try suggesting a rule."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chủ trì trò chơi gia đình",
+    "Host a family game"
+   ],
+   "s": [
+    "Con chủ trì một trò chơi 10 phút với cả nhà, nói rõ luật trước khi bắt đầu và nhắc mọi người giữ luật.",
+    "Host a 10-minute game with the family: explain the rules before you start and remind everyone to keep them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn trò và tập nói luật trước.",
+     "Mum or Dad helps you pick a game and practise saying the rules."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói luật và bắt đầu trò chơi.",
+     "Mum or Dad reminds you once; you explain the rules and start."
+    ],
+    [
+     "Con tự chọn trò, nói luật rõ ràng, chủ trì cả ván và hỏi mọi người có vui không.",
+     "You choose, explain the rules, run the whole game and ask if everyone enjoyed it."
+    ]
+   ],
+   "rw": [
+    "Được chọn trái cây tráng miệng cho cả nhà",
+    "You choose the fruit for family pudding"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự soạn cặp theo thời khoá biểu",
+   "Packing my school bag"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nào Bin cũng cuống lên tìm sách. Hôm qua Bin còn quên vở Tiếng Việt ở nhà.",
+   "Every morning Bin rushes around looking for books. Yesterday Bin even left the Vietnamese exercise book at home."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tối hôm trước, nhìn thời khoá biểu và soạn đủ sách vở cho mai",
+    "The night before, check the timetable and pack everything for tomorrow",
+    1,
+    "Soạn cặp từ tối theo thời khoá biểu giúp sáng ra con thong thả, không quên gì.",
+    "Packing the night before from your timetable means calm mornings and nothing forgotten."
+   ],
+   [
+    "Nhờ mẹ soạn hộ mỗi sáng",
+    "Ask Mum to pack it every morning",
+    0,
+    "Mẹ giúp được, nhưng con đã lớn để tự làm việc này rồi. Thử tự soạn nhé.",
+    "Mum could, but you’re big enough to do this. Give it a try."
+   ],
+   [
+    "Mang hết sách vở đi cho chắc",
+    "Take every book just in case",
+    0,
+    "Cặp sẽ rất nặng mà con vẫn chưa biết hôm nay học gì. Nhìn thời khoá biểu nhé.",
+    "Your bag would be heavy and you still wouldn’t know the day’s lessons. Check the timetable."
+   ]
+  ],
+  "qq": [
+   "Soạn cặp tốt nhất là…",
+   "The best way to pack your bag is…"
+  ],
+  "qo": [
+   [
+    "Tối hôm trước, theo thời khoá biểu",
+    "The night before, using the timetable"
+   ],
+   [
+    "Sáng sớm vội vàng",
+    "In a rush in the morning"
+   ],
+   [
+    "Mang hết mọi thứ",
+    "Taking everything"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Đến giờ Toán, Bin mở cặp thì thấy mang nhầm vở vẽ thay cho vở Toán.",
+     "In maths, Bin opens the bag and finds the drawing book instead of the maths book."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi im, không làm bài",
+      "Sit there and do nothing",
+      0,
+      "Ngồi im thì con lỡ bài. Báo cô để cô giúp con nhé.",
+      "Doing nothing means missing the lesson. Tell the teacher so she can help."
+     ],
+     [
+      "Báo cô, viết tạm ra giấy, tối về soạn cặp theo thời khoá biểu",
+      "Tell the teacher, use spare paper, and pack from the timetable tonight",
+      1,
+      "Nhận ra lỗi và tìm cách sửa là con đang tự lập. Tối nay soạn cặp cẩn thận nhé.",
+      "Noticing the mistake and fixing it is real independence. Pack carefully tonight."
+     ],
+     [
+      "Lấy vở của bạn mà không hỏi",
+      "Take a friend’s book without asking",
+      0,
+      "Lấy đồ không hỏi làm bạn buồn. Báo cô sẽ tốt hơn.",
+      "Taking without asking upsets your friend. Tell the teacher instead."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cuối tuần Bin đi học bơi cùng mẹ. Mẹ bảo Bin tự chuẩn bị túi đồ bơi.",
+     "At the weekend Bin goes to swimming lessons with Mum. Mum asks Bin to pack the swim bag."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cho đại vài thứ vào túi",
+      "Throw a few things in",
+      0,
+      "Cho đại thì dễ quên khăn hay kính. Nhìn danh sách sẽ chắc hơn.",
+      "Guessing means forgetting the towel or goggles. A list is safer."
+     ],
+     [
+      "Đợi mẹ soạn",
+      "Wait for Mum to do it",
+      0,
+      "Mẹ tin con làm được nên mới nhờ. Thử tự soạn rồi nhờ mẹ kiểm tra nhé.",
+      "Mum asked because she trusts you. Pack it, then ask her to check."
+     ],
+     [
+      "Nhìn danh sách: đồ bơi, kính, khăn, dép, rồi tự xếp vào túi",
+      "Check the list: swimsuit, goggles, towel, sandals, then pack",
+      1,
+      "Có danh sách thì con tự soạn đủ đồ, giống như soạn cặp theo thời khoá biểu.",
+      "With a list you pack everything yourself, just like using a timetable."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự soạn cặp tối nay",
+    "Pack my bag tonight"
+   ],
+   "s": [
+    "Tối nay con tự nhìn thời khoá biểu và soạn cặp cho ngày mai, rồi nhờ ba mẹ kiểm tra lại.",
+    "Tonight, check your timetable and pack your bag for tomorrow, then ask Mum or Dad to check it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc thời khoá biểu, con lấy từng quyển cho vào cặp.",
+     "Mum or Dad reads the timetable and you put each book in."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự soạn đủ sách vở.",
+     "Mum or Dad reminds you once; you pack everything."
+    ],
+    [
+     "Con tự nhớ soạn cặp sau bữa tối và nói cho ba mẹ mai học môn gì.",
+     "You remember to pack after dinner and tell Mum or Dad tomorrow’s lessons."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con thích",
+    "The family cooks your favourite dish"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Cất đồ chơi cho vừa chỗ",
+   "Fitting toys back in their place"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin cùng mẹ đi siêu thị, xếp đồ vào xe đẩy. Trứng, bánh mì, chai nước lẫn lộn, trứng sắp bị đè.",
+   "Bin helps Mum load the trolley at the supermarket. Eggs, bread and bottles are jumbled, and the eggs are about to be squashed."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cứ để vậy, về nhà tính",
+    "Leave it and sort it at home",
+    0,
+    "Để vậy trứng có thể vỡ trước khi về. Sắp xếp lại ngay nhé.",
+    "The eggs might break before you get home. Sort it now."
+   ],
+   [
+    "Đồ nặng xếp dưới, đồ dễ vỡ như trứng để riêng phía trên",
+    "Heavy things at the bottom, breakables like eggs on top",
+    1,
+    "Chia đồ theo nhóm nặng – nhẹ – dễ vỡ giúp mọi thứ vừa chỗ và an toàn.",
+    "Grouping heavy, light and fragile things makes everything fit safely."
+   ],
+   [
+    "Đặt chai nước lên trên cùng",
+    "Put the bottles on top",
+    0,
+    "Chai nặng đè lên dễ làm vỡ trứng. Đồ nặng nên để dưới.",
+    "Heavy bottles would crush the eggs. Heavy things go underneath."
+   ]
+  ],
+  "qq": [
+   "Để cất đồ gọn và dễ tìm, con nên…",
+   "To put things away neatly and find them easily, you should…"
+  ],
+  "qo": [
+   [
+    "Nhét chung một chỗ",
+    "Stuff it all in one place"
+   ],
+   [
+    "Để khắp nơi",
+    "Leave things everywhere"
+   ],
+   [
+    "Phân loại theo nhóm",
+    "Sort things into groups"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin cất đồ chơi bằng cách nhét hết vào một thùng. Thùng đầy tràn, lúc cần tìm ô tô thì không thấy đâu.",
+     "Bin tidies by stuffing every toy into one box. It overflows, and when Bin wants the toy car it’s nowhere to be found."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chia thành nhóm: xe, thú bông, khối gỗ, mỗi nhóm một hộp",
+      "Sort into groups: cars, soft toys, blocks, one box each",
+      1,
+      "Phân loại theo nhóm giúp cất vừa chỗ và lần sau tìm rất nhanh.",
+      "Sorting into groups makes things fit and easy to find next time."
+     ],
+     [
+      "Ấn thật mạnh cho vừa thùng",
+      "Squash everything down hard",
+      0,
+      "Ấn mạnh dễ làm hỏng đồ chơi mà vẫn khó tìm. Thử chia nhóm xem.",
+      "Squashing breaks toys and they’re still hard to find. Try sorting."
+     ],
+     [
+      "Để đồ chơi ra sàn cho dễ lấy",
+      "Leave toys on the floor so they’re easy to grab",
+      0,
+      "Để dưới sàn dễ dẫm phải và mất đồ. Mỗi nhóm một hộp sẽ gọn hơn.",
+      "Toys on the floor get trodden on and lost. A box per group is tidier."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cuối giờ, cô nhờ Bin cất bút màu, kéo, hồ dán vào tủ lớp. Tủ lộn xộn, ai cần gì cũng khó tìm.",
+     "At the end of the day, the teacher asks Bin to put crayons, scissors and glue in the cupboard. It’s messy and hard to find anything."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bỏ tất cả vào một ngăn cho nhanh",
+      "Dump everything on one shelf",
+      0,
+      "Nhanh lúc cất nhưng lâu lúc tìm. Chia loại sẽ tiện hơn.",
+      "Quick to put away, slow to find. Sorting is handier."
+     ],
+     [
+      "Để lại trên bàn, mai cất",
+      "Leave it on the table till tomorrow",
+      0,
+      "Cô nhờ hôm nay mà. Cất theo nhóm chỉ mất vài phút thôi.",
+      "The teacher asked today. Sorting takes just a few minutes."
+     ],
+     [
+      "Xếp bút màu một khay, kéo một khay, hồ dán một khay",
+      "Crayons in one tray, scissors in one, glue in another",
+      1,
+      "Mỗi loại một chỗ thì cả lớp lấy và cất đều dễ.",
+      "One place for each kind makes it easy for the whole class."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba hộp đồ chơi có nhãn",
+    "Three labelled toy boxes"
+   ],
+   "s": [
+    "Con chia đồ chơi thành ba nhóm, cất vào ba hộp và vẽ nhãn cho từng hộp. Ba mẹ xem con tìm lại một món có nhanh không.",
+    "Sort your toys into three groups, put them in three boxes and draw a label for each. Mum or Dad checks how quickly you can find one toy."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn ba nhóm và cất từng món.",
+     "Mum or Dad helps choose three groups and put each toy away."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chia nhóm và vẽ nhãn.",
+     "Mum or Dad reminds you once; you sort and label yourself."
+    ],
+    [
+     "Con tự nghĩ ra cách chia nhóm, cất gọn và giải thích cho ba mẹ.",
+     "You decide the groups, tidy up and explain your system."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con chơi trốn tìm trong nhà",
+    "A game of hide-and-seek at home with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đoán rồi thử để biết",
+   "Guess, then check"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na bảo cây đậu để trong tủ tối vẫn mọc xanh tốt. Bin đoán là không. Cô bảo cả lớp có thể làm thử.",
+   "Na says a bean plant kept in a dark cupboard will still grow green. Bin guesses it won’t. The teacher says the class can test it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cứ tin mình đúng, không cần thử",
+    "Trust you’re right, no need to test",
+    0,
+    "Có khi mình đoán sai đấy. Làm thử là cách biết chắc nhất.",
+    "Guesses can be wrong. Testing is the surest way to know."
+   ],
+   [
+    "Tin Na vì Na nói rất chắc chắn",
+    "Believe Na because she sounds so sure",
+    0,
+    "Nói chắc chắn chưa chắc đã đúng. Cùng thử để biết nhé.",
+    "Sounding sure doesn’t make it true. Test it together."
+   ],
+   [
+    "Cùng Na trồng hai cốc đậu, một cốc chỗ sáng, một cốc trong tủ, rồi xem",
+    "Plant two cups with Na, one in the light and one in the cupboard, then watch",
+    1,
+    "Đặt hai cốc cạnh nhau để so sánh là cách thử rất khoa học.",
+    "Comparing two cups side by side is a proper scientist’s test."
+   ]
+  ],
+  "qq": [
+   "Muốn biết điều mình đoán có đúng không, con nên…",
+   "To find out if your guess is right, you should…"
+  ],
+  "qo": [
+   [
+    "Thử tận mắt để kiểm tra",
+    "Test it and see for yourself"
+   ],
+   [
+    "Cãi to hơn",
+    "Argue louder"
+   ],
+   [
+    "Tin người nói chắc nhất",
+    "Believe whoever sounds surest"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin đoán cái thìa nhựa sẽ chìm trong chậu nước, chị Mai đoán là nổi. Hai chị em cãi nhau mãi.",
+     "Bin guesses a plastic spoon will sink in a bowl of water; Mai guesses it will float. They argue and argue."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cùng chị thả thìa vào chậu nước xem ai đúng",
+      "Drop the spoon in the bowl together and see",
+      1,
+      "Đoán chỉ là bước đầu. Thử tận mắt giúp cả hai biết điều thật.",
+      "A guess is just the start. Testing it shows you both what’s true."
+     ],
+     [
+      "Cãi to hơn cho chị chịu thua",
+      "Argue louder until Mai gives in",
+      0,
+      "Nói to không làm điều đoán thành đúng. Thử tận mắt mới biết thật.",
+      "Being loud doesn’t make a guess true. Testing it shows the answer."
+     ],
+     [
+      "Nhường chị cho xong chuyện",
+      "Just agree with Mai to end it",
+      0,
+      "Nhường cũng tốt, nhưng thử một chút thì cả hai cùng biết câu trả lời.",
+      "Giving in is kind, but a quick test tells you both the answer."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở chợ, Bin đoán quả dưa hấu to nhất là quả nặng nhất. Mẹ đứng cạnh hàng dưa có cái cân.",
+     "At the market, Bin guesses the biggest watermelon is the heaviest. Mum is next to the stall, which has scales."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Khẳng định luôn, không cần cân",
+      "Insist you’re right without weighing",
+      0,
+      "Nhìn bằng mắt dễ nhầm. Cân thử mới biết thật.",
+      "Eyes can trick you. Weighing tells the truth."
+     ],
+     [
+      "Nhờ mẹ hỏi cô bán hàng cho cân thử hai quả",
+      "Ask Mum to ask the stallholder to weigh two",
+      1,
+      "Cân thử thì biết chắc chắn, đôi khi quả nhỏ hơn lại nặng hơn đấy.",
+      "Weighing tells you for sure; sometimes a smaller one is heavier."
+     ],
+     [
+      "Thôi, đoán vậy là được rồi",
+      "Never mind, the guess is good enough",
+      0,
+      "Đã có cân ngay đây, thử một chút là biết đúng sai rồi.",
+      "The scales are right there; a quick check will tell you."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đoán nổi hay chìm",
+    "Float or sink? Guess and test"
+   ],
+   "s": [
+    "Con đoán năm đồ vật trong nhà sẽ nổi hay chìm, ghi lại, rồi thả vào chậu nước cùng ba mẹ để kiểm tra.",
+    "Guess whether five things at home will float or sink, note your guesses, then test them in a bowl of water with Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn đồ vật, con đoán và cùng thả thử.",
+     "Mum or Dad picks the objects; you guess and test together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn đồ, đoán và ghi lại.",
+     "Mum or Dad reminds you once; you choose, guess and record."
+    ],
+    [
+     "Con tự làm cả năm lần thử và kể cho ba mẹ mình đoán đúng mấy lần.",
+     "You do all five tests and tell Mum or Dad how many guesses were right."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ gấp thuyền giấy thả trong chậu nước",
+    "Fold paper boats with Mum or Dad and float them"
+   ]
+  }
+ }
+]

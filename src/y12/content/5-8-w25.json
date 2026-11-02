@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự đọc sách mười phút",
+   "Reading on my own"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối nào Bin cũng chờ mẹ đọc truyện. Hôm nay mẹ bận rửa bát, Bin ngồi chờ và thấy chán.",
+   "Every night Bin waits for Mum to read to him. Tonight she’s washing up, and Bin is bored waiting."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tự chọn một cuốn truyện, đọc 10 phút rồi kể mẹ nghe",
+    "Pick a book, read for 10 minutes, then tell Mum about it",
+    1,
+    "Tự đọc mỗi ngày một chút giúp con tự lập và biết thêm nhiều điều.",
+    "Reading a little on your own each day builds independence and teaches you lots."
+   ],
+   [
+    "Ngồi chờ đến khi mẹ xong",
+    "Sit and wait until Mum’s done",
+    0,
+    "Chờ mãi thì chán lắm. Con thử tự đọc vài trang xem.",
+    "Waiting is boring. Try reading a few pages yourself."
+   ],
+   [
+    "Đòi mẹ bỏ việc để đọc ngay",
+    "Ask Mum to stop and read now",
+    0,
+    "Mẹ đang bận một chút. Con tự đọc trước, mẹ sẽ nghe con kể.",
+    "Mum’s busy for now. Read first and tell her after."
+   ]
+  ],
+  "qq": [
+   "Tự đọc sách mỗi ngày giúp con…",
+   "Reading on your own each day helps you…"
+  ],
+  "qo": [
+   [
+    "Không cần ai nữa",
+    "Never need anyone"
+   ],
+   [
+    "Tự lập và biết thêm nhiều điều",
+    "Be independent and learn lots"
+   ],
+   [
+    "Đọc nhanh hơn bạn",
+    "Read faster than friends"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ đọc sách ở thư viện trường, Bin không biết chọn cuốn nào nên ngồi nhìn các bạn.",
+     "During library time at school, Bin can’t choose a book and just watches the others."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi chờ hết giờ",
+      "Wait for the time to end",
+      0,
+      "Giờ đọc sách rất quý. Con thử chọn một cuốn nhé.",
+      "Library time is precious. Try picking one."
+     ],
+     [
+      "Chọn cuốn có con vật Bin thích và đọc thử vài trang",
+      "Pick one about an animal you like and try a few pages",
+      1,
+      "Chọn sách theo điều mình thích giúp con muốn đọc tiếp.",
+      "Choosing by what you like makes you want to keep reading."
+     ],
+     [
+      "Lấy đại cuốn dày nhất",
+      "Grab the thickest book",
+      0,
+      "Cuốn quá dày dễ làm con nản. Chọn cuốn vừa sức nhé.",
+      "A huge book can be off-putting. Pick one that suits you."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin ngồi cùng mẹ chờ đến lượt khám răng. Phải chờ khá lâu, Bin cứ ngọ nguậy.",
+     "Bin is waiting with Mum for a dentist appointment. It’s a long wait and he’s fidgety."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lấy cuốn sách nhỏ mang theo ra đọc",
+      "Take out the little book you brought and read",
+      1,
+      "Mang theo sách và tự đọc giúp thời gian chờ trôi nhanh hơn.",
+      "Bringing a book and reading makes waiting fly by."
+     ],
+     [
+      "Chạy quanh phòng chờ",
+      "Run around the waiting room",
+      0,
+      "Phòng chờ cần yên tĩnh. Một cuốn sách sẽ giúp con.",
+      "Waiting rooms need to be calm. A book helps."
+     ],
+     [
+      "Kêu ca suốt với mẹ",
+      "Moan to Mum the whole time",
+      0,
+      "Chờ lâu thật khó chịu. Thử đọc sách xem có dễ chịu hơn không.",
+      "Long waits are hard. See if reading helps."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự đọc sách mười phút",
+    "Read on my own for ten minutes"
+   ],
+   "s": [
+    "Con tự chọn sách, đọc 10 phút rồi kể cho ba mẹ một điều con thích trong sách.",
+    "Choose a book yourself, read for 10 minutes and tell Mum or Dad one thing you liked."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn sách và ngồi cạnh khi con đọc.",
+     "Mum or Dad helps you choose and sits nearby while you read."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc đủ 10 phút.",
+     "Mum or Dad reminds you once; you read for the full 10 minutes."
+    ],
+    [
+     "Con tự nhớ giờ đọc, đọc đủ 10 phút và kể lại một điều thú vị.",
+     "You remember reading time, read 10 minutes and share something interesting."
+    ]
+   ],
+   "rw": [
+    "Được kể chuyện cho cả nhà nghe trước giờ ngủ",
+    "You tell the family a bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Hai bạn, một chỗ ngồi",
+   "Two friends, one seat"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi xe buýt cùng mẹ, Bin và Na cùng muốn ngồi cạnh cửa sổ.",
+   "On the bus with Mum, Bin and Na both want the window seat."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi trước rồi không nhường",
+    "Sit first and refuse to move",
+    0,
+    "Na cũng muốn ngắm đường. Chia lượt thì hai bạn cùng vui.",
+    "Na wants to see too. Turns make it fun for both."
+   ],
+   [
+    "Đề nghị: lượt đi Na ngồi, lượt về Bin ngồi",
+    "Suggest Na sits there on the way, Bin on the way back",
+    1,
+    "Chia lượt đi và về là cách công bằng, ai cũng được ngắm đường.",
+    "Splitting the journey is fair, and you both see out."
+   ],
+   [
+    "Cãi nhau to trên xe",
+    "Argue loudly on the bus",
+    0,
+    "Trên xe có nhiều người. Nói nhỏ và cùng nghĩ cách chia lượt nhé.",
+    "There are lots of people. Talk quietly and find a fair way."
+   ]
+  ],
+  "qq": [
+   "Khi hai người cùng muốn một thứ, con nên…",
+   "When two people want the same thing, you should…"
+  ],
+  "qo": [
+   [
+    "Tìm cách chia lượt công bằng",
+    "Find a fair way to take turns"
+   ],
+   [
+    "Giành lấy trước",
+    "Grab it first"
+   ],
+   [
+    "Khóc thật to",
+    "Cry loudly"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin và em Bông cùng muốn ngồi chiếc ghế xoay của ba. Hai anh em kéo qua kéo lại.",
+     "Bin and Bông both want Dad’s spinning chair and tug it back and forth."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kéo mạnh hơn để giành",
+      "Pull harder to win",
+      0,
+      "Giành nhau có thể làm ngã. Chia lượt an toàn và vui hơn.",
+      "Tugging could make someone fall. Turns are safer."
+     ],
+     [
+      "Đề nghị mỗi người ngồi 5 phút, nhờ mẹ hẹn giờ",
+      "Suggest five minutes each, with Mum timing",
+      1,
+      "Chia lượt bằng thời gian rõ ràng thì công bằng cho cả hai.",
+      "Taking timed turns is fair for both."
+     ],
+     [
+      "Nhường mãi rồi ngồi khóc",
+      "Give in every time, then cry",
+      0,
+      "Nhường là tốt, nhưng con cũng được đến lượt. Thử đề nghị chia lượt nhé.",
+      "Sharing is kind, but you deserve a turn too. Suggest turns."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, Bin và Na cùng muốn ngồi chiếc xích đu cuối cùng.",
+     "At break, Bin and Na both want the last swing."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy thật nhanh ngồi trước",
+      "Race to sit first",
+      0,
+      "Chạy giành dễ va nhau. Cùng nghĩ cách chia lượt nhé.",
+      "Racing could cause a bump. Think of a way to share."
+     ],
+     [
+      "Giận Na rồi bỏ đi",
+      "Get cross with Na and walk off",
+      0,
+      "Hai bạn vẫn có thể cùng chơi. Thử chia lượt xem.",
+      "You can both still play. Try taking turns."
+     ],
+     [
+      "Oẳn tù tì, ai thắng chơi trước một lúc rồi đổi",
+      "Play rock-paper-scissors; the winner goes first, then swap",
+      1,
+      "Một cách chọn công bằng và đổi lượt giúp cả hai cùng vui.",
+      "A fair way to choose and swapping keeps you both happy."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba cách chia lượt",
+    "Three ways to take turns"
+   ],
+   "s": [
+    "Con nghĩ ba cách chia lượt (hẹn giờ, oẳn tù tì, lượt đi lượt về…) và thử một cách với người nhà cho một chỗ ngồi hoặc món đồ.",
+    "Think of three ways to take turns (a timer, rock-paper-scissors, one way each…) and try one with a family member over a seat or toy."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý các cách, con chọn một cách và thử cùng ba mẹ.",
+     "Mum or Dad suggests ways; you pick one and try it together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ ba cách và thử một cách.",
+     "Mum or Dad reminds you once; you think of three and try one."
+    ],
+    [
+     "Con tự nghĩ, tự đề nghị chia lượt khi có tranh chấp và kể lại kết quả.",
+     "You come up with them, suggest turns when there’s a clash and tell how it went."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi đá cầu ở sân",
+    "A family game of shuttlecock outside"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Chuyện nào cũng có hai phía",
+   "Every story has two sides"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chị Mai và em Bông tranh nhau cây bút màu. Bông nói chị giành, chị nói Bông lấy trước. Bin định bênh em ngay.",
+   "Mai and Bông are fighting over a crayon. Bông says Mai grabbed it; Mai says Bông took it first. Bin wants to take Bông’s side."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Bênh em vì em đang khóc",
+    "Side with Bông because she’s crying",
+    0,
+    "Khóc chưa chắc là đúng hay sai. Con nghe chị kể nữa nhé.",
+    "Crying doesn’t show who’s right. Listen to Mai too."
+   ],
+   [
+    "Bênh chị vì chị lớn hơn",
+    "Side with Mai because she’s older",
+    0,
+    "Lớn hay nhỏ không quyết định ai đúng. Nghe cả hai nhé.",
+    "Age doesn’t decide who’s right. Listen to both."
+   ],
+   [
+    "Nghe cả hai kể xong rồi mới nghĩ ai đúng",
+    "Hear both of them out before deciding",
+    1,
+    "Mỗi người nhìn chuyện theo một phía. Nghe đủ hai phía giúp con công bằng.",
+    "Each person sees it their way. Hearing both sides keeps you fair."
+   ]
+  ],
+  "qq": [
+   "Trước khi nghĩ ai đúng ai sai, con nên…",
+   "Before deciding who’s right, you should…"
+  ],
+  "qo": [
+   [
+    "Tin người kể trước",
+    "Believe whoever speaks first"
+   ],
+   [
+    "Bênh người mình thân",
+    "Side with your friend"
+   ],
+   [
+    "Nghe cả hai bên kể",
+    "Hear both sides"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tí chạy đến mách Bin: “Nam xô tớ!” Bin định chạy đi trách Nam ngay.",
+     "Tí runs up to Bin: “Nam pushed me!” Bin wants to go and tell Nam off straight away."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi Nam xem chuyện gì đã xảy ra trước khi nghĩ ai sai",
+      "Ask Nam what happened before deciding who’s wrong",
+      1,
+      "Có khi Nam vô tình va phải. Nghe cả hai bên mới biết rõ.",
+      "Maybe Nam bumped into him by accident. Hear both sides to know."
+     ],
+     [
+      "Trách Nam ngay",
+      "Tell Nam off straight away",
+      0,
+      "Mình mới nghe một phía thôi. Hỏi Nam trước nhé.",
+      "You’ve only heard one side. Ask Nam first."
+     ],
+     [
+      "Bảo Tí mặc kệ",
+      "Tell Tí to forget it",
+      0,
+      "Tí đang buồn. Nghe cả hai bạn và nếu cần thì báo cô.",
+      "Tí is upset. Hear both and tell the teacher if needed."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi, hai bạn nhỏ tranh nhau một quả bóng, bạn nào cũng nói bóng là của mình. Ba Bin đứng gần đó.",
+     "In the playground, two small children argue over a ball; each says it’s theirs. Bin’s dad is nearby."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đưa bóng cho bạn nói to hơn",
+      "Give the ball to whoever shouts loudest",
+      0,
+      "Nói to không có nghĩa là đúng. Nghe cả hai bạn nhé.",
+      "Loudest isn’t rightest. Listen to both."
+     ],
+     [
+      "Đưa bóng cho bạn mình quen",
+      "Give it to the one you know",
+      0,
+      "Quen hay lạ không quyết định ai đúng. Nhờ ba giúp nghe cả hai nhé.",
+      "Knowing someone doesn’t make them right. Ask Dad to help hear both."
+     ],
+     [
+      "Gọi ba đến và cùng nghe cả hai bạn nói",
+      "Call Dad over and listen to both children",
+      1,
+      "Nghe cả hai phía, có người lớn giúp, thì dễ tìm ra sự thật.",
+      "Hearing both sides with a grown-up’s help finds the truth."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nghe hai người kể cùng một việc",
+    "Hear two people tell the same event"
+   ],
+   "s": [
+    "Con nghe hai người trong nhà kể về cùng một việc (ví dụ bữa sáng nay) và chỉ ra một điểm giống, một điểm khác.",
+    "Listen to two family members describe the same event (like this morning’s breakfast) and point out one thing the same and one different."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể lần lượt, cùng con tìm điểm khác nhau.",
+     "Mum and Dad take turns telling it and help you spot the difference."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi hai người và so sánh.",
+     "Mum or Dad reminds you once; you ask both and compare."
+    ],
+    [
+     "Con tự hỏi, chỉ ra điểm giống, khác và nói vì sao mỗi người nhớ khác nhau.",
+     "You ask, find the same and different, and say why people remember differently."
+    ]
+   ],
+   "rw": [
+    "Được chọn bữa sáng cuối tuần cho cả nhà",
+    "You choose the family’s weekend breakfast"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Chơi an toàn ở sân trường",
+   "Safe play in the schoolyard"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ra chơi, mấy bạn rủ Bin chơi đuổi bắt ở cầu thang.",
+   "At break, some friends invite Bin to play chase on the stairs."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chơi theo cho vui",
+    "Join in for fun",
+    0,
+    "Cầu thang dễ trượt ngã. Rủ các bạn ra sân chơi nhé.",
+    "Stairs are easy to fall on. Suggest the playground."
+   ],
+   [
+    "Nói “Cầu thang không phải chỗ chạy” và rủ các bạn ra sân",
+    "Say, “Stairs aren’t for running,” and invite them to the playground",
+    1,
+    "Chơi đúng chỗ, không xô đẩy giúp ai cũng an toàn mà vẫn vui.",
+    "Playing in the right place without pushing keeps everyone safe and happy."
+   ],
+   [
+    "Đứng xem và cổ vũ",
+    "Watch and cheer",
+    0,
+    "Cổ vũ làm các bạn chạy hăng hơn. Nhắc bạn hoặc báo cô nhé.",
+    "Cheering eggs them on. Remind them or tell a teacher."
+   ]
+  ],
+  "qq": [
+   "Chơi an toàn ở trường nghĩa là…",
+   "Playing safely at school means…"
+  ],
+  "qo": [
+   [
+    "Chạy ở đâu cũng được",
+    "Running anywhere"
+   ],
+   [
+    "Chơi càng mạnh càng vui",
+    "The rougher, the better"
+   ],
+   [
+    "Chơi đúng chỗ, không xô đẩy",
+    "Playing in the right places, no pushing"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở nhà, Bin và em Bông chơi đuổi bắt quanh chiếc bàn có cạnh nhọn. Mẹ đang nấu cơm.",
+     "At home, Bin and Bông play chase around a table with sharp corners. Mum is cooking."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Rủ em ra chỗ rộng chơi trò nhẹ nhàng hơn, như ném bóng mềm",
+      "Move to an open space and play something gentler, like soft-ball catch",
+      1,
+      "Chơi đúng chỗ giúp không ai bị va đau.",
+      "Playing in the right place keeps everyone safe from bumps."
+     ],
+     [
+      "Chạy nhanh hơn để em không bắt được",
+      "Run faster so Bông can’t catch you",
+      0,
+      "Chạy nhanh quanh bàn dễ va vào cạnh. Đổi chỗ chơi nhé.",
+      "Running fast around the table risks a bump. Change places."
+     ],
+     [
+      "Chơi tiếp, cẩn thận là được",
+      "Keep going, just be careful",
+      0,
+      "Chỗ chật thì dù cẩn thận vẫn dễ va. Ra chỗ rộng an toàn hơn.",
+      "In a tight spot you can still get hurt. An open space is safer."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi chung cư, các bạn xếp hàng chơi cầu trượt. Một bạn chen lên đẩy bạn phía trước.",
+     "In the courtyard playground, children queue for the slide. One child pushes in and shoves the one ahead."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xếp hàng chờ lượt, nếu có bạn bị ngã thì báo người lớn ngay",
+      "Wait your turn, and tell a grown-up straight away if someone falls",
+      1,
+      "Không xô đẩy, chờ lượt và báo người lớn khi có chuyện giúp mọi người an toàn.",
+      "No pushing, waiting your turn and fetching a grown-up keeps everyone safe."
+     ],
+     [
+      "Đẩy lại bạn đó",
+      "Push them back",
+      0,
+      "Đẩy lại thì càng dễ ngã. Báo người lớn nhé.",
+      "Pushing back makes falls likelier. Tell a grown-up."
+     ],
+     [
+      "Chen lên theo cho kịp",
+      "Push in too so you don’t miss out",
+      0,
+      "Chen lấn dễ làm ai đó ngã. Chờ lượt an toàn hơn.",
+      "Pushing in can make someone fall. Waiting is safer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Vẽ sơ đồ sân trường an toàn",
+    "Draw a safe schoolyard map"
+   ],
+   "s": [
+    "Con vẽ sơ đồ sân trường, tô xanh chỗ chơi an toàn và tô đỏ chỗ không nên chơi (cầu thang, gần cổng…), rồi giải thích cho ba mẹ.",
+    "Draw a map of your schoolyard, colour safe play areas green and no-play spots red (stairs, near the gate…), then explain it to Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con vẽ và hỏi từng chỗ có an toàn không.",
+     "Mum or Dad draws with you and asks about each spot."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ và tô màu.",
+     "Mum or Dad reminds you once; you draw and colour it."
+    ],
+    [
+     "Con tự vẽ, giải thích vì sao từng chỗ an toàn hay không và hôm sau kể đã chơi ở đâu.",
+     "You draw it, explain each spot and next day tell where you played."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ xếp một dãy domino thật dài",
+    "Build a long domino line with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Thời gian biểu sau giờ học",
+   "My after-school timetable"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Đi học về, Bin chơi luôn đến tối, rồi vừa ăn cơm vừa ngáp vì chưa làm bài.",
+   "After school Bin plays straight through to evening, then yawns over dinner with homework still undone."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chơi trước, khuya làm bài",
+    "Play first, homework late at night",
+    0,
+    "Khuya thì mệt, làm bài lâu hơn. Xếp giờ làm bài sớm hơn nhé.",
+    "Late at night you’re tired and slower. Fit homework in earlier."
+   ],
+   [
+    "Cùng ba mẹ vẽ thời gian biểu: tắm, ăn nhẹ, làm bài, chơi, đi ngủ",
+    "Draw a timetable with Mum or Dad: bath, snack, homework, play, bed",
+    1,
+    "Có thời gian biểu, con biết lúc nào học, lúc nào chơi, lúc nào nghỉ.",
+    "A timetable shows when to work, when to play and when to rest."
+   ],
+   [
+    "Bỏ chơi, chỉ học thôi",
+    "Skip play and only study",
+    0,
+    "Chơi và nghỉ cũng cần lắm. Thời gian biểu có chỗ cho cả hai.",
+    "Play and rest matter too. A timetable has room for both."
+   ]
+  ],
+  "qq": [
+   "Thời gian biểu giúp con biết…",
+   "A timetable helps you know…"
+  ],
+  "qo": [
+   [
+    "Chỉ lúc nào được chơi",
+    "Only when to play"
+   ],
+   [
+    "Lúc nào học, lúc nào chơi, lúc nào nghỉ",
+    "When to study, play and rest"
+   ],
+   [
+    "Bạn khác làm gì",
+    "What others are doing"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, Na kể: “Tớ có thời gian biểu, làm bài xong là tớ được chơi.” Bin tò mò.",
+     "At school Na says, “I have a timetable. When homework’s done, I get to play.” Bin is curious."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nghĩ “Thời gian biểu chán lắm”",
+      "Think, “Timetables are boring”",
+      0,
+      "Thời gian biểu giúp con có giờ chơi rõ ràng mà không lo bài. Thử xem nhé.",
+      "A timetable gives you clear playtime without homework worries. Try it."
+     ],
+     [
+      "Chép y hệt thời gian biểu của Na",
+      "Copy Na’s timetable exactly",
+      0,
+      "Mỗi nhà có giờ giấc khác nhau. Con cùng ba mẹ làm cái của mình nhé.",
+      "Every family’s day is different. Make your own with your parents."
+     ],
+     [
+      "Hỏi Na cách làm, về nhà nhờ ba mẹ cùng lập thời gian biểu",
+      "Ask Na how, then make a timetable with your parents",
+      1,
+      "Học hỏi bạn điều hay giúp con sắp xếp thời gian tốt hơn.",
+      "Learning good ideas from friends helps you plan your time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Thứ Bảy, ông bà đưa Bin đi công viên buổi sáng. Chiều về Bin còn bài tập nhưng muốn chơi tiếp.",
+     "On Saturday morning, Bin’s grandparents take him to the park. In the afternoon he has homework but wants to keep playing."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chơi tiếp, tối Chủ nhật làm",
+      "Keep playing; do it Sunday night",
+      0,
+      "Để đến tối Chủ nhật thì vội lắm. Làm theo thời gian biểu nhé.",
+      "Sunday night will be a rush. Follow the timetable."
+     ],
+     [
+      "Xem thời gian biểu cuối tuần: làm bài trước, chơi sau",
+      "Check the weekend timetable: homework first, then play",
+      1,
+      "Thời gian biểu giúp con vừa đi chơi vui vừa xong việc.",
+      "A timetable lets you enjoy outings and still get things done."
+     ],
+     [
+      "Nhờ ông bà làm hộ",
+      "Ask your grandparents to do it",
+      0,
+      "Bài của con thì con làm, ông bà có thể ngồi cạnh động viên.",
+      "It’s your homework; they can sit with you and cheer you on."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Vẽ thời gian biểu sau giờ học",
+    "Draw my after-school timetable"
+   ],
+   "s": [
+    "Con cùng ba mẹ vẽ thời gian biểu từ lúc đi học về đến lúc đi ngủ, dán lên tường và làm theo một ngày.",
+    "Draw a timetable with Mum or Dad from coming home to bedtime, stick it up and follow it for a day."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con vẽ và nhắc con từng mục trong ngày.",
+     "Mum or Dad draws it with you and reminds you of each step."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhìn thời gian biểu và làm theo.",
+     "Mum or Dad reminds you once; you check and follow it."
+    ],
+    [
+     "Con tự làm theo cả buổi chiều và kể lại mục nào dễ, mục nào khó.",
+     "You follow it all afternoon and say which parts were easy or hard."
+    ]
+   ],
+   "rw": [
+    "Cả nhà đạp xe hoặc đi bộ quanh công viên cuối tuần",
+    "A family bike ride or walk around the park at the weekend"
+   ]
+  }
+ }
+]

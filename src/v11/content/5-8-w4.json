@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi bị thua",
+   "When I lose"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin thi ghép hình với anh trai và anh xong trước. Bin tức quá, muốn hất tung hết các mảnh ghép.",
+   "Bin races big brother to finish a jigsaw, and brother wins. Bin is so cross and wants to scatter all the pieces."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Hít sâu, nói: “Em tiếc quá! Mình chơi ván nữa nhé anh”",
+    "Breathe and say: “Aw, so close! Rematch?”",
+    1,
+    "Thua thì tiếc là bình thường. Bình tĩnh lại, chơi tiếp sẽ vui hơn.",
+    "Feeling disappointed is normal. Calm down and keep playing — it’s more fun."
+   ],
+   [
+    "Nói “Anh ăn gian!”",
+    "Shout “You cheated!”",
+    0,
+    "Thua làm mình buồn, nhưng đổ cho anh thì anh cũng buồn. Nói thật cảm xúc của mình nhé.",
+    "Losing hurts, but blaming makes your brother sad too. Say how you really feel."
+   ],
+   [
+    "Hất tung các mảnh ghép",
+    "Scatter the pieces",
+    0,
+    "Hất đồ không làm hết tức mà còn phải nhặt lâu. Thử hít sâu trước nhé.",
+    "Scattering doesn’t stop the anger, and now there’s tidying. Breathe first."
+   ]
+  ],
+  "qq": [
+   "Khi thua cuộc, con có thể…",
+   "When you lose, you can…"
+  ],
+  "qo": [
+   [
+    "Hít sâu và chúc mừng bạn",
+    "Breathe and congratulate the winner"
+   ],
+   [
+    "Bỏ không chơi nữa",
+    "Quit for good"
+   ],
+   [
+    "Nói bạn ăn gian",
+    "Say they cheated"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thể dục, đội của Bin thua trò chạy tiếp sức. Cả đội ỉu xìu.",
+     "In PE, Bin’s team loses the relay. Everyone looks gloomy."
+    ],
+    "q": [
+     "Bin nên nói gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Tại Linh chạy chậm!”",
+      "“It’s Linh’s fault for being slow!”",
+      0,
+      "Đổ lỗi làm bạn buồn và cả đội buồn thêm. Cả đội cùng thua thì cùng cố lần sau.",
+      "Blaming hurts Linh and the whole team. You lose together and try again together."
+     ],
+     [
+      "Ngồi một góc không nói chuyện với ai",
+      "Sit alone and talk to no one",
+      0,
+      "Buồn thì được, nhưng đội đang cần nhau. Một câu động viên sẽ giúp cả đội.",
+      "Feeling sad is fine, but the team needs each other. One kind word helps."
+     ],
+     [
+      "“Tiếc quá! Mình chúc mừng đội kia, lần sau cùng cố nhé”",
+      "“So close! Let’s cheer the other team and try again next time”",
+      1,
+      "Chúc mừng đội thắng và động viên đội mình là cách thua mà vẫn vui.",
+      "Cheering the winners and encouraging your team is how to lose well."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Mẹ đưa Bin đến hội thi vẽ của phường. Tranh của Bin không được giải.",
+     "Mum takes Bin to the neighbourhood drawing contest. Bin’s picture doesn’t win a prize."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói “Tranh đó xấu mà vẫn được giải”",
+      "Say “That one’s ugly and it still won”",
+      0,
+      "Chê tranh bạn không làm con vui hơn. Mỗi bức tranh đều có cái hay riêng.",
+      "Criticising doesn’t make you feel better. Every picture has something good."
+     ],
+     [
+      "Xé tranh của mình",
+      "Tear up your picture",
+      0,
+      "Tranh của con vẫn là công sức của con. Mang về treo lên nhé.",
+      "Your picture is still your hard work. Take it home and hang it up."
+     ],
+     [
+      "Nói với mẹ “Con buồn”, rồi đi xem tranh các bạn để học thêm",
+      "Tell Mum “I’m sad,” then look at the other pictures to learn",
+      1,
+      "Nói ra nỗi buồn giúp con nhẹ lòng. Xem tranh bạn giúp lần sau con vẽ hay hơn nữa.",
+      "Saying you’re sad lightens it. Looking at others’ work helps you grow."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Mỗi người một việc",
+   "Everyone gets a job"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô chia nhóm Bin, Na và Tí cùng vẽ một bức tranh cánh đồng. Cả ba bạn đều muốn vẽ ông mặt trời.",
+   "The teacher puts Bin, Na and Tí together to draw a countryside picture. All three want to draw the sun."
+  ],
+  "cq": [
+   "Nhóm nên làm thế nào?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Chia việc: một bạn vẽ mặt trời, một bạn vẽ cây, một bạn vẽ hoa",
+    "Split jobs: one draws the sun, one the trees, one the flowers",
+    1,
+    "Mỗi người một việc thì tranh xong nhanh và ai cũng có phần góp sức.",
+    "One job each finishes faster and everyone has a part."
+   ],
+   [
+    "Mỗi bạn tự vẽ một ông mặt trời",
+    "Each draws their own sun",
+    0,
+    "Ba ông mặt trời thì bức tranh lạ lắm. Chia việc khác nhau sẽ đẹp hơn.",
+    "Three suns makes a strange picture. Different jobs work better."
+   ],
+   [
+    "Giành bút vẽ trước",
+    "Grab the pen first",
+    0,
+    "Giành nhau thì chưa vẽ đã cãi rồi. Mình chia việc cho nhau nhé.",
+    "Grabbing starts a fight before any drawing. Share out the jobs instead."
+   ]
+  ],
+  "qq": [
+   "Làm việc nhóm tốt khi…",
+   "Teamwork goes well when…"
+  ],
+  "qo": [
+   [
+    "Một bạn làm hết",
+    "One person does everything"
+   ],
+   [
+    "Mỗi người nhận một phần việc",
+    "Everyone takes a part"
+   ],
+   [
+    "Ai nhanh thì giành trước",
+    "The fastest grabs first"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chuẩn bị bữa tối. Ba nấu ăn, mẹ rửa rau. Bin và em gái đứng nhìn.",
+     "The family is getting dinner ready. Dad cooks, Mum washes the veg. Bin and little sister just watch."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi ba mẹ: “Con xếp bát đũa, em lấy khăn nhé?”",
+      "Ask: “Shall I set the bowls and chopsticks, and sister fetch the napkins?”",
+      1,
+      "Nhận việc vừa sức và chia cho em một phần, ai cũng được góp sức.",
+      "Taking a job that fits and sharing one with your sister means everyone helps."
+     ],
+     [
+      "Đứng sát bếp xem ba nấu",
+      "Stand right by the stove watching Dad",
+      0,
+      "Đứng gần bếp nóng không an toàn. Con hỏi xem có việc nào hợp với con nhé.",
+      "Standing by the hot stove isn’t safe. Ask what job suits you."
+     ],
+     [
+      "Đi xem hoạt hình, đợi ăn",
+      "Go and watch cartoons till it’s ready",
+      0,
+      "Cả nhà đang cùng làm. Con nhận một việc nhỏ thì bữa cơm sẽ xong sớm hơn.",
+      "Everyone’s pitching in. Take a small job and dinner’s ready sooner."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, các bạn cùng xây lâu đài cát, ba mẹ ngồi gần đó. Bạn nào cũng muốn đắp tháp.",
+     "In the park sandpit, kids build a sandcastle while parents sit nearby. Everyone wants to build the tower."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Rủ chia việc: bạn đắp tháp, bạn đào hào, bạn chở cát",
+      "Suggest jobs: one builds the tower, one digs the moat, one carries sand",
+      1,
+      "Mỗi người một việc thì ai cũng vui và lâu đài nhanh thành hình.",
+      "One job each keeps everyone happy and the castle grows fast."
+     ],
+     [
+      "Không chơi nữa vì không được đắp tháp",
+      "Quit because you can’t build the tower",
+      0,
+      "Việc nào cũng quan trọng với lâu đài. Thử một việc khác nhé.",
+      "Every job matters to the castle. Try another one."
+     ],
+     [
+      "Tự đắp tháp, kệ các bạn",
+      "Build the tower yourself and ignore the others",
+      0,
+      "Làm một mình thì các bạn buồn. Chia việc thì lâu đài sẽ to hơn.",
+      "Doing it alone leaves others out. Splitting jobs makes a bigger castle."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự mặc quần áo",
+   "Getting dressed by myself"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nay mẹ bận cho em bé ăn. Quần áo của Bin đã để sẵn nhưng Bin vẫn ngồi chờ mẹ mặc giúp.",
+   "This morning Mum is busy feeding the baby. Bin’s clothes are laid out, but Bin is waiting for Mum to help."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi chờ mẹ xong việc",
+    "Sit and wait for Mum",
+    0,
+    "Chờ thì dễ muộn học. Con đã đủ lớn để tự làm phần lớn rồi.",
+    "Waiting could make you late. You’re big enough to do most of it."
+   ],
+   [
+    "Tự mặc từng món, chỗ nào khó như cài cúc thì nhờ mẹ sau",
+    "Put each thing on yourself, and ask Mum later for tricky buttons",
+    1,
+    "Tự làm phần mình làm được và chỉ nhờ phần thật khó. Thế là tự lập rồi.",
+    "Do what you can and ask only for the really hard bit. That’s independence."
+   ],
+   [
+    "Mặc luôn đồ ngủ đi học",
+    "Go to school in pyjamas",
+    0,
+    "Đồ ngủ để ngủ thôi con. Thử tự thay, con làm được mà.",
+    "Pyjamas are for sleeping. Try changing yourself — you can do it."
+   ]
+  ],
+  "qq": [
+   "Tự lập nghĩa là…",
+   "Being independent means…"
+  ],
+  "qo": [
+   [
+    "Đợi người khác làm hộ",
+    "Waiting for others to do it"
+   ],
+   [
+    "Không bao giờ nhờ ai",
+    "Never asking anyone"
+   ],
+   [
+    "Tự làm phần mình làm được",
+    "Doing what you can yourself"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau giờ thể dục, các bạn thay giày để vào lớp. Dây giày của Bin bị tuột.",
+     "After PE, everyone changes shoes to go in. Bin’s laces have come undone."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi xuống thử tự buộc, chưa được thì nhờ cô chỉ",
+      "Sit down and try to tie them, then ask the teacher to show you",
+      1,
+      "Thử trước rồi mới nhờ giúp con học thêm được một việc mới.",
+      "Trying first, then asking, teaches you something new."
+     ],
+     [
+      "Nhờ bạn buộc hộ ngay",
+      "Ask a friend to tie them straight away",
+      0,
+      "Nhờ bạn cũng được, nhưng con thử tự buộc trước, chưa được thì mới nhờ.",
+      "Asking is OK, but try yourself first and ask if you’re stuck."
+     ],
+     [
+      "Để nguyên dây tuột mà đi",
+      "Walk with them undone",
+      0,
+      "Dây tuột dễ làm con vấp ngã. Thử buộc lại nhé.",
+      "Loose laces can trip you. Have a go at tying them."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên với ba, trời nắng nóng. Bin cần cởi áo khoác và cất vào ba lô.",
+     "At the park with Dad, it gets hot. Bin needs to take off the jacket and pack it away."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đưa áo cho ba cầm hộ",
+      "Hand it to Dad to carry",
+      0,
+      "Ba đã cầm nhiều đồ rồi. Con có ba lô riêng, tự cất được mà.",
+      "Dad’s carrying plenty. You have your own backpack."
+     ],
+     [
+      "Tự cởi áo, gấp gọn và cho vào ba lô",
+      "Take it off, fold it and pack it yourself",
+      1,
+      "Tự lo đồ của mình giúp ba đỡ vất vả và con không làm mất áo.",
+      "Looking after your own things helps Dad and keeps the jacket safe."
+     ],
+     [
+      "Để áo trên ghế đá rồi đi chơi",
+      "Leave it on a bench and run off",
+      0,
+      "Để áo trên ghế dễ quên mất. Cất vào ba lô là chắc nhất.",
+      "Left on a bench, it’s easy to forget. The backpack is safest."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Tìm lại đồ bị thất lạc",
+   "Finding lost things"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Đến giờ về, Bin tìm mãi không thấy bình nước. Bin nhớ hồi ra chơi vẫn còn cầm.",
+   "At home time, Bin can’t find the water bottle anywhere. Bin remembers having it at break."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Khóc vì bị mất",
+    "Cry because it’s gone",
+    0,
+    "Buồn thì được, nhưng mình vẫn có thể tìm. Thử nhớ lại những chỗ đã đến nhé.",
+    "Feeling sad is OK, but you can still look. Think back to where you went."
+   ],
+   [
+    "Nhớ lại các chỗ đã đến, quay lại tìm, rồi hỏi cô",
+    "Think back to where you’ve been, check there, then ask the teacher",
+    1,
+    "Đi lại những chỗ mình đã qua là cách tìm đồ rất hay. Cô cũng có thể giúp con.",
+    "Retracing your steps is a great way to find things. The teacher can help too."
+   ],
+   [
+    "Lấy tạm bình của bạn",
+    "Take a friend’s bottle",
+    0,
+    "Bình của bạn là của bạn. Mình cùng tìm bình của con nhé.",
+    "Your friend’s bottle is theirs. Let’s find yours."
+   ]
+  ],
+  "qq": [
+   "Khi mất đồ, việc đầu tiên nên làm là…",
+   "When you lose something, first…"
+  ],
+  "qo": [
+   [
+    "Đòi mua cái mới",
+    "Ask for a new one"
+   ],
+   [
+    "Nhớ lại lần cuối thấy nó ở đâu",
+    "Think where you last saw it"
+   ],
+   [
+    "Đổ lỗi cho bạn",
+    "Blame a friend"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sắp đến giờ đi học mà Bin không tìm thấy chiếc giày bên trái.",
+     "It’s nearly time for school and Bin can’t find the left shoe."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lục tung cả nhà",
+      "Turn the whole house upside down",
+      0,
+      "Lục khắp nơi tốn thời gian và làm nhà bừa. Nghĩ trước rồi mới tìm nhé.",
+      "Searching everywhere wastes time and makes a mess. Think first."
+     ],
+     [
+      "Nhớ lại tối qua cởi giày ở đâu, tìm ở đó trước",
+      "Think where you took them off last night and look there first",
+      1,
+      "Bắt đầu từ chỗ cuối cùng mình thấy giúp tìm nhanh hơn là chạy lung tung.",
+      "Starting from the last place you saw it beats running everywhere."
+     ],
+     [
+      "Đi một chân giày, một chân dép",
+      "Wear one shoe and one sandal",
+      0,
+      "Đi như vậy khó chạy nhảy lắm. Con thử nhớ lại một chút nhé.",
+      "That’s hard to walk in. Try thinking back for a moment."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi siêu thị với mẹ, Bin chợt thấy mũ của mình không còn trên đầu.",
+     "Shopping with Mum, Bin suddenly notices the hat is no longer on Bin’s head."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Thôi bỏ, không nói với ai",
+      "Forget it and tell no one",
+      0,
+      "Không nói thì không ai giúp được con. Mẹ sẽ cùng con tìm.",
+      "If you don’t tell, no one can help. Mum will look with you."
+     ],
+     [
+      "Tự chạy đi tìm khắp nơi",
+      "Run off alone to search everywhere",
+      0,
+      "Tự chạy đi ở chỗ đông người dễ lạc mẹ. Hãy nói với mẹ trước nhé.",
+      "Running off in a busy shop, you might lose Mum. Tell her first."
+     ],
+     [
+      "Nói với mẹ, cùng mẹ quay lại các quầy vừa đi qua",
+      "Tell Mum and go back along the aisles together",
+      1,
+      "Có mẹ đi cùng và đi lại đường cũ, vừa an toàn vừa dễ tìm thấy.",
+      "With Mum beside you, retracing your steps is safe and smart."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nghe bạn nói, kiểm tra lại",
+   "Check what you hear"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bạn Tí nói: “Cô bảo mai cả lớp được nghỉ học đấy!” Bin chưa hề nghe cô nói vậy.",
+   "Tí says: “Miss said we’ve got tomorrow off school!” Bin never heard the teacher say that."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đi kể cho cả lớp biết",
+    "Tell the whole class",
+    0,
+    "Tin chưa chắc mà lan đi thì nhiều bạn hiểu sai. Hỏi cô trước đã.",
+    "Spreading unchecked news confuses lots of people. Ask the teacher first."
+   ],
+   [
+    "Về khoe ngay với mẹ là mai được nghỉ",
+    "Rush home and tell Mum there’s no school",
+    0,
+    "Nếu tin sai, mẹ sẽ phải lo lại cả ngày mai. Kiểm tra trước nhé.",
+    "If it’s wrong, Mum will plan for nothing. Check first."
+   ],
+   [
+    "Hỏi lại cô giáo cho chắc",
+    "Ask the teacher to make sure",
+    1,
+    "Tin nghe qua bạn có thể bị nhầm. Hỏi người biết rõ là cách kiểm tra tốt nhất.",
+    "News passed along can get mixed up. Asking the person who knows is the best check."
+   ]
+  ],
+  "qq": [
+   "Khi nghe một tin chưa chắc, con nên…",
+   "When you hear news you’re not sure of, you should…"
+  ],
+  "qo": [
+   [
+    "Hỏi người biết rõ",
+    "Ask someone who really knows"
+   ],
+   [
+    "Kể lại cho mọi người",
+    "Pass it on"
+   ],
+   [
+    "Tin ngay",
+    "Believe it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em gái chạy đến nói: “Mẹ bảo mình được ăn kem trước bữa tối đấy!”",
+     "Little sister runs over: “Mum says we can have ice cream before dinner!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói em: “Em nói dối!”",
+      "Tell her: “You’re lying!”",
+      0,
+      "Có thể em chỉ nghe nhầm thôi. Hỏi lại thì sẽ biết.",
+      "Maybe she just misheard. Asking will tell you."
+     ],
+     [
+      "Cùng em đi hỏi lại mẹ",
+      "Go and check with Mum together",
+      1,
+      "Hỏi người đã nói giúp cả hai biết chắc. Kiểm tra trước, làm sau.",
+      "Asking the person who said it means you both know for sure. Check, then act."
+     ],
+     [
+      "Mở tủ lạnh lấy kem luôn",
+      "Get the ice cream out right away",
+      0,
+      "Nếu em nghe nhầm thì mẹ sẽ không vui. Hỏi mẹ trước chỉ mất một chút.",
+      "If she misheard, Mum won’t be happy. Asking takes a second."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, một bạn nói: “Hồ kia có con cá to bằng con trâu!” Ba đang ngồi gần đó.",
+     "At the park, a child says: “That lake has a fish as big as a buffalo!” Dad is sitting nearby."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tin ngay và sợ không dám chơi nữa",
+      "Believe it and feel too scared to play",
+      0,
+      "Chuyện nghe to tát quá có thể chỉ là đùa. Hỏi lại người lớn sẽ thấy yên tâm.",
+      "A huge story might be a joke. Asking a grown-up will put your mind at rest."
+     ],
+     [
+      "Chạy ra sát bờ hồ để xem",
+      "Run to the water’s edge to look",
+      0,
+      "Chạy ra sát mép hồ một mình không an toàn. Hỏi ba và đi cùng ba nhé.",
+      "Running to the edge alone isn’t safe. Ask Dad and go together."
+     ],
+     [
+      "Hỏi ba: “Có cá to vậy thật không ạ?”",
+      "Ask Dad: “Is there really a fish that big?”",
+      1,
+      "Nghe điều lạ thì hỏi người lớn. Con vừa an toàn vừa biết được sự thật.",
+      "When something sounds odd, ask a grown-up. You stay safe and learn the truth."
+     ]
+    ]
+   }
+  }
+ }
+]

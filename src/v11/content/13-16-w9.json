@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Những khoản chi nhỏ âm thầm trong ứng dụng",
+   "Sneaky in-app spending"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khoa chơi một trò chơi miễn phí trên điện thoại của ba. Trò chơi liên tục mời mua “gói vật phẩm chỉ 20.000đ”, mà tài khoản của ba đã lưu sẵn thẻ thanh toán.",
+   "Khoa plays a free game on Dad’s phone. It keeps offering a “bundle for just 20,000₫”, and Dad’s account has a payment card saved."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Không bấm mua, nói với ba để ba cài mật khẩu cho mọi giao dịch",
+    "Don’t buy; tell Dad so he can set a password for all purchases",
+    1,
+    "Tiền trong ứng dụng là tiền thật. Nhờ ba cài khóa giúp cả nhà tránh mua nhầm.",
+    "In-app money is real money. A purchase lock helps the whole family avoid accidents."
+   ],
+   [
+    "Mua một gói thôi, chỉ 20.000đ",
+    "Just one bundle — only 20,000₫",
+    0,
+    "Mua bằng tài khoản của ba khi chưa hỏi là không đúng, dù số tiền nhỏ. Khoản nhỏ lặp lại cũng thành lớn.",
+    "Buying on Dad’s account without asking isn’t OK, however small. Small repeats add up too."
+   ],
+   [
+    "Mua rồi kể sau",
+    "Buy it and tell him later",
+    0,
+    "Kể sau thì vẫn là đã tiêu tiền khi chưa được phép. Hỏi trước luôn là cách đúng.",
+    "Telling later still means spending without permission. Ask first, always."
+   ]
+  ],
+  "qq": [
+   "Tiền nạp trong trò chơi hay ứng dụng là…",
+   "Money spent inside games or apps is…"
+  ],
+  "qo": [
+   [
+    "Không phải tiền thật nên không sao",
+    "Not real money, so it’s fine"
+   ],
+   [
+    "Tiền thật, cần hỏi ba mẹ",
+    "Real money — ask your parents"
+   ],
+   [
+    "Miễn phí nếu ít",
+    "Free if it’s small"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Một bạn cùng lớp khoe vừa đăng ký ứng dụng học từ vựng “miễn phí 7 ngày”, sau đó tự trừ tiền hằng tháng. Bạn rủ Khoa đăng ký theo.",
+     "A classmate boasts about a vocabulary app with a “7-day free trial” that then charges monthly, and urges Khoa to sign up."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Đăng ký luôn, hết 7 ngày thì hủy",
+      "Sign up and cancel after seven days",
+      0,
+      "Rất dễ quên hủy, và tài khoản đó thường là của ba mẹ. Hỏi ý ba mẹ trước.",
+      "It’s easy to forget, and the account is usually your parents’. Ask them first."
+     ],
+     [
+      "Mượn tài khoản của bạn dùng chung",
+      "Share the friend’s account",
+      0,
+      "Dùng chung tài khoản có thể trái điều khoản và lộ thông tin. Có nhiều cách học từ vựng miễn phí khác.",
+      "Sharing accounts can break the rules and expose details. There are plenty of free ways to learn words."
+     ],
+     [
+      "Hỏi ba mẹ trước, cùng đọc kỹ điều khoản tự gia hạn, và tìm xem có ứng dụng miễn phí hoàn toàn không",
+      "Ask your parents first, read the auto-renew terms together, and look for a fully free option",
+      1,
+      "“Miễn phí” có điều kiện thường kèm khoản trừ tiền tự động. Đọc kỹ và hỏi người lớn giúp tránh chi tiêu ngoài ý muốn.",
+      "“Free” with conditions often hides automatic charges. Reading carefully and asking an adult prevents surprises."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi siêu thị cùng mẹ, Khoa thấy quầy thanh toán bày đầy kẹo và đồ chơi nhỏ giá 10.000–15.000đ. Khoa đã cầm lên ba món.",
+     "At the supermarket with Mum, Khoa sees the checkout lined with sweets and small toys at 10,000–15,000₫. Khoa has already picked up three."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Mua cả ba, rẻ mà",
+      "Buy all three — they’re cheap",
+      0,
+      "Ba món rẻ cộng lại bằng một món mình thật sự thích. Cân nhắc lại một chút.",
+      "Three cheap things add up to something you’d really like. Think again."
+     ],
+     [
+      "Tự hỏi “mình có định mua món này khi vào siêu thị không?”, rồi để lại những món không định mua",
+      "Ask yourself, “Did I plan to buy this when I came in?” and put back anything you didn’t",
+      1,
+      "Quầy thanh toán được bày để mình mua theo cảm hứng. Một câu hỏi nhỏ giúp giữ tiền cho điều mình thật sự muốn.",
+      "Checkouts are designed for impulse buys. One quick question saves money for what you really want."
+     ],
+     [
+      "Xin mẹ trả hộ",
+      "Ask Mum to pay for them",
+      0,
+      "Mẹ có thể đồng ý, nhưng câu hỏi vẫn là mình có cần không. Thử tự quyết trước.",
+      "Mum might, but the question is still whether you need them. Decide first."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Bất đồng một cách tôn trọng",
+   "Disagreeing respectfully"
+  ],
+  "m": [
+   "14 phút",
+   "14 min"
+  ],
+  "base": "B",
+  "story": [
+   "Thầy Minh chấm bài luận của Khoa 6 điểm, nhận xét “chưa đủ dẫn chứng”. Khoa nghĩ mình đã có dẫn chứng ở đoạn ba và thấy điểm chưa công bằng.",
+   "Mr Minh gives Khoa’s essay a 6, noting “not enough evidence”. Khoa believes paragraph three has evidence and feels the mark is unfair."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Nói to ngay trong lớp: “Thầy chấm sai rồi!”",
+    "Say out loud in class, “You marked it wrong!”",
+    0,
+    "Nói trước lớp dễ làm thầy thấy bị chất vấn và câu chuyện trở nên căng thẳng.",
+    "Saying it in front of the class feels like a challenge and makes things tense."
+   ],
+   [
+    "Im lặng nhưng trong lòng khó chịu mãi",
+    "Say nothing and stay resentful",
+    0,
+    "Không hỏi thì không biết thầy nghĩ gì. Hỏi một cách tôn trọng giúp mình hiểu và học được.",
+    "Without asking you won’t know the teacher’s view. A respectful question helps you learn."
+   ],
+   [
+    "Cuối giờ xin gặp thầy: “Em muốn hiểu rõ hơn. Ở đoạn ba em dùng ví dụ này, thầy thấy em cần bổ sung gì ạ?”",
+    "After class ask to see him: “I’d like to understand better. I used this example in paragraph three — what should I add?”",
+    1,
+    "Chọn đúng lúc, đưa dẫn chứng cụ thể và hỏi để hiểu. Dù điểm có đổi hay không, mình vẫn học được điều mới.",
+    "Pick the right moment, show specifics and ask to understand. Whether or not the mark changes, you learn something."
+   ]
+  ],
+  "qq": [
+   "Bất đồng một cách tôn trọng là…",
+   "Disagreeing respectfully means…"
+  ],
+  "qo": [
+   [
+    "Nêu quan điểm có lý do, đúng lúc, và lắng nghe",
+    "Giving your view with reasons, at the right time, and listening"
+   ],
+   [
+    "Nói to để được chú ý",
+    "Speaking loudly to be heard"
+   ],
+   [
+    "Luôn nhường cho êm chuyện",
+    "Always giving in to keep the peace"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba mẹ định cho Khoa học thêm Toán vào tối thứ Bảy. Khoa muốn giữ tối thứ Bảy để nghỉ ngơi và tập đàn.",
+     "Mum and Dad plan to enrol Khoa in Saturday-evening maths tutoring. Khoa wants Saturday evenings for rest and keyboard practice."
+    ],
+    "q": [
+     "Khoa nên nói thế nào?",
+     "What should Khoa say?"
+    ],
+    "o": [
+     [
+      "“Con hiểu ba mẹ muốn con tiến bộ môn Toán. Con xin giữ tối thứ Bảy để nghỉ, và con sẽ tự học thêm Toán 30 phút mỗi tối thứ Ba, thứ Năm. Ba mẹ thấy sao ạ?”",
+      "“I know you want my maths to improve. Could I keep Saturday evenings for rest and do an extra 30 minutes of maths on Tuesdays and Thursdays? What do you think?”",
+      1,
+      "Ghi nhận mong muốn của ba mẹ, nêu nhu cầu của mình và đưa phương án cụ thể. Hỏi ý kiến ở cuối mở ra cuộc trao đổi.",
+      "Acknowledge their wish, state your need and offer a concrete plan. Ending with a question opens a real conversation."
+     ],
+     [
+      "“Con không học đâu!”",
+      "“I’m not doing it!”",
+      0,
+      "Từ chối thẳng làm ba mẹ khó lắng nghe lý do của mình. Hãy đưa lý lẽ và đề xuất.",
+      "A flat no makes it hard for them to hear your reasons. Offer reasons and an alternative."
+     ],
+     [
+      "Đồng ý cho xong rồi đi học uể oải",
+      "Agree, then go along half-heartedly",
+      0,
+      "Đồng ý mà không nói thật thì cả mình và ba mẹ đều thiệt. Trao đổi thật lòng sẽ tốt hơn.",
+      "Agreeing without honesty costs everyone. An honest talk is better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi họp câu lạc bộ môi trường của phường, một cô chú đề xuất in tờ rơi phát cho từng nhà. Khoa nghĩ dùng bảng tin chung và nhóm tin nhắn khu phố sẽ đỡ tốn giấy hơn.",
+     "At the ward environment club meeting, an adult suggests printing leaflets for every house. Khoa thinks the shared noticeboard and the neighbourhood message group would save paper."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Không nói vì mình nhỏ tuổi nhất",
+      "Stay quiet — you’re the youngest",
+      0,
+      "Nhỏ tuổi không làm ý kiến kém giá trị. Nói lễ phép và có lý do là được.",
+      "Being young doesn’t make your idea worth less. Speak politely, with reasons."
+     ],
+     [
+      "Giơ tay khi đến lượt: “Cháu có một ý khác ạ: mình dùng bảng tin và nhóm tin nhắn khu phố cho đỡ tốn giấy, còn tờ rơi chỉ in cho các nhà có ông bà lớn tuổi.”",
+      "Raise your hand when it’s your turn: “I have another idea — use the noticeboard and the neighbourhood group to save paper, and print leaflets only for elderly neighbours.”",
+      1,
+      "Chờ đến lượt, xưng hô lễ phép, đưa lý do và cách kết hợp. Người lớn thường trân trọng ý kiến có suy nghĩ.",
+      "Waiting your turn, speaking politely, giving a reason and a combined plan — adults value thoughtful input."
+     ],
+     [
+      "Ngắt lời: “Tờ rơi phí giấy lắm ạ!”",
+      "Interrupt: “Leaflets waste paper!”",
+      0,
+      "Ngắt lời dễ làm người khác khó chịu dù ý mình đúng. Chờ đến lượt và đưa phương án thay thế.",
+      "Interrupting puts people off even if you’re right. Wait and offer an alternative."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi quá tải và muốn bỏ cuộc",
+   "When I’m overwhelmed"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tuần này Khoa có hai bài kiểm tra, buổi tập văn nghệ và bài thuyết trình nhóm. Tối thứ Ba, nhìn đống việc, Khoa thấy ngực nặng trĩu, muốn khóc và nghĩ “mình không làm nổi”.",
+   "This week Khoa has two tests, a show rehearsal and a group presentation. On Tuesday night, staring at it all, Khoa’s chest feels tight, Khoa wants to cry and thinks “I can’t do this”."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Dừng lại, uống nước, kể với ba mẹ cảm giác của mình, rồi cùng chọn một việc nhỏ làm trước",
+    "Stop, drink some water, tell your parents how you feel, then pick one small task to start with together",
+    1,
+    "Gọi tên cảm xúc và chia sẻ với người lớn giúp nhẹ lòng. Một việc nhỏ đầu tiên giúp mình lấy lại cảm giác làm chủ.",
+    "Naming it and sharing with an adult lightens the load. One small task restores a sense of control."
+   ],
+   [
+    "Thức đến 2h sáng làm cho hết",
+    "Stay up till 2am to get through it",
+    0,
+    "Thiếu ngủ làm mình mệt và căng thẳng hơn vào ngày mai. Ngủ đủ cũng là một phần của kế hoạch.",
+    "No sleep makes tomorrow more stressful. Enough sleep is part of the plan."
+   ],
+   [
+    "Bỏ hết, mai tính",
+    "Drop everything, deal with it tomorrow",
+    0,
+    "Bỏ hết làm việc dồn sang ngày mai và càng nặng hơn. Chọn một việc nhỏ làm trước đã.",
+    "Dropping it all piles it on tomorrow. Pick one small thing first."
+   ]
+  ],
+  "qq": [
+   "Khi thấy quá tải, bước đầu tiên nên là…",
+   "When you feel overwhelmed, step one is…"
+  ],
+  "qo": [
+   [
+    "Làm tất cả cùng lúc",
+    "Doing everything at once"
+   ],
+   [
+    "Giấu cảm xúc",
+    "Hiding the feeling"
+   ],
+   [
+    "Dừng lại, chia sẻ, và chọn một việc nhỏ",
+    "Pausing, sharing, and picking one small task"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, Linh ngồi một góc và nói với Khoa: “Tớ có ba bài phải nộp mà không biết bắt đầu từ đâu, tớ chán quá.”",
+     "At break Linh sits in a corner and tells Khoa, “I’ve got three assignments and no idea where to start. I’m so fed up.”"
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "“Cố lên, ai cũng thế mà.”",
+      "“Hang in there, everyone’s the same.”",
+      0,
+      "Lời động viên có ý tốt nhưng có thể làm bạn thấy không được hiểu. Nghe bạn trước đã.",
+      "Well-meant, but it can feel dismissive. Listen first."
+     ],
+     [
+      "Ngồi nghe Linh kể, giúp bạn viết ba việc ra giấy và chọn việc có hạn sớm nhất; nếu Linh buồn nhiều ngày, gợi ý bạn nói với cô",
+      "Listen, help her write the three tasks down and pick the earliest deadline; if she’s down for days, suggest she talks to a teacher",
+      1,
+      "Lắng nghe và giúp bạn nhìn rõ công việc giúp bớt quá tải. Khi nỗi buồn kéo dài, người lớn tin cậy cần được biết.",
+      "Listening and helping her see the tasks clearly eases overload. If sadness lasts, a trusted adult should know."
+     ],
+     [
+      "Làm hộ Linh một bài",
+      "Do one assignment for her",
+      0,
+      "Làm hộ giải quyết hôm nay, nhưng bạn vẫn chưa biết cách xoay xở. Giúp bạn sắp xếp sẽ tốt hơn.",
+      "It fixes today, but she still won’t know how to cope. Helping her organise is better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi tập bơi, huấn luyện viên tăng bài tập lên gấp đôi. Giữa buổi, Khoa thấy mệt rã rời, bực bội và muốn bỏ về.",
+     "At swimming practice, the coach doubles the session. Halfway through, Khoa is exhausted, frustrated and wants to walk out."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cố bơi tiếp dù rất mệt",
+      "Keep pushing through, however tired",
+      0,
+      "Khi quá mệt dưới nước, cố gắng có thể không an toàn. Báo huấn luyện viên luôn là đúng.",
+      "When you’re too tired in the water, pushing on may not be safe. Telling the coach is always right."
+     ],
+     [
+      "Bỏ về không nói gì",
+      "Leave without a word",
+      0,
+      "Bỏ đi không báo làm huấn luyện viên lo. Nói ra để được điều chỉnh bài tập.",
+      "Leaving silently worries the coach. Say something so the session can be adjusted."
+     ],
+     [
+      "Lên bờ nghỉ, nói với huấn luyện viên mình đang quá sức, và hỏi có thể chia bài tập nhỏ hơn không",
+      "Get out and rest, tell the coach you’re overdoing it, and ask if the set can be broken down",
+      1,
+      "Biết giới hạn của mình và nói ra là mạnh mẽ, không phải yếu đuối. Huấn luyện viên có thể giúp điều chỉnh.",
+      "Knowing your limit and saying so is strength, not weakness. The coach can adjust things."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Hòa giải khi hai bạn trong nhóm cãi nhau",
+   "Mediating a team clash"
+  ],
+  "m": [
+   "14 phút",
+   "14 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong buổi làm báo tường, Mai và Tí cãi nhau to vì Mai muốn vẽ tay, còn Tí muốn in ảnh. Cả nhóm im lặng, công việc dừng hẳn.",
+   "While making the wall newspaper, Mai and Tí argue loudly — Mai wants hand-drawn art, Tí wants printed photos. The group goes silent and work stops."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Đứng về phía bạn thân của mình",
+    "Back your closest friend",
+    0,
+    "Chọn phe làm bạn kia thấy bị dồn ép và nhóm bị chia rẽ. Người hòa giải cần công bằng.",
+    "Taking sides corners the other person and splits the group. A mediator stays fair."
+   ],
+   [
+    "Đề nghị nghỉ 5 phút, rồi mời từng bạn nói lý do mà không bị ngắt lời, tìm điểm chung (cả hai muốn báo đẹp) và gợi ý kết hợp: tiêu đề vẽ tay, ảnh in cho phần tin",
+    "Suggest a 5-minute break, then let each explain without interruption, find common ground (both want it to look great) and propose a mix: hand-drawn headings, printed photos for the news",
+    1,
+    "Hạ nhiệt trước, nghe đủ hai phía, tìm mục tiêu chung rồi mới tìm giải pháp. Khi bế tắc, có thể nhờ cô chủ nhiệm.",
+    "Cool down, hear both, find the shared goal, then solve. If stuck, ask the form teacher."
+   ],
+   [
+    "Bảo cả hai im lặng để làm tiếp",
+    "Tell them both to be quiet and get on",
+    0,
+    "Im lặng không giải quyết được bất đồng, chỉ để dành nó đến lần sau.",
+    "Silence doesn’t solve disagreement — it saves it for next time."
+   ]
+  ],
+  "qq": [
+   "Người hòa giải giỏi sẽ…",
+   "A good mediator…"
+  ],
+  "qo": [
+   [
+    "Chọn bên đúng",
+    "Picks the right side"
+   ],
+   [
+    "Giúp hai bên nghe nhau và tìm mục tiêu chung",
+    "Helps both sides hear each other and find a shared goal"
+   ],
+   [
+    "Quyết thay cả hai",
+    "Decides for both"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Vy và em Bảo giành nhau chiếc máy tính bảng duy nhất trong nhà, em nào cũng nói đến lượt mình.",
+     "Vy and Bảo fight over the family’s only tablet, each insisting it’s their turn."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cất máy đi, không ai được dùng",
+      "Put it away — no one gets it",
+      0,
+      "Cách này dừng được trận cãi, nhưng lần sau vẫn thế. Một quy tắc chung sẽ bền hơn.",
+      "It stops this fight, but the next one will come. A shared rule lasts longer."
+     ],
+     [
+      "Cho em nhỏ hơn dùng trước",
+      "Give it to the youngest first",
+      0,
+      "Em lớn hơn sẽ thấy không công bằng. Quy tắc rõ ràng cho cả hai thì dễ chấp nhận.",
+      "The older one will feel it’s unfair. A clear rule for both is easier to accept."
+     ],
+     [
+      "Cùng hai em đặt lịch: mỗi em 30 phút theo đồng hồ hẹn giờ, hôm nay em này trước thì mai em kia trước, rồi dán lịch lên tường",
+      "Make a schedule with both: 30 minutes each on a timer, taking turns to go first each day, and stick it on the wall",
+      1,
+      "Khi cả hai cùng đặt quy tắc, các em sẽ dễ giữ hơn. Đồng hồ hẹn giờ giúp không ai phải tranh cãi.",
+      "When both help set the rule, they’re likelier to keep it. A timer ends the arguing."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân bóng khu phố, hai đội tranh cãi một quả bóng có vào hay không. Không có trọng tài, các bạn bắt đầu to tiếng.",
+     "At the neighbourhood pitch, two teams argue over whether a ball went in. There’s no referee and voices are rising."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Đề nghị hai đội dừng lại, mỗi đội cử một bạn kể lại, không thống nhất được thì đá lại quả đó; nếu căng thẳng thì nhờ bác trông sân",
+      "Suggest both sides stop and each picks one person to explain; if there’s no agreement, replay it — and if it gets heated, ask the pitch caretaker",
+      1,
+      "Một quy tắc đơn giản như “đá lại” giúp không bên nào mất mặt. Nhờ người lớn khi tình hình căng thẳng.",
+      "A simple rule like a replay means no one loses face. Get an adult if things heat up."
+     ],
+     [
+      "Bỏ về cho đỡ phiền",
+      "Go home to avoid the hassle",
+      0,
+      "Rời đi thì trận đấu và tình bạn đều dang dở. Một đề nghị công bằng có thể cứu cả hai.",
+      "Leaving ends the game and strains friendships. A fair suggestion can save both."
+     ],
+     [
+      "Cãi to hơn cho đội mình",
+      "Shout louder for your team",
+      0,
+      "To tiếng làm mọi chuyện căng thêm. Một người bình tĩnh có thể giúp cả sân hạ nhiệt.",
+      "Shouting escalates. One calm person can cool the whole pitch."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Lỡ làm hỏng đồ đi mượn",
+   "Breaking something I borrowed"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "C",
+  "story": [
+   "Khoa mượn chiếc ô của bác Hoa hàng xóm để đi học thêm. Trên đường về gió to, ô bị gãy một nan. Khoa lo bác sẽ không vui.",
+   "Khoa borrowed an umbrella from Mrs Hoa next door for an extra class. On the way home a strong wind snapped a rib. Khoa worries she’ll be upset."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Trả lại ô gấp gọn, không nói gì",
+    "Return it folded up and say nothing",
+    0,
+    "Bác sẽ phát hiện khi dùng và buồn vì không được biết. Nói thật giữ được lòng tin.",
+    "She’ll find out when she uses it and feel let down. Honesty keeps trust."
+   ],
+   [
+    "Giữ ô lại, nói là chưa dùng xong",
+    "Keep it and say you still need it",
+    0,
+    "Kéo dài thời gian không làm chiếc ô lành lại. Nói sớm thì dễ giải quyết hơn.",
+    "Stalling won’t mend the umbrella. Speaking early makes it easier to sort."
+   ],
+   [
+    "Kể với ba mẹ, cùng mang ô sang xin lỗi bác, nói rõ chuyện xảy ra và đề nghị sửa hoặc thay chiếc mới bằng tiền tiết kiệm",
+    "Tell your parents, take it back together to apologise, explain what happened, and offer to repair or replace it from your savings",
+    1,
+    "Nhận trách nhiệm, nói rõ và đưa cách khắc phục là cách giải quyết trưởng thành. Ba mẹ giúp mình chọn cách phù hợp.",
+    "Owning it, explaining and offering to fix it is the grown-up way. Your parents can help choose the right fix."
+   ]
+  ],
+  "qq": [
+   "Khi làm hỏng đồ của người khác, cách tốt nhất là…",
+   "If you damage something borrowed, the best fix is…"
+  ],
+  "qo": [
+   [
+    "Nói thật, xin lỗi và đề nghị khắc phục",
+    "Being honest, apologising and offering to put it right"
+   ],
+   [
+    "Trả lại và mong không ai biết",
+    "Returning it and hoping nobody notices"
+   ],
+   [
+    "Đổ cho thời tiết",
+    "Blaming the weather"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Khoa mượn tai nghe của chị Ngân để học trực tuyến và vô tình làm đứt dây. Tối nay chị đang cần dùng.",
+     "Khoa borrowed big sister Ngân’s earphones for an online class and accidentally broke the cable. She needs them tonight."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Để lại trên bàn chị, mong chị nghĩ tự nó hỏng",
+      "Leave them on her desk and hope she thinks they just broke",
+      0,
+      "Chị có thể nghi oan cho người khác. Nói thật sớm là tôn trọng chị.",
+      "She might blame the wrong person. Telling her early is respectful."
+     ],
+     [
+      "Báo chị ngay, xin lỗi, cho chị mượn tai nghe của mình tối nay và bàn cách đền",
+      "Tell her right away, apologise, lend her your own earphones tonight and talk about replacing hers",
+      1,
+      "Báo sớm và có ngay phương án tạm giúp chị đỡ bị ảnh hưởng. Đền bù cụ thể thì bàn sau.",
+      "Telling her early with a stopgap limits the trouble. Agree the replacement later."
+     ],
+     [
+      "Tự quấn băng dính rồi trả",
+      "Tape them up and return them",
+      0,
+      "Sửa tạm có thể không dùng được và chị vẫn chưa biết chuyện. Nói ra trước rồi cùng tính.",
+      "A quick fix may not work and she still doesn’t know. Tell her first, then sort it together."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Trong giờ thực hành, Khoa làm rơi vỡ một ống nghiệm. Thầy đang hướng dẫn nhóm khác.",
+     "In a practical lesson, Khoa drops and breaks a test tube. The teacher is helping another group."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Không chạm vào mảnh vỡ, giơ tay báo thầy ngay, nhắc các bạn xung quanh tránh xa",
+      "Don’t touch the glass; raise your hand and tell the teacher right away, and warn others to keep clear",
+      1,
+      "Báo ngay giúp mọi người an toàn và thầy xử lý đúng cách. Làm vỡ là tai nạn, giấu đi mới là vấn đề.",
+      "Telling at once keeps everyone safe and lets the teacher handle it. Breaking is an accident; hiding it is the problem."
+     ],
+     [
+      "Tự nhặt mảnh vỡ cho nhanh",
+      "Pick up the pieces yourself",
+      0,
+      "Mảnh thủy tinh dễ làm đứt tay. Để thầy hướng dẫn cách dọn an toàn.",
+      "Broken glass can cut. Let the teacher show how to clear it safely."
+     ],
+     [
+      "Đẩy mảnh vỡ vào gầm bàn",
+      "Push the pieces under the bench",
+      0,
+      "Giấu mảnh vỡ có thể làm bạn khác bị thương. Báo thầy là an toàn nhất.",
+      "Hidden glass could hurt someone. Telling the teacher is safest."
+     ]
+    ]
+   }
+  }
+ }
+]

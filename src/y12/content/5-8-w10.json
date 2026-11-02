@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Kể chuyện ở trường cho cả nhà",
+   "Telling my family about my day"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bữa tối, mẹ hỏi hôm nay ở trường thế nào. Bin kể lộn xộn: “Con ăn trưa… à không, con vẽ… rồi chơi bóng…”. Mẹ nghe mà chưa hiểu.",
+   "At dinner, Mum asks about school. Bin tells it all jumbled: “I had lunch… no, I drew… then football…”. Mum can’t follow."
+  ],
+  "cq": [
+   "Bin nên kể thế nào?",
+   "How should Bin tell it?"
+  ],
+  "co": [
+   [
+    "Nói “Bình thường ạ” rồi ăn tiếp",
+    "Say “It was fine” and keep eating",
+    0,
+    "Nói ngắn quá thì cả nhà không biết ngày của con thế nào. Kể dù chỉ một việc cũng vui rồi.",
+    "Too short, and nobody learns about your day. Even one thing is lovely to hear."
+   ],
+   [
+    "Kể theo thứ tự: “Đầu tiên con vẽ, sau đó ăn trưa, cuối cùng chơi bóng”",
+    "Tell it in order: “First I drew, then lunch, and last football”",
+    1,
+    "“Đầu tiên – sau đó – cuối cùng” giống như bậc thang, giúp người nghe đi theo câu chuyện của con.",
+    "“First – then – last” is like a staircase that helps listeners follow your story."
+   ],
+   [
+    "Kể thật nhanh mọi thứ cùng một lúc",
+    "Rush through everything at once",
+    0,
+    "Kể nhanh quá thì người nghe bị rối. Chậm lại và kể từng việc một nhé.",
+    "Too fast and listeners get lost. Slow down and tell one thing at a time."
+   ]
+  ],
+  "qq": [
+   "Kể chuyện dễ hiểu là kể…",
+   "A story is easy to follow when you tell it…"
+  ],
+  "qo": [
+   [
+    "Theo thứ tự: đầu tiên – sau đó – cuối cùng",
+    "In order: first – then – last"
+   ],
+   [
+    "Thật nhanh",
+    "Really fast"
+   ],
+   [
+    "Thật to",
+    "Really loudly"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô hỏi cả lớp cuối tuần làm gì. Đến lượt Bin, Bin muốn kể chuyện về thăm ông bà.",
+     "The teacher asks what everyone did at the weekend. Bin wants to tell about visiting Grandma and Grandad."
+    ],
+    "q": [
+     "Bin kể thế nào cho các bạn dễ hiểu?",
+     "How can Bin make it easy to follow?"
+    ],
+    "o": [
+     [
+      "Chỉ nói “Tớ đi chơi”",
+      "Just say “I went out”",
+      0,
+      "Ngắn quá thì các bạn chưa biết con đi đâu, làm gì. Thêm hai, ba việc nữa nhé.",
+      "That’s too short for friends to know where you went. Add two or three things."
+     ],
+     [
+      "Kể theo thứ tự: đầu tiên đi xe, sau đó giúp bà tưới cây, cuối cùng ăn cơm với ông bà",
+      "In order: first the drive, then watering plants with Grandma, last dinner together",
+      1,
+      "Kể theo thứ tự giúp các bạn hình dung cả ngày của con như xem một bộ phim.",
+      "Telling it in order lets friends picture your day like a film."
+     ],
+     [
+      "Kể đoạn cuối trước rồi quay lại đoạn đầu",
+      "Start with the end, then jump back",
+      0,
+      "Nhảy qua nhảy lại dễ làm người nghe rối. Bắt đầu từ việc đầu tiên sẽ dễ hơn.",
+      "Jumping around confuses listeners. Starting from the first thing is easier."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin cùng ba đi công viên: cho cá ăn, chơi cầu trượt, rồi ăn kem. Về nhà, Bin muốn kể cho bà nghe.",
+     "Bin and Dad went to the park: fed the fish, went on the slide, then had ice cream. At home Bin wants to tell Grandma."
+    ],
+    "q": [
+     "Bin kể thế nào cho bà dễ hiểu?",
+     "How can Bin tell Grandma clearly?"
+    ],
+    "o": [
+     [
+      "Chỉ kể chuyện ăn kem vì thích nhất",
+      "Only talk about the ice cream",
+      0,
+      "Kể phần mình thích cũng vui, nhưng bà sẽ muốn nghe cả buổi đi chơi nữa.",
+      "Your favourite bit is fun, but Grandma would love to hear the whole trip."
+     ],
+     [
+      "Để ba kể hộ",
+      "Let Dad tell it",
+      0,
+      "Ba kể cũng được, nhưng bà rất muốn nghe giọng của con. Con thử kể nhé.",
+      "Dad could, but Grandma would love to hear it from you. Give it a go."
+     ],
+     [
+      "Kể: “Đầu tiên con cho cá ăn, sau đó chơi cầu trượt, cuối cùng ăn kem”",
+      "Say: “First I fed the fish, then the slide, and last ice cream”",
+      1,
+      "Kể theo thứ tự xảy ra thì bà như được đi công viên cùng con.",
+      "Telling it in order makes Grandma feel she came along too."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kể ba việc ở trường theo thứ tự",
+    "Tell three school things in order"
+   ],
+   "s": [
+    "Trong bữa tối, con kể ba việc ở trường hôm nay bằng “Đầu tiên… sau đó… cuối cùng…”. Ba mẹ lắng nghe và xác nhận.",
+    "At dinner, tell three things from school today using “First… then… last…”. Mum or Dad listens and confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hỏi gợi ý từng việc, con kể theo thứ tự cùng ba mẹ.",
+     "Mum or Dad asks about each part and you tell it in order together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể đủ ba việc theo thứ tự.",
+     "Mum or Dad reminds you once, then you tell all three in order."
+    ],
+    [
+     "Con tự mở lời kể ba việc theo đúng thứ tự và trả lời một câu hỏi của ba mẹ.",
+     "You start by yourself, tell three things in order and answer one question."
+    ]
+   ],
+   "rw": [
+    "Được chọn truyện đọc tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi con thấy buồn",
+   "When I feel sad"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bạn vô tình làm đổ nước lên bức tranh Bin vừa vẽ xong, nhoè hết cả. Bin thấy buồn, muốn khóc.",
+   "A classmate accidentally spills water on Bin’s finished painting and it all runs. Bin feels sad and wants to cry."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Nói với cô: “Em buồn vì tranh bị nhoè”, hít thở rồi hỏi cô có vẽ lại được không",
+    "Tell the teacher “I’m sad my painting got ruined”, breathe, then ask to paint again",
+    1,
+    "Gọi tên nỗi buồn và nói ra giúp con nhẹ lòng. Cô cũng biết để giúp con.",
+    "Naming your sadness and saying it helps you feel lighter, and lets the teacher help."
+   ],
+   [
+    "Giấu đi, cố cười như không có gì",
+    "Hide it and smile as if nothing happened",
+    0,
+    "Giấu đi thì nỗi buồn vẫn còn đó. Buồn là bình thường, con được nói ra mà.",
+    "Hiding it doesn’t make sadness go away. Feeling sad is normal and you can say it."
+   ],
+   [
+    "Xé luôn bức tranh, không vẽ nữa",
+    "Tear the painting up and stop drawing",
+    0,
+    "Lúc buồn mình dễ làm điều sau đó tiếc. Hít thở trước, rồi nghĩ cách nhé.",
+    "When sad, it’s easy to do something you regret. Breathe first, then think."
+   ]
+  ],
+  "qq": [
+   "Khi buồn, con nên…",
+   "When you feel sad, you should…"
+  ],
+  "qo": [
+   [
+    "Giấu một mình",
+    "Keep it to yourself"
+   ],
+   [
+    "Giận cả ngày",
+    "Stay cross all day"
+   ],
+   [
+    "Gọi tên nỗi buồn và tìm người thân hoặc một việc giúp mình vui lại",
+    "Name it and find a loved one or something that cheers you up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bà ngoại ở chơi mấy hôm rồi về quê. Tối đó Bin nhớ bà, thấy buồn và chẳng muốn chơi gì.",
+     "Grandma stayed a few days, then went back home. That evening Bin misses her, feels sad and doesn’t want to play."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Nói với mẹ: “Con buồn vì nhớ bà”, rồi cùng mẹ gọi điện cho bà",
+      "Tell Mum “I’m sad because I miss Grandma”, then call Grandma together",
+      1,
+      "Nhớ người thân là vì con thương họ. Nói ra và gọi cho bà giúp nỗi buồn dịu đi.",
+      "Missing someone means you love them. Saying it and calling Grandma helps."
+     ],
+     [
+      "Ngồi một mình trong phòng, không nói với ai",
+      "Sit alone in the bedroom and tell no one",
+      0,
+      "Ở một mình một chút cũng được, nhưng nói với mẹ sẽ giúp con thấy đỡ hơn.",
+      "A little quiet time is OK, but telling Mum will help you feel better."
+     ],
+     [
+      "Cáu với em vì đang buồn",
+      "Snap at little brother because you’re sad",
+      0,
+      "Em không làm con buồn đâu. Nói ra nỗi buồn với mẹ thì tốt hơn.",
+      "Your brother didn’t cause it. Telling Mum how you feel works better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, quả bóng bay của Bin tuột tay bay lên trời mất. Ba đứng ngay bên cạnh.",
+     "At the park, Bin’s balloon slips away into the sky. Dad is right beside Bin."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Khóc to và đòi mua quả khác ngay",
+      "Cry loudly and demand a new one now",
+      0,
+      "Buồn thì khóc cũng được, nhưng đòi ngay chưa giúp con dịu lại. Nói với ba trước nhé.",
+      "Crying is fine, but demanding doesn’t calm you. Tell Dad how you feel first."
+     ],
+     [
+      "Nói: “Ba ơi, con buồn quá”, để ba ôm, rồi cùng nghĩ trò chơi khác",
+      "Say “Dad, I feel so sad”, have a hug, then think of another game",
+      1,
+      "Gọi tên cảm xúc và nhận một cái ôm là cách tự an ủi rất hay.",
+      "Naming the feeling and getting a hug is a great way to comfort yourself."
+     ],
+     [
+      "Bảo mình không buồn rồi im lặng",
+      "Say you’re not sad and go quiet",
+      0,
+      "Con không cần giả vờ. Nói thật “con buồn” để ba giúp con nhé.",
+      "No need to pretend. Say “I’m sad” so Dad can help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Làm “hộp an ủi” của con",
+    "Make my comfort box"
+   ],
+   "s": [
+    "Con vẽ hoặc viết ba việc giúp con vui lên khi buồn vào một tờ giấy “hộp an ủi”, rồi thử một việc cùng ba mẹ.",
+    "Draw or write three things that cheer you up when you’re sad on a “comfort box” sheet, then try one with Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con chọn và vẽ ba việc cùng ba mẹ.",
+     "Mum or Dad suggests ideas; you choose and draw three together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ ba việc và thử một việc.",
+     "Mum or Dad reminds you once; you draw three and try one yourself."
+    ],
+    [
+     "Lần tới thấy buồn, con tự lấy “hộp an ủi”, chọn một việc làm thử và kể lại với ba mẹ.",
+     "Next time you feel sad, you fetch your comfort box, try one idea and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con xếp hình 15 phút",
+    "Mum or Dad does a puzzle with you for 15 minutes"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng cả nhà dọn mâm cơm",
+   "Setting the table together"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ nhờ Bin và chị Mai dọn mâm cơm. Hai chị em cùng chạy đi lấy bát, va vào nhau, còn đũa thì chưa ai lấy.",
+   "Mum asks Bin and big sister Mai to set the table. They both rush for the bowls and bump into each other, and nobody gets the chopsticks."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tự làm hết cho nhanh, không cần chị",
+    "Do it all alone to be quick",
+    0,
+    "Làm một mình mệt hơn, mà chị cũng muốn góp sức. Chia việc thì nhanh hơn.",
+    "Doing it alone is tiring, and Mai wants to help too. Sharing is quicker."
+   ],
+   [
+    "Đứng chờ chị bảo gì làm nấy",
+    "Wait for Mai to tell you what to do",
+    0,
+    "Chờ cũng được, nhưng con chủ động nói phần mình thì cả hai đỡ lúng túng.",
+    "Waiting is OK, but saying your part helps you both."
+   ],
+   [
+    "Nói trước: “Chị lấy bát, em lấy đũa và thìa nhé”",
+    "Say first: “You get the bowls, I’ll get chopsticks and spoons”",
+    1,
+    "Mỗi người nói rõ phần của mình thì không ai đụng ai, mâm cơm xong rất nhanh.",
+    "When everyone says their part, nobody bumps and the table’s ready fast."
+   ]
+  ],
+  "qq": [
+   "Làm cùng nhau trôi chảy hơn khi…",
+   "Working together goes smoothly when…"
+  ],
+  "qo": [
+   [
+    "Mỗi người nói rõ phần việc của mình",
+    "Everyone says which part they’re doing"
+   ],
+   [
+    "Một người làm hết",
+    "One person does everything"
+   ],
+   [
+    "Ai cũng làm cùng một việc",
+    "Everyone does the same job"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô nhờ Bin và Na chuẩn bị bàn cho giờ vẽ: trải giấy lót, đặt bút màu. Cả hai cùng trải giấy, bút màu chưa ai đặt.",
+     "The teacher asks Bin and Na to set up for art: lay paper and put out crayons. Both lay paper; no one puts out crayons."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Giành lấy tờ giấy của Na để tự trải",
+      "Grab Na’s paper to lay it yourself",
+      0,
+      "Giành việc dễ làm bạn buồn. Chia mỗi người một phần thì vui hơn.",
+      "Grabbing upsets your friend. Giving each person a part is nicer."
+     ],
+     [
+      "Nói: “Cậu trải giấy, tớ đặt bút màu nhé”",
+      "Say: “You lay the paper, I’ll do the crayons”",
+      1,
+      "Nói rõ ai làm gì giúp hai bạn không làm trùng và xong việc nhanh.",
+      "Saying who does what stops you doubling up and gets it done."
+     ],
+     [
+      "Bỏ ra chỗ khác chơi",
+      "Wander off to play",
+      0,
+      "Cô nhờ cả hai mà. Ở lại và nhận một phần việc nhé.",
+      "The teacher asked you both. Stay and take a job."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi dã ngoại ở công viên. Ba nhờ Bin và anh Huy trải bạt và bày hộp đồ ăn.",
+     "The family has a picnic in the park. Dad asks Bin and big brother Huy to spread the mat and lay out the food boxes."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi anh: “Anh trải bạt, em bày hộp nhé?”",
+      "Ask: “You spread the mat and I’ll set out the boxes?”",
+      1,
+      "Hỏi và chia việc rõ ràng giúp hai anh em làm trơn tru, ba cũng vui.",
+      "Asking and splitting jobs makes it smooth, and Dad is pleased."
+     ],
+     [
+      "Bày hộp đồ ăn lên cỏ trước khi trải bạt",
+      "Put the boxes on the grass before the mat",
+      0,
+      "Làm không bàn trước dễ bị lộn xộn. Hỏi anh xem ai làm gì trước nhé.",
+      "Without a plan it gets messy. Ask Huy who does what first."
+     ],
+     [
+      "Ngồi ăn trước, để anh làm",
+      "Start eating and let Huy do it",
+      0,
+      "Ba nhờ cả hai anh em. Làm cùng nhau xong rồi cùng ăn mới vui.",
+      "Dad asked you both. Working together, then eating together, is more fun."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Dọn mâm cơm có chia việc",
+    "Set the table, sharing the jobs"
+   ],
+   "s": [
+    "Trước bữa tối, con cùng một người trong nhà dọn mâm, tự nói trước ai lấy bát, ai lấy đũa thìa.",
+    "Before dinner, set the table with someone at home and say first who gets the bowls and who gets the chopsticks and spoons."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý cách chia, con nói theo và dọn cùng.",
+     "Mum or Dad suggests how to split it; you say it and set the table together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chia việc và dọn.",
+     "Mum or Dad reminds you once; you split the jobs and set up."
+    ],
+    [
+     "Con tự rủ một người dọn mâm, tự chia việc và kể lại ai làm phần nào.",
+     "You invite someone, split the jobs yourself and tell who did what."
+    ]
+   ],
+   "rw": [
+    "Được đặt tên cho món ăn tối nay",
+    "You get to name tonight’s dinner dish"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự đánh răng rửa mặt",
+   "Brushing my teeth by myself"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ăn trưa bán trú xong, cô nhắc cả lớp đi đánh răng. Các bạn đang mải chơi, Bin cũng muốn chơi tiếp.",
+   "After school lunch, the teacher reminds everyone to brush. Friends are playing and Bin wants to keep playing."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chơi tiếp, chiều về nhà đánh sau",
+    "Keep playing and brush at home later",
+    0,
+    "Thức ăn để lâu trên răng dễ làm sâu răng. Đánh xong rồi chơi cũng chưa muộn.",
+    "Food left on teeth can cause holes. Brush first; there’s still time to play."
+   ],
+   [
+    "Chỉ súc miệng qua loa cho nhanh",
+    "Just rinse quickly",
+    0,
+    "Súc miệng là tốt, nhưng chưa sạch bằng đánh răng. Đánh đủ bước nhé.",
+    "Rinsing helps, but brushing cleans better. Do all the steps."
+   ],
+   [
+    "Đi đánh răng trước, xong rồi quay lại chơi",
+    "Brush first, then go back to play",
+    1,
+    "Tự làm việc vệ sinh của mình đúng lúc giúp răng khoẻ, mà con vẫn được chơi.",
+    "Doing your own hygiene on time keeps teeth healthy, and you still get to play."
+   ]
+  ],
+  "qq": [
+   "Đánh răng đúng cách là…",
+   "Brushing properly means…"
+  ],
+  "qo": [
+   [
+    "Đánh thật nhanh cho xong",
+    "Brushing as fast as possible"
+   ],
+   [
+    "Đánh khoảng hai phút, chải mọi mặt răng",
+    "About two minutes, every side of every tooth"
+   ],
+   [
+    "Chỉ đánh răng cửa",
+    "Only the front teeth"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Buổi tối, Bin đánh răng vội vài giây rồi chạy đi chơi. Mẹ thấy kem đánh răng vẫn dính quanh miệng Bin.",
+     "At night Bin brushes for a few seconds and runs off to play. Mum sees toothpaste still round Bin’s mouth."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lấy tay áo lau miệng là xong",
+      "Wipe your mouth on your sleeve",
+      0,
+      "Lau miệng thì sạch bên ngoài, còn răng vẫn chưa sạch. Quay lại đánh tiếp nhé.",
+      "That cleans outside, but not your teeth. Go back and finish brushing."
+     ],
+     [
+      "Chờ mẹ nhắc thêm mới đánh lại",
+      "Wait for Mum to remind you again",
+      0,
+      "Con biết rồi thì tự làm luôn, không cần chờ nhắc đâu.",
+      "You already know, so do it now without waiting for a reminder."
+     ],
+     [
+      "Quay lại đánh đủ hai phút, chải cả mặt trong, rồi rửa mặt sạch",
+      "Go back, brush for two minutes, inside too, then wash your face",
+      1,
+      "Đánh đủ lâu và đủ các mặt răng mới sạch thật. Tự làm đủ bước là con lớn rồi.",
+      "Long enough and every side gets teeth really clean. Doing all the steps means you’re growing up."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin về quê ngủ nhà ông bà một đêm. Sáng ra không có mẹ nhắc, bàn chải mang theo vẫn nằm trong túi.",
+     "Bin sleeps over at the grandparents’ house. In the morning there’s no Mum to remind, and the toothbrush is still in the bag."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự lấy bàn chải, đánh răng rửa mặt rồi mới ra chào ông bà",
+      "Get the brush, brush and wash, then go and greet your grandparents",
+      1,
+      "Tự nhớ việc vệ sinh khi không có ai nhắc là con đã tự lập thật sự.",
+      "Remembering your hygiene with nobody reminding you is real independence."
+     ],
+     [
+      "Chờ bà nhắc mới làm",
+      "Wait for Grandma to remind you",
+      0,
+      "Bà sẽ rất vui nếu con tự nhớ. Thử tự làm trước khi được nhắc nhé.",
+      "Grandma would love it if you remembered. Try doing it before anyone asks."
+     ],
+     [
+      "Ăn sáng luôn, mai về nhà đánh",
+      "Have breakfast and brush tomorrow at home",
+      0,
+      "Ở đâu thì răng cũng cần đánh mỗi ngày. Lấy bàn chải ra nhé.",
+      "Teeth need brushing every day, wherever you are. Get your brush out."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đánh răng đủ hai phút",
+    "Brush for two whole minutes"
+   ],
+   "s": [
+    "Tối nay con tự đánh răng đủ hai phút theo đồng hồ cát hoặc một bài hát, rồi rửa mặt. Ba mẹ xem miệng con đã sạch chưa.",
+    "Tonight brush your teeth for two minutes using a sand timer or a song, then wash your face. Mum or Dad checks you’re clean."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đánh răng cùng con, cùng đếm hai phút.",
+     "Mum or Dad brushes alongside you and counts two minutes."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đánh đủ hai phút.",
+     "Mum or Dad reminds you once; you brush for two minutes alone."
+    ],
+    [
+     "Con tự nhớ đánh răng rửa mặt cả sáng và tối, rồi cho ba mẹ xem.",
+     "You remember to brush and wash morning and night, then show Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Dán một ngôi sao lên bảng thành tích của con",
+    "A star on your achievement chart"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Hai người muốn hai thứ",
+   "When two people want different things"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cuối tuần, ba hỏi cả nhà đi đâu chơi. Bin muốn ra công viên, còn mẹ muốn đi hiệu sách.",
+   "At the weekend, Dad asks where to go. Bin wants the park; Mum wants the bookshop."
+  ],
+  "cq": [
+   "Bin có thể nói gì?",
+   "What could Bin say?"
+  ],
+  "co": [
+   [
+    "Ăn vạ đòi đi công viên",
+    "Throw a tantrum for the park",
+    0,
+    "Ăn vạ không giúp tìm ra cách. Đề nghị một cách công bằng sẽ hiệu quả hơn.",
+    "Tantrums don’t find a solution. Suggesting something fair works better."
+   ],
+   [
+    "“Sáng mình ra công viên, chiều đi hiệu sách được không ạ?”",
+    "“Could we go to the park in the morning and the bookshop after lunch?”",
+    1,
+    "Làm lần lượt thì cả hai mong muốn đều được đáp ứng. Đó là cách giải quyết hay.",
+    "Taking turns means both wishes come true. That’s good problem-solving."
+   ],
+   [
+    "“Thôi con không đi đâu cả”",
+    "“Fine, I won’t go anywhere”",
+    0,
+    "Nói vậy thì con mất cả buổi vui. Thử nghĩ cách cho cả hai cùng được nhé.",
+    "Then you miss the fun. Try to find a way for both."
+   ]
+  ],
+  "qq": [
+   "Khi hai người muốn hai việc khác nhau, có thể…",
+   "When two people want different things, you can…"
+  ],
+  "qo": [
+   [
+    "Làm lần lượt hoặc kết hợp cả hai",
+    "Take turns or combine them"
+   ],
+   [
+    "Ai nói to hơn thì được",
+    "Let whoever is loudest win"
+   ],
+   [
+    "Không ai được làm gì",
+    "Let nobody do anything"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin muốn chơi xếp hình, em Tí lại muốn chơi đồ hàng. Hai anh em giằng co, chẳng ai chơi được gì.",
+     "Bin wants to play with blocks; little Tí wants to play shop. They squabble and nobody plays."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Giành đồ chơi về phía mình",
+      "Pull the toys over to your side",
+      0,
+      "Giành thì em khóc, mà con cũng chẳng vui. Thử nghĩ cách cả hai cùng chơi nhé.",
+      "Grabbing makes Tí cry and you won’t enjoy it. Think of a way you both can play."
+     ],
+     [
+      "Rủ em xếp hình thành một cái chợ, rồi chơi đồ hàng trong đó",
+      "Suggest building a market with blocks, then playing shop in it",
+      1,
+      "Kết hợp hai ý thành một trò mới là cách giải quyết rất sáng tạo.",
+      "Mixing two ideas into one new game is a really clever solution."
+     ],
+     [
+      "Bỏ đi, không chơi nữa",
+      "Walk off and stop playing",
+      0,
+      "Bỏ đi thì không ai vui. Còn có cách hay hơn đấy.",
+      "Walking off leaves nobody happy. There’s a better way."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi chỉ còn mười lăm phút. Na muốn nhảy dây, Bin muốn chơi đá cầu.",
+     "Only fifteen minutes of break left. Na wants to skip; Bin wants to play shuttlecock."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Nói: “Cậu phải chơi trò của tớ”",
+      "Say: “You have to play my game”",
+      0,
+      "Ép bạn thì bạn không vui. Chọn cách công bằng thì cả hai đều thoải mái.",
+      "Forcing her isn’t fun for her. A fair way keeps you both happy."
+     ],
+     [
+      "Mỗi đứa chơi riêng một mình",
+      "Each play on your own",
+      0,
+      "Cũng được, nhưng hai bạn muốn chơi cùng nhau mà. Thử cách lần lượt xem.",
+      "That works, but you wanted to play together. Try taking turns."
+     ],
+     [
+      "Oẳn tù tì chọn trò chơi trước, trò kia chơi sau",
+      "Do rock-paper-scissors to pick which game goes first",
+      1,
+      "Oẳn tù tì và chơi lần lượt là cách công bằng, ai cũng có lượt của mình.",
+      "Rock-paper-scissors and taking turns is fair: everyone gets a go."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chọn cách công bằng khi khác ý",
+    "Find a fair way when we disagree"
+   ],
+   "s": [
+    "Hôm nay khi con và một người thân muốn hai việc khác nhau, con đề nghị một cách công bằng: lần lượt, kết hợp hoặc oẳn tù tì.",
+    "Today, when you and someone at home want different things, suggest a fair way: take turns, combine, or rock-paper-scissors."
+   ],
+   "lv": [
+    [
+     "Ba mẹ tạo một tình huống nhỏ và cùng con chọn cách công bằng.",
+     "Mum or Dad sets up a small situation and you choose a fair way together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đề nghị cách công bằng.",
+     "Mum or Dad reminds you once; you suggest a fair way yourself."
+    ],
+    [
+     "Con tự nghĩ ra cách công bằng khi khác ý và kể lại cho ba mẹ.",
+     "You come up with a fair way on your own and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi cả nhà chơi cuối tuần",
+    "You choose the family game this weekend"
+   ]
+  }
+ }
+]

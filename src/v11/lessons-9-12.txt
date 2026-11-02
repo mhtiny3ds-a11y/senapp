@@ -1,0 +1,90 @@
+oi=0 | tuần 1 | Giao tiếp | Xin lỗi cho ra xin lỗi | quiz: Một lời xin lỗi tốt cần có gì? -> Nhận lỗi cụ thể và cách sửa
+   chuyện: Trong nhóm chat của lớp, An vô tình kể chuyện riêng của Bo. Bo nhắn riêng: “Cậu làm tớ xấu hổ trước cả lớp.”
+oi=1 | tuần 1 | Quản lý cảm xúc | Khi bị bạn trêu | quiz: Bước đầu khi cảm xúc đang dâng cao? -> Tạm dừng rồi mới phản hồi
+   chuyện: Ai đó ghép ảnh An thành meme, cả nhóm cười. An thấy tim đập nhanh, tay run, muốn nhắn lại thật cay.
+oi=2 | tuần 1 | Làm việc nhóm | Chia việc nhóm sao cho công bằng | quiz: Điều gì giúp nhóm làm việc công bằng nhất? -> Bảng việc có tên và hạn
+   chuyện: Nhóm 4 bạn làm poster. Đến hôm nộp, An đã làm gần hết, một bạn chưa làm gì và cả nhóm cùng nhận điểm.
+oi=3 | tuần 1 | Quản lý thời gian | Lên kế hoạch tuần với bảng giờ | quiz: Xếp lịch nên bắt đầu bằng gì? -> Những việc có hạn cố định
+   chuyện: Tuần này An có bài kiểm tra Toán, buổi bơi, sinh nhật bạn và một video muốn dựng. Tối nào An cũng thức khuya mà vẫn chưa xong gì.
+oi=4 | tuần 1 | Tài chính cá nhân | Tiền lì xì tiêu thế nào? | quiz: Ba hộp tiền của con là gì? -> Tiêu – Tiết kiệm – Cho
+   chuyện: An được 600.000đ lì xì. Bạn cùng lớp vừa mua skin game mới, An cũng rất muốn. Nhưng An còn muốn mua bộ màu vẽ 300.000đ.
+oi=5 | tuần 2 | Giao tiếp | Lắng nghe không ngắt lời | quiz: Lắng nghe tốt nghĩa là… -> Chờ người kia nói hết rồi hỏi thêm
+   chuyện: Bà đang kể chuyện hồi nhỏ đi bộ rất xa đến trường. An đã nghe chuyện này rồi nên cứ chen vào kể phần kết thay bà.
+oi=6 | tuần 2 | Tự lập | Tự gấp và cất quần áo của mình | quiz: Đồ dùng của mình nên do ai sắp xếp? -> Chính mình, theo cách mình dễ tìm
+   chuyện: Mẹ để rổ quần áo đã giặt khô trên giường An từ sáng. Đến tối, rổ đồ vẫn nằm đó và An bới tìm áo đồng phục cho ngày mai.
+oi=7 | tuần 2 | Giải quyết vấn đề | Quên đồ ở nhà thì làm sao | quiz: Khi gặp sự cố nhỏ, việc đầu tiên nên làm là… -> Bình tĩnh xem mình có thể làm gì ngay
+   chuyện: Đến lớp, An mới phát hiện quên vở bài tập Toán ở nhà. Mười phút nữa cô sẽ kiểm tra bài.
+oi=8 | tuần 2 | Tư duy phản biện | Quảng cáo nói vậy có đúng không? | quiz: Câu hỏi nào nên tự hỏi khi xem quảng cáo? -> Họ muốn mình làm gì, và có bằng chứng không?
+   chuyện: An xem một quảng cáo nước uống nói: “Uống vào là cao vượt trội, học giỏi hơn!” An xin mẹ mua ngay một thùng.
+oi=9 | tuần 2 | An toàn & ranh giới | Cơ thể mình, mình có quyền nói “không” | quiz: Khi ai đó chạm vào mình làm mình khó chịu, mình nên… -> Nói “không” và kể với người lớn tin cậy
+   chuyện: Nhà có khách, một bác họ xa cứ véo má và đòi ôm An dù An đã lùi lại. An thấy không thoải mái.
+oi=10 | tuần 3 | Tư duy phản biện | Sự thật hay ý kiến? | quiz: Câu nào là sự thật? -> Nước sôi ở 100 độ C ở mực nước biển
+   chuyện: Làm bài thuyết trình về loài mèo, Vy viết: “Mèo là con vật đáng yêu nhất thế giới.” An băn khoăn câu này có nên để trong phần “Thông tin khoa học” không.
+oi=11 | tuần 3 | An toàn & ranh giới | Giữ thông tin cá nhân trên mạng | quiz: Thông tin nào KHÔNG nên chia sẻ trên mạng? -> Địa chỉ nhà, tên trường, số điện thoại
+   chuyện: An chơi một trò đố vui trên máy tính bảng của nhà. Một tài khoản lạ nhắn: “Bạn giỏi quá! Cho mình xin tên trường và địa chỉ để gửi quà nhé.”
+oi=12 | tuần 3 | Quản lý thời gian | Bắt tay vào việc, đừng chần chừ | quiz: Cách tốt để bớt chần chừ là… -> Bắt đầu bằng một bước thật nhỏ, có hẹn giờ
+   chuyện: An có bài văn tả cây phải nộp sau hai ngày. Tối nay An định “xem một chút rồi viết”, nhưng đã gần 9 giờ mà chưa viết chữ nào.
+oi=13 | tuần 3 | Tài chính cá nhân | Cần hay muốn? | quiz: Thứ “cần” là… -> Thứ mình không thể thiếu để sống và học
+   chuyện: Đi nhà sách với mẹ, An có 50.000 đồng tiền tiêu vặt để mua bút mới vì bút cũ đã hỏng. An lại thấy một bộ nhãn dán lấp lánh giá 45.000 đồng.
+oi=14 | tuần 3 | Quản lý cảm xúc | Khi tức giận: dừng lại trước khi nói | quiz: Khi rất tức giận, việc nên làm đầu tiên là… -> Dừng lại, hít thở cho bình tĩnh
+   chuyện: Đá bóng giờ ra chơi, Huy hét lên rằng tại An mà đội thua. An thấy mặt nóng bừng, tay nắm chặt.
+oi=15 | tuần 4 | Quản lý cảm xúc | Hồi hộp trước khi biểu diễn | quiz: Hồi hộp trước một việc quan trọng là… -> Bình thường, và có cách làm dịu
+   chuyện: Chiều nay An đánh đàn ở buổi biểu diễn của lớp nhạc tại nhà văn hoá phường. Ngồi chờ đến lượt, tay An lạnh ngắt, tim đập thình thịch.
+oi=16 | tuần 4 | Làm việc nhóm | Đón nhận ý tưởng của bạn | quiz: Trong nhóm, khi bạn đưa ra ý khác mình, mình nên… -> Hỏi thêm để hiểu ý bạn
+   chuyện: Nhóm An chọn chủ đề cho tiết mục kịch ngắn. An đã có ý muốn diễn chuyện cổ tích, nhưng Linh đề nghị diễn cảnh đi chợ vui nhộn.
+oi=17 | tuần 4 | Tự lập | Tự chuẩn bị bữa sáng đơn giản | quiz: Khi tự chuẩn bị đồ ăn, mình nên… -> Chọn món an toàn, hỏi người lớn trước khi dùng bếp hay dao sắc
+   chuyện: Sáng thứ Bảy, ba đi làm sớm, mẹ đang bận cho em bé ăn. Mẹ nhờ An tự chuẩn bị bữa sáng; trong bếp có bánh mì, trứng luộc sẵn, sữa và chuối.
+oi=18 | tuần 4 | Giải quyết vấn đề | Việc lớn thì chia thành bước nhỏ | quiz: Khi gặp một việc quá lớn, mình nên… -> Chia thành các bước nhỏ và làm từng bước
+   chuyện: Phòng của An bừa bộn sau cả tuần: sách trên sàn, quần áo trên ghế, đồ chơi khắp nơi. An nhìn mà không biết bắt đầu từ đâu nên cứ ngồi đó.
+oi=19 | tuần 4 | Tư duy phản biện | Nghe cả hai phía trước khi phán xét | quiz: Trước khi kết luận ai đúng ai sai, mình nên… -> Nghe cả hai phía
+   chuyện: Vy kể với An rằng Mai đã lấy hộp bút của Vy mà không hỏi. Vy rủ An cùng không chơi với Mai nữa.
+oi=20 | tuần 5 | An toàn & ranh giới | Đi đường an toàn | quiz: Khi qua đường, điều quan trọng nhất là… -> Đi theo đèn tín hiệu và vạch kẻ, nhìn kỹ hai bên
+   chuyện: Bà đưa An đi bộ đến trường. Thấy bạn Nam ở bên kia đường, An muốn chạy ngay qua dù đèn dành cho người đi bộ đang đỏ.
+oi=21 | tuần 5 | Quản lý thời gian | Giờ dùng màn hình có giới hạn | quiz: Cách giúp dừng xem màn hình đúng giờ là… -> Đặt hẹn giờ và có sẵn việc khác để làm tiếp
+   chuyện: Ba mẹ cho An xem phim hoạt hình 30 phút sau khi làm bài. Hết giờ, phim đang đến đoạn hay, An xin xem thêm “một tập nữa thôi”.
+oi=22 | tuần 5 | Tài chính cá nhân | So sánh giá trước khi mua | quiz: So sánh khi mua sắm nghĩa là… -> Xem cả giá và chất lượng ở vài nơi
+   chuyện: Đi chợ cùng mẹ, An được tự mua trái cây ăn vặt trong tuần bằng 40.000 đồng. Sạp đầu tiên bán cam 30.000 đồng một ký, An định mua luôn.
+oi=23 | tuần 5 | Giao tiếp | Nhờ giúp đỡ cho rõ ràng | quiz: Một lời nhờ giúp rõ ràng cần có… -> Mình cần giúp việc gì và vướng ở đâu
+   chuyện: An làm bài Toán đố mãi không ra. An chạy đến chỗ ba đang nấu cơm và nói: “Ba ơi, bài này khó quá, con không làm được!”
+oi=24 | tuần 5 | Làm việc nhóm | Khi bạn trong nhóm chưa làm phần việc | quiz: Khi một bạn trong nhóm chậm việc, nên làm gì trước? -> Hỏi bạn xem có khó khăn gì
+   chuyện: Nhóm An làm bài thuyết trình về rác thải nhựa. Ngày mai trình bày rồi mà phần tìm hình ảnh của Bảo vẫn chưa có, cả nhóm bắt đầu bực.
+oi=25 | tuần 6 | Làm việc nhóm | Nhóm chia hai phe thì làm sao | quiz: Khi nhóm bất đồng, cách công bằng là… -> Thống nhất tiêu chí rồi cùng chọn
+   chuyện: Nhóm bốn bạn của An phải chọn tên đội cho hội thi đố vui. Hai bạn muốn “Đội Cá Heo”, hai bạn muốn “Đội Tia Chớp”. Đã mười phút trôi qua mà vẫn chưa thống nhất.
+oi=26 | tuần 6 | Tự lập | Giữ đồ của mình không thất lạc | quiz: Cách hay để không bỏ quên đồ là… -> Kiểm tra lại đồ trước khi rời đi
+   chuyện: Cả nhà đi công viên chơi cả buổi sáng. Lúc về đến cổng, An mới nhớ không thấy chai nước và mũ đâu. Đây là lần thứ ba trong tháng.
+oi=27 | tuần 6 | Giải quyết vấn đề | Đồ hỏng: thử sửa trước khi bỏ | quiz: Khi đồ dùng bị hỏng nhẹ, nên làm gì trước? -> Xem chỗ hỏng và tìm cách sửa
+   chuyện: Quai cặp sách của An bị bung chỉ một bên. An định xin mẹ mua cặp mới dù cặp vẫn còn tốt.
+oi=28 | tuần 6 | Tư duy phản biện | Mẹo trên mạng có nên làm theo? | quiz: Trước khi làm theo một lời khuyên trên mạng, nên tự hỏi… -> Người nói có đáng tin không, có bằng chứng không?
+   chuyện: An xem một video hướng dẫn: “Mẹo học thuộc cả bài trong 5 phút, không cần ôn!” An định tối nay chỉ dùng mẹo này thay cho ôn bài.
+oi=29 | tuần 6 | An toàn & ranh giới | Bí mật nào nên giữ, bí mật nào phải kể | quiz: Bí mật nào cần kể ngay với người lớn tin cậy? -> Bí mật làm ai đó sợ hãi, bị đau hoặc không an toàn
+   chuyện: Bạn Linh thì thầm với An: “Có anh lớp trên bắt mình đưa tiền ăn sáng mỗi ngày, cậu đừng nói với ai nhé.” Linh trông rất sợ.
+oi=30 | tuần 7 | Quản lý thời gian | Buổi sáng không vội vàng | quiz: Muốn buổi sáng nhẹ nhàng, nên… -> Chuẩn bị từ tối và làm theo thứ tự cố định
+   chuyện: Sáng nào An cũng dậy lúc 6 giờ 15 nhưng vẫn ra khỏi nhà muộn: vừa đánh răng vừa tìm tất, ăn sáng vội, ba phải giục mãi.
+oi=31 | tuần 7 | Tài chính cá nhân | Để dành cho một mục tiêu | quiz: Để dành hiệu quả cần… -> Mục tiêu rõ ràng và số tiền để dành đều đặn
+   chuyện: Ở hiệu sách cùng mẹ, An thấy bộ màu nước 120.000 đồng rất muốn mua. Mỗi tuần An có 30.000 đồng tiền tiêu vặt và thường tiêu hết vào quà vặt.
+oi=32 | tuần 7 | Giao tiếp | Góp ý cho bạn mà không làm bạn buồn | quiz: Một lời góp ý tốt nên… -> Khen điều cụ thể và gợi ý cách sửa
+   chuyện: Nam nhờ An đọc bài văn trước khi nộp. Bài có ý hay nhưng nhiều lỗi chính tả và đoạn cuối hơi lan man.
+oi=33 | tuần 7 | Quản lý cảm xúc | Thua cũng phải vui vẻ | quiz: Khi thua một cuộc thi, điều nên làm là… -> Chúc mừng người thắng và tìm điều học được
+   chuyện: An thi cờ vua ở câu lạc bộ thiếu nhi của phường và thua ván chung kết. Bạn thắng đưa tay ra bắt, nhưng An rất buồn và muốn bỏ về ngay.
+oi=34 | tuần 7 | Tự lập | Tự chăm sóc con vật nuôi của mình | quiz: Nhận chăm một con vật nghĩa là… -> Chăm đều đặn mỗi ngày như đã hứa
+   chuyện: An xin ba mẹ nuôi hai chú cá vàng và hứa tự chăm. Được hai tuần, An bắt đầu quên cho cá ăn, nước trong bể đã đục.
+oi=35 | tuần 8 | Tự lập | Tự chọn và theo đến cùng | quiz: Khi việc mình tự chọn trở nên khó, nên… -> Tìm cách vượt qua và giữ cam kết đến hết
+   chuyện: An tự chọn học lớp bóng rổ ở nhà thi đấu gần nhà, ba mẹ đã đóng học phí cả khoá ba tháng. Sau ba buổi, tập mệt quá nên An muốn nghỉ.
+oi=36 | tuần 8 | Giải quyết vấn đề | Nghĩ nhiều cách trước khi chọn | quiz: Khi gặp vấn đề, trước khi chọn cách giải quyết nên… -> Nghĩ ra vài cách rồi so sánh
+   chuyện: Bàn học của An chật kín sách vở, đồ dùng; mỗi lần làm bài lại phải dồn đồ sang một bên. An định xin ba mẹ mua ngay một chiếc bàn to hơn.
+oi=37 | tuần 8 | Tư duy phản biện | Lần sau mình sẽ làm khác thế nào? | quiz: Rút kinh nghiệm tốt là… -> Tìm nguyên nhân thật và đặt một cách làm mới
+   chuyện: Nhóm An gieo hạt đậu xanh cho bài Khoa học, nhưng sau một tuần hạt vẫn không nảy mầm. An nghĩ ngay: “Tại hạt đậu xấu.”
+oi=38 | tuần 8 | An toàn & ranh giới | Khi bị lạc người thân ở nơi đông người | quiz: Nếu bị lạc ở nơi đông người, điều đầu tiên nên làm là… -> Đứng yên và nhờ nhân viên hoặc bảo vệ
+   chuyện: Đi hội chợ cùng mẹ, An mải xem một gian đồ chơi. Quay lại, An không thấy mẹ đâu giữa dòng người đông đúc.
+oi=39 | tuần 8 | Quản lý thời gian | Tập trung, không để bị xao nhãng | quiz: Cách tốt để tập trung khi học là… -> Để thứ gây xao nhãng ra xa và học theo từng đợt có nghỉ
+   chuyện: An ngồi học bài lúc 7 giờ tối, máy tính bảng để ngay cạnh. Cứ vài phút có thông báo từ nhóm chat lớp, An lại cầm lên xem. Đến 8 giờ rưỡi, bài vẫn chưa xong.
+oi=40 | tuần 9 | Tài chính cá nhân | Đồ theo phong trào: có nên mua? | quiz: Trước khi mua một món đồ theo phong trào, nên tự hỏi… -> Mình thật sự thích hay chỉ vì bạn bè có?
+   chuyện: Cả lớp đang rộ lên phong trào sưu tầm thẻ hình nhân vật, mỗi gói 15.000 đồng. Bạn Bảo đã mua hai mươi gói và rủ An “sưu tầm cho đủ bộ”.
+oi=41 | tuần 9 | Giao tiếp | Không đồng ý mà vẫn lễ phép | quiz: Khi không đồng ý với người lớn, cách tốt là… -> Bình tĩnh nêu lý do và đề nghị cách khác
+   chuyện: Ba quyết định cuối tuần cả nhà sẽ dọn kho, nhưng An đã hẹn đi sinh nhật bạn ở nhà văn hoá phường từ trước. An thấy bực vì ba không hỏi ý mình.
+oi=42 | tuần 9 | Quản lý cảm xúc | Khi thấy ghen tị với bạn | quiz: Khi thấy ghen tị, cách tốt là… -> Gọi tên cảm xúc và tìm điều mình học được
+   chuyện: Ở câu lạc bộ bơi, Mai được lên nhóm nâng cao còn An vẫn ở nhóm cũ. Cả buổi An thấy khó chịu, không muốn nói chuyện với Mai.
+oi=43 | tuần 9 | Làm việc nhóm | Giúp bạn mới hoà nhập vào nhóm | quiz: Nhóm làm việc tốt khi… -> Ai cũng được chào đón và có phần tham gia
+   chuyện: Giữa học kỳ, lớp An có bạn Vy chuyển đến. Đã một tuần, giờ ra chơi Vy vẫn ngồi một mình, còn nhóm của An mải chơi đá cầu.
+oi=44 | tuần 9 | Giải quyết vấn đề | Khi kế hoạch hỏng vào phút chót | quiz: Khi kế hoạch bị hỏng, điều quan trọng là… -> Giữ mục tiêu, tìm cách làm khác
+   chuyện: An định in tấm thiệp tự thiết kế để tặng mẹ ngày sinh nhật vào sáng mai, nhưng tối nay máy in ở nhà bị hỏng. An hoảng lên và muốn bỏ ý định.

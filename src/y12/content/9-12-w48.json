@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Tự hào về chính mình",
+   "Being proud of myself"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Buổi tổng kết năm học, An không có tên trong danh sách nhận giải. Nhưng cả năm An đã tập đọc to trước lớp, từ chỗ run giọng đến lúc đọc trôi chảy. An vẫn thấy buồn.",
+   "At the end-of-year assembly, An isn’t on the prize list. But all year An practised reading aloud, from a shaky voice to reading smoothly. An still feels down."
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "How should An think about it?"
+  ],
+  "co": [
+   [
+    "“Không có giải nghĩa là mình chẳng làm được gì”",
+    "“No prize means I achieved nothing”",
+    0,
+    "Giải thưởng chỉ là một cách ghi nhận. Tiến bộ của con là thật, dù không ai trao giải.",
+    "A prize is only one kind of recognition. Your progress is real, prize or not."
+   ],
+   [
+    "Nhớ lại mình đã cố gắng thế nào, tự nói: “Mình đã đọc tự tin hơn nhiều rồi”, và kể với ba mẹ",
+    "Remember the effort, tell yourself, “I read so much more confidently now,” and share it with your parents",
+    1,
+    "Ghi nhận nỗ lực của chính mình giúp con có động lực đi tiếp, không chỉ nhìn vào kết quả.",
+    "Recognising your own effort keeps you going, not just the results."
+   ],
+   [
+    "Nói giải thưởng chẳng quan trọng rồi bỏ tập",
+    "Say prizes don’t matter and stop practising",
+    0,
+    "Buồn là bình thường, nhưng bỏ tập thì tiếc công sức cả năm. Hãy tự hào về chặng đường đã qua.",
+    "It’s okay to feel sad, but quitting wastes a year’s work. Be proud of how far you’ve come."
+   ]
+  ],
+  "qq": [
+   "Tự hào đúng cách là tự hào về điều gì?",
+   "Healthy pride is being proud of…"
+  ],
+  "qo": [
+   [
+    "Chỉ khi được giải",
+    "Only winning prizes"
+   ],
+   [
+    "Nỗ lực và tiến bộ của mình",
+    "Your effort and progress"
+   ],
+   [
+    "Khi hơn bạn khác",
+    "Beating other people"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An vừa tự nấu được bát mì trứng đầu tiên có ba đứng cạnh, trứng hơi cháy một chút.",
+     "With Dad beside them, An has just cooked a first bowl of egg noodles; the egg is a bit burnt."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An feel?"
+    ],
+    "o": [
+     [
+      "“Cháy rồi, mình nấu dở quá”",
+      "“It’s burnt, I’m rubbish at cooking”",
+      0,
+      "Lần đầu đã tự nấu được là giỏi rồi. Lần sau con sẽ chỉnh lửa nhỏ hơn.",
+      "Cooking it yourself the first time is great. Next time, a lower heat."
+     ],
+     [
+      "Đợi nấu thật ngon mới được vui",
+      "Only be happy once it’s perfect",
+      0,
+      "Đợi hoàn hảo thì khó bao giờ vui. Ghi nhận từng bước nhỏ nhé.",
+      "Waiting for perfect means rarely feeling proud. Celebrate small steps."
+     ],
+     [
+      "“Lần đầu mình tự nấu được rồi! Lần sau mình để lửa nhỏ hơn”",
+      "“I cooked it myself for the first time! Next time I’ll use a lower heat”",
+      1,
+      "Tự hào về nỗ lực và rút kinh nghiệm cùng lúc là cách lớn lên khoẻ mạnh.",
+      "Pride in your effort plus a lesson learned is a healthy way to grow."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở giải bơi của khu phố, An về thứ năm, nhưng đã bơi nhanh hơn lần trước hai giây.",
+     "At the neighbourhood swimming gala, An comes fifth but swims two seconds faster than last time."
+    ],
+    "q": [
+     "An nên nói gì với ba mẹ?",
+     "What should An tell Mum and Dad?"
+    ],
+    "o": [
+     [
+      "“Con về thứ năm, chán quá”",
+      "“I came fifth, it’s rubbish”",
+      0,
+      "Thứ hạng chỉ là một phần. Con đã nhanh hơn chính mình, đó là tiến bộ thật.",
+      "Rank is only part of it. You beat your own time, real progress."
+     ],
+     [
+      "“Con nhanh hơn lần trước hai giây! Con vui vì đã tập chăm”",
+      "“I was two seconds faster than last time! I’m glad I practised hard”",
+      1,
+      "So với chính mình hôm qua giúp con thấy rõ công sức và tự hào đúng cách.",
+      "Comparing with your past self shows your effort and builds healthy pride."
+     ],
+     [
+      "“Tại bạn kia cao hơn con”",
+      "“The others were taller than me”",
+      0,
+      "Tìm lý do bên ngoài làm con quên mất mình đã tiến bộ. Hãy nhìn vào nỗ lực của con.",
+      "Looking for excuses hides your own progress. Focus on your effort."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lá thư khen chính mình",
+    "A letter of praise to myself"
+   ],
+   "s": [
+    "Con viết một lá thư ngắn khen bản thân về một nỗ lực trong năm (con đã cố gắng thế nào, tiến bộ ra sao), rồi đọc cho ba mẹ nghe.",
+    "Write a short letter praising yourself for one effort this year (how hard you tried, how you improved), then read it to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý nỗ lực và cùng con viết từng câu.",
+     "Your parent suggests an effort and helps write each line."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết rồi đọc.",
+     "With one reminder, you write it and read it aloud."
+    ],
+    [
+     "Con tự viết, kể rõ “trước đây… bây giờ…” và cất thư vào hộp kỷ niệm.",
+     "You write it with a clear “I used to… now I…” and keep it in a memory box."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết một câu khen đáp lại vào cuối lá thư của con",
+    "Your parent writes a reply of praise at the end of your letter"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Truyền kinh nghiệm cho em nhỏ",
+   "Passing tips to younger kids"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Em Tí đang tập buộc dây giày mãi không được, sắp khóc. An buộc rất nhanh nên định buộc luôn cho em xong chuyện.",
+   "Little Tí keeps failing to tie his shoelaces and is close to tears. An can do it in seconds and is about to just tie them for him."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Buộc giúp em cho nhanh",
+    "Tie them for him to save time",
+    0,
+    "Làm thay thì hôm nay nhanh, nhưng mai em vẫn chưa biết. Hướng dẫn mới giúp em lớn.",
+    "Doing it for him is quick today, but he still won’t know tomorrow. Teaching helps him grow."
+   ],
+   [
+    "Nói “dễ thế mà cũng không biết”",
+    "Say, “It’s so easy, how can you not do it?”",
+    0,
+    "Câu này làm em nản. Ai cũng có lúc mới tập, kể cả con.",
+    "That discourages him. Everyone starts somewhere, even you."
+   ],
+   [
+    "Ngồi cạnh, làm mẫu thật chậm từng bước, để em tự thử và khen khi em làm đúng một bước",
+    "Sit beside him, show each step slowly, let him try and praise each step he gets right",
+    1,
+    "Làm chậm, chia bước và kiên nhẫn khen giúp em tự tin học được.",
+    "Going slowly, step by step, with patient praise helps him learn with confidence."
+   ]
+  ],
+  "qq": [
+   "Hướng dẫn người khác tốt cần gì?",
+   "Teaching someone well needs…"
+  ],
+  "qo": [
+   [
+    "Làm thay cho nhanh",
+    "Doing it for them"
+   ],
+   [
+    "Nói thật nhiều một lúc",
+    "Saying everything at once"
+   ],
+   [
+    "Làm mẫu từng bước, kiên nhẫn để họ tự thử",
+    "Showing step by step and patiently letting them try"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô nhờ An giúp một bạn lớp dưới chuẩn bị tiết mục đọc thơ, vì năm ngoái An từng làm rất tốt.",
+     "The teacher asks An to help a younger pupil prepare a poem reading, since An did it well last year."
+    ],
+    "q": [
+     "An nên giúp thế nào?",
+     "How should An help?"
+    ],
+    "o": [
+     [
+      "Kể mẹo của mình: tập trước gương, ngắt hơi ở dấu phẩy, rồi nghe em đọc và góp ý một điều mỗi lần",
+      "Share your tips (practise in a mirror, breathe at commas), then listen and give one tip at a time",
+      1,
+      "Chia sẻ điều mình biết và góp ý từng chút giúp em tiến bộ mà không bị ngợp.",
+      "Sharing what you know, one tip at a time, helps without overwhelming."
+     ],
+     [
+      "Đọc mẫu rồi bảo em bắt chước y hệt",
+      "Read it yourself and tell them to copy exactly",
+      0,
+      "Mỗi người có giọng riêng. Gợi ý cách tập để em tìm ra cách đọc của mình.",
+      "Everyone has their own voice. Share practice tips so they find theirs."
+     ],
+     [
+      "Chỉ ra hết lỗi sai một lúc",
+      "Point out every mistake at once",
+      0,
+      "Nhiều lỗi một lúc dễ làm em nản. Mỗi lần một điều thôi nhé.",
+      "Lots of mistakes at once is discouraging. One thing at a time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi chung cư, có các bác ngồi gần đó, một em nhỏ muốn chơi đá cầu cùng nhóm An nhưng tâng chưa được.",
+     "In the apartment playground, with grown-ups nearby, a younger child wants to join An’s shuttlecock game but can’t keep it up yet."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo em đi chỗ khác chơi",
+      "Tell the child to play elsewhere",
+      0,
+      "Ai cũng từng là người mới. Dành vài phút hướng dẫn sẽ làm em rất vui.",
+      "Everyone was new once. A few minutes of help means a lot."
+     ],
+     [
+      "Cho em đứng xem thôi",
+      "Let the child just watch",
+      0,
+      "Xem cũng học được, nhưng được thử và được chỉ thì em học nhanh hơn.",
+      "Watching helps, but trying with guidance is faster."
+     ],
+     [
+      "Chỉ em cách tâng bằng mu bàn chân, tâng chậm cho em xem rồi để em thử",
+      "Show how to kick with the inside of the foot, demonstrate slowly and let the child try",
+      1,
+      "Kiên nhẫn chỉ từng bước giúp em hoà vào nhóm và con cũng hiểu kỹ năng sâu hơn.",
+      "Patient step-by-step help includes the child and deepens your own skill."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mười phút làm thầy nhỏ",
+    "Ten minutes as a little teacher"
+   ],
+   "s": [
+    "Con hướng dẫn một em nhỏ hoặc người thân một kỹ năng con giỏi (gấp áo, buộc dây giày, gấp giấy, một trò chơi) trong 10 phút: làm mẫu từng bước, để họ tự thử. Ba mẹ xem và xác nhận.",
+    "Teach a younger child or a relative a skill you’re good at (folding clothes, tying laces, paper folding, a game) for 10 minutes: show each step and let them try. Your parent watches and confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn kỹ năng và chia bước trước.",
+     "Your parent helps choose the skill and plan the steps."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hướng dẫn trọn 10 phút.",
+     "With one reminder, you teach for the full 10 minutes."
+    ],
+    [
+     "Con tự hướng dẫn, kiên nhẫn đến khi người học làm được một lần và kể lại điều con học được khi làm thầy.",
+     "You teach until they succeed once, then share what you learned from teaching."
+    ]
+   ],
+   "rw": [
+    "Người học của con và cả nhà cùng làm cho con một tấm “bằng khen thầy nhỏ”",
+    "Your learner and family make you a “little teacher” certificate"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Kế hoạch tự lập cho chặng mới",
+   "My independence plan for what’s next"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Hè này An về quê ở với ông bà hai tuần. Bà hỏi: “Ở đây cháu muốn tự làm được thêm việc gì?” An nghĩ mãi: muốn biết nhiều thứ quá mà không biết bắt đầu từ đâu.",
+   "This summer An is spending two weeks with Grandma and Grandpa in the countryside. Grandma asks, “What would you like to learn to do by yourself here?” An wants to learn so much but doesn’t know where to start."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chọn 2–3 việc cụ thể như tự giặt đồ lót, tưới vườn, nấu cơm có bà bên cạnh, mỗi việc ghi bước đầu tiên",
+    "Pick 2–3 specific jobs like washing your own socks, watering the garden, cooking rice with Grandma, and note the first step for each",
+    1,
+    "Mục tiêu cụ thể kèm bước đầu tiên giúp con bắt tay vào ngay, không bị ngợp.",
+    "Specific goals with a first step help you start straight away without feeling overwhelmed."
+   ],
+   [
+    "Muốn học hết mọi thứ cùng lúc",
+    "Try to learn everything at once",
+    0,
+    "Ôm nhiều việc một lúc dễ nản. Chọn vài việc và làm cho chắc.",
+    "Too much at once is discouraging. Pick a few and do them well."
+   ],
+   [
+    "Để bà làm hết vì đang nghỉ hè",
+    "Let Grandma do it all, it’s the holidays",
+    0,
+    "Nghỉ hè là dịp tốt để tập tự lập. Bà sẽ vui khi thấy con lớn hơn.",
+    "Holidays are a great time to practise. Grandma will love seeing you grow."
+   ]
+  ],
+  "qq": [
+   "Một mục tiêu tự lập tốt nên thế nào?",
+   "A good independence goal is…"
+  ],
+  "qo": [
+   [
+    "Cụ thể, có bước bắt đầu rõ",
+    "Specific, with a clear first step"
+   ],
+   [
+    "Thật nhiều và thật lớn",
+    "Huge and many"
+   ],
+   [
+    "Chung chung như “tự lập hơn”",
+    "Vague, like “be more independent”"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Năm học mới sắp đến. Mẹ gợi ý An tự lo thêm vài việc buổi sáng.",
+     "The new school year is coming. Mum suggests An takes on a few more morning jobs."
+    ],
+    "q": [
+     "An nên đặt mục tiêu thế nào?",
+     "How should An set goals?"
+    ],
+    "o": [
+     [
+      "“Con sẽ tự lập hơn”",
+      "“I’ll be more independent”",
+      0,
+      "Mục tiêu chung chung khó biết đã làm được chưa. Hãy ghi việc cụ thể.",
+      "Vague goals are hard to check. Write specific jobs."
+     ],
+     [
+      "Đặt nhiều việc để mẹ khỏi phải làm gì",
+      "Take on so much that Mum does nothing",
+      0,
+      "Muốn giúp mẹ rất đáng quý, nhưng nhiều quá dễ bỏ giữa chừng. Bắt đầu vài việc thôi.",
+      "Wanting to help is lovely, but too much leads to quitting. Start small."
+     ],
+     [
+      "Ghi 3 việc: tự đặt báo thức, tự chuẩn bị cặp tối hôm trước, tự gấp chăn, kèm ngày bắt đầu",
+      "Write 3 jobs: set your own alarm, pack your bag the night before, fold your blanket, with a start date",
+      1,
+      "Cụ thể và có ngày bắt đầu giúp kế hoạch thành việc làm thật.",
+      "Specific jobs with a start date turn plans into action."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô cho cả lớp viết “một điều em sẽ tự làm được vào năm sau”. Vy viết: “Em sẽ giỏi hơn.”",
+     "The teacher asks everyone to write “one thing I’ll be able to do myself next year.” Vy writes, “I’ll be better.”"
+    ],
+    "q": [
+     "An có thể gợi ý gì cho Vy?",
+     "What could An suggest to Vy?"
+    ],
+    "o": [
+     [
+      "“Viết thế là được rồi”",
+      "“That’s fine”",
+      0,
+      "Giỏi hơn ở việc gì? Gợi ý bạn ghi cụ thể sẽ giúp bạn hơn.",
+      "Better at what? Suggesting something specific helps more."
+     ],
+     [
+      "“Cậu thử ghi cụ thể như ‘tự xem thời khoá biểu và soạn sách mỗi tối’ nhé”",
+      "“Try something specific, like ‘check my timetable and pack my books every evening’”",
+      1,
+      "Gợi ý nhẹ nhàng giúp bạn biến mong muốn thành mục tiêu làm được.",
+      "A gentle suggestion turns a wish into a doable goal."
+     ],
+     [
+      "Viết hộ Vy",
+      "Write it for Vy",
+      0,
+      "Mục tiêu của bạn thì bạn nên tự viết. Con chỉ cần gợi ý thôi.",
+      "Vy’s goal should be in her own words. Just offer an idea."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba mục tiêu tự lập",
+    "Three independence goals"
+   ],
+   "s": [
+    "Con viết 3 mục tiêu tự lập cho thời gian tới, mỗi mục tiêu kèm bước đầu tiên và ngày bắt đầu, rồi dán lên bàn học. Đọc cho ba mẹ nghe.",
+    "Write 3 independence goals for the coming months, each with a first step and start date, and stick them on your desk. Read them to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn mục tiêu và viết bước đầu tiên.",
+     "Your parent helps choose the goals and write first steps."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết và dán lên bàn.",
+     "With one reminder, you write them and stick them up."
+    ],
+    [
+     "Con tự viết, làm luôn bước đầu tiên của một mục tiêu trong tuần và kể lại.",
+     "You write them, take the first step for one goal this week and report back."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đi dã ngoại, con được giao làm “trưởng đoàn” chuẩn bị đồ",
+    "A family picnic with you as “trip leader” in charge of packing"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Ghép đủ các bước giải quyết vấn đề",
+   "Putting all the problem-solving steps together"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Tủ sách của lớp lúc nào cũng lộn xộn, sách hay bị mất. Cô giao tổ An tìm cách giải quyết. Huy đề nghị ngay: “Khoá tủ lại là xong!”",
+   "The class bookshelf is always messy and books keep going missing. The teacher asks An’s group to sort it out. Huy says straight away, “Just lock it!”"
+  ],
+  "cq": [
+   "Tổ An nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Khoá tủ luôn theo ý Huy",
+    "Lock it like Huy says",
+    0,
+    "Khoá lại thì không ai đọc được sách nữa. Nghĩ thêm vài cách trước khi chọn nhé.",
+    "Locking it means nobody can read. Think of more ideas before choosing."
+   ],
+   [
+    "Đi đủ các bước: nói rõ vấn đề, nghĩ nhiều cách, chọn một cách, làm thử hai tuần rồi cùng xem lại",
+    "Follow all the steps: define the problem, brainstorm, choose, try for two weeks, then review together",
+    1,
+    "Đi đủ năm bước giúp tổ chọn cách hợp lý và biết nó có hiệu quả hay không.",
+    "Going through all five steps finds a sensible fix and shows whether it works."
+   ],
+   [
+    "Mỗi bạn tự làm theo ý mình",
+    "Everyone does their own thing",
+    0,
+    "Mỗi người một kiểu thì tủ càng rối. Cùng đi qua các bước sẽ thống nhất hơn.",
+    "Different approaches make it messier. Working through the steps together unites the group."
+   ]
+  ],
+  "qq": [
+   "Bước cuối cùng của giải quyết vấn đề là gì?",
+   "The last step of problem-solving is…"
+  ],
+  "qo": [
+   [
+    "Chọn cách nhanh nhất",
+    "Choosing the quickest idea"
+   ],
+   [
+    "Nghĩ ra cách",
+    "Coming up with ideas"
+   ],
+   [
+    "Xem lại cách đó có hiệu quả không",
+    "Reviewing whether it worked"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng nào nhà An cũng tranh nhau nhà tắm và ai cũng đi trễ.",
+     "Every morning the family fights over the bathroom and everyone is late."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Dậy sớm chiếm nhà tắm trước",
+      "Get up early and grab the bathroom first",
+      0,
+      "Mình nhanh thì người khác vẫn trễ. Vấn đề chung cần cả nhà cùng giải.",
+      "You’ll be fine but others still late. A shared problem needs a shared fix."
+     ],
+     [
+      "Rủ cả nhà họp 10 phút: nêu vấn đề, mỗi người góp một cách, chọn lịch dùng nhà tắm, thử một tuần rồi xem lại",
+      "Call a 10-minute family meeting: state the problem, everyone suggests a fix, pick a bathroom rota, try it a week and review",
+      1,
+      "Áp dụng đủ các bước cùng cả nhà giúp tìm ra cách ai cũng đồng ý.",
+      "Using all the steps with the family finds a fix everyone agrees on."
+     ],
+     [
+      "Phàn nàn với mẹ mỗi sáng",
+      "Complain to Mum every morning",
+      0,
+      "Phàn nàn chưa giải quyết được gì. Đề xuất cùng tìm cách sẽ hiệu quả hơn.",
+      "Complaining doesn’t solve it. Suggesting you find a fix together works better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhóm bạn của An hay đạp xe trong sân chung cư nhưng xe cứ va vào người đi bộ. Bác tổ trưởng nhờ các bạn tìm cách.",
+     "An’s friends cycle in the apartment courtyard, but keep nearly bumping into people walking. The residents’ leader asks them to find a solution."
+    ],
+    "q": [
+     "Nhóm nên làm gì?",
+     "What should the group do?"
+    ],
+    "o": [
+     [
+      "Đạp nhanh hơn cho ít gặp người",
+      "Ride faster to pass people quickly",
+      0,
+      "Đi nhanh còn dễ va chạm hơn. Hãy cùng nghĩ cách an toàn cho mọi người.",
+      "Faster means more risk. Think of a safe solution for everyone."
+     ],
+     [
+      "Thôi không đạp xe nữa",
+      "Stop cycling altogether",
+      0,
+      "Bỏ hẳn thì mất niềm vui. Thử các bước tìm cách để vẫn chơi mà an toàn.",
+      "Giving up loses the fun. Work through the steps to find a safe way."
+     ],
+     [
+      "Nêu rõ vấn đề, nghĩ vài cách như đạp chậm, chọn giờ vắng, khoanh khu riêng; hỏi bác chọn cách nào, thử rồi báo lại",
+      "Define the problem, list ideas like riding slowly, quiet times or a set area; ask the leader to help choose, try it and report back",
+      1,
+      "Đi đủ các bước và hỏi người lớn giúp nhóm có giải pháp an toàn cho cả khu.",
+      "Following the steps and asking a grown-up gives a safe fix for everyone."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm bước cho một vấn đề thật",
+    "Five steps for a real problem"
+   ],
+   "s": [
+    "Con chọn một vấn đề thật trong nhà (đồ hay thất lạc, giờ ăn tối hay trễ…), áp dụng 5 bước: nêu vấn đề – nghĩ cách – chọn – làm – xem lại, rồi trình bày với ba mẹ.",
+    "Choose a real problem at home (things going missing, dinner running late…), apply the 5 steps: define, brainstorm, choose, do, review, then present to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đi qua từng bước.",
+     "Your parent goes through each step with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm 4 bước đầu và trình bày.",
+     "With one reminder, you do the first 4 steps and present them."
+    ],
+    [
+     "Con tự làm đủ 5 bước, thử cách đã chọn trong một tuần và báo lại kết quả.",
+     "You do all 5 steps, try your fix for a week and report the result."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ nhờ con làm “cố vấn” cho một việc nhỏ của gia đình",
+    "Your parent asks you to be the “adviser” on a small family decision"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đổi ý khi có bằng chứng mới",
+   "Changing my mind with new evidence"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An chắc chắn cây xương rồng trên bàn học cần tưới mỗi ngày nên ngày nào cũng tưới đầy. Cây bắt đầu mềm, úng. Ba đưa An xem trang sách về cây xương rồng: loài này chỉ cần tưới ít.",
+   "An was sure the cactus on the desk needed watering every day, and soaked it daily. It’s turning soft and soggy. Dad shows An a book page on cacti: they need very little water."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Vẫn tưới mỗi ngày vì mình đã quen",
+    "Keep watering daily out of habit",
+    0,
+    "Thói quen cũ không đúng thì nên đổi. Cây đang cho con thấy điều đó.",
+    "If an old habit is wrong, change it. The plant is showing you."
+   ],
+   [
+    "Cãi là sách viết sai",
+    "Argue the book is wrong",
+    0,
+    "Sách và dấu hiệu của cây đều nói giống nhau. Đó là bằng chứng nên xem xét.",
+    "The book and the plant agree. That’s evidence worth considering."
+   ],
+   [
+    "Nói “Con đã nghĩ sai”, đổi sang tưới ít và theo dõi cây vài tuần",
+    "Say, “I was wrong,” switch to watering less and watch the plant for a few weeks",
+    1,
+    "Dám đổi ý khi có bằng chứng tốt hơn là dấu hiệu của người suy nghĩ giỏi.",
+    "Changing your mind when better evidence appears is what good thinkers do."
+   ]
+  ],
+  "qq": [
+   "Người suy nghĩ giỏi làm gì khi có bằng chứng mới?",
+   "What do good thinkers do with new evidence?"
+  ],
+  "qo": [
+   [
+    "Giữ ý cũ bằng mọi giá",
+    "Stick to their view no matter what"
+   ],
+   [
+    "Xem xét và dám đổi ý nếu cần",
+    "Consider it and change their mind if needed"
+   ],
+   [
+    "Làm theo số đông",
+    "Follow the crowd"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trong buổi tranh luận, An cho rằng đọc sách giấy luôn tốt hơn đọc trên máy. Nam đưa ra ví dụ: sách điện tử phóng to chữ giúp ông Nam đọc dễ hơn.",
+     "In a class debate, An argues paper books are always better than screens. Nam points out that e-books let his grandpa enlarge the text and read more easily."
+    ],
+    "q": [
+     "An nên phản hồi thế nào?",
+     "How should An respond?"
+    ],
+    "o": [
+     [
+      "“Ý cậu hay đấy, mình nghĩ lại: mỗi loại có điểm tốt riêng tuỳ người dùng”",
+      "“Good point. I’m rethinking: each has its strengths depending on who’s reading”",
+      1,
+      "Ghi nhận ý hay và điều chỉnh suy nghĩ giúp cuộc tranh luận thành cuộc học hỏi.",
+      "Recognising a good point and adjusting turns a debate into learning."
+     ],
+     [
+      "Nói to hơn để thắng",
+      "Talk louder to win",
+      0,
+      "Thắng tranh luận không quan trọng bằng tìm ra điều đúng hơn.",
+      "Winning matters less than getting closer to the truth."
+     ],
+     [
+      "Im lặng nhưng trong lòng vẫn không đổi",
+      "Go quiet but change nothing inside",
+      0,
+      "Thử thật sự cân nhắc ví dụ của bạn xem. Có khi nó làm con hiểu rộng hơn.",
+      "Try genuinely weighing his example. It might broaden your view."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ cùng mẹ, An nghĩ quả to nhất bao giờ cũng ngon nhất. Cô bán hàng chỉ cho An cách chọn theo màu và mùi, quả nhỏ mà chín đều thường ngọt hơn.",
+     "At the market with Mum, An thinks the biggest fruit is always tastiest. The stallholder shows how to choose by colour and smell; a small, evenly ripe one is often sweeter."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Vẫn chọn quả to nhất",
+      "Still pick the biggest",
+      0,
+      "Nghe thêm thông tin mà không thử thì phí. Thử cách mới xem sao.",
+      "Hearing new info and not testing it is a waste. Give it a try."
+     ],
+     [
+      "Mua cả hai loại, về nhà nếm thử cùng mẹ rồi kết luận",
+      "Buy one of each, taste them at home with Mum, then decide",
+      1,
+      "Kiểm chứng bằng cách thử giúp con đổi ý dựa trên bằng chứng thật.",
+      "Testing it yourself lets you change your mind based on real evidence."
+     ],
+     [
+      "Tin ngay mọi điều cô nói",
+      "Believe everything instantly",
+      0,
+      "Nghe ý mới là tốt, nhưng thử kiểm chứng sẽ chắc chắn hơn.",
+      "Listening is good, but checking it is more reliable."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Giữ hay đổi ý?",
+    "Keep or change my mind?"
+   ],
+   "s": [
+    "Con chọn một ý kiến cũ của mình (về đồ ăn, con vật, thói quen…), cùng ba mẹ tìm thêm thông tin từ sách hoặc người hiểu biết, rồi quyết định giữ hay đổi ý và nói rõ vì sao.",
+    "Pick an old opinion of yours (about food, animals, habits…), find more information with your parent from books or someone who knows, then decide to keep or change it and explain why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn ý kiến và tìm thông tin.",
+     "Your parent helps choose the opinion and find information."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm thông tin rồi trình bày.",
+     "With one reminder, you find information and present it."
+    ],
+    [
+     "Con tự làm, nêu ít nhất hai bằng chứng và nói câu “Trước con nghĩ…, giờ con nghĩ…” hoặc “Con vẫn giữ ý vì…”.",
+     "You do it all, give at least two pieces of evidence and say “I used to think… now I think…” or “I’m keeping my view because…”."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ đã đổi ý khi biết thêm thông tin",
+    "Your parent tells you about a time they changed their mind"
+   ]
+  }
+ }
+]

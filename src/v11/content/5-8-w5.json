@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Khi bị lạc ba mẹ",
+   "If I get separated"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở siêu thị, Bin mải xem đồ chơi, quay lại thì không thấy mẹ đâu.",
+   "In the supermarket, Bin is busy looking at toys, turns round and can’t see Mum."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đi theo một người lạ nói “Để cô dẫn ra ngoài tìm”",
+    "Go with a stranger who says “I’ll take you outside to look”",
+    0,
+    "Không đi ra ngoài với người lạ. Ở lại trong cửa hàng và nhờ nhân viên nhé.",
+    "Never leave with a stranger. Stay in the shop and ask staff for help."
+   ],
+   [
+    "Đứng yên, nhờ cô nhân viên mặc đồng phục hoặc cô thu ngân giúp tìm mẹ",
+    "Stay put and ask a uniformed staff member or the cashier to help find Mum",
+    1,
+    "Người làm ở cửa hàng có thể gọi loa tìm mẹ. Đứng yên giúp mẹ quay lại tìm con dễ hơn.",
+    "Shop staff can call out for Mum. Staying put helps her find you."
+   ],
+   [
+    "Chạy khắp nơi tìm mẹ",
+    "Run all over looking for Mum",
+    0,
+    "Chạy lung tung thì mẹ càng khó tìm con. Đứng yên một chỗ sẽ tốt hơn.",
+    "Running around makes it harder for Mum to find you. Staying put is better."
+   ]
+  ],
+  "qq": [
+   "Khi bị lạc, con nên…",
+   "If you get lost, you should…"
+  ],
+  "qo": [
+   [
+    "Tự đi bộ về nhà",
+    "Walk home alone"
+   ],
+   [
+    "Ai rủ đi cũng đi theo",
+    "Go with anyone who offers"
+   ],
+   [
+    "Đứng yên và nhờ người làm ở đó giúp",
+    "Stay put and ask someone who works there"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở nhà, mẹ cùng Bin tập đọc thuộc số điện thoại của mẹ.",
+     "At home, Mum helps Bin practise saying Mum’s phone number by heart."
+    ],
+    "q": [
+     "Vì sao Bin nên thuộc số điện thoại của mẹ?",
+     "Why should Bin know Mum’s number by heart?"
+    ],
+    "o": [
+     [
+      "Không cần, vì lúc nào mẹ cũng ở cạnh",
+      "No need — Mum is always nearby",
+      0,
+      "Đôi khi con và mẹ có thể bị lạc nhau. Thuộc số giúp người lớn gọi mẹ cho con.",
+      "Sometimes you might get separated. Knowing it helps grown-ups call her."
+     ],
+     [
+      "Để gọi cho mẹ khi buồn chán",
+      "To call Mum when bored",
+      0,
+      "Số của mẹ quan trọng nhất lúc con cần giúp, ví dụ khi bị lạc.",
+      "Mum’s number matters most when you need help, like if you get lost."
+     ],
+     [
+      "Để khi bị lạc, đọc số cho cô chú bảo vệ hoặc nhân viên gọi giúp",
+      "So if lost, you can tell a guard or staff member to ring her",
+      1,
+      "Thuộc số điện thoại giúp người lớn tin cậy liên lạc với mẹ thật nhanh.",
+      "Knowing it means a trusted grown-up can reach Mum quickly."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp đi tham quan vườn thú. Bin dừng lại xem khỉ, ngẩng lên thì không thấy cô và các bạn đâu.",
+     "On a class trip to the zoo, Bin stops to watch the monkeys and looks up — the class has gone."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng yên ở đó, nhờ cô chú bảo vệ báo cho cô giáo",
+      "Stay there and ask a zoo guard to tell the teacher",
+      1,
+      "Đứng yên giúp cô quay lại tìm con. Bảo vệ mặc đồng phục là người có thể giúp.",
+      "Staying put helps your teacher find you. A uniformed guard can help."
+     ],
+     [
+      "Tự đi tìm khắp vườn thú",
+      "Search the whole zoo alone",
+      0,
+      "Vườn thú rất rộng, đi một mình dễ lạc xa hơn. Đứng yên là tốt nhất.",
+      "The zoo is huge — wandering gets you more lost. Stay put."
+     ],
+     [
+      "Ngồi khóc ở một góc khuất",
+      "Hide in a corner and cry",
+      0,
+      "Khóc là bình thường, nhưng ở chỗ khuất thì cô khó thấy con. Đứng chỗ dễ thấy và nhờ bảo vệ nhé.",
+      "Crying is normal, but hidden corners are hard to spot. Stand somewhere visible and ask a guard."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Làm bài trước, chơi sau",
+   "Homework first, play later"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Đi học về, Bin có một trang bài tập. Bạn Na sang rủ Bin ra sân chơi bóng.",
+   "Home from school, Bin has one page of homework. Na comes round to ask Bin out to play ball."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nói với Na: “Chờ tớ 20 phút làm bài nhé”, rồi làm cho xong",
+    "Tell Na: “Give me 20 minutes for homework,” then get it done",
+    1,
+    "Làm việc cần làm trước, chơi sau thì vừa xong việc vừa chơi vui hơn.",
+    "Doing the must-do first means you finish and enjoy play more."
+   ],
+   [
+    "Đi chơi trước, tối làm bài sau",
+    "Play first, homework tonight",
+    0,
+    "Tối con sẽ mệt và buồn ngủ. Làm trước thì chơi thoải mái hơn.",
+    "By evening you’ll be tired. Do it first and play with nothing hanging over you."
+   ],
+   [
+    "Vừa làm bài vừa nói chuyện với Na",
+    "Do homework while chatting to Na",
+    0,
+    "Làm hai việc một lúc dễ sai và lâu xong. Làm xong rồi mới chơi nhé.",
+    "Doing two things at once means mistakes and slow work. Finish, then play."
+   ]
+  ],
+  "qq": [
+   "Khi có cả bài tập và giờ chơi, con nên…",
+   "When there’s homework and playtime, you should…"
+  ],
+  "qo": [
+   [
+    "Chơi trước cho đã",
+    "Play first"
+   ],
+   [
+    "Làm bài trước rồi chơi",
+    "Homework first, then play"
+   ],
+   [
+    "Bỏ bài tập",
+    "Skip homework"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho làm 5 bài toán, bạn nào xong được tô màu tranh. Bin rất thích tô màu.",
+     "The teacher sets five sums; whoever finishes can colour. Bin loves colouring."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tô màu trước, toán làm sau",
+      "Colour first, sums later",
+      0,
+      "Hết giờ có thể chưa xong toán. Làm toán trước rồi tô màu thật vui nhé.",
+      "Time might run out for the sums. Do them first, then enjoy colouring."
+     ],
+     [
+      "Làm cẩn thận 5 bài toán, xong rồi tô màu",
+      "Do the five sums carefully, then colour",
+      1,
+      "Việc chính trước, việc thích sau. Con được tô màu mà không phải lo gì.",
+      "Main job first, fun after. Then you can colour with no worries."
+     ],
+     [
+      "Làm thật nhanh, sai cũng được",
+      "Rush them, mistakes or not",
+      0,
+      "Làm nhanh quá dễ sai. Cẩn thận một chút vẫn còn thời gian tô màu.",
+      "Rushing brings mistakes. A little care still leaves colouring time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà sách với ba, ba nhờ Bin tìm vở ô li trước. Bin lại muốn chạy sang góc truyện tranh.",
+     "At the bookshop with Dad, Dad asks Bin to find the exercise books first. Bin wants to dash to the comics."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xem truyện rồi quên luôn việc tìm vở",
+      "Read comics and forget the job",
+      0,
+      "Truyện hay dễ làm mình quên. Xong việc trước rồi đọc thì không sợ quên.",
+      "Good comics make you forget. Finish first and nothing slips."
+     ],
+     [
+      "Chạy ngay sang góc truyện",
+      "Run straight to the comics",
+      0,
+      "Ba sẽ phải đi tìm con, việc chính lại chưa xong. Tìm vở trước nhé.",
+      "Dad would have to find you and the job isn’t done. Exercise books first."
+     ],
+     [
+      "Tìm vở trước, xong rồi xin ba xem truyện",
+      "Find the exercise books first, then ask to look at comics",
+      1,
+      "Làm xong việc được nhờ trước thì xem truyện thoải mái, ba cũng vui.",
+      "Do the job first and you can enjoy the comics — Dad’s happy too."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Giữ tiền cẩn thận",
+   "Keeping money safe"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Mẹ cho Bin 10 nghìn để mua bánh ở căng tin. Bin cầm tờ tiền vẫy vẫy khoe các bạn.",
+   "Mum gave Bin 10,000 dong for a snack at the canteen. Bin waves the note around to show friends."
+  ],
+  "cq": [
+   "Bin nên làm gì với tờ tiền?",
+   "What should Bin do with the money?"
+  ],
+  "co": [
+   [
+    "Cất vào ngăn có khoá kéo trong cặp, đến giờ mới lấy ra",
+    "Put it in a zipped pocket in the bag until it’s time",
+    1,
+    "Tiền để chỗ kín và không mang ra khoe thì khó bị rơi mất.",
+    "Kept zipped and out of sight, money is much harder to lose."
+   ],
+   [
+    "Để trên bàn cho tiện",
+    "Leave it on the desk to be handy",
+    0,
+    "Gió hoặc bạn đi qua có thể làm rơi. Cất vào túi có khoá kéo nhé.",
+    "A breeze or someone passing could knock it off. Zip it away."
+   ],
+   [
+    "Kẹp vào sách giáo khoa",
+    "Tuck it inside a textbook",
+    0,
+    "Kẹp vào sách dễ rơi khi lật trang. Cất vào chỗ kín, cố định sẽ chắc hơn.",
+    "It can fall out as pages turn. A closed, fixed place is safer."
+   ]
+  ],
+  "qq": [
+   "Giữ tiền cẩn thận là…",
+   "Keeping money safe means…"
+  ],
+  "qo": [
+   [
+    "Vẫy cho mọi người thấy",
+    "Waving it about"
+   ],
+   [
+    "Đưa bạn giữ hộ",
+    "Letting a friend hold it"
+   ],
+   [
+    "Cất ở chỗ kín, chắc chắn",
+    "Keeping it somewhere closed and secure"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bà cho Bin 20 nghìn. Bin để tiền trên bàn rồi đi rửa tay, em bé đang bò tới.",
+     "Grandma gives Bin 20,000 dong. Bin leaves it on the table to go and wash hands — the baby is crawling over."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kệ, chỉ đi một lát thôi",
+      "Leave it — you’ll only be a minute",
+      0,
+      "Chỉ một lát em cũng có thể cầm lên. Cất ngay là chắc nhất.",
+      "A minute is enough for the baby to grab it. Put it away now."
+     ],
+     [
+      "Nhờ em bé giữ hộ",
+      "Ask the baby to look after it",
+      0,
+      "Em còn nhỏ, chưa giữ tiền được. Con tự cất nhé.",
+      "The baby is too little to look after money. Put it away yourself."
+     ],
+     [
+      "Cầm tiền theo, rồi bỏ ngay vào ống heo",
+      "Take it along, then put it straight in the piggy bank",
+      1,
+      "Cất ngay vào chỗ của nó thì tiền không bị mất, em cũng không cho vào miệng.",
+      "Putting it away straight off keeps it safe — and out of the baby’s mouth."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở chợ cùng ba, Bin được cầm 5 nghìn để mua bánh bao. Chợ rất đông người.",
+     "At the market with Dad, Bin holds 5,000 dong to buy a steamed bun. It’s very crowded."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cầm hờ trên tay, vừa đi vừa ngắm",
+      "Hold it loosely while looking around",
+      0,
+      "Chỗ đông người, tiền cầm hờ dễ rơi mà không biết. Nắm chặt hoặc cất túi nhé.",
+      "In crowds, loose money drops without you noticing. Grip it or pocket it."
+     ],
+     [
+      "Nắm chặt trong tay, đi sát ba, đến hàng bánh mới đưa",
+      "Hold it tight, stay close to Dad, and hand it over at the stall",
+      1,
+      "Nắm chặt và đi cạnh ba giúp con giữ được tiền và giữ an toàn.",
+      "Holding tight and staying near Dad keeps your money and you safe."
+     ],
+     [
+      "Bỏ vào túi quần không có khoá rồi chạy nhảy",
+      "Put it in an open pocket and run about",
+      0,
+      "Chạy nhảy làm tiền dễ rơi khỏi túi. Đi chậm cạnh ba nhé.",
+      "Running about shakes money out of pockets. Walk beside Dad."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nhờ giúp cho rõ ràng",
+   "Asking for help clearly"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bin không mở được nắp hộp cơm trưa. Cô giáo đang đi quanh lớp.",
+   "Bin can’t open the lunchbox lid. The teacher is walking around the room."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi im, nhịn ăn",
+    "Sit quietly and skip lunch",
+    0,
+    "Nhịn thì con sẽ đói cả buổi chiều. Nói ra thì cô sẽ giúp.",
+    "You’ll be hungry all afternoon. Say something and the teacher will help."
+   ],
+   [
+    "Giơ tay: “Thưa cô, em không mở được hộp cơm, cô giúp em với ạ”",
+    "Raise a hand: “Excuse me, Miss, I can’t open my lunchbox — could you help?”",
+    1,
+    "Nói rõ mình cần gì và lễ phép giúp người khác hiểu ngay để giúp con.",
+    "Saying clearly and politely what you need helps people help you fast."
+   ],
+   [
+    "Đập hộp xuống bàn cho bật nắp",
+    "Bang the box on the desk to pop it open",
+    0,
+    "Đập mạnh có thể làm đổ cơm. Nhờ cô là cách nhanh và an toàn.",
+    "Banging it could spill your lunch. Asking is quicker and safer."
+   ]
+  ],
+  "qq": [
+   "Khi nhờ giúp, con nên nói…",
+   "When asking for help, you should say…"
+  ],
+  "qo": [
+   [
+    "Mình cần giúp việc gì, nói lễ phép",
+    "What you need, said politely"
+   ],
+   [
+    "“Giúp với!” rồi chạy đi",
+    "“Help!” and run off"
+   ],
+   [
+    "Không nói gì, chờ người ta tự biết",
+    "Nothing — wait for them to guess"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin muốn lấy hộp màu trên nóc tủ nhưng không với tới. Ba đang đọc sách.",
+     "Bin wants the crayons on top of the cupboard but can’t reach. Dad is reading."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "“Ba ơi, ba lấy giúp con hộp màu trên tủ với ạ”",
+      "“Dad, could you get the crayons off the cupboard for me, please?”",
+      1,
+      "Câu nhờ rõ ràng giúp ba hiểu ngay và giúp con liền.",
+      "A clear request means Dad understands and helps straight away."
+     ],
+     [
+      "Gọi “Ba ơi!” rồi không nói gì thêm",
+      "Call “Dad!” and say nothing else",
+      0,
+      "Ba sẽ không biết con cần gì. Nói rõ việc cần giúp nhé.",
+      "Dad won’t know what you need. Say it clearly."
+     ],
+     [
+      "Nhảy lên với mãi",
+      "Keep jumping to reach",
+      0,
+      "Nhảy mãi vừa mệt vừa dễ va vào tủ. Nhờ ba sẽ nhanh và an toàn hơn.",
+      "Jumping is tiring and you might bump the cupboard. Asking Dad is quicker and safer."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện cùng mẹ, Bin không tìm thấy góc sách thiếu nhi. Mẹ đang xếp hàng mượn sách gần đó.",
+     "At the library with Mum, Bin can’t find the children’s books. Mum is in the queue nearby."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự đi khắp các tầng tìm",
+      "Wander every floor alone",
+      0,
+      "Đi một mình xa mẹ dễ bị lạc. Hỏi cô thủ thư nhanh hơn nhiều.",
+      "Wandering away from Mum, you could get lost. The librarian is quicker."
+     ],
+     [
+      "Nói to: “Sách thiếu nhi đâu?”",
+      "Call out: “Where are the kids’ books?”",
+      0,
+      "Thư viện cần yên lặng. Đến gần và hỏi nhỏ nhẹ, lễ phép nhé.",
+      "Libraries need quiet. Go up and ask softly and politely."
+     ],
+     [
+      "Cùng mẹ hỏi cô thủ thư: “Cô ơi, góc sách thiếu nhi ở đâu ạ?”",
+      "With Mum, ask the librarian: “Excuse me, where are the children’s books?”",
+      1,
+      "Hỏi đúng người và nói rõ điều mình cần giúp con tìm thấy ngay.",
+      "Asking the right person clearly gets you there fast."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Khi nhóm có ý khác nhau",
+   "When the group disagrees"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Bin làm mô hình con vật bằng đất nặn. Bin muốn làm con voi, Na muốn làm con rùa.",
+   "Bin’s group is making a clay animal. Bin wants an elephant; Na wants a tortoise."
+  ],
+  "cq": [
+   "Nhóm nên làm thế nào?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Ai nói to hơn thì được chọn",
+    "Whoever is loudest wins",
+    0,
+    "Nói to không làm ý mình hay hơn. Nghe nhau rồi cùng chọn mới công bằng.",
+    "Loud doesn’t mean better. Listening and choosing together is fair."
+   ],
+   [
+    "Bin làm voi, Na làm rùa, không cần làm chung",
+    "Bin makes an elephant, Na a tortoise, separately",
+    0,
+    "Tách ra thì không còn là làm nhóm nữa. Mình cùng tìm cách chọn nhé.",
+    "Splitting up means it’s no longer teamwork. Find a way to choose together."
+   ],
+   [
+    "Mỗi bạn nói lý do, rồi cả nhóm giơ tay chọn",
+    "Each says why, then the group votes",
+    1,
+    "Nghe lý do của nhau rồi cùng chọn, ai cũng thấy được tôn trọng.",
+    "Hearing each other’s reasons, then choosing together, makes everyone feel respected."
+   ]
+  ],
+  "qq": [
+   "Khi nhóm có ý khác nhau, nên…",
+   "When a group disagrees, it should…"
+  ],
+  "qo": [
+   [
+    "Để một bạn quyết hết",
+    "Let one person decide everything"
+   ],
+   [
+    "Nghe lý do của nhau rồi cùng chọn",
+    "Hear each other’s reasons, then choose together"
+   ],
+   [
+    "Thôi không làm nữa",
+    "Give up"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cuối tuần, Bin muốn đi công viên, em gái muốn ở nhà vẽ tranh. Ba mẹ hỏi hai con muốn làm gì.",
+     "At the weekend, Bin wants the park; little sister wants to stay in and paint. Mum and Dad ask what they’d like."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Rủ em: “Sáng đi công viên, chiều mình cùng vẽ nhé?”",
+      "Suggest: “Park in the morning, painting together in the afternoon?”",
+      1,
+      "Tìm cách để cả hai cùng vui là làm việc nhóm rất hay trong gia đình.",
+      "Finding a way for both to be happy is great teamwork at home."
+     ],
+     [
+      "Khóc để được đi công viên",
+      "Cry to get the park",
+      0,
+      "Khóc làm mọi người buồn mà chưa tìm được cách. Mình thử bàn với em nhé.",
+      "Crying upsets everyone and solves nothing. Talk it over with your sister."
+     ],
+     [
+      "Nói với em: “Vẽ chán lắm!”",
+      "Tell her: “Painting is boring!”",
+      0,
+      "Chê ý của em làm em buồn. Mỗi người thích một kiểu, mình tìm cách kết hợp nhé.",
+      "Putting her idea down hurts. People like different things — find a mix."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, ba mẹ ngồi gần đó. Nhóm bạn tranh cãi nên chơi trốn tìm hay đá bóng.",
+     "At the local playground, with parents nearby, the kids argue: hide-and-seek or football?"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chia làm hai phe giận nhau",
+      "Split into two cross groups",
+      0,
+      "Giận nhau thì mất vui. Bàn với nhau một chút sẽ tìm ra cách.",
+      "Falling out spoils the fun. A quick chat can find a way."
+     ],
+     [
+      "Rủ các bạn chơi trốn tìm trước, đá bóng sau",
+      "Suggest hide-and-seek first, then football",
+      1,
+      "Chơi lần lượt cả hai trò thì không ai bị bỏ rơi.",
+      "Taking turns with both games means no one’s left out."
+     ],
+     [
+      "Ôm bóng về nhà",
+      "Take the ball and go home",
+      0,
+      "Về nhà thì không ai được chơi. Thử tìm cách chơi cả hai trò nhé.",
+      "Then nobody plays. Try finding a way to do both."
+     ]
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,299 @@
+<title>Cùng Sen khôn lớn</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="copyright" content="© 2026 Senapp. Bảo lưu mọi quyền.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<style>
+/* Bố cục: một trang sách giấy ở giữa màn hình, thanh điều hướng cố định trên/dưới; mỗi bài học là một trang cuộn được */
+:root {
+  --paper: #FFFBF4; --desk: #F4E7D6; --ink: #2A1F18; --mut: #7A6655; --line: #EBDCC8;
+  --lotus: #C8102E; --lotus-soft: #FBE3E7; --gold: #E8A33A; --gold-soft: #FFF1D6; --jade: #2E8F72; --jade-soft: #DDF0E6;
+  --on-lotus: #FFFFFF;
+  --display: 'Baloo 2', 'Be Vietnam Pro', system-ui, sans-serif;
+  --body: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --shadow: 0 1px 0 #E3D2BC, 0 18px 40px rgba(110, 60, 20, .12);
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #241C17; --desk: #17110D; --ink: #F3E8DC; --mut: #BBA898; --line: #3B2F27;
+  --lotus: #FF6B81; --on-lotus: #2A0B12; --lotus-soft: #3D1E25; --gold: #F2B65A; --gold-soft: #3A2C17; --jade: #5CC9A4; --jade-soft: #173328;
+  --shadow: 0 1px 0 #0D0907, 0 18px 40px rgba(0,0,0,.45); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --paper: #241C17; --desk: #17110D; --ink: #F3E8DC; --mut: #BBA898; --line: #3B2F27;
+  --lotus: #FF6B81; --on-lotus: #2A0B12; --lotus-soft: #3D1E25; --gold: #F2B65A; --gold-soft: #3A2C17; --jade: #5CC9A4; --jade-soft: #173328;
+  --shadow: 0 1px 0 #0D0907, 0 18px 40px rgba(0,0,0,.45); color-scheme: dark; }
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--desk); color: var(--ink); font: 16px/1.7 var(--body); -webkit-font-smoothing: antialiased; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--desk); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; border-radius: 8px; }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--desk);
+  padding: 10px max(16px, env(safe-area-inset-right, 0px)) 10px max(16px, env(safe-area-inset-left, 0px));
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap; border-bottom: 1px solid var(--line); }
+.brand { display: flex; align-items: center; gap: 8px; font: 800 19px/1 var(--display); color: var(--lotus); margin-right: auto; }
+.brand img { width: 34px; height: 34px; }
+.vols { display: flex; gap: 4px; background: var(--paper); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.vols button { border: 0; background: transparent; border-radius: 999px; padding: 5px 11px; font-size: 13px; font-weight: 700; color: var(--mut); cursor: pointer; }
+.vols button[aria-pressed="true"] { background: var(--lotus); color: var(--on-lotus); }
+.tbtn { border: 1px solid var(--line); background: var(--paper); border-radius: 999px; padding: 6px 13px; font-size: 13px; font-weight: 700; cursor: pointer; }
+
+.stage { padding: 18px max(16px, env(safe-area-inset-right, 0px)) 110px max(16px, env(safe-area-inset-left, 0px)); }
+.page { max-width: 720px; margin: 0 auto; background: var(--paper); border-radius: 6px 22px 22px 6px; box-shadow: var(--shadow);
+  padding: clamp(22px, 5vw, 48px); position: relative; min-height: 70vh; border-left: 6px solid var(--line); animation: turn .28s ease; }
+@keyframes turn { from { opacity: .3; transform: translateX(14px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .page { animation: none; } }
+.folio { position: absolute; bottom: 14px; right: 22px; font-size: 12px; color: var(--mut); font-variant-numeric: tabular-nums; }
+.run { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--mut); font-weight: 600; margin-bottom: 10px; }
+
+h1, h2, h3 { font-family: var(--display); line-height: 1.15; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(30px, 6vw, 46px); font-weight: 800; }
+h2 { font-size: clamp(24px, 4.6vw, 32px); font-weight: 800; }
+h3 { font-size: 19px; font-weight: 700; }
+p { margin: 0; max-width: 65ch; }
+.stack { display: flex; flex-direction: column; gap: 16px; }
+.muted { color: var(--mut); }
+
+/* bìa */
+.cover { text-align: center; align-items: center; padding-top: 10px; }
+.cover .lotus { width: min(62%, 260px); filter: drop-shadow(0 12px 18px rgba(200,16,46,.18)); animation: bob 4s ease-in-out infinite; }
+@keyframes bob { 50% { transform: translateY(-8px); } }
+@media (prefers-reduced-motion: reduce) { .cover .lotus { animation: none; } }
+.cover .tap { display: inline-block; background: var(--lotus); color: var(--on-lotus); border-radius: 999px; padding: 4px 14px; font-weight: 700; font-size: 14px; }
+.cover h1 { color: var(--lotus); font-size: clamp(38px, 9vw, 60px); }
+.verse { font-family: var(--display); font-weight: 700; color: var(--lotus); font-size: clamp(17px, 3.6vw, 21px); line-height: 1.55; }
+
+/* lời ngỏ, kỹ năng */
+.skills { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 190px), 1fr)); gap: 10px; }
+.skill { border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; display: flex; gap: 10px; align-items: flex-start; }
+.dot { width: 30px; height: 30px; border-radius: 10px; flex: none; display: grid; place-items: center; font: 800 15px var(--display); color: #FFF; }
+.steps { display: grid; gap: 10px; counter-reset: s; padding: 0; margin: 0; list-style: none; }
+.steps li { display: flex; gap: 12px; align-items: flex-start; }
+.steps li::before { counter-increment: s; content: counter(s); width: 28px; height: 28px; flex: none; border-radius: 50%; background: var(--gold-soft); color: var(--ink); font: 800 14px/28px var(--display); text-align: center; }
+
+/* mục lục */
+.toc-week { border-top: 1px solid var(--line); padding-top: 12px; }
+.toc-week h3 { color: var(--lotus); margin-bottom: 6px; }
+.toc a { display: flex; gap: 10px; align-items: baseline; padding: 6px 0; color: var(--ink); text-decoration: none; border-radius: 8px; }
+.toc a:hover .tt { color: var(--lotus); }
+.toc .tt { flex: 1; min-width: 0; }
+.toc .sk { font-size: 12.5px; color: var(--mut); }
+.toc .ok { color: var(--jade); font-weight: 800; width: 18px; flex: none; }
+
+/* tuần */
+.week-open { text-align: center; align-items: center; }
+.big-n { font: 800 clamp(70px, 16vw, 110px)/1 var(--display); color: var(--gold); }
+.slot { width: 150px; height: 150px; border-radius: 50%; border: 3px dashed var(--gold); display: grid; place-items: center; color: var(--mut); font-size: 13px; padding: 20px; text-align: center; line-height: 1.35; }
+.wk-list { text-align: left; width: 100%; max-width: 440px; display: grid; gap: 6px; }
+
+/* bài học */
+.lhead { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.chip { font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 999px; background: var(--lotus-soft); color: var(--lotus); }
+.chip.g { background: var(--gold-soft); color: var(--ink); }
+.scene { border-top: 1px dashed var(--line); padding-top: 18px; display: flex; flex-direction: column; gap: 12px; }
+.scene-tag { font: 700 13px var(--display); letter-spacing: .04em; text-transform: uppercase; color: var(--jade); display: flex; align-items: center; gap: 8px; }
+.scene-tag b { width: 26px; height: 26px; border-radius: 9px; background: var(--jade); color: #FFF; display: grid; place-items: center; font-size: 14px; }
+.story { font-size: 17px; line-height: 1.75; }
+.listen { align-self: flex-start; border: 1px solid var(--line); background: transparent; border-radius: 999px; padding: 4px 12px; font-size: 13px; font-weight: 600; cursor: pointer; color: var(--mut); }
+.q { font-weight: 700; }
+.opts { display: grid; gap: 8px; }
+.opt { text-align: left; border: 1.5px solid var(--line); background: transparent; border-radius: 14px; padding: 10px 12px; cursor: pointer; display: grid; grid-template-columns: 28px 1fr; gap: 10px; align-items: start; }
+.opt .l { width: 28px; height: 28px; border-radius: 9px; background: var(--gold-soft); display: grid; place-items: center; font-weight: 800; font-size: 13px; }
+.opt .tip { grid-column: 2; font-size: 14px; color: var(--mut); display: none; }
+.opt.show .tip { display: block; }
+.opt.show.right { border-color: var(--jade); background: var(--jade-soft); }
+.opt.show.right .l { background: var(--jade); color: #FFF; }
+.opt.show.wrong { border-color: var(--gold); }
+.hint { font-size: 13px; color: var(--mut); }
+.quiz { background: var(--gold-soft); border-radius: 18px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.quiz .opt { background: var(--paper); }
+.mission { border: 2px solid var(--lotus); border-radius: 20px; padding: 18px; display: flex; flex-direction: column; gap: 12px; position: relative; }
+.mission .eyebrow { font: 800 13px var(--display); letter-spacing: .06em; text-transform: uppercase; color: var(--lotus); }
+.lv { display: grid; gap: 8px; }
+.lv label { display: grid; grid-template-columns: 22px 1fr; gap: 10px; align-items: start; cursor: pointer; }
+.lv input { width: 20px; height: 20px; accent-color: var(--jade); margin-top: 3px; }
+.lv .n { font-weight: 700; color: var(--lotus); }
+.reward { border: 1.5px dashed var(--gold); background: var(--gold-soft); border-radius: 14px; padding: 10px 12px; font-size: 15px; }
+.sign { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--mut); }
+.sign span { flex: 1; min-width: 150px; border-bottom: 1px dotted var(--mut); padding-bottom: 18px; }
+.done-btn { align-self: flex-start; border: 0; border-radius: 999px; padding: 10px 18px; font-weight: 700; cursor: pointer; background: var(--jade); color: #FFF; }
+.done-btn[aria-pressed="true"] { background: var(--jade-soft); color: var(--jade); }
+
+/* đáp án, giấy khen */
+.keys { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); gap: 4px 18px; font-size: 14px; font-variant-numeric: tabular-nums; }
+.cert { border: 3px double var(--gold); border-radius: 18px; padding: clamp(20px, 5vw, 40px); text-align: center; align-items: center; }
+.cert .name { width: min(100%, 360px); border-bottom: 2px dotted var(--mut); height: 40px; }
+
+/* điều hướng dưới */
+.nav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; background: var(--desk); border-top: 1px solid var(--line);
+  padding: 10px max(16px, env(safe-area-inset-right, 0px)) calc(10px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
+  display: flex; align-items: center; gap: 10px; }
+.nav button.go { border: 0; background: var(--lotus); color: var(--on-lotus); border-radius: 999px; padding: 10px 18px; font-weight: 700; cursor: pointer; }
+.nav button.go:disabled { opacity: .35; cursor: default; }
+.nav .mid { flex: 1; min-width: 0; text-align: center; font-size: 13px; color: var(--mut); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.prog { height: 4px; background: var(--line); border-radius: 99px; overflow: hidden; margin-top: 4px; }
+.prog i { display: block; height: 100%; background: var(--jade); }
+.legal { font-size: 12px; color: var(--mut); }
+</style>
+
+<header class="bar">
+  <div class="brand"><img id="logo" alt="">Sách Sen</div>
+  <div class="vols" role="group" aria-label="Chọn tập sách" id="vols"></div>
+  <button class="tbtn" id="tocBtn" type="button">Mục lục</button>
+</header>
+<main class="stage"><article class="page" id="page" aria-live="polite"></article></main>
+<nav class="nav" aria-label="Lật trang">
+  <button class="go" id="prev" type="button" aria-label="Trang trước">‹ Trước</button>
+  <div class="mid"><div id="where"></div><div class="prog"><i id="bar"></i></div></div>
+  <button class="go" id="next" type="button" aria-label="Trang sau">Sau ›</button>
+</nav>
+
+<script id="book-data" type="application/json">__DATA__</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById('book-data').textContent);
+  const MASCOT = '__MASCOT__';
+  const COLORS = ['#C8102E', '#2E8F72', '#7C6BD6', '#E08A2B', '#3B82C4', '#B5487D', '#4C8C2B', '#D2691E', '#1F7A8C'];
+  const CTX = ['Ở nhà', 'Trên lớp', 'Ngoài đời'];
+  const store = { get(k, d) { try { const v = localStorage.getItem('sachsen.' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+                  set(k, v) { try { localStorage.setItem('sachsen.' + k, JSON.stringify(v)); } catch (e) {} } };
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  document.getElementById('logo').src = MASCOT;
+
+  let vol = Math.min(2, Math.max(0, store.get('vol', 1))), pages = [], at = 0;
+  const done = store.get('done', {}), ticks = store.get('ticks', {});
+
+  function build() {
+    const B = D.bands[vol], P = [];
+    P.push({ kind: 'cover', name: 'Bìa' });
+    P.push({ kind: 'intro', name: 'Lời ngỏ' });
+    P.push({ kind: 'how', name: 'Cách dùng sách' });
+    P.push({ kind: 'skills', name: '9 kỹ năng' });
+    P.push({ kind: 'toc', name: 'Mục lục' });
+    for (let w = 0; w < 9; w++) {
+      P.push({ kind: 'week', w, name: 'Tuần ' + (w + 1) });
+      for (let j = 0; j < 5; j++) P.push({ kind: 'lesson', i: w * 5 + j, w, name: 'Tuần ' + (w + 1) + ' · Bài ' + (j + 1) });
+    }
+    P.push({ kind: 'keys', name: 'Đáp án câu đố' });
+    P.push({ kind: 'cert', name: 'Giấy khen' });
+    P.push({ kind: 'about', name: 'Về Senapp' });
+    pages = P; return B;
+  }
+
+  const key = i => D.bands[vol].id + ':' + i;
+  const folio = n => `<div class="folio">${n}</div>`;
+
+  function render() {
+    const B = D.bands[vol], p = pages[at], el = document.getElementById('page');
+    let h = '';
+    if (p.kind === 'cover') h = `<div class="stack cover">
+        <span class="tap">Tập ${vol + 1} · ${esc(B.label)}</span>
+        <img class="lotus" src="${MASCOT}" alt="Linh vật Sen">
+        <h1>Cùng Sen khôn lớn</h1>
+        <p class="muted">45 bài kỹ năng sống · 9 tuần · mỗi bài 3 tình huống và một nhiệm vụ đời thực<br>Bạn đồng hành: <b>${esc(B.hero)}</b></p>
+        <p class="legal">Sách số phát triển từ Senapp · senapp.com</p></div>`;
+    else if (p.kind === 'intro') h = `<div class="stack">
+        <div class="run">Lời ngỏ gửi ba mẹ</div><h2>Vì sao là Sen?</h2>
+        <div class="verse">Trong đầm gì đẹp bằng sen,<br>Lá xanh bông trắng lại chen nhị vàng.<br>Nhị vàng bông trắng lá xanh,<br>Gần bùn mà chẳng hôi tanh mùi bùn.</div>
+        <p>Hạt sen nằm dưới lớp bùn, kiên nhẫn qua nhiều ngày, rồi vươn lên khỏi mặt nước và nở thật thanh khiết. Mỗi đứa trẻ cũng lớn lên như thế: từng chút một, mỗi ngày một chút.</p>
+        <p>Cuốn sách này gom toàn bộ lộ trình học của Senapp cho lứa tuổi ${esc(B.label)}. Ba mẹ đọc cùng con mỗi ngày một bài, khoảng ${esc(B.lessons[0].m)}, rồi cùng con làm một việc thật ngoài đời. Không cần điện thoại, không cần mạng.</p>
+        <p>Senapp tin rằng không có đứa trẻ nào sinh ra để bị gọi là hư hay khó bảo. Các con chỉ cần có người đi cùng đủ lâu.</p></div>`;
+    else if (p.kind === 'how') h = `<div class="stack">
+        <div class="run">Trước khi bắt đầu</div><h2>Dùng sách thế nào?</h2>
+        <ol class="steps">
+          <li><span><b>Mỗi ngày một bài.</b> Mỗi tuần có 5 bài thuộc 5 kỹ năng khác nhau.</span></li>
+          <li><span><b>Đi qua cả 3 tình huống:</b> ở nhà, trên lớp, ngoài đời. Đọc câu chuyện, để con chọn cách làm, rồi chạm vào lựa chọn để đọc mẹo của Sen.</span></li>
+          <li><span><b>Làm câu đố cuối bài</b> để con nhớ nguyên tắc chung của cả ba tình huống.</span></li>
+          <li><span><b>Nhận một nhiệm vụ đời thực.</b> Con chọn mức khó: làm cùng ba mẹ, làm có nhắc, hay tự làm.</span></li>
+          <li><span><b>Ba mẹ xác nhận</b> khi con làm thật, ký vào ô cuối bài và trao phần thưởng nhỏ đã hẹn.</span></li>
+          <li><span><b>Cuối tuần,</b> dán huy hiệu tuần vào ô tròn ở trang mở đầu mỗi tuần. Tải bộ huy hiệu in trong App Sen.</span></li>
+        </ol>
+        <p class="hint">Trên bản sách số, các lựa chọn, câu đố và ô đánh dấu đều bấm được; tiến độ được lưu ngay trên máy này.</p></div>`;
+    else if (p.kind === 'skills') h = `<div class="stack">
+        <div class="run">Lộ trình</div><h2>9 kỹ năng con mang theo cả đời</h2>
+        <div class="skills">${D.skills.map((s, k) => `<div class="skill"><div class="dot" style="background:${COLORS[k]}">${k + 1}</div><div><b>${esc(s)}</b><div class="muted" style="font-size:13px">${B.lessons.filter(l => l.sk === k).length} bài</div></div></div>`).join('')}</div></div>`;
+    else if (p.kind === 'toc') h = `<div class="stack toc">
+        <div class="run">Mục lục · Tập ${vol + 1}</div><h2>45 bài trong 9 tuần</h2>
+        ${Array.from({ length: 9 }, (_, w) => `<div class="toc-week"><h3>Tuần ${w + 1}</h3>${B.lessons.slice(w * 5, w * 5 + 5).map((l, j) => {
+          const i = w * 5 + j, pi = pages.findIndex(x => x.kind === 'lesson' && x.i === i);
+          return `<a href="#" data-go="${pi}"><span class="ok">${done[key(i)] ? '✓' : ''}</span><span class="tt">${j + 1}. ${esc(l.t)}</span><span class="sk">${esc(D.skills[l.sk])}</span></a>`; }).join('')}</div>`).join('')}</div>`;
+    else if (p.kind === 'week') { const ls = B.lessons.slice(p.w * 5, p.w * 5 + 5);
+      h = `<div class="stack week-open"><div class="run">Tuần</div><div class="big-n">${p.w + 1}</div>
+        <div class="wk-list">${ls.map((l, j) => `<a href="#" data-go="${at + 1 + j}" style="color:inherit;text-decoration:none;display:flex;gap:10px"><span class="dot" style="background:${COLORS[l.sk]};width:24px;height:24px;font-size:12px;border-radius:8px">${j + 1}</span><span>${esc(l.t)} <span class="muted" style="font-size:13px">· ${esc(D.skills[l.sk])}</span></span></a>`).join('')}</div>
+        <div class="slot">Dán huy hiệu tuần ${p.w + 1} vào đây khi con xong 5 bài</div>
+        <p class="hint">${ls.filter((_, j) => done[key(p.w * 5 + j)]).length}/5 bài đã học</p></div>`; }
+    else if (p.kind === 'lesson') { const l = B.lessons[p.i], k0 = key(p.i), tk = ticks[k0] || {};
+      h = `<div class="stack">
+        <div class="run">Tuần ${p.w + 1} · Bài ${p.i % 5 + 1} / 5</div>
+        <div class="lhead"><span class="chip">${esc(D.skills[l.sk])}</span><span class="chip g">${esc(l.m)}</span></div>
+        <h2>${esc(l.t)}</h2>
+        ${l.cx.map((c, n) => `<section class="scene">
+          <div class="scene-tag"><b>${n + 1}</b>Tình huống ${n + 1} · ${CTX[c.k]}</div>
+          <p class="story">${esc(c.s)}</p>
+          <button class="listen" type="button" data-say="${esc(c.s)}">🔊 Nghe đọc</button>
+          <p class="q">${esc(c.q)}</p>
+          <div class="opts">${c.o.map((o, m) => `<button type="button" class="opt ${o[1] ? 'right' : 'wrong'}"><span class="l">${'ABC'[m]}</span><span>${esc(o[0])}</span><span class="tip"><b>${o[1] ? 'Lựa chọn tốt. ' : 'Cùng nghĩ lại nhé. '}</b>${esc(o[2])}</span></button>`).join('')}</div>
+          <p class="hint">Để con chọn trước, rồi chạm vào lựa chọn để đọc mẹo của Sen.</p></section>`).join('')}
+        <section class="quiz"><div class="scene-tag" style="color:var(--ink)"><b style="background:var(--gold);color:var(--ink)">?</b>Câu đố cuối bài</div>
+          <p class="q">${esc(l.qq)}</p>
+          <div class="opts">${l.qo.map((o, m) => `<button type="button" class="opt ${m === l.qa ? 'right' : 'wrong'}"><span class="l">${'ABC'[m]}</span><span>${esc(o)}</span><span class="tip">${m === l.qa ? 'Đúng rồi! Đây là nguyên tắc chung của cả ba tình huống.' : 'Chưa phải. Thử đáp án khác nhé.'}</span></button>`).join('')}</div></section>
+        <section class="mission"><div class="eyebrow">Nhiệm vụ đời thực</div><h3>${esc(l.mi.t)}</h3><p>${esc(l.mi.s)}</p>
+          <div class="lv">${l.mi.lv.map((x, n) => `<label><input type="checkbox" data-tick="${k0}|${n}" ${tk[n] ? 'checked' : ''}><span><span class="n">Mức ${n + 1} · ${['Làm cùng ba mẹ', 'Làm có nhắc', 'Tự làm'][n]}.</span> ${esc(x)}</span></label>`).join('')}</div>
+          <div class="reward">🎁 <b>Phần thưởng:</b> ${esc(l.mi.rw)}</div>
+          <div class="sign"><span>Ngày con làm:</span><span>Ba mẹ xác nhận:</span></div>
+          <button type="button" class="done-btn" data-done="${k0}" aria-pressed="${done[k0] ? 'true' : 'false'}">${done[k0] ? '✓ Đã học xong bài này' : 'Đánh dấu đã học xong'}</button>
+        </section></div>`; }
+    else if (p.kind === 'keys') h = `<div class="stack"><div class="run">Phụ lục</div><h2>Đáp án câu đố</h2>
+        <p class="muted">Dành cho ba mẹ. Đáp án đúng của câu đố cuối mỗi bài.</p>
+        <div class="keys">${B.lessons.map((l, i) => `<div><b>T${Math.floor(i / 5) + 1}.${i % 5 + 1}</b> ${'ABC'[l.qa]} · <span class="muted">${esc(l.t)}</span></div>`).join('')}</div></div>`;
+    else if (p.kind === 'cert') { const n = B.lessons.filter((_, i) => done[key(i)]).length;
+      h = `<div class="stack cert"><img src="${MASCOT}" alt="" style="width:110px"><div class="run">Giấy khen</div><h2 style="color:var(--lotus)">Cùng Sen khôn lớn</h2>
+        <p>Chứng nhận bạn nhỏ</p><div class="name"></div>
+        <p>đã hoàn thành <b>${n}/45</b> bài và các nhiệm vụ đời thực của Tập ${vol + 1} (${esc(B.label)}).</p>
+        <div class="sign" style="width:100%"><span>Ngày:</span><span>Ba mẹ ký tên:</span></div></div>`; }
+    else if (p.kind === 'about') h = `<div class="stack"><div class="run">Về Senapp</div><h2>Học 7 phút, làm một việc thật</h2>
+        <p>Cuốn sách số này được phát triển từ Senapp, chương trình học kỹ năng mềm cho trẻ 6–15 tuổi. Trong App Sen, con còn được nhận sao, huy hiệu tuần, nhắc giờ học, và ba mẹ có thể tự sửa bài học, nhiệm vụ, phần thưởng cho riêng gia đình mình.</p>
+        <p>Website: <b>senapp.com</b><br>Liên hệ: <b>admin.senapp@gmail.com</b><br>Zalo/Viber hỗ trợ: <b>0975 860 488</b></p>
+        <p class="legal">© 2026 Senapp. Bảo lưu mọi quyền. Nội dung, bài học, nhiệm vụ, hình ảnh và linh vật Sen được bảo hộ quyền tác giả. Nghiêm cấm sao chép, in lại để bán, đăng tải lại hoặc dùng để huấn luyện trí tuệ nhân tạo khi chưa có văn bản đồng ý của Senapp. Gia đình được in để dùng riêng trong nhà.</p></div>`;
+    el.innerHTML = h + folio(at + 1);
+    el.scrollIntoView({ block: 'start' }); window.scrollTo(0, 0);
+    document.getElementById('prev').disabled = at === 0;
+    document.getElementById('next').disabled = at === pages.length - 1;
+    document.getElementById('where').textContent = `Tập ${vol + 1} · ${p.name} · trang ${at + 1}/${pages.length}`;
+    const n = D.bands[vol].lessons.filter((_, i) => done[key(i)]).length;
+    document.getElementById('bar').style.width = (n * 100 / 45) + '%';
+    store.set('at.' + vol, at);
+    try { history.replaceState(null, '', '#t' + (vol + 1) + '-p' + (at + 1)); } catch (e) {}
+  }
+
+  function vols() {
+    document.getElementById('vols').innerHTML = D.bands.map((b, k) => `<button type="button" data-vol="${k}" aria-pressed="${k === vol}">${esc(b.label.replace(' tuổi', ''))}</button>`).join('');
+  }
+  function go(n) { at = Math.max(0, Math.min(pages.length - 1, n)); render(); }
+  function setVol(k) { vol = k; store.set('vol', k); build(); vols(); go(store.get('at.' + k, 0)); }
+
+  document.addEventListener('click', e => {
+    const t = e.target.closest('[data-go],[data-vol],[data-done],.opt,.listen');
+    if (!t) return;
+    if (t.dataset.go) { e.preventDefault(); go(+t.dataset.go); }
+    else if (t.dataset.vol) setVol(+t.dataset.vol);
+    else if (t.dataset.done) { done[t.dataset.done] = !done[t.dataset.done]; store.set('done', done); render(); }
+    else if (t.classList.contains('opt')) t.classList.toggle('show');
+    else if (t.classList.contains('listen')) { try { const u = new SpeechSynthesisUtterance(t.dataset.say); u.lang = 'vi-VN'; u.rate = .92; speechSynthesis.cancel(); speechSynthesis.speak(u); } catch (er) {} }
+  });
+  document.addEventListener('change', e => { const t = e.target; if (!t.dataset.tick) return;
+    const [k0, n] = t.dataset.tick.split('|'); ticks[k0] = ticks[k0] || {}; ticks[k0][n] = t.checked; store.set('ticks', ticks); });
+  document.getElementById('prev').onclick = () => go(at - 1);
+  document.getElementById('next').onclick = () => go(at + 1);
+  document.getElementById('tocBtn').onclick = () => go(pages.findIndex(x => x.kind === 'toc'));
+  document.addEventListener('keydown', e => { if (e.target.closest('input,textarea')) return; if (e.key === 'ArrowRight') go(at + 1); if (e.key === 'ArrowLeft') go(at - 1); });
+  let sx = null; const pg = document.getElementById('page');
+  pg.addEventListener('touchstart', e => { sx = e.touches[0].clientX; }, { passive: true });
+  pg.addEventListener('touchend', e => { if (sx == null) return; const dx = e.changedTouches[0].clientX - sx; if (Math.abs(dx) > 70) go(at + (dx < 0 ? 1 : -1)); sx = null; });
+
+  const m = /^#t([1-3])-p(\d+)$/.exec(location.hash || '');
+  if (m) { vol = +m[1] - 1; build(); vols(); go(+m[2] - 1); } else setVol(vol);
+})();
+</script>

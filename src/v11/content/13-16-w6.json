@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Lần đầu làm nhóm trưởng",
+   "Leading a team for the first time"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "B",
+  "story": [
+   "Khoa được bầu làm nhóm trưởng dự án Khoa học. Buổi họp đầu, các bạn nói chuyện riêng, bàn lan man, hết giờ vẫn chưa quyết được gì.",
+   "Khoa is elected leader of the science project. At the first meeting people chat, drift off topic, and time runs out with nothing decided."
+  ],
+  "cq": [
+   "Buổi họp sau Khoa nên làm gì?",
+   "What should Khoa do at the next meeting?"
+  ],
+  "co": [
+   [
+    "Chuẩn bị ba nội dung cần chốt, đặt giờ cho từng phần, mời từng bạn nói, cuối buổi đọc lại ai làm gì, hạn nào",
+    "Prepare three points to settle, time each one, invite everyone to speak, and end by reading back who does what by when",
+    1,
+    "Nhóm trưởng giỏi giữ cho cuộc họp có mục tiêu và ai cũng có tiếng nói. Chốt lại cuối buổi giúp không ai quên.",
+    "A good leader keeps meetings focused and everyone heard. A recap at the end means no one forgets."
+   ],
+   [
+    "Tự quyết hết cho đỡ mất thời gian",
+    "Decide everything yourself to save time",
+    0,
+    "Nhanh, nhưng các bạn sẽ thấy không được tham gia và làm thiếu nhiệt tình.",
+    "Quick, but others feel left out and lose motivation."
+   ],
+   [
+    "Nhắc nhở các bạn thật nghiêm",
+    "Tell everyone off firmly",
+    0,
+    "Nghiêm khắc chưa giải quyết được chuyện họp lan man. Một chương trình họp rõ ràng hiệu quả hơn.",
+    "Sternness doesn’t fix drifting. A clear agenda works better."
+   ]
+  ],
+  "qq": [
+   "Một cuộc họp nhóm hiệu quả cần…",
+   "An effective group meeting needs…"
+  ],
+  "qo": [
+   [
+    "Mục tiêu rõ và chốt việc cuối buổi",
+    "Clear goals and a recap of tasks"
+   ],
+   [
+    "Nhóm trưởng nói nhiều nhất",
+    "The leader talking most"
+   ],
+   [
+    "Càng dài càng kỹ",
+    "The longer the better"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba mẹ đi công tác hai ngày, ông bà sang ở cùng. Ba nhờ Khoa giúp em Vy và em Bảo làm đủ việc buổi sáng.",
+     "Mum and Dad are away for two days and the grandparents are staying. Dad asks Khoa to help Vy and Bảo with their morning routine."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Ra lệnh cho hai em thật to",
+      "Bark orders at them",
+      0,
+      "Ra lệnh to dễ làm các em chống đối. Một bảng việc rõ ràng nhẹ nhàng hơn.",
+      "Shouting orders invites pushback. A clear chart is gentler."
+     ],
+     [
+      "Cùng hai em vẽ bảng việc buổi sáng có ô đánh dấu, xong sớm thì được nghe ông kể chuyện",
+      "Make a morning checklist with the two of them, with a story from Grandpa if they finish early",
+      1,
+      "Cùng nhau đặt việc giúp các em thấy đó là việc của mình. Phần thưởng nhỏ làm buổi sáng vui hơn.",
+      "Making the plan together gives them ownership. A small reward brightens the morning."
+     ],
+     [
+      "Làm hết giúp các em cho nhanh",
+      "Do everything for them to be quick",
+      0,
+      "Nhanh nhưng các em không tự làm được. Dẫn dắt là giúp người khác tự làm.",
+      "Quick, but they don’t learn. Leading means helping others do it."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhóm Khoa phụ trách một gian trò chơi dân gian cho các em nhỏ ở sân nhà văn hóa, có các cô chú tổ dân phố trông coi. Đến giờ mở cửa, các bạn vẫn chưa biết ai đứng trò nào.",
+     "Khoa’s group is running a traditional games stall for younger children at the community hall, with neighbourhood adults overseeing. Opening time comes and nobody knows who’s running which game."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Chờ các bạn tự nhận",
+      "Wait for people to volunteer",
+      0,
+      "Lúc gấp, chờ đợi sẽ làm các em nhỏ phải đứng đợi. Cần một người chủ động phân việc.",
+      "In a rush, waiting leaves the children standing around. Someone needs to assign roles."
+     ],
+     [
+      "Khoa đứng hết các trò một mình",
+      "Run every game yourself",
+      0,
+      "Một người không thể ở mọi nơi. Nhóm trưởng giỏi là người giúp cả nhóm cùng làm.",
+      "No one can be everywhere. A good leader gets the whole team working."
+     ],
+     [
+      "Nhanh chóng phân mỗi bạn một trò, báo cô chú phụ trách, rồi đi một vòng hỏi ai cần giúp",
+      "Quickly assign each person a game, tell the adults in charge, then walk round asking who needs help",
+      1,
+      "Quyết nhanh việc cần quyết và báo người lớn phụ trách giúp sự kiện suôn sẻ. Đi một vòng hỗ trợ là việc của người dẫn dắt.",
+      "Making quick calls and updating the adults keeps things running. Checking on everyone is the leader’s job."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự lo quần áo của mình",
+   "Looking after my own clothes"
+  ],
+  "m": [
+   "11 phút",
+   "11 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng thứ Hai, Khoa mới phát hiện áo đồng phục vẫn nằm trong giỏ đồ bẩn. Mẹ bảo từ tuần này Khoa tự lo quần áo của mình.",
+   "On Monday morning Khoa finds the school shirt still in the laundry basket. Mum says from this week, Khoa handles their own clothes."
+  ],
+  "cq": [
+   "Khoa nên làm gì từ tuần này?",
+   "What should Khoa do from this week?"
+  ],
+  "co": [
+   [
+    "Nhờ mẹ giặt thêm tuần này nữa",
+    "Ask Mum to do it one more week",
+    0,
+    "Hoãn lại thì thói quen mới không bắt đầu được. Tuần này là lúc tốt nhất để tập.",
+    "Putting it off means the habit never starts. This week is the best time to begin."
+   ],
+   [
+    "Nhờ mẹ hướng dẫn dùng máy giặt một lần, đặt lịch giặt cố định thứ Tư và Chủ nhật, khô rồi gấp cất ngay",
+    "Ask Mum to show you the washing machine once, set wash days on Wednesday and Sunday, and fold and put away as soon as it’s dry",
+    1,
+    "Học cách làm, đặt lịch cố định và làm trọn từng bước là cách tự lập bền vững.",
+    "Learning how, fixing a schedule and finishing each step is lasting independence."
+   ],
+   [
+    "Xin mua thêm áo cho đỡ phải giặt",
+    "Ask for more shirts so you wash less",
+    0,
+    "Thêm áo chỉ làm đống đồ bẩn to hơn. Một lịch giặt cố định mới giải quyết được.",
+    "More shirts just grow the pile. A set wash day fixes it."
+   ]
+  ],
+  "qq": [
+   "Tự lập với việc nhà nghĩa là…",
+   "Being independent with chores means…"
+  ],
+  "qo": [
+   [
+    "Làm khi có người nhắc",
+    "Doing it when reminded"
+   ],
+   [
+    "Có lịch riêng và làm trọn việc",
+    "Having your own routine and finishing it"
+   ],
+   [
+    "Làm thật nhanh cho xong",
+    "Rushing to finish"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau giờ thể dục, áo của Khoa ướt mồ hôi và lấm bẩn, trong khi còn ba tiết học nữa.",
+     "After PE Khoa’s shirt is sweaty and grubby, with three lessons still to go."
+    ],
+    "q": [
+     "Lần sau Khoa nên làm gì?",
+     "What should Khoa do next time?"
+    ],
+    "o": [
+     [
+      "Gọi mẹ mang áo đến trường",
+      "Call Mum to bring a shirt",
+      0,
+      "Mẹ có thể phải bỏ dở việc. Mình tự chuẩn bị được từ tối hôm trước.",
+      "Mum may have to drop everything. You can pack it the night before."
+     ],
+     [
+      "Mặc tạm, về nhà ném vào giỏ",
+      "Put up with it and throw it in the basket at home",
+      0,
+      "Ngồi học khó chịu cả buổi. Một chiếc áo dự phòng giải quyết dễ dàng.",
+      "Uncomfortable all afternoon. A spare shirt fixes it easily."
+     ],
+     [
+      "Chuẩn bị sẵn một áo sạch và túi đựng đồ bẩn trong cặp vào những ngày có giờ thể dục",
+      "Pack a clean shirt and a bag for dirty clothes on PE days",
+      1,
+      "Tự chuẩn bị trước cho mình là tự lập. Không cần ai nhắc mà vẫn thoải mái cả ngày.",
+      "Planning ahead for yourself is independence. No reminders, and comfortable all day."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa đi trại hè ba ngày của câu lạc bộ thiếu niên, có các anh chị phụ trách. Đến ngày thứ hai, ba lô của Khoa lẫn lộn đồ sạch và đồ bẩn.",
+     "Khoa is at a three-day youth club camp with leaders in charge. By day two, Khoa’s backpack is a jumble of clean and dirty clothes."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cho đồ bẩn vào túi riêng, xếp đồ sạch theo từng ngày, giặt tay tất nếu trại cho phép",
+      "Bag the dirty clothes, arrange clean ones by day, and hand-wash socks if the camp allows",
+      1,
+      "Tự quản lý đồ dùng khi xa nhà là một bước lớn. Có cách sắp xếp thì việc nhỏ không thành rắc rối.",
+      "Managing your stuff away from home is a big step. A system stops small things becoming problems."
+     ],
+     [
+      "Mặc lại đồ hôm qua cho nhanh",
+      "Wear yesterday’s clothes again",
+      0,
+      "Tiện nhưng không vệ sinh. Sắp xếp lại một chút là có đồ sạch.",
+      "Easy but unhygienic. A quick sort gives you clean clothes."
+     ],
+     [
+      "Đổ hết ra xem rồi nhét lại",
+      "Dump it all out and stuff it back",
+      0,
+      "Nhét lại thì mai vẫn rối. Tách riêng hai loại sẽ dễ hơn.",
+      "Stuffing it back means tomorrow’s a mess too. Separate them."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Tìm nguyên nhân gốc của vấn đề",
+   "Finding the root cause"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bồn rau của lớp Khoa ở góc sân cứ héo dần dù tổ nào cũng tưới hằng ngày. Có bạn đề nghị mua cây mới về trồng lại.",
+   "The class vegetable bed in a corner of the yard keeps wilting, even though every group waters it daily. Someone suggests buying new plants."
+  ],
+  "cq": [
+   "Khoa nên đề xuất gì?",
+   "What should Khoa suggest?"
+  ],
+  "co": [
+   [
+    "Mua cây mới trồng lại",
+    "Buy new plants",
+    0,
+    "Nếu chưa biết vì sao cây héo, cây mới cũng sẽ héo. Tìm nguyên nhân trước.",
+    "If you don’t know why they wilted, new ones will too. Find the cause first."
+   ],
+   [
+    "Tưới nhiều gấp đôi",
+    "Water twice as much",
+    0,
+    "Có thể cây đang bị thừa nước chứ không phải thiếu. Đoán sai sẽ làm tệ hơn.",
+    "Maybe they’re overwatered, not thirsty. A wrong guess makes it worse."
+   ],
+   [
+    "Hỏi “vì sao” nhiều lần: đất có úng không, có đủ nắng không, mỗi tổ tưới bao nhiêu; ghi lại rồi hỏi thầy dạy Sinh",
+    "Keep asking “why”: is the soil waterlogged, is there enough sun, how much does each group water? Note it and ask the biology teacher",
+    1,
+    "Hỏi “vì sao” nhiều lần giúp tìm đúng gốc vấn đề. Năm tổ cùng tưới có khi chính là nguyên nhân.",
+    "Asking “why” repeatedly reaches the root. Five groups watering could be the cause itself."
+   ]
+  ],
+  "qq": [
+   "Trước khi sửa một vấn đề, nên…",
+   "Before fixing a problem, you should…"
+  ],
+  "qo": [
+   [
+    "Thử cách nhanh nhất",
+    "Try the quickest fix"
+   ],
+   [
+    "Đổ lỗi cho ai đó",
+    "Blame someone"
+   ],
+   [
+    "Tìm nguyên nhân gốc",
+    "Find the root cause"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tuần này Khoa đi học muộn ba lần. Khoa nghĩ chỉ tại xe buýt hay đến trễ.",
+     "Khoa’s been late to school three times this week and blames the bus."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Trách xe buýt rồi thôi",
+      "Blame the bus and leave it",
+      0,
+      "Đổ cho một lý do có sẵn thì không sửa được gì. Kiểm tra trước đã.",
+      "Blaming the obvious fixes nothing. Check first."
+     ],
+     [
+      "Ghi lại mỗi sáng mấy giờ dậy, mấy giờ ra khỏi nhà, xe đến lúc nào, để xem chậm ở khâu nào",
+      "Note each morning when you wake, when you leave and when the bus comes, to see where the delay really is",
+      1,
+      "Số liệu cụ thể cho biết nguyên nhân thật. Có khi xe không trễ mà mình ra bến muộn.",
+      "Real data shows the true cause. Maybe the bus is fine and you’re reaching the stop late."
+     ],
+     [
+      "Xin ba chở đi mỗi ngày",
+      "Ask Dad for a lift every day",
+      0,
+      "Có thể đỡ tạm, nhưng nếu nguyên nhân là dậy muộn thì vẫn trễ. Tìm gốc rồi mới chọn cách.",
+      "It may help short-term, but if the cause is waking late you’ll still be late. Find the root first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Xe đạp của Khoa cứ kêu lạch cạch mỗi khi lên dốc. Tiệm sửa xe gần nhà bảo phải thay cả bộ líp.",
+     "Khoa’s bike clicks every time it goes uphill. The nearby repair shop says the whole gear set needs replacing."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Cùng ba quan sát xe kêu lúc nào, kiểm tra xích có khô dầu hay bị lỏng không, hỏi thêm một tiệm khác trước khi thay",
+      "With Dad, notice exactly when it clicks, check if the chain is dry or loose, and get a second opinion before replacing",
+      1,
+      "Quan sát kỹ và hỏi thêm ý kiến giúp tìm đúng chỗ hỏng. Có khi chỉ cần tra dầu.",
+      "Careful observation and a second opinion find the real fault. Sometimes it just needs oil."
+     ],
+     [
+      "Thay ngay theo lời tiệm",
+      "Replace it as the shop says",
+      0,
+      "Có thể đúng, nhưng thay cả bộ thì tốn. Cùng ba tìm hiểu nguyên nhân trước.",
+      "Maybe right, but a full set costs a lot. Look into the cause with Dad first."
+     ],
+     [
+      "Kệ, vẫn đạp được",
+      "Ignore it — it still works",
+      0,
+      "Tiếng kêu là dấu hiệu có gì đó chưa ổn. Để lâu có thể hỏng nặng hơn.",
+      "The noise means something’s off. Leaving it may make it worse."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nghe cả hai phía trước khi phán xét",
+   "Hearing both sides before judging"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cả lớp đồn Nam lấy bút của Mai vì thấy Nam cầm một cây bút giống hệt. Nhiều bạn đã bắt đầu tránh mặt Nam.",
+   "The class is saying Nam took Mai’s pen because he’s holding an identical one. People have started avoiding him."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Hỏi Nam bằng giọng bình thường, hỏi Mai mất bút lúc nào, và nhắc mọi người đừng kết luận khi chưa rõ",
+    "Ask Nam in a normal tone, ask Mai when she lost it, and remind others not to conclude before it’s clear",
+    1,
+    "Nghe cả hai phía và tìm thông tin trước khi kết luận là công bằng. Bút giống nhau là chuyện rất thường.",
+    "Hearing both sides and checking facts before judging is fair. Identical pens are common."
+   ],
+   [
+    "Tránh Nam giống mọi người",
+    "Avoid Nam like everyone else",
+    0,
+    "Theo số đông khi chưa có bằng chứng có thể làm tổn thương một người vô tội.",
+    "Following the crowd without evidence can hurt someone innocent."
+   ],
+   [
+    "Bảo Nam trả bút cho Mai",
+    "Tell Nam to give the pen back",
+    0,
+    "Như vậy là đã coi Nam có lỗi. Hỏi trước, kết luận sau.",
+    "That assumes he’s guilty. Ask first, conclude later."
+   ]
+  ],
+  "qq": [
+   "Trước khi tin một lời đồn về ai đó, nên…",
+   "Before believing a rumour about someone, you should…"
+  ],
+  "qo": [
+   [
+    "Nghe người trong cuộc nói",
+    "Hear from the person involved"
+   ],
+   [
+    "Xem bao nhiêu người tin",
+    "Count how many believe it"
+   ],
+   [
+    "Kể cho bạn khác",
+    "Tell someone else"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Vy khóc, nói em Bảo xé tranh của em. Bảo cãi là Vy giật trước nên tranh mới rách.",
+     "Vy is crying, saying Bảo tore her picture. Bảo insists Vy grabbed first and that’s how it ripped."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Mắng Bảo vì Vy đang khóc",
+      "Scold Bảo because Vy is crying",
+      0,
+      "Ai khóc chưa chắc là người đúng. Nghe đủ hai bên đã.",
+      "Tears don’t decide who’s right. Hear both sides first."
+     ],
+     [
+      "Bảo cả hai im lặng",
+      "Tell both to be quiet",
+      0,
+      "Im lặng thì chuyện vẫn chưa xong. Các em cần được nói và được nghe.",
+      "Silence leaves it unresolved. They need to speak and be heard."
+     ],
+     [
+      "Cho từng em kể lần lượt, không ngắt lời, rồi cùng nghĩ cách dán lại tranh",
+      "Let each tell their side in turn without interrupting, then work out together how to mend the picture",
+      1,
+      "Nghe đủ hai phía giúp các em thấy được tôn trọng. Hướng đến cách sửa thay vì tìm người để phạt.",
+      "Hearing both helps each feel respected. Aim for a fix, not a culprit."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở khu phố, có người kể cửa hàng tạp hóa đầu ngõ bán hàng hết hạn. Mẹ Khoa vẫn hay mua ở đó.",
+     "In the neighbourhood, someone says the corner shop sells out-of-date goods. Khoa’s mum often shops there."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Bảo mẹ đừng mua nữa và kể cho mọi người",
+      "Tell Mum to stop and pass it on",
+      0,
+      "Kể lại khi chưa kiểm tra có thể làm hại người khác. Kiểm tra trước đã.",
+      "Passing it on unchecked could harm someone. Check first."
+     ],
+     [
+      "Kể với mẹ điều mình nghe, lần sau đi cùng mẹ để ý hạn dùng trên bao bì, không lan truyền khi chưa rõ",
+      "Tell Mum what you heard, check use-by dates together next time, and don’t spread it until it’s clear",
+      1,
+      "Tự xem bằng chứng là công bằng với cả cửa hàng và gia đình mình.",
+      "Checking the evidence yourself is fair to the shop and your family."
+     ],
+     [
+      "Không tin vì mẹ vẫn mua ở đó",
+      "Dismiss it — Mum shops there",
+      0,
+      "Không nên tin vội, nhưng cũng không nên gạt bỏ vội. Tự kiểm tra là cách cân bằng.",
+      "Don’t rush to believe — or to dismiss. Checking yourself is the balance."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Ảnh của mình, mình được quyết",
+   "My photo, my choice"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong buổi ngoại khóa, Bảo chụp được ảnh Khoa đang ngáp và nói sẽ đăng lên nhóm chat lớp cho vui. Khoa thấy ngại và không muốn ảnh bị đăng.",
+   "On a school trip Bảo snaps Khoa mid-yawn and says he’ll post it in the class chat for a laugh. Khoa feels embarrassed and doesn’t want it posted."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Cười cho qua để không bị coi là khó tính",
+    "Laugh it off so you don’t seem uptight",
+    0,
+    "Không thoải mái thì mình có quyền nói ra. Đặt ranh giới không làm mình thành người khó tính.",
+    "If you’re uncomfortable, you can say so. Boundaries don’t make you uptight."
+   ],
+   [
+    "Chụp lại một ảnh xấu của Bảo để đăng trả đũa",
+    "Snap an embarrassing photo of Bảo to post back",
+    0,
+    "Trả đũa làm cả hai cùng bị tổn thương. Hãy bảo vệ quyền của mình mà không xâm phạm quyền của người khác.",
+    "Revenge hurts both of you. Stand up for your rights without trampling his."
+   ],
+   [
+    "Nói rõ: “Tớ không đồng ý đăng ảnh đó, cậu xóa giúp tớ nhé.” Nếu Bảo vẫn đăng thì báo thầy cô",
+    "Say clearly: “I don’t agree to that photo going up — please delete it.” If he posts anyway, tell a teacher",
+    1,
+    "Ảnh của mình thì mình có quyền đồng ý hay không. Nói rõ ràng, bình tĩnh và nhờ người lớn khi cần.",
+    "Your photo, your consent. Say it clearly and calmly, and get an adult if needed."
+   ]
+  ],
+  "qq": [
+   "Trước khi đăng ảnh có người khác, cần…",
+   "Before posting a photo of someone else, you need…"
+  ],
+  "qo": [
+   [
+    "Ảnh thật đẹp",
+    "A good photo"
+   ],
+   [
+    "Hỏi và được họ đồng ý",
+    "To ask and get their OK"
+   ],
+   [
+    "Nhiều người thích",
+    "Lots of likes"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ muốn đăng ảnh Khoa đang nhăn mặt tập đàn lên trang cá nhân để khoe với họ hàng. Khoa thấy ngượng.",
+     "Mum wants to post a photo of Khoa pulling a face while practising the keyboard, to show the relatives. Khoa feels shy."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Nói với mẹ: “Con ngại ảnh này, mẹ chọn ảnh khác hoặc chỉ gửi riêng cho bà được không ạ?”",
+      "Tell Mum: “I’m shy about that one — could you pick another or just send it to Grandma?”",
+      1,
+      "Ranh giới về hình ảnh áp dụng cả trong gia đình. Đề xuất cách khác giúp mẹ vẫn được chia sẻ niềm vui.",
+      "Photo boundaries apply in families too. Offering an alternative lets Mum still share the joy."
+     ],
+     [
+      "Im lặng vì mẹ là người lớn",
+      "Say nothing — she’s the grown-up",
+      0,
+      "Ba mẹ thường muốn biết con nghĩ gì. Nói nhẹ nhàng, mẹ sẽ hiểu.",
+      "Parents usually want to know how you feel. Say it gently and Mum will understand."
+     ],
+     [
+      "Giận dỗi và giành điện thoại",
+      "Sulk and grab the phone",
+      0,
+      "Giành điện thoại làm mẹ buồn mà vẫn chưa nói được điều mình muốn. Nói ra bằng lời sẽ tốt hơn.",
+      "Grabbing it upsets her and doesn’t say what you want. Use your words."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, Khoa và bạn quay video tập nhảy, có mẹ của bạn ngồi gần đó. Một em nhỏ đang chơi gần đó lọt vào khung hình.",
+     "In the park, Khoa and a friend film a dance practice while the friend’s mum sits nearby. A young child playing close by ends up in the shot."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Đăng luôn, em nhỏ chỉ ở góc thôi",
+      "Post it — the child’s only in the corner",
+      0,
+      "Dù chỉ ở góc, đó vẫn là hình ảnh của người khác. Cắt đi là tôn trọng em và gia đình em.",
+      "Even in the corner, it’s someone else’s image. Cropping it out respects the child and family."
+     ],
+     [
+      "Cắt bỏ đoạn có em nhỏ hoặc quay lại ở góc khác trước khi chia sẻ",
+      "Cut the part with the child or reshoot from another angle before sharing",
+      1,
+      "Không đăng hình người khác khi chưa được phép, nhất là trẻ nhỏ. Quay lại một chút là xong.",
+      "Don’t share others’ images without permission — especially children. A quick reshoot sorts it."
+     ],
+     [
+      "Hỏi em nhỏ xem có cho đăng không",
+      "Ask the child if it’s OK to post",
+      0,
+      "Trẻ nhỏ chưa tự quyết được việc này. Cách đơn giản và tôn trọng nhất là cắt bỏ đoạn đó.",
+      "Young children can’t decide this. The simplest, respectful move is to cut it."
+     ]
+    ]
+   }
+  }
+ }
+]

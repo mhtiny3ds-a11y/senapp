@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Chọn đồ bền dùng lâu",
+   "Choosing things that last"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin cùng mẹ đi mua bình nước. Bình cũ rẻ tiền vừa nứt sau một tuần. Bình dày chắc thì đắt hơn một chút.",
+   "Bin and Mum are buying a water bottle. The cheap old one cracked after a week. A thick, sturdy one costs a bit more."
+  ],
+  "cq": [
+   "Bin nên chọn bình nào?",
+   "Which bottle should Bin choose?"
+  ],
+  "co": [
+   [
+    "Bình rẻ nhất, hỏng thì mua cái khác",
+    "The cheapest; buy another if it breaks",
+    0,
+    "Mua đi mua lại nhiều lần có khi tốn hơn mua một cái bền ngay từ đầu.",
+    "Buying again and again can cost more than one sturdy one from the start."
+   ],
+   [
+    "Bình có hình đẹp nhất",
+    "The one with the nicest picture",
+    0,
+    "Hình đẹp thì vui, nhưng nhớ xem bình có chắc không đã nhé.",
+    "A nice picture is fun, but check if it’s sturdy first."
+   ],
+   [
+    "Bình dày chắc, dùng được lâu, đỡ phải mua lại",
+    "The sturdy one that lasts, so no need to buy again",
+    1,
+    "Đồ bền dùng được lâu, nên có khi đáng tiền hơn đồ rẻ mau hỏng.",
+    "Things that last can be better value than cheap things that break fast."
+   ]
+  ],
+  "qq": [
+   "Đồ bền có lợi gì?",
+   "What’s good about things that last?"
+  ],
+  "qo": [
+   [
+    "Lúc nào cũng rẻ nhất",
+    "They’re always the cheapest"
+   ],
+   [
+    "Dùng được lâu nên đỡ phải mua lại",
+    "They last, so you buy less often"
+   ],
+   [
+    "Chỉ để trông cho đẹp",
+    "They just look nice"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Dép của Bin đứt quai lần thứ ba trong tháng. Ba hỏi Bin muốn mua đôi dép thế nào.",
+     "Bin’s sandal strap has snapped for the third time this month. Dad asks what kind of sandals to buy."
+    ],
+    "q": [
+     "Bin trả lời thế nào?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Đôi rẻ nhất, hỏng lại mua ạ.”",
+      "“The cheapest, and we’ll buy more when they break.”",
+      0,
+      "Ba lần hỏng trong một tháng là dấu hiệu nên chọn đôi bền hơn rồi.",
+      "Three breaks in a month says it’s time for a sturdier pair."
+     ],
+     [
+      "“Đôi chắc chắn, quai khâu kỹ, dù đắt hơn một chút ạ.”",
+      "“A strong pair with well-stitched straps, even if it costs a bit more.”",
+      1,
+      "Con đã rút kinh nghiệm từ đôi cũ: chọn đồ bền thì dùng được lâu hơn.",
+      "You learnt from the old pair: something sturdy lasts longer."
+     ],
+     [
+      "“Đôi có đèn nhấp nháy ạ.”",
+      "“The ones with flashing lights.”",
+      0,
+      "Đèn vui mắt nhưng không làm quai chắc hơn. Xem độ bền trước nhé.",
+      "Lights are fun but don’t make straps stronger. Check sturdiness first."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô cho cả lớp xem hai hộp bút màu: hộp mới mua đã gãy gần hết, hộp cũ của cô vẫn dùng tốt.",
+     "The teacher shows two boxes of crayons: a new one that’s nearly all broken, and her old one still working well."
+    ],
+    "q": [
+     "Cô hỏi: “Khi chọn đồ, ta nên xem gì?” Na trả lời thế nào?",
+     "The teacher asks, “What should we look at when choosing things?” What should Na say?"
+    ],
+    "o": [
+     [
+      "“Chọn hộp to nhất ạ.”",
+      "“The biggest box.”",
+      0,
+      "Hộp to chưa chắc đã bền. Nhìn xem bút có chắc không nhé.",
+      "Big doesn’t mean long-lasting. Check if the crayons are sturdy."
+     ],
+     [
+      "“Chọn hộp lấp lánh nhất ạ.”",
+      "“The sparkliest box.”",
+      0,
+      "Lấp lánh thì đẹp, nhưng độ bền mới giúp con dùng lâu.",
+      "Sparkly is pretty, but lasting is what helps."
+     ],
+     [
+      "“Xem đồ có chắc, dùng được lâu không ạ.”",
+      "“Whether it’s sturdy and will last.”",
+      1,
+      "Đúng rồi! Đồ chắc thì dùng lâu, đỡ lãng phí.",
+      "Exactly! Sturdy things last and waste less."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Món nào dùng lâu hơn?",
+    "Which one lasts longer?"
+   ],
+   "s": [
+    "Con chọn hai món đồ cùng loại trong nhà (hai đôi dép, hai cái cốc), nói với ba mẹ món nào bền hơn và vì sao.",
+    "Choose two similar things at home (two pairs of sandals, two cups) and tell Mum or Dad which will last longer and why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn đồ và cùng con sờ, nhìn để so sánh.",
+     "Mum or Dad picks the items and you feel and look at them together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn hai món và so sánh.",
+     "Mum or Dad reminds you once, then you choose and compare two items."
+    ],
+    [
+     "Con tự so sánh hai cặp đồ và nói rõ lý do cho từng cặp.",
+     "You compare two pairs by yourself and give a reason for each."
+    ]
+   ],
+   "rw": [
+    "Con được chọn trò chơi cả nhà chơi tối nay",
+    "You choose tonight’s family game"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nhắc người khác nhẹ nhàng",
+   "Reminding others kindly"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Anh trai Bin ra khỏi phòng mà quên tắt đèn. Bin muốn nhắc anh.",
+   "Bin’s big brother has left his room with the light on. Bin wants to remind him."
+  ],
+  "cq": [
+   "Bin nên nói thế nào?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "Hét to: “Anh lại quên tắt đèn rồi!”",
+    "Shout, “You forgot the light again!”",
+    0,
+    "Hét lên làm anh thấy bị trách, có khi lại cãi nhau. Thử nói nhẹ nhàng nhé.",
+    "Shouting feels like blame and can start a row. Try a gentle voice."
+   ],
+   [
+    "Chạy đi mách mẹ ngay",
+    "Run and tell Mum straight away",
+    0,
+    "Mách mẹ khi chưa nhắc anh thì anh không có cơ hội tự sửa. Thử nhắc anh trước nhé.",
+    "Telling Mum first gives your brother no chance to fix it. Try reminding him first."
+   ],
+   [
+    "“Anh ơi, anh nhớ tắt đèn giúp em nhé.”",
+    "“Could you remember to switch the light off, please?”",
+    1,
+    "Giọng nhẹ và lời đề nghị làm anh thấy được tôn trọng, nên dễ làm theo.",
+    "A gentle voice and a request make people feel respected, so they’re happy to help."
+   ]
+  ],
+  "qq": [
+   "Nhắc thế nào thì người nghe dễ làm theo?",
+   "What kind of reminder do people follow?"
+  ],
+  "qo": [
+   [
+    "Nói thật to cho nghe rõ",
+    "Saying it really loudly"
+   ],
+   [
+    "Nhắc đi nhắc lại liên tục",
+    "Repeating it over and over"
+   ],
+   [
+    "Giọng nhẹ, nói lời đề nghị",
+    "A gentle voice and a request"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bạn Nam bỏ vỏ bánh dưới gầm bàn. Na ngồi cạnh Nam.",
+     "Nam drops a snack wrapper under the desk. Na sits next to him."
+    ],
+    "q": [
+     "Na nên nói gì?",
+     "What should Na say?"
+    ],
+    "o": [
+     [
+      "“Nam bẩn quá!”",
+      "“Nam, you’re so messy!”",
+      0,
+      "Chê bạn làm bạn buồn mà vỏ bánh vẫn nằm đó. Nhắc việc cần làm thôi nhé.",
+      "Calling names upsets him and the wrapper stays. Just mention what to do."
+     ],
+     [
+      "“Nam ơi, mình cùng bỏ vỏ bánh vào thùng rác nhé.”",
+      "“Nam, shall we put the wrapper in the bin?”",
+      1,
+      "Rủ cùng làm là cách nhắc nhẹ nhàng, bạn không thấy ngại.",
+      "Inviting him to do it together is a kind reminder that doesn’t embarrass him."
+     ],
+     [
+      "Lặng lẽ để kệ",
+      "Quietly ignore it",
+      0,
+      "Không nói thì lớp vẫn bẩn. Một lời nhắc nhẹ giúp cả lớp sạch hơn.",
+      "Saying nothing leaves the mess. A gentle reminder helps everyone."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở khu vui chơi, một bạn nhỏ chen lên cầu trượt trước Bin. Ba ngồi ở ghế gần đó.",
+     "At the playground, a child pushes in front of Bin at the slide. Dad is sitting nearby."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói nhẹ: “Bạn ơi, mình xếp hàng nhé, tớ đứng đây trước.”",
+      "Say gently, “Let’s take turns, I was here first.”",
+      1,
+      "Nói rõ mà nhẹ nhàng thì bạn dễ hiểu và nhường lượt.",
+      "Clear but kind words help the other child understand and wait."
+     ],
+     [
+      "Kéo áo bạn lại",
+      "Pull the child back by the shirt",
+      0,
+      "Kéo áo trên cầu trượt dễ làm cả hai ngã. Dùng lời nói nhé, cần thì gọi ba.",
+      "Pulling on the slide could make you both fall. Use words, and call Dad if needed."
+     ],
+     [
+      "Bỏ về chỗ ba và khóc",
+      "Go back to Dad and cry",
+      0,
+      "Buồn là bình thường. Thử nhắc bạn một câu nhẹ nhàng, nếu khó thì nhờ ba giúp.",
+      "Feeling upset is normal. Try one gentle reminder, and ask Dad if it’s hard."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lời nhắc nhẹ nhàng",
+    "A gentle reminder"
+   ],
+   "s": [
+    "Con chọn một việc nhỏ (tắt đèn, bỏ rác đúng chỗ) và nhắc một người trong nhà bằng câu nhẹ nhàng có “nhé” hoặc “giúp con”.",
+    "Pick a small thing (switching off a light, putting rubbish in the bin) and remind someone at home kindly, using “please” or “could you”."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu một câu nhắc nhẹ nhàng, con nói theo.",
+     "Mum or Dad says a kind reminder first and you copy it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn lúc và nhắc một người.",
+     "Mum or Dad reminds you once, then you choose when and remind someone."
+    ],
+    [
+     "Con tự nhận ra việc cần nhắc, nói nhẹ nhàng và kể lại người đó đáp thế nào.",
+     "You notice something yourself, remind kindly and tell how they replied."
+    ]
+   ],
+   "rw": [
+    "Nhận một lời cảm ơn và cái ôm từ người được nhắc",
+    "A thank-you and a hug from the person you reminded"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Bình yên giữa thiên nhiên",
+   "Feeling calm in nature"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin bực vì xếp hình mãi không xong. Mẹ rủ Bin ra công viên, ngồi trên ghế đá nghe chim hót.",
+   "Bin is cross because his puzzle won’t work. Mum takes him to the park to sit on a bench and listen to the birds."
+  ],
+  "cq": [
+   "Bin làm gì để lòng dịu lại?",
+   "What can Bin do to feel calmer?"
+  ],
+  "co": [
+   [
+    "Đòi về ngay để xếp tiếp",
+    "Ask to go straight home to carry on",
+    0,
+    "Còn đang bực mà xếp tiếp thì dễ bực hơn. Nghỉ một chút rồi hẵng quay lại.",
+    "Going back while still cross can make it worse. Rest a little first."
+   ],
+   [
+    "Ngồi yên, thở chậm, đếm những âm thanh nghe được",
+    "Sit still, breathe slowly and count the sounds he hears",
+    1,
+    "Lắng nghe gió, chim, lá giúp đầu óc chậm lại và cơn bực dịu đi.",
+    "Listening to wind, birds and leaves slows your mind and the crossness fades."
+   ],
+   [
+    "Ngồi càu nhàu suốt buổi",
+    "Grumble the whole time",
+    0,
+    "Càu nhàu giữ cơn bực ở lại lâu hơn. Thử nghe một tiếng chim xem sao.",
+    "Grumbling keeps the crossness around. Try listening for one bird."
+   ]
+  ],
+  "qq": [
+   "Ngồi yên nghe thiên nhiên giúp gì?",
+   "Sitting quietly in nature helps you…"
+  ],
+  "qo": [
+   [
+    "Buồn ngủ cả ngày",
+    "Feel sleepy all day"
+   ],
+   [
+    "Lòng dịu lại",
+    "Feel calmer"
+   ],
+   [
+    "Chẳng giúp gì",
+    "Nothing at all"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mưa rơi lộp độp trên mái. Bin lo vì mai có bài đọc trước lớp.",
+     "Rain patters on the roof. Bin is worried about reading aloud in class tomorrow."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi cạnh cửa sổ cùng ba, nghe mưa và thở chậm",
+      "Sit by the window with Dad, listen to the rain and breathe slowly",
+      1,
+      "Tiếng mưa đều đều giúp lòng lắng xuống, có ba bên cạnh càng yên tâm.",
+      "Steady rain helps you settle, and having Dad nearby helps too."
+     ],
+     [
+      "Bật ti vi thật to cho quên",
+      "Turn the telly up loud to forget",
+      0,
+      "Tiếng ồn che nỗi lo một lúc nhưng không làm lòng dịu. Thử nghe mưa xem.",
+      "Noise hides the worry for a bit but doesn’t calm you. Try the rain."
+     ],
+     [
+      "Lo đến mức không ăn tối",
+      "Worry so much he skips dinner",
+      0,
+      "Lo là bình thường. Ngồi yên nghe mưa và kể với ba sẽ nhẹ lòng hơn.",
+      "Worry is normal. Listening quietly and telling Dad will help."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Sau giờ ra chơi ồn ào, Na thấy đầu óc rối bời. Cô cho cả lớp ra vườn trường năm phút.",
+     "After a noisy break, Na’s head feels jumbled. The teacher takes the class to the school garden for five minutes."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Nói chuyện liên tục với bạn",
+      "Chatter non-stop with a friend",
+      0,
+      "Nói chuyện vui thật, nhưng năm phút này để nghỉ ngơi. Thử im lặng nghe xem.",
+      "Chatting is fun, but these minutes are for resting. Try listening quietly."
+     ],
+     [
+      "Ngồi gần bồn cây, nhìn lá và nghe gió",
+      "Sit by the plants, look at the leaves and listen to the wind",
+      1,
+      "Chú ý vào lá và gió giúp đầu óc bớt rối.",
+      "Paying attention to leaves and wind helps the jumble settle."
+     ],
+     [
+      "Bứt lá cây chơi",
+      "Pull leaves off the plants",
+      0,
+      "Cây cũng cần được nhẹ nhàng. Ngắm lá thôi là đủ dịu rồi.",
+      "Plants need gentleness too. Just looking is calming enough."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm phút lắng nghe",
+    "Five minutes of listening"
+   ],
+   "s": [
+    "Con cùng ba mẹ ngồi yên 5 phút ở ban công hoặc công viên, rồi kể ba âm thanh con nghe được.",
+    "Sit quietly with Mum or Dad for 5 minutes on the balcony or in the park, then name three sounds you heard."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cùng, thì thầm gợi ý từng âm thanh.",
+     "Mum or Dad sits with you and whispers hints about the sounds."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự ngồi yên và đếm âm thanh.",
+     "Mum or Dad reminds you once, then you sit still and count sounds yourself."
+    ],
+    [
+     "Con tự ngồi đủ 5 phút, kể ba âm thanh và nói con thấy thế nào sau đó.",
+     "You sit the full 5 minutes, name three sounds and say how you feel afterwards."
+    ]
+   ],
+   "rw": [
+    "Cả nhà ở lại công viên chơi thêm một lúc",
+    "The family stays a little longer at the park"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng làm áp phích",
+   "A poster together"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Na làm áp phích “Giữ lớp sạch”. Bạn nào cũng muốn vẽ, chẳng ai muốn viết chữ.",
+   "Na’s group is making a “Keep our class clean” poster. Everyone wants to draw and nobody wants to write."
+  ],
+  "cq": [
+   "Nhóm nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Cùng bàn ý tưởng, rồi chia: hai bạn vẽ, một bạn viết, một bạn tô màu",
+    "Share ideas, then split it: two draw, one writes, one colours",
+    1,
+    "Bàn trước rồi chia phần thì ai cũng có việc và áp phích hoàn thành đẹp.",
+    "Talking first and sharing parts gives everyone a job and a great poster."
+   ],
+   [
+    "Bạn vẽ đẹp nhất làm hết",
+    "The best drawer does it all",
+    0,
+    "Một bạn làm hết thì mệt, các bạn khác không được góp ý. Chia phần nhé.",
+    "One person doing it all is tiring and leaves others out. Share it."
+   ],
+   [
+    "Mỗi bạn vẽ một góc tùy thích",
+    "Everyone draws whatever they like in a corner",
+    0,
+    "Không bàn trước thì áp phích rời rạc. Thống nhất ý tưởng chung trước nhé.",
+    "Without planning, the poster looks jumbled. Agree an idea first."
+   ]
+  ],
+  "qq": [
+   "Làm áp phích chung thì bắt đầu thế nào?",
+   "How do you start a group poster?"
+  ],
+  "qo": [
+   [
+    "Ai nhanh tay thì vẽ trước",
+    "Whoever’s quickest starts drawing"
+   ],
+   [
+    "Mỗi người làm một tờ riêng",
+    "Everyone makes their own"
+   ],
+   [
+    "Cùng bàn ý tưởng rồi chia phần",
+    "Share ideas, then split the jobs"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà làm áp phích “Tiết kiệm điện” để dán cạnh công tắc.",
+     "The family is making a “Save electricity” poster to stick by the light switch."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Giữ hết bút màu cho mình",
+      "Keep all the felt tips",
+      0,
+      "Không có bút thì ba mẹ khó góp phần. Chia bút cho mọi người nhé.",
+      "Without pens, others can’t join in. Share them."
+     ],
+     [
+      "Để ba mẹ làm, con đi chơi",
+      "Let the grown-ups do it and go and play",
+      0,
+      "Áp phích của cả nhà sẽ vui hơn khi có phần của con.",
+      "The family poster is more fun with your part in it."
+     ],
+     [
+      "Đề nghị: ba viết chữ, mẹ vẽ bóng đèn, con tô màu",
+      "Suggest: Dad writes, Mum draws a bulb, Bin colours",
+      1,
+      "Con chia việc rõ ràng, cả nhà cùng góp phần vào một áp phích chung.",
+      "You shared the jobs clearly, so everyone adds to one poster."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà văn hóa khu phố, các bạn nhỏ cùng vẽ tranh “Phố em xanh sạch”, có cô phụ trách hướng dẫn.",
+     "At the community centre, children are making a “Green, clean street” picture with a leader helping."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi các bạn ý tưởng, nhận một phần việc và làm đến cùng",
+      "Ask for ideas, take one part and finish it",
+      1,
+      "Nghe ý bạn rồi nhận phần của mình thì bức tranh chung hài hòa.",
+      "Listening and taking your part makes the shared picture work."
+     ],
+     [
+      "Vẽ đè lên phần của bạn",
+      "Draw over someone else’s part",
+      0,
+      "Vẽ đè làm bạn buồn. Hỏi trước xem phần nào còn trống nhé.",
+      "Drawing over someone’s work upsets them. Ask which part is free."
+     ],
+     [
+      "Đứng xem, không nói gì",
+      "Stand and watch without speaking",
+      0,
+      "Con cũng có ý hay đấy. Nói một ý và nhận một phần việc nhé.",
+      "You have good ideas too. Share one and take a part."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Áp phích “Tiết kiệm nước”",
+    "“Save water” poster"
+   ],
+   "s": [
+    "Con cùng gia đình bàn ý tưởng, chia phần vẽ, viết, tô màu để làm áp phích “Tiết kiệm nước” dán ở chỗ rửa tay.",
+    "With your family, share ideas and split the drawing, writing and colouring to make a “Save water” poster for the sink."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý ý tưởng và chia phần giúp con.",
+     "Mum or Dad suggests ideas and shares out the parts with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi ý kiến và chia phần.",
+     "Mum or Dad reminds you once, then you ask for ideas and share the parts."
+    ],
+    [
+     "Con tự dẫn dắt cả nhà bàn ý tưởng, chia phần và dán áp phích lên.",
+     "You lead the family in planning, sharing parts and putting the poster up."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng ký tên lên áp phích và chụp ảnh bên cạnh",
+    "Everyone signs the poster and takes a photo beside it"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự giặt khăn nhỏ",
+   "Washing a small towel"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khăn mặt của Bin bị dính màu vẽ. Mẹ đang bận nấu cơm.",
+   "Bin’s flannel has paint on it. Mum is busy cooking."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Vứt khăn vào góc",
+    "Throw the flannel in a corner",
+    0,
+    "Để lâu thì vết màu khó giặt hơn. Giặt luôn sẽ nhanh sạch.",
+    "Left for long, paint is harder to clean. Washing now is quicker."
+   ],
+   [
+    "Giấu khăn đi vì sợ mẹ biết",
+    "Hide it so Mum won’t notice",
+    0,
+    "Dính màu là chuyện bình thường. Tự giặt sạch là cách hay nhất.",
+    "Getting paint on things is normal. Washing it yourself is best."
+   ],
+   [
+    "Tự giặt khăn bằng xà phòng, vắt rồi phơi lên dây",
+    "Wash it with soap, wring it out and hang it up",
+    1,
+    "Đồ nhỏ của mình thì mình giặt được. Con tự lo được rồi đấy!",
+    "You can wash your own small things. Look how capable you are!"
+   ]
+  ],
+  "qq": [
+   "Tự giặt đồ nhỏ gồm những bước nào?",
+   "Washing something small means…"
+  ],
+  "qo": [
+   [
+    "Xoa xà phòng, giũ nước sạch, vắt, phơi",
+    "Soap, rinse, wring, hang up"
+   ],
+   [
+    "Nhúng nước rồi để đó",
+    "Dip it in water and leave it"
+   ],
+   [
+    "Cất vào tủ khi còn ướt",
+    "Put it away still wet"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau giờ vẽ, khăn lau tay của Na bị bẩn. Cô dặn mỗi bạn tự giữ khăn sạch.",
+     "After art, Na’s hand towel is dirty. The teacher says everyone looks after their own towel."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Nhét khăn bẩn vào cặp",
+      "Stuff it in her bag dirty",
+      0,
+      "Khăn ướt bẩn trong cặp sẽ có mùi. Giặt và phơi luôn nhé.",
+      "A damp, dirty towel in a bag will smell. Wash and hang it now."
+     ],
+     [
+      "Giặt khăn ở bồn rửa, vắt khô và phơi lên móc của lớp",
+      "Wash it at the sink, wring it and hang it on the class hook",
+      1,
+      "Tự giặt khăn của mình giúp con sạch sẽ và tự lập.",
+      "Washing your own towel keeps you clean and independent."
+     ],
+     [
+      "Lấy khăn của bạn dùng",
+      "Use a friend’s towel",
+      0,
+      "Mỗi người một khăn để giữ vệ sinh. Giặt khăn của mình nhé.",
+      "One towel each keeps things clean. Wash your own."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi cắm trại cùng gia đình ở khu sinh thái, khăn của Bin dính bùn. Ba ở ngay cạnh.",
+     "Camping with family at a nature park, Bin’s towel gets muddy. Dad is right beside him."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đợi về nhà để mẹ giặt",
+      "Wait for Mum to wash it at home",
+      0,
+      "Bùn khô lâu sẽ khó giặt. Con tự làm được ngay mà.",
+      "Dried mud is harder to wash. You can do it now."
+     ],
+     [
+      "Dùng tiếp khăn bẩn",
+      "Keep using the muddy towel",
+      0,
+      "Khăn bẩn không giữ người con sạch được. Giặt nhanh rồi phơi nhé.",
+      "A muddy towel won’t keep you clean. Give it a quick wash."
+     ],
+     [
+      "Nhờ ba chỉ chỗ rửa, tự giặt khăn và phơi lên dây",
+      "Ask Dad where to wash it, then wash it and hang it up",
+      1,
+      "Ở đâu con cũng tự lo được đồ của mình, có ba chỉ chỗ là đủ.",
+      "Wherever you are, you can look after your things, with Dad showing you where."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Con tự giặt khăn",
+    "I wash my own towel"
+   ],
+   "s": [
+    "Con tự giặt tay khăn mặt hoặc một đôi tất bằng xà phòng, vắt và phơi lên dây cho ba mẹ xem.",
+    "Hand-wash your flannel or a pair of socks with soap, wring them out and hang them up to show Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu từng bước, con làm theo bên cạnh.",
+     "Mum or Dad shows each step and you copy alongside."
+    ],
+    [
+     "Ba mẹ nhắc các bước một lần, con tự giặt và phơi.",
+     "Mum or Dad reminds you of the steps once, then you wash and hang it."
+    ],
+    [
+     "Con tự giặt, phơi ngay ngắn và kể lại đủ bốn bước.",
+     "You wash and hang it neatly by yourself and name all four steps."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ khen trước cả nhà và mở một bài nhạc vui cho con nhảy",
+    "Praise in front of the family and a happy song to dance to"
+   ]
+  }
+ }
+]

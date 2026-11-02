@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Luôn có kế hoạch dự phòng",
+   "Always having a plan B"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Nhóm An hẹn sáng Chủ nhật cùng ba mẹ ra công viên thả diều. Dự báo nói có thể mưa. Cả nhóm chỉ chuẩn bị diều, chưa ai nghĩ nếu mưa thì làm gì.",
+   "An’s friends plan to fly kites in the park with their parents on Sunday morning. The forecast says it might rain. They’ve only got kites ready and nobody has thought about rain."
+  ],
+  "cq": [
+   "Nhóm nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Lên thêm kế hoạch B: nếu mưa thì cả nhóm sang nhà một bạn chơi cờ, có ba mẹ đồng ý trước",
+    "Make a plan B: if it rains, everyone goes to one friend’s house for board games, agreed with parents first",
+    1,
+    "Nghĩ trước điều có thể trục trặc và có sẵn phương án thay thế giúp ngày vui không bị hỏng.",
+    "Thinking ahead about what might go wrong and having a backup keeps the fun day going."
+   ],
+   [
+    "Cứ đi, mưa thì về",
+    "Just go, and head home if it rains",
+    0,
+    "Không có phương án khác thì gặp mưa là mất buổi. Chuẩn bị trước sẽ đỡ tiếc.",
+    "With no backup, rain ruins the day. Planning ahead avoids disappointment."
+   ],
+   [
+    "Huỷ luôn cho chắc",
+    "Cancel it to be safe",
+    0,
+    "Huỷ sớm thì mất cơ hội vui nếu trời đẹp. Kế hoạch B giúp mình không phải bỏ.",
+    "Cancelling early loses the fun if it’s sunny. A plan B means you don’t have to give up."
+   ]
+  ],
+  "qq": [
+   "Kế hoạch dự phòng là gì?",
+   "A plan B is…"
+  ],
+  "qo": [
+   [
+    "Kế hoạch chỉ dùng khi mình lười",
+    "A plan for when you feel lazy"
+   ],
+   [
+    "Phương án thay thế khi kế hoạch chính gặp trục trặc",
+    "A backup for when the main plan goes wrong"
+   ],
+   [
+    "Huỷ mọi thứ",
+    "Cancelling everything"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay An định làm bài trên máy tính của nhà, nhưng mạng hay chập chờn vào buổi tối.",
+     "Tonight An plans to do homework on the family computer, but the internet is often patchy in the evening."
+    ],
+    "q": [
+     "An nên chuẩn bị thế nào?",
+     "How should An prepare?"
+    ],
+    "o": [
+     [
+      "Chờ đến tối xem sao",
+      "Wait and see tonight",
+      0,
+      "Đến lúc mạng hỏng mới tính thì dễ cuống. Nghĩ trước một phương án nhé.",
+      "Waiting until it breaks causes panic. Think of an option first."
+     ],
+     [
+      "Thức khuya chờ mạng ổn",
+      "Stay up late until it works",
+      0,
+      "Thức khuya ảnh hưởng sức khoẻ. Có phương án làm bài khác sẽ tốt hơn.",
+      "Late nights affect your health. Another way to do the work is better."
+     ],
+     [
+      "Tải tài liệu về từ chiều, nếu mạng hỏng thì làm phần viết tay trước và báo ba mẹ",
+      "Download materials in the afternoon; if the internet fails, do the handwritten part first and tell your parents",
+      1,
+      "Chuẩn bị sớm và có việc thay thế giúp mình không bị động.",
+      "Preparing early with a backup task keeps you in control."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tuần sau nhóm An thuyết trình bằng máy chiếu. An lo nhỡ máy hỏng.",
+     "Next week An’s group presents using the projector. An worries it might break."
+    ],
+    "q": [
+     "Nhóm nên làm gì?",
+     "What should the group do?"
+    ],
+    "o": [
+     [
+      "In sẵn vài tờ giấy to ghi ý chính để dùng nếu máy chiếu không chạy",
+      "Prepare a few big paper sheets with key points in case the projector fails",
+      1,
+      "Có bản giấy dự phòng thì máy có trục trặc nhóm vẫn trình bày tốt.",
+      "With a paper backup, the group can still present if the tech fails."
+     ],
+     [
+      "Mong là máy không hỏng",
+      "Hope it doesn’t break",
+      0,
+      "Hy vọng là tốt nhưng chuẩn bị thêm thì yên tâm hơn nhiều.",
+      "Hoping is fine, but preparing gives real peace of mind."
+     ],
+     [
+      "Xin cô cho nhóm khỏi thuyết trình",
+      "Ask to skip presenting",
+      0,
+      "Né tránh làm mất cơ hội luyện tập. Kế hoạch B giúp con tự tin hơn.",
+      "Avoiding it loses the chance to practise. A plan B builds confidence."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kế hoạch A và kế hoạch B",
+    "Plan A and plan B"
+   ],
+   "s": [
+    "Với một việc sắp tới (buổi đi chơi, bài thuyết trình, buổi tập), con viết kế hoạch A, một điều có thể trục trặc và kế hoạch B. Cho ba mẹ xem và nghe góp ý.",
+    "For something coming up (an outing, a presentation, a practice), write plan A, one thing that could go wrong, and plan B. Show your parent and hear their thoughts."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ điều có thể trục trặc và viết kế hoạch B.",
+     "Your parent helps think of what could go wrong and write plan B."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết cả hai kế hoạch.",
+     "With one reminder, you write both plans yourself."
+    ],
+    [
+     "Con tự viết, nghĩ hai điều có thể trục trặc và một kế hoạch B cho mỗi điều.",
+     "You write it all, with two things that might go wrong and a plan B for each."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi một ván cờ, con được chọn trò",
+    "A family board game, your choice"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Tự ra một quyết định quan trọng",
+   "Making a big decision"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trường mở câu lạc bộ mới, mỗi bạn chỉ được chọn một: cờ vua hoặc bóng rổ. Bạn thân Huy chọn bóng rổ và rủ An. An lại thích cờ vua hơn.",
+   "School is opening new clubs and each pupil can choose one: chess or basketball. Best friend Huy picks basketball and asks An to join. But An prefers chess."
+  ],
+  "cq": [
+   "An nên quyết định thế nào?",
+   "How should An decide?"
+  ],
+  "co": [
+   [
+    "Chọn bóng rổ cho được chơi cùng Huy",
+    "Pick basketball to be with Huy",
+    0,
+    "Ở cạnh bạn thân rất vui, nhưng cả năm học một môn mình không thích sẽ khó đấy.",
+    "Being with a friend is fun, but a whole year of something you don’t enjoy is hard."
+   ],
+   [
+    "Bốc thăm cho nhanh",
+    "Draw lots to be quick",
+    0,
+    "Bốc thăm là để may rủi quyết thay mình. Việc quan trọng nên tự cân nhắc.",
+    "Drawing lots lets chance decide. Big choices deserve careful thought."
+   ],
+   [
+    "Viết ưu, nhược của từng câu lạc bộ, hỏi ý ba mẹ, rồi tự chọn và nói rõ với Huy",
+    "List pros and cons of each club, ask your parents’ view, then choose and explain to Huy",
+    1,
+    "Liệt kê, hỏi người tin cậy rồi tự chọn giúp mình hài lòng và chịu trách nhiệm với lựa chọn.",
+    "Listing, asking someone you trust and then choosing yourself means you own the decision."
+   ]
+  ],
+  "qq": [
+   "Ra quyết định quan trọng nên thế nào?",
+   "A big decision should be made by…"
+  ],
+  "qo": [
+   [
+    "Làm theo bạn thân",
+    "Following your best friend"
+   ],
+   [
+    "Bốc thăm",
+    "Drawing lots"
+   ],
+   [
+    "Cân nhắc ưu nhược, hỏi người tin cậy rồi tự chọn",
+    "Weighing pros and cons, asking someone you trust, then choosing"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba mẹ cho An chọn: học thêm tiếng Anh hay học vẽ vào chiều thứ Bảy.",
+     "Mum and Dad let An choose: English lessons or art lessons on Saturday afternoons."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “sao cũng được ạ”",
+      "Say “Either is fine”",
+      0,
+      "Ba mẹ muốn nghe ý con. Nói ra suy nghĩ giúp con tập tự quyết.",
+      "Your parents want your view. Sharing your thoughts helps you practise deciding."
+     ],
+     [
+      "Viết hai cột ưu, nhược, hỏi ba mẹ thêm về lịch học rồi nói lựa chọn và lý do",
+      "Make two columns of pros and cons, ask about the schedules, then give your choice and reason",
+      1,
+      "Cân nhắc kỹ và nói lý do giúp ba mẹ tin con đã nghĩ chín chắn.",
+      "Weighing it up and giving reasons shows your parents you’ve thought it through."
+     ],
+     [
+      "Chọn môn nào nghe có vẻ dễ hơn",
+      "Pick whichever sounds easier",
+      0,
+      "Dễ chưa chắc là hợp. Hãy nghĩ xem mình thích và muốn học gì.",
+      "Easy isn’t always right. Think about what you enjoy and want to learn."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An tiết kiệm được một khoản và đang phân vân: mua sách truyện mới hay để dành thêm cho bộ lắp ghép lớn.",
+     "An has saved some money and can’t decide: buy a new storybook or keep saving for a big building set."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "So sánh: món nào mình dùng lâu hơn, chờ thêm bao lâu, rồi hỏi ý ba mẹ trước khi chọn",
+      "Compare: which would you use longer, how much longer to wait, then ask your parents before choosing",
+      1,
+      "Đặt câu hỏi và hỏi người lớn giúp con chọn điều mình không hối tiếc.",
+      "Asking questions and checking with a grown-up helps you choose without regret."
+     ],
+     [
+      "Mua ngay món đầu tiên nhìn thấy",
+      "Buy the first thing you see",
+      0,
+      "Quyết vội dễ hối tiếc. Dành vài phút cân nhắc nhé.",
+      "Rushing leads to regret. Take a few minutes to think."
+     ],
+     [
+      "Hỏi bạn xem bạn mua gì thì mua theo",
+      "Ask what friends bought and copy them",
+      0,
+      "Bạn thích chưa chắc mình thích. Tiền của mình thì mình nên tự cân nhắc.",
+      "What friends like may not suit you. Your money deserves your own thought."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bảng ưu – nhược cho một lựa chọn",
+    "A pros and cons table"
+   ],
+   "s": [
+    "Con chọn một lựa chọn thật đang phân vân (câu lạc bộ, sở thích, cách dùng thời gian cuối tuần), kẻ bảng ưu – nhược, rồi chia sẻ với ba mẹ quyết định và lý do của con.",
+    "Pick a real choice you’re unsure about (a club, a hobby, how to spend a weekend), draw a pros and cons table, then share your decision and reasons with your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ bảng và gợi ý ưu, nhược.",
+     "Your parent helps draw the table and suggests pros and cons."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kẻ bảng rồi trình bày.",
+     "With one reminder, you make the table and present it."
+    ],
+    [
+     "Con tự làm, hỏi ý thêm một người lớn tin cậy và nói rõ con sẽ làm gì nếu sau này thấy chưa hợp.",
+     "You do it all, ask another trusted grown-up and say what you’ll do if it turns out not to suit you."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể về một quyết định khó ba mẹ từng phải đưa ra",
+    "Your parent tells you about a hard decision they once made"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Chăm sóc cơ thể tuổi lớn",
+   "Caring for my growing body"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Dạo này An cao nhanh, ra nhiều mồ hôi hơn sau giờ thể dục. Hôm qua An còn nổi vài nốt mụn nhỏ và thấy ngại, không biết hỏi ai.",
+   "Lately An has been growing fast and sweats more after PE. Yesterday a few small spots appeared and An felt shy, not sure who to ask."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Lên mạng tìm cách tự xử lý",
+    "Look it up online and sort it alone",
+    0,
+    "Trên mạng có nhiều thông tin chưa đúng. Hỏi ba mẹ hoặc bác sĩ sẽ an toàn hơn.",
+    "Lots of online advice isn’t reliable. Asking a parent or doctor is safer."
+   ],
+   [
+    "Hỏi ba hoặc mẹ: “Con thấy cơ thể thay đổi, con nên chăm sóc thế nào ạ?”, rồi tắm rửa, thay đồ sạch mỗi ngày",
+    "Ask Mum or Dad, “My body’s changing, how should I look after it?”, and wash and change into clean clothes every day",
+    1,
+    "Thay đổi khi lớn là bình thường. Giữ vệ sinh và hỏi người lớn tin cậy là cách chăm sóc mình tốt nhất.",
+    "Changes as you grow are normal. Keeping clean and asking a trusted grown-up is the best care."
+   ],
+   [
+    "Giấu đi, không nói với ai",
+    "Hide it and tell nobody",
+    0,
+    "Ngại là bình thường, nhưng ba mẹ luôn sẵn lòng nghe. Hỏi sớm thì con bớt lo.",
+    "Feeling shy is normal, but your parents are always happy to help. Asking early eases worry."
+   ]
+  ],
+  "qq": [
+   "Khi thắc mắc về cơ thể đang lớn, nên hỏi ai?",
+   "If you have questions about your growing body, ask…"
+  ],
+  "qo": [
+   [
+    "Ba mẹ, người lớn tin cậy hoặc bác sĩ",
+    "Your parents, a trusted grown-up or a doctor"
+   ],
+   [
+    "Bất kỳ ai trên mạng",
+    "Anyone online"
+   ],
+   [
+    "Không hỏi ai cả",
+    "Nobody at all"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau giờ thể dục, vài bạn trong lớp cười một bạn vì bạn ra nhiều mồ hôi.",
+     "After PE, some classmates laugh at a pupil for being sweaty."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cười theo cho hợp nhóm",
+      "Laugh along to fit in",
+      0,
+      "Ai lớn lên cũng có thay đổi. Cười chê làm bạn tổn thương.",
+      "Everyone changes as they grow. Laughing hurts."
+     ],
+     [
+      "Nói: “Ai vận động cũng ra mồ hôi mà”, rồi rủ bạn đi rửa mặt, uống nước",
+      "Say, “Everyone sweats when they exercise,” and invite the pupil to wash their face and get a drink",
+      1,
+      "Nói điều bình thường một cách nhẹ nhàng giúp bạn đỡ ngại và cả lớp hiểu hơn.",
+      "Calmly pointing out what’s normal eases embarrassment and helps others understand."
+     ],
+     [
+      "Lờ đi coi như không thấy",
+      "Pretend not to notice",
+      0,
+      "Một câu tử tế của con có thể giúp bạn rất nhiều. Nếu các bạn vẫn trêu, hãy nói với cô.",
+      "One kind word can help a lot. If the teasing continues, tell the teacher."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi khám sức khoẻ định kỳ cùng mẹ, bác sĩ hỏi An có thắc mắc gì không. An có một câu muốn hỏi nhưng ngại.",
+     "At a check-up with Mum, the doctor asks if An has any questions. An has one but feels shy."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “không ạ” cho nhanh",
+      "Say “No” to get it over with",
+      0,
+      "Bác sĩ ở đây để giúp con. Hỏi thì sẽ hết thắc mắc.",
+      "The doctor is there to help. Asking clears things up."
+     ],
+     [
+      "Hỏi bạn bè sau cũng được",
+      "Ask friends later instead",
+      0,
+      "Bạn bè cũng đang tìm hiểu như con. Bác sĩ và ba mẹ sẽ trả lời chính xác hơn.",
+      "Friends are still learning too. Doctors and parents give accurate answers."
+     ],
+     [
+      "Có mẹ ngồi cạnh, hỏi bác sĩ câu mình thắc mắc",
+      "With Mum beside you, ask the doctor your question",
+      1,
+      "Hỏi bác sĩ khi có ba mẹ ở cạnh là cách an toàn để hiểu cơ thể mình.",
+      "Asking a doctor with a parent there is a safe way to understand your body."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bảng vệ sinh hằng ngày",
+    "My daily care chart"
+   ],
+   "s": [
+    "Con cùng ba mẹ lập bảng vệ sinh cá nhân hằng ngày (tắm, đánh răng, thay đồ sạch, rửa mặt, ngủ đủ) và ghi tên 2 người lớn tin cậy con có thể hỏi khi thắc mắc về cơ thể.",
+    "With your parent, make a daily self-care chart (shower, brush teeth, clean clothes, wash face, enough sleep) and write the names of 2 trusted grown-ups you can ask about your body."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết từng mục và trò chuyện nhẹ nhàng về những thay đổi khi lớn.",
+     "Your parent writes each item with you and chats gently about growing up."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lập bảng và tự ghi tên người tin cậy.",
+     "With one reminder, you make the chart and write the names yourself."
+    ],
+    [
+     "Con tự lập bảng, làm theo ba ngày và tự hỏi ba mẹ một câu con thắc mắc.",
+     "You make the chart, follow it for three days and ask your parent one question."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con đi dạo buổi tối và trò chuyện riêng",
+    "An evening walk and a one-to-one chat with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Lịch học cấp hai sẽ khác",
+   "Middle-school schedules are different"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Anh họ của An lên lớp sáu, kể có hơn mười môn, mỗi môn một thầy cô, bài tập giao nhiều ngày khác nhau. Anh hay quên bài vì chỉ nhớ trong đầu. An thấy hơi lo cho mình sau này.",
+   "An’s cousin has started Year 7 and says there are over ten subjects, each with its own teacher and homework due on different days. He often forgets because he keeps it all in his head. An feels a bit worried about the future."
+  ],
+  "cq": [
+   "An có thể chuẩn bị gì từ bây giờ?",
+   "What can An start doing now?"
+  ],
+  "co": [
+   [
+    "Tập dùng một sổ lịch nhỏ: ghi bài tập theo ngày nộp, mỗi tối xem lại ngày mai",
+    "Practise with a small planner: write homework by due date and check tomorrow each evening",
+    1,
+    "Tự quản sổ lịch từ sớm giúp con quen dần, lên cấp hai sẽ tự tin hơn.",
+    "Managing a planner early builds the habit so the move up feels easier."
+   ],
+   [
+    "Lo trước làm gì, đến lúc thì tính",
+    "Why worry now, deal with it later",
+    0,
+    "Không cần lo, nhưng tập trước một thói quen nhỏ thì sau này nhẹ hơn nhiều.",
+    "No need to worry, but practising a small habit now makes it much easier later."
+   ],
+   [
+    "Nhờ mẹ ghi nhớ hết lịch giúp",
+    "Ask Mum to remember everything",
+    0,
+    "Mẹ có thể giúp lúc đầu, nhưng lịch của mình thì mình nên tập tự quản.",
+    "Mum can help at first, but your schedule is yours to manage."
+   ]
+  ],
+  "qq": [
+   "Cách tốt để quản lịch học nhiều môn?",
+   "A good way to manage many subjects is…"
+  ],
+  "qo": [
+   [
+    "Nhớ trong đầu",
+    "Keeping it in your head"
+   ],
+   [
+    "Ghi vào sổ lịch và xem lại mỗi tối",
+    "Writing it in a planner and checking each evening"
+   ],
+   [
+    "Hỏi bạn mỗi sáng",
+    "Asking a friend each morning"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối Chủ nhật, An nhớ ra mai có bài tập Khoa học và cả buổi tập đàn nhưng không nhớ bài nào nộp hôm nào.",
+     "On Sunday evening An remembers there’s science homework and a piano lesson tomorrow, but can’t recall what’s due when."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đoán đại rồi làm",
+      "Guess and get on with it",
+      0,
+      "Đoán sai có thể làm nhầm bài hoặc quên bài. Ghi lại rõ ràng sẽ chắc hơn.",
+      "Guessing wrong means the wrong work or missed work. Writing it down is safer."
+     ],
+     [
+      "Mở vở xem lại lời cô dặn, chép vào sổ lịch tuần, đánh dấu việc ngày mai",
+      "Check the notes from class, copy them into a weekly planner and mark tomorrow’s jobs",
+      1,
+      "Gom hết vào một sổ lịch giúp con nhìn rõ cả tuần và không quên việc.",
+      "Gathering it in one planner gives a clear view of the week."
+     ],
+     [
+      "Đợi sáng mai hỏi bạn",
+      "Wait to ask a friend tomorrow",
+      0,
+      "Sáng mai thì đã muộn nếu bài phải nộp. Tự kiểm tra từ tối nay nhé.",
+      "Tomorrow morning may be too late. Check tonight."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cuối tuần, mẹ dẫn An đến thăm trường cấp hai gần nhà. An thấy trường rộng, nhiều phòng học khác nhau.",
+     "At the weekend Mum takes An to visit the nearby secondary school. It’s big, with lots of different classrooms."
+    ],
+    "q": [
+     "An nên làm gì để bớt bỡ ngỡ?",
+     "What could An do to feel less nervous?"
+    ],
+    "o": [
+     [
+      "Hỏi mẹ và các anh chị ở trường về thời khoá biểu, ghi lại vài điều cần tập trước",
+      "Ask Mum and the older pupils about the timetable and note a few things to practise",
+      1,
+      "Tìm hiểu trước và tập dần giúp thay đổi lớn trở nên quen thuộc hơn.",
+      "Finding out early and practising makes a big change feel familiar."
+     ],
+     [
+      "Chỉ đi xem cho vui",
+      "Just look around for fun",
+      0,
+      "Đi xem vui là tốt, hỏi thêm vài điều sẽ giúp con chuẩn bị tốt hơn.",
+      "Looking around is nice; asking a few questions helps you prepare."
+     ],
+     [
+      "Nói với mẹ con không muốn lên cấp hai",
+      "Tell Mum you don’t want to go",
+      0,
+      "Lo lắng là bình thường. Nói với mẹ điều con lo để cùng chuẩn bị nhé.",
+      "Feeling nervous is normal. Tell Mum what worries you so you can prepare together."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Sổ lịch tuần tới",
+    "Next week’s planner"
+   ],
+   "s": [
+    "Con tự lập sổ lịch cho tuần tới gồm bài tập (ghi ngày nộp) và các hoạt động, rồi cho ba mẹ xem. Mỗi tối con mở sổ xem việc ngày mai.",
+    "Make a planner for next week with homework (and due dates) plus activities, and show your parent. Each evening, check tomorrow’s jobs."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ sổ và điền từng ngày.",
+     "Your parent helps draw up the planner and fill each day."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự điền sổ và tự xem lại mỗi tối.",
+     "With one reminder, you fill it in and check it each evening."
+    ],
+    [
+     "Con tự lập, dùng cả tuần, gạch việc đã xong và kể lại việc nào suýt quên.",
+     "You make it, use it all week, tick off finished jobs and say what you nearly forgot."
+    ]
+   ],
+   "rw": [
+    "Con được chọn món ăn sáng Chủ nhật",
+    "You choose Sunday breakfast"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Tự quản tiền tiêu vặt cả tháng",
+   "Managing a monthly allowance"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ thử cho An tiền tiêu vặt theo tháng: 100.000 đồng. Tuần đầu An mua nhãn dán, bánh, bút trang trí và tiêu gần hết. Còn ba tuần nữa mà chỉ còn 10.000 đồng.",
+   "Mum and Dad are trying a monthly allowance: 100,000 đồng. In the first week An buys stickers, snacks and fancy pens and spends nearly all of it. Three weeks to go and only 10,000 đồng left."
+  ],
+  "cq": [
+   "Tháng sau An nên làm gì?",
+   "What should An do next month?"
+  ],
+  "co": [
+   [
+    "Xin ba mẹ ứng trước tiền tháng sau",
+    "Ask for next month’s money early",
+    0,
+    "Ứng trước thì tháng sau lại thiếu. Chia tiền theo tuần sẽ giúp con chủ động hơn.",
+    "Taking it early just makes next month short too. Splitting it by week puts you in control."
+   ],
+   [
+    "Chia thành bốn phần cho bốn tuần, ghi lại mỗi lần tiêu và cuối tuần xem còn bao nhiêu",
+    "Split it into four parts for four weeks, write down each spend and check what’s left at the weekend",
+    1,
+    "Chia theo tuần và ghi chép giúp con thấy tiền đi đâu, kịp điều chỉnh khi cần.",
+    "Weekly portions and a record show where money goes so you can adjust in time."
+   ],
+   [
+    "Không tiêu gì cả tháng cho chắc",
+    "Spend nothing all month to be safe",
+    0,
+    "Tiết kiệm là tốt, nhưng mục đích là tập tiêu hợp lý, không phải nhịn hết.",
+    "Saving is good, but the aim is to spend wisely, not to stop altogether."
+   ]
+  ],
+  "qq": [
+   "Quản tiền cả tháng, nên làm gì đầu tiên?",
+   "To manage a month’s money, first…"
+  ],
+  "qo": [
+   [
+    "Tiêu trước rồi tính sau",
+    "Spend first, think later"
+   ],
+   [
+    "Hỏi bạn tiêu thế nào",
+    "Ask friends how they spend"
+   ],
+   [
+    "Chia theo tuần và ghi chép chi tiêu",
+    "Split it by week and track spending"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở trường có hội chợ sách cuối tháng. An muốn mua một cuốn, nhưng tuần nào An cũng mua bánh ở căng tin.",
+     "There’s a book fair at school at the end of the month. An wants a book but buys snacks at the canteen every week."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bớt mua bánh vài lần, để riêng phần đó vào một phong bì “hội chợ sách”",
+      "Skip snacks a few times and put that money in a “book fair” envelope",
+      1,
+      "Biết trước mục tiêu và để riêng tiền giúp con có đủ khi cần.",
+      "Knowing the goal and setting money aside means you’ll have enough."
+     ],
+     [
+      "Cứ tiêu như cũ, đến lúc thì xin ba mẹ",
+      "Carry on as usual and ask your parents later",
+      0,
+      "Tập tự lo trong số tiền của mình là mục đích của tiền tiêu vặt.",
+      "Learning to manage within your allowance is what it’s for."
+     ],
+     [
+      "Hỏi mượn tiền bạn",
+      "Borrow from a friend",
+      0,
+      "Mượn tiền bạn dễ thành phiền phức. Hãy tự để dành trong tiền của mình nhé.",
+      "Borrowing from friends causes trouble. Save from your own money instead."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Giữa tháng, đi chợ đêm cuối tuần cùng ba mẹ, An thấy món đồ chơi nhỏ giá gần bằng số tiền còn lại của cả tháng.",
+     "Mid-month, at a weekend evening market with Mum and Dad, An sees a small toy costing nearly everything left for the month."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua luôn vì thích",
+      "Buy it because it’s cute",
+      0,
+      "Mua bây giờ thì nửa tháng còn lại không có gì. Thử dừng lại suy nghĩ đã.",
+      "Buying now leaves nothing for the rest of the month. Pause and think first."
+     ],
+     [
+      "Xem lại sổ chi tiêu, nghĩ còn những khoản gì phải chi, rồi quyết định có chờ sang tháng sau không",
+      "Check the spending notebook, think about what else is coming, then decide whether to wait until next month",
+      1,
+      "Nhìn sổ trước khi mua giúp con quyết định sáng suốt.",
+      "Checking your record before buying leads to a smart decision."
+     ],
+     [
+      "Nhờ ba mẹ trả giúp",
+      "Ask your parents to pay",
+      0,
+      "Ba mẹ đã đưa tiền tháng rồi, giờ là lúc con tập tự quyết trong số tiền đó.",
+      "You’ve had your allowance; now’s the time to decide within it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bảng chi tiêu một tháng mẫu",
+    "A sample monthly budget"
+   ],
+   "s": [
+    "Con lập bảng chi tiêu một tháng mẫu với số tiền ba mẹ đặt ra: chia bốn tuần, ghi các khoản dự định (tiêu, để dành, chia sẻ) và đọc cho ba mẹ nghe.",
+    "Make a sample monthly budget using an amount your parent sets: split it into four weeks, list planned spending, saving and sharing, and read it to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chia tiền và điền từng tuần.",
+     "Your parent helps split the money and fill in each week."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lập bảng rồi trình bày.",
+     "With one reminder, you make the budget and present it."
+    ],
+    [
+     "Con tự lập, thêm một khoản dự phòng và giải thích vì sao cần nó.",
+     "You make it yourself, add an emergency line and explain why it’s needed."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một con heo đất bằng giấy",
+    "Make a paper piggy bank with your parent"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Dừng – nghĩ – thử",
+   "Stop, think, try"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Dây giày của Bin bị thắt nút chặt. Bin giật mạnh, nút càng chặt hơn. Bin sắp khóc.",
+   "Bin’s shoelace has a tight knot. He yanks it and it gets tighter. He’s nearly in tears."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Giật mạnh hơn nữa",
+    "Yank even harder",
+    0,
+    "Giật mạnh làm nút chặt thêm. Dừng một chút và nhìn kỹ nhé.",
+    "Yanking makes it tighter. Pause and look closely."
+   ],
+   [
+    "Ném giày đi",
+    "Throw the shoe away",
+    0,
+    "Bực là bình thường, nhưng giày vẫn còn nút. Hít thở rồi thử lại nhé.",
+    "Feeling cross is normal, but the knot’s still there. Breathe and try again."
+   ],
+   [
+    "Dừng lại, nhìn kỹ nút, nghĩ cách rồi thử nới từng vòng",
+    "Stop, look closely, think, then loosen one loop at a time",
+    1,
+    "Dừng lại giúp con bình tĩnh, nghĩ giúp con thấy cách, thử từng bước thì gỡ được.",
+    "Stopping calms you, thinking shows a way, and trying step by step works."
+   ]
+  ],
+  "qq": [
+   "Gặp rắc rối, ba bước là gì?",
+   "When you hit a problem, the three steps are…"
+  ],
+  "qo": [
+   [
+    "Khóc – bỏ – quên",
+    "Cry – quit – forget"
+   ],
+   [
+    "Giật – kéo – ném",
+    "Yank – pull – throw"
+   ],
+   [
+    "Dừng – nghĩ – thử",
+    "Stop – think – try"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giữa giờ viết, bút chì của Na gãy ngòi. Gọt bút thì Na để quên ở nhà.",
+     "Mid-lesson, Na’s pencil snaps. She left her sharpener at home."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Ngồi im không viết nữa",
+      "Sit there and stop writing",
+      0,
+      "Ngồi im thì bài không xong. Nghĩ một cách và thử nhé.",
+      "Sitting still won’t finish the work. Think of a way and try."
+     ],
+     [
+      "Dừng lại, nghĩ: mượn bạn hay hỏi cô, rồi thử hỏi",
+      "Stop, think: borrow or ask the teacher, then try asking",
+      1,
+      "Nghĩ ra vài cách rồi thử một cách, Na sẽ viết tiếp được ngay.",
+      "Thinking of a few ways and trying one gets Na writing again."
+     ],
+     [
+      "Lấy bút của bạn bên cạnh mà không hỏi",
+      "Take the next child’s pencil without asking",
+      0,
+      "Lấy mà không hỏi làm bạn buồn. Hỏi mượn là cách thử tốt hơn.",
+      "Taking without asking upsets people. Asking to borrow is a better try."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang ở cửa hàng cùng mẹ, Bin quay lại thì không thấy mẹ đâu.",
+     "In a shop with Mum, Bin turns round and can’t see her."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Dừng lại đứng yên, nghĩ, rồi nhờ cô nhân viên ở quầy thu ngân gọi mẹ",
+      "Stop and stand still, think, then ask the person at the till to call Mum",
+      1,
+      "Đứng yên giúp mẹ dễ tìm con. Nhân viên cửa hàng là người lớn có thể giúp con.",
+      "Standing still helps Mum find you, and shop staff can help."
+     ],
+     [
+      "Chạy khắp nơi tìm mẹ",
+      "Run all over looking for Mum",
+      0,
+      "Chạy lung tung dễ lạc xa hơn. Dừng lại trước đã nhé.",
+      "Running about can take you further away. Stop first."
+     ],
+     [
+      "Đi theo một người lạ bảo biết mẹ ở đâu",
+      "Go with a stranger who says they know where Mum is",
+      0,
+      "Không đi theo người lạ. Ở lại cửa hàng và nhờ nhân viên ở quầy giúp nhé.",
+      "Never go off with a stranger. Stay in the shop and ask the staff."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Dừng – nghĩ – thử",
+    "Stop, think, try"
+   ],
+   "s": [
+    "Khi gặp một rắc rối nhỏ trong ngày (cúc áo, đồ chơi kẹt, bài khó), con dùng ba bước dừng – nghĩ – thử và kể lại cho ba mẹ.",
+    "When a small problem comes up (a button, a stuck toy, a tricky sum), use stop – think – try and tell Mum or Dad about it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đi qua từng bước với một rắc rối.",
+     "Mum or Dad goes through each step with you on one problem."
+    ],
+    [
+     "Ba mẹ nhắc ba bước một lần, con tự làm.",
+     "Mum or Dad reminds you of the steps once, then you do it."
+    ],
+    [
+     "Con tự nhớ dùng ba bước và kể lại con đã thử những cách nào.",
+     "You remember the steps yourself and tell what you tried."
+    ]
+   ],
+   "rw": [
+    "Được chọn truyện đọc trước giờ ngủ tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Mình biết điều này từ đâu?",
+   "How do I know that?"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Tí nói: “Cá voi là một loài cá đấy!” Na nhớ trong sách viết khác. Hai bạn sắp cãi nhau.",
+   "Tí says, “A whale is a fish!” Na remembers her book saying something else. They’re about to argue."
+  ],
+  "cq": [
+   "Na nên làm gì?",
+   "What should Na do?"
+  ],
+  "co": [
+   [
+    "Cãi to hơn để thắng",
+    "Argue louder to win",
+    0,
+    "Nói to hơn không làm điều mình nói đúng hơn. Cùng kiểm tra nhé.",
+    "Being louder doesn’t make you right. Check together."
+   ],
+   [
+    "Hỏi: “Cậu biết từ đâu?”, rồi cùng mở sách hoặc hỏi cô",
+    "Ask, “Where did you learn that?” then check a book or ask the teacher",
+    1,
+    "Biết thông tin từ đâu giúp hai bạn xem điều nào đáng tin, không cần cãi nhau.",
+    "Knowing where information comes from shows what’s reliable, with no arguing."
+   ],
+   [
+    "Nghe theo Tí vì Tí nói rất chắc",
+    "Believe Tí because he sounds sure",
+    0,
+    "Nói chắc chắn chưa chắc là đúng. Hỏi xem bạn biết từ đâu nhé.",
+    "Sounding sure doesn’t make it true. Ask where he learnt it."
+   ]
+  ],
+  "qq": [
+   "Biết thông tin từ đâu giúp con điều gì?",
+   "Knowing where information comes from helps you…"
+  ],
+  "qo": [
+   [
+    "Xem thông tin có đáng tin không",
+    "Tell if it’s trustworthy"
+   ],
+   [
+    "Thắng khi cãi nhau",
+    "Win arguments"
+   ],
+   [
+    "Không giúp gì",
+    "Nothing at all"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ bảo Bin: “Nuốt hạt dưa hấu là cây mọc trong bụng đấy!” Bin hơi sợ.",
+     "Bin’s cousin says, “Swallow a watermelon seed and it’ll grow in your tummy!” Bin feels a bit scared."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi anh biết từ đâu, rồi hỏi lại ba mẹ",
+      "Ask where he heard it, then check with Mum or Dad",
+      1,
+      "Hỏi nguồn và hỏi người lớn tin cậy giúp con biết điều nào thật, đỡ lo hẳn.",
+      "Asking the source and a trusted grown-up shows what’s true and calms worries."
+     ],
+     [
+      "Tin ngay và lo mãi",
+      "Believe it and worry",
+      0,
+      "Chưa kiểm tra mà tin ngay thì lo không cần thiết. Hỏi ba mẹ nhé.",
+      "Believing without checking brings needless worry. Ask a grown-up."
+     ],
+     [
+      "Cười chê anh nói dối",
+      "Laugh and call him a liar",
+      0,
+      "Chê anh thì dễ giận nhau. Hỏi nhẹ nhàng “Anh biết từ đâu?” là đủ.",
+      "Mocking leads to upset. Gently asking where he heard it is enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ với mẹ, Bin nghe một cô bán hàng nói: “Ăn kẹo này sẽ thông minh hơn!”",
+     "At the market with Mum, Bin hears a seller say, “Eat these sweets and you’ll get cleverer!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi mẹ mua ngay",
+      "Beg Mum to buy them now",
+      0,
+      "Nghe một câu đã tin ngay thì dễ mua thứ không cần. Hỏi mẹ trước nhé.",
+      "Believing one sentence can mean buying what you don’t need. Ask first."
+     ],
+     [
+      "Hỏi mẹ: “Điều đó có đúng không, sao mình biết được ạ?”",
+      "Ask Mum, “Is that true? How would we know?”",
+      1,
+      "Người bán muốn bán hàng nên có thể nói quá lên. Hỏi người lớn tin cậy là cách hay.",
+      "Sellers want to sell, so they may exaggerate. Asking a trusted grown-up is smart."
+     ],
+     [
+      "Kể cho cả lớp như chuyện thật",
+      "Tell the class it’s a fact",
+      0,
+      "Chưa biết từ đâu mà kể như thật thì bạn có thể tin nhầm. Kiểm tra trước nhé.",
+      "Sharing it as fact could mislead friends. Check first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Biết từ đâu?",
+    "Where did I learn it?"
+   ],
+   "s": [
+    "Con nói ba điều mình biết (ví dụ: cây cần nước) và cho ba mẹ biết con biết từ đâu: sách, thầy cô hay tự thấy.",
+    "Say three things you know (like “plants need water”) and tell Mum or Dad where you learnt each one: a book, a teacher or seeing it yourself."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nêu mẫu một điều và nguồn, con làm theo.",
+     "Mum or Dad gives one example with its source and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói ba điều và nguồn.",
+     "Mum or Dad reminds you once, then you say three things and their sources."
+    ],
+    [
+     "Con tự nói ba điều, nguồn của từng điều và điều nào con muốn kiểm tra thêm.",
+     "You say three things, their sources and which one you’d like to check further."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ làm cho con huy hiệu giấy “Thám tử nhí”",
+    "Mum or Dad makes you a paper “Little detective” badge"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Bàn tay tin cậy",
+   "My trusted grown-ups"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ hỏi: “Nếu cần giúp mà không có mẹ ở đó, con tìm ai?” Bin chỉ nghĩ ra mỗi ba.",
+   "Mum asks, “If you need help and I’m not there, who would you go to?” Bin can only think of Dad."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cùng mẹ vẽ bàn tay, mỗi ngón là một người lớn tin cậy: ba, bà, cô giáo…",
+    "Draw a hand with Mum, each finger a trusted grown-up: Dad, Grandma, his teacher…",
+    1,
+    "Có nhiều người lớn tin cậy thì lúc nào con cũng có người để tìm đến.",
+    "With lots of trusted grown-ups, there’s always someone to go to."
+   ],
+   [
+    "Chỉ cần một người là đủ",
+    "One person is enough",
+    0,
+    "Có lúc người đó không ở gần. Có thêm vài người nữa sẽ an toàn hơn.",
+    "Sometimes that person isn’t nearby. A few more keeps you safer."
+   ],
+   [
+    "Ai tốt với con thì tìm, kể cả người mới gặp",
+    "Anyone kind, even someone just met",
+    0,
+    "Người lớn tin cậy là người con quen và ba mẹ đồng ý. Cùng mẹ chọn nhé.",
+    "Trusted grown-ups are people you know and Mum and Dad agree on. Choose with Mum."
+   ]
+  ],
+  "qq": [
+   "Người lớn tin cậy là ai?",
+   "A trusted grown-up is…"
+  ],
+  "qo": [
+   [
+    "Bất kỳ ai cho con quà",
+    "Anyone who gives you presents"
+   ],
+   [
+    "Người con quen, ba mẹ đồng ý, luôn giúp con an toàn",
+    "Someone you know, your parents agree on, who keeps you safe"
+   ],
+   [
+    "Người con mới gặp ở công viên",
+    "Someone you just met at the park"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ăn trưa ở trường, Na bị đau bụng. Cô chủ nhiệm đang ở phòng khác.",
+     "At school lunch, Na has a tummy ache. Her class teacher is in another room."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Cố chịu đến chiều",
+      "Put up with it until afternoon",
+      0,
+      "Chịu đau một mình không tốt. Có người lớn gần đó sẵn sàng giúp con.",
+      "Coping alone isn’t good. There are grown-ups nearby ready to help."
+     ],
+     [
+      "Tự ra cổng trường tìm mẹ",
+      "Go to the school gate to find Mum",
+      0,
+      "Ra cổng một mình không an toàn. Báo người lớn ở trường, cô sẽ gọi mẹ.",
+      "Going to the gate alone isn’t safe. Tell a grown-up at school; they’ll call Mum."
+     ],
+     [
+      "Báo cô trông bữa trưa hoặc cô y tế, cũng là người lớn tin cậy ở trường",
+      "Tell the lunch supervisor or school nurse, also trusted grown-ups at school",
+      1,
+      "Ở trường có nhiều người lớn tin cậy. Báo ngay để được giúp nhé.",
+      "School has several trusted grown-ups. Tell one straight away."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, một chú lạ nói: “Chú quen ba cháu, đi với chú nhé.” Ba đang mua nước gần đó.",
+     "At the park, a man Bin doesn’t know says, “I know your dad, come with me.” Dad is buying drinks nearby."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không đi, chạy ngay về chỗ ba và kể lại",
+      "Don’t go; run straight to Dad and tell him",
+      1,
+      "Chỉ đi cùng người lớn tin cậy. Về với ba và kể lại là đúng nhất.",
+      "Only go with trusted grown-ups. Going to Dad and telling him is right."
+     ],
+     [
+      "Đi theo vì chú nói quen ba",
+      "Go, because he says he knows Dad",
+      0,
+      "Người lạ có thể nói vậy. Dù thế nào cũng về với ba trước nhé.",
+      "Strangers can say that. Whatever they say, go to Dad first."
+     ],
+     [
+      "Đứng lại nói chuyện tiếp",
+      "Stay and keep chatting",
+      0,
+      "Không cần nói chuyện với người lạ. Về ngay với ba nhé.",
+      "No need to chat with a stranger. Go straight to Dad."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bàn tay tin cậy",
+    "My trusted hand"
+   ],
+   "s": [
+    "Con vẽ bàn tay mình lên giấy, mỗi ngón ghi tên hoặc vẽ một người lớn tin cậy con có thể tìm đến, rồi dán ở chỗ dễ thấy.",
+    "Draw round your hand, write or draw a trusted grown-up on each finger, then stick it somewhere easy to see."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ tên từng người và viết giúp.",
+     "Mum or Dad thinks of names with you and helps write them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn năm người và vẽ.",
+     "Mum or Dad reminds you once, then you choose five people and draw."
+    ],
+    [
+     "Con tự vẽ đủ năm người và nói khi nào con tìm đến từng người.",
+     "You draw all five and say when you’d go to each one."
+    ]
+   ],
+   "rw": [
+    "Con được gọi điện chào hỏi một người trong bàn tay tin cậy",
+    "You phone one of your trusted grown-ups to say hello"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Đọc lịch tuần",
+   "Reading the week’s calendar"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cô dặn thứ Sáu mang lá cây đến lớp. Bin quên mất, sáng thứ Sáu mới nhớ ra.",
+   "The teacher said to bring a leaf on Friday. Bin forgot and only remembered on Friday morning."
+  ],
+  "cq": [
+   "Lần sau Bin làm gì?",
+   "What should Bin do next time?"
+  ],
+  "co": [
+   [
+    "Nhờ mẹ nhớ hết giúp",
+    "Ask Mum to remember everything",
+    0,
+    "Mẹ có thể giúp, nhưng con tự xem lịch được rồi.",
+    "Mum can help, but you can read the calendar yourself."
+   ],
+   [
+    "Cố nhớ trong đầu",
+    "Try to keep it all in his head",
+    0,
+    "Nhiều việc quá thì đầu dễ quên. Ghi lên lịch sẽ chắc hơn.",
+    "With lots going on, heads forget. A calendar is safer."
+   ],
+   [
+    "Đánh dấu việc đặc biệt lên lịch và xem lịch mỗi tối",
+    "Mark special things on the calendar and look at it each evening",
+    1,
+    "Nhìn lịch giúp con biết trước việc sắp tới để chuẩn bị kịp.",
+    "Checking the calendar tells you what’s coming so you’re ready."
+   ]
+  ],
+  "qq": [
+   "Xem lịch tuần giúp con điều gì?",
+   "Looking at the week’s calendar helps you…"
+  ],
+  "qo": [
+   [
+    "Biết trước việc đặc biệt để chuẩn bị",
+    "Know special things ahead and get ready"
+   ],
+   [
+    "Làm tuần trôi nhanh hơn",
+    "Make the week go faster"
+   ],
+   [
+    "Chỉ để tô màu cho đẹp",
+    "Just colour it in"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô dán lịch tuần lên bảng: thứ Ba đi thư viện, thứ Năm mặc đồ thể thao.",
+     "The teacher puts the week’s plan on the board: library on Tuesday, PE kit on Thursday."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Không xem vì đã có cô nhắc",
+      "Don’t bother; the teacher will remind",
+      0,
+      "Cô nhắc trên lớp, còn ở nhà thì con cần tự nhớ. Chép lại nhé.",
+      "The teacher reminds at school, but at home it’s up to you. Copy it down."
+     ],
+     [
+      "Đọc lịch, chép vào sổ và xem lại mỗi tối",
+      "Read it, copy it into her notebook and check each evening",
+      1,
+      "Tự chép và xem lại giúp Na không quên đồ cần mang.",
+      "Copying and checking helps Na remember what to bring."
+     ],
+     [
+      "Xem một lần rồi thôi",
+      "Look once and forget it",
+      0,
+      "Một lần thì dễ quên. Xem lại mỗi tối sẽ nhớ lâu hơn.",
+      "Once is easy to forget. Checking each night helps."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố cùng mẹ, Bin thấy bảng thông báo: sáng Chủ nhật có giờ kể chuyện cho thiếu nhi.",
+     "At the local library with Mum, Bin sees a notice: storytime for children on Sunday morning."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hôm nào rảnh thì đến",
+      "Turn up any day you’re free",
+      0,
+      "Giờ kể chuyện chỉ có vào Chủ nhật. Xem lịch để đến đúng ngày nhé.",
+      "Storytime is only on Sunday. Use the calendar to get the right day."
+     ],
+     [
+      "Nhớ trong đầu là được",
+      "Just remember it",
+      0,
+      "Cả tuần dài, dễ quên lắm. Ghi lên lịch là chắc nhất.",
+      "It’s a long week and easy to forget. Write it down."
+     ],
+     [
+      "Đọc cùng mẹ và đánh dấu Chủ nhật lên lịch ở nhà",
+      "Read it with Mum and mark Sunday on the calendar at home",
+      1,
+      "Ghi lên lịch thì cả nhà cùng nhớ và Bin không lỡ giờ kể chuyện.",
+      "Writing it down helps the whole family remember."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lịch tuần của con",
+    "My week calendar"
+   ],
+   "s": [
+    "Con cùng ba mẹ ghi hoặc vẽ các việc đặc biệt trong tuần lên lịch, rồi đọc lại cho ba mẹ nghe.",
+    "With Mum or Dad, write or draw the week’s special things on a calendar, then read it back to them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc từng ngày, con vẽ hoặc dán ký hiệu.",
+     "Mum or Dad reads each day and you draw or stick a symbol."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự ghi việc lên lịch.",
+     "Mum or Dad reminds you once, then you add the things yourself."
+    ],
+    [
+     "Con tự ghi, mỗi tối tự xem lịch và nhắc cả nhà việc ngày mai.",
+     "You fill it in, check it each evening and remind the family about tomorrow."
+    ]
+   ],
+   "rw": [
+    "Con được chọn hoạt động cho một buổi chiều trong tuần",
+    "You choose the activity for one afternoon this week"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Giúp người mà không cần tiền",
+   "Helping without money"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi cùng mẹ về đầu ngõ, Bin thấy bà cụ hàng xóm xách hai túi đồ nặng. Bin muốn giúp nhưng nghĩ mình nhỏ quá.",
+   "Walking home with Mum, Bin sees the elderly neighbour carrying two heavy bags. He wants to help but thinks he’s too small."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nghĩ mình nhỏ nên không giúp được",
+    "Decide he’s too small to help",
+    0,
+    "Việc nhỏ như mở cổng cũng là giúp đỡ. Con làm được đấy.",
+    "Even opening a gate is helping. You can do it."
+   ],
+   [
+    "Chạy về nhà trước",
+    "Run on home",
+    0,
+    "Chỉ cần dừng lại một chút, con đã giúp bà nhẹ nhàng hơn nhiều.",
+    "Stopping for a moment could make things much easier for her."
+   ],
+   [
+    "Cùng mẹ xách đỡ một túi nhẹ và mở cổng giúp bà",
+    "Help Mum carry a light bag and open the gate for her",
+    1,
+    "Công sức và sự quan tâm của con là món quà quý, không cần tiền.",
+    "Your effort and care are a precious gift, no money needed."
+   ]
+  ],
+  "qq": [
+   "Món quà không cần tiền là gì?",
+   "Which gift needs no money?"
+  ],
+  "qo": [
+   [
+    "Không có món quà nào như vậy",
+    "There’s no such gift"
+   ],
+   [
+    "Thời gian, công sức và sự quan tâm",
+    "Time, effort and care"
+   ],
+   [
+    "Chỉ đồ đắt mới là quà",
+    "Only expensive things count"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sinh nhật bà sắp đến. Bin buồn vì không có tiền mua quà.",
+     "Grandma’s birthday is coming. Bin is sad he has no money for a present."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xin mẹ tiền để mua quà",
+      "Ask Mum for money for a present",
+      0,
+      "Quà mua cũng được, nhưng quà tự làm có tấm lòng của con. Thử nhé.",
+      "Bought gifts are fine, but homemade ones carry your love. Give it a go."
+     ],
+     [
+      "Vẽ thiệp, đấm lưng và hát tặng bà",
+      "Make a card, give her a back rub and sing her a song",
+      1,
+      "Bà sẽ vui vì con dành thời gian và tình thương cho bà.",
+      "Grandma will love that you gave her your time and love."
+     ],
+     [
+      "Không tặng gì vì không có tiền",
+      "Give nothing because there’s no money",
+      0,
+      "Không có tiền vẫn tặng được. Một bài hát hay cái ôm cũng là quà.",
+      "You can give without money. A song or hug is a gift too."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bạn Mai mới chuyển đến lớp, chưa quen ai, giờ ra chơi đứng một mình.",
+     "Mai is new to the class, knows no one and stands alone at break."
+    ],
+    "q": [
+     "Na có thể giúp thế nào?",
+     "How can Na help?"
+    ],
+    "o": [
+     [
+      "Rủ Mai chơi cùng và chỉ cho Mai thư viện ở đâu",
+      "Invite Mai to play and show her where the library is",
+      1,
+      "Một lời rủ và chút thời gian của con giúp bạn mới thấy được chào đón.",
+      "An invitation and a little time help a new friend feel welcome."
+     ],
+     [
+      "Cho Mai tiền ăn quà",
+      "Give Mai money for snacks",
+      0,
+      "Bạn mới cần một người bạn hơn là tiền. Rủ bạn chơi cùng nhé.",
+      "A new pupil needs a friend more than money. Invite her to play."
+     ],
+     [
+      "Chờ Mai tự làm quen",
+      "Wait for Mai to make friends herself",
+      0,
+      "Mới đến thường ngại. Con chủ động rủ thì bạn đỡ lo hơn nhiều.",
+      "New pupils often feel shy. Your invitation makes a big difference."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba cách giúp không cần tiền",
+    "Three ways to help without money"
+   ],
+   "s": [
+    "Con nghĩ ba cách giúp người khác không cần tiền (hát tặng, phụ việc nhà, hỏi han) và làm một cách hôm nay.",
+    "Think of three ways to help without money (singing for someone, helping with chores, asking how they are) and do one today."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ ba cách và làm cùng con một cách.",
+     "Mum or Dad thinks of three ways with you and does one together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ và tự làm một cách.",
+     "Mum or Dad reminds you once, then you think of them and do one."
+    ],
+    [
+     "Con tự nghĩ ba cách, làm một cách và kể người được giúp thấy thế nào.",
+     "You think of three, do one and tell how the person felt."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết lời khen vào “sổ việc tốt” của con",
+    "Mum or Dad writes praise in your “kind deeds” book"
+   ]
+  }
+ }
+]

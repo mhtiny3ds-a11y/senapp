@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Giới thiệu bản thân",
+   "Introducing myself"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Buổi đầu câu lạc bộ khoa học, thầy mời từng bạn giới thiệu. Đến lượt An, An chỉ nói nhỏ: “Em tên An” rồi ngồi xuống, mặt đỏ bừng.",
+   "At the first science club meeting, the teacher asks everyone to introduce themselves. When it’s An’s turn, An mumbles, “I’m An,” and sits down, red in the face."
+  ],
+  "cq": [
+   "Lần sau An nên giới thiệu thế nào?",
+   "How should An introduce themselves next time?"
+  ],
+  "co": [
+   [
+    "Nói thật dài cho mọi người nhớ",
+    "Talk for ages so people remember",
+    0,
+    "Dài quá thì mọi người khó nhớ. Ngắn gọn mà đủ ý sẽ tốt hơn.",
+    "Too long is hard to remember. Short and complete is better."
+   ],
+   [
+    "Xin thầy cho bỏ qua",
+    "Ask to skip",
+    0,
+    "Hồi hộp là bình thường. Chuẩn bị trước ba ý ngắn sẽ giúp con tự tin hơn.",
+    "Nerves are normal. Preparing three short points will boost your confidence."
+   ],
+   [
+    "Nhìn mọi người, mỉm cười, nói tên, một sở thích và một điều muốn học ở câu lạc bộ",
+    "Look up, smile, and say your name, one hobby and one thing you want to learn at the club",
+    1,
+    "Ba ý ngắn kèm nụ cười giúp mọi người nhớ con và dễ bắt chuyện sau đó.",
+    "Three short points and a smile help people remember you and start chatting later."
+   ]
+  ],
+  "qq": [
+   "Một lời giới thiệu bản thân tốt gồm gì?",
+   "A good self-introduction includes…"
+  ],
+  "qo": [
+   [
+    "Tên, một sở thích và điều mình muốn học",
+    "Your name, a hobby and something you want to learn"
+   ],
+   [
+    "Kể hết mọi chuyện về mình",
+    "Everything about yourself"
+   ],
+   [
+    "Chỉ tên là đủ",
+    "Just your name"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà An có họ hàng ở xa lần đầu đến chơi. Bác hỏi: “Cháu kể bác nghe về cháu đi.”",
+     "Relatives from far away visit An’s family for the first time. An uncle says, “Tell me about yourself.”"
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“Dạ, cháu bình thường thôi ạ”",
+      "“There’s not much to say”",
+      0,
+      "Câu này làm câu chuyện dừng lại. Kể một hai điều mình thích sẽ vui hơn.",
+      "That ends the chat. Sharing one or two things you enjoy is nicer."
+     ],
+     [
+      "“Dạ, cháu là An, học lớp năm. Cháu thích vẽ và đang tập bơi ạ. Bác có thích bơi không ạ?”",
+      "“I’m An, in Year 6. I love drawing and I’m learning to swim. Do you like swimming?”",
+      1,
+      "Giới thiệu ngắn rồi hỏi lại giúp cuộc trò chuyện tự nhiên và lễ phép.",
+      "A short intro followed by a question keeps the chat friendly and polite."
+     ],
+     [
+      "Chạy vào phòng vì ngại",
+      "Run off to your room out of shyness",
+      0,
+      "Ngại là bình thường. Hít một hơi rồi nói vài câu ngắn, con sẽ thấy dễ hơn.",
+      "Shyness is normal. Take a breath and say a few short sentences; it gets easier."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp học bơi mới, có ba mẹ ngồi chờ bên ngoài, An đứng cạnh một bạn chưa quen cũng đang đợi thầy.",
+     "At a new swimming class, with parents waiting nearby, An stands next to an unfamiliar child also waiting for the coach."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Đứng im chờ bạn bắt chuyện trước",
+      "Wait silently for them to speak first",
+      0,
+      "Nếu ai cũng chờ thì không ai nói. Con có thể mở lời trước.",
+      "If everyone waits, nobody talks. You can go first."
+     ],
+     [
+      "Hỏi tên trường, địa chỉ nhà bạn",
+      "Ask for their school and home address",
+      0,
+      "Mới quen thì chỉ nên hỏi chuyện chung như sở thích, không hỏi địa chỉ.",
+      "When you’ve just met, chat about hobbies, not addresses."
+     ],
+     [
+      "Mỉm cười: “Chào cậu, tớ là An, tớ mới học buổi đầu. Cậu học lâu chưa?”",
+      "Smile: “Hi, I’m An, it’s my first lesson. Have you been coming long?”",
+      1,
+      "Lời chào thân thiện kèm một câu hỏi đơn giản giúp làm quen dễ dàng.",
+      "A friendly hello and a simple question make it easy to get to know someone."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một phút giới thiệu bản thân",
+    "My one-minute introduction"
+   ],
+   "s": [
+    "Con tập giới thiệu bản thân trong 1 phút trước cả nhà: tên, lớp, một sở thích, một điều muốn học. Nhìn mọi người và mỉm cười.",
+    "Practise introducing yourself to the family in 1 minute: name, class, a hobby and something you want to learn. Look at everyone and smile."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giới thiệu mẫu trước, con nói theo khung ba ý.",
+     "Your parent goes first as a model; you follow the three-point frame."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và nói trước cả nhà.",
+     "With one reminder, you prepare and speak to the family."
+    ],
+    [
+     "Con tự nói trọn 1 phút, thêm một câu hỏi lại người nghe và nhận góp ý.",
+     "You speak for a full minute, add a question for the listeners and take feedback."
+    ]
+   ],
+   "rw": [
+    "Cả nhà mỗi người khen con một điều",
+    "Each family member says one thing they like about you"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Thay đổi lớn làm mình lo",
+   "Big changes make me anxious"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ báo cuối năm cả nhà sẽ chuyển sang nhà mới ở quận khác, An sẽ học trường mới. Tối đó An nằm nghĩ mãi: “Nếu không ai chơi với mình thì sao?”",
+   "Mum and Dad say the family will move to a new home in another district at the end of the year, and An will start a new school. That night An lies awake thinking, “What if nobody wants to be my friend?”"
+  ],
+  "cq": [
+   "An nên làm gì với nỗi lo này?",
+   "What should An do with this worry?"
+  ],
+  "co": [
+   [
+    "Viết ra điều mình lo và điều mình có thể làm, rồi chia sẻ với ba mẹ",
+    "Write down what worries you and what you can do, then share it with Mum and Dad",
+    1,
+    "Gọi tên nỗi lo và tìm điều mình làm được giúp thay đổi bớt đáng sợ.",
+    "Naming the worry and finding what you can control makes change less scary."
+   ],
+   [
+    "Cố không nghĩ đến nữa",
+    "Try not to think about it",
+    0,
+    "Né nỗi lo thì nó vẫn quay lại. Viết ra và nói với ba mẹ sẽ nhẹ hơn.",
+    "Avoided worries come back. Writing them down and talking helps."
+   ],
+   [
+    "Năn nỉ ba mẹ đừng chuyển nhà",
+    "Beg your parents not to move",
+    0,
+    "Có những thay đổi mình không chọn được. Tập trung vào điều con làm được nhé.",
+    "Some changes aren’t ours to choose. Focus on what you can do."
+   ]
+  ],
+  "qq": [
+   "Khi lo vì thay đổi lớn, cách tốt là gì?",
+   "When a big change worries you…"
+  ],
+  "qo": [
+   [
+    "Giả vờ không lo",
+    "Pretend you’re fine"
+   ],
+   [
+    "Gọi tên nỗi lo và tìm điều mình làm được",
+    "Name the worry and find what you can control"
+   ],
+   [
+    "Chờ nó tự hết",
+    "Wait for it to pass"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Học kỳ mới, lớp An đổi cô chủ nhiệm. Cả lớp xôn xao: “Cô mới có nghiêm không?”",
+     "New term, new form teacher. The class is buzzing: “Will she be strict?”"
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An think about it?"
+    ],
+    "o": [
+     [
+      "Lo trước là cô sẽ khó tính",
+      "Assume she’ll be strict",
+      0,
+      "Đoán trước điều xấu làm mình lo thêm. Hãy chờ gặp cô rồi mới biết.",
+      "Imagining the worst adds worry. Wait until you meet her."
+     ],
+     [
+      "Nghĩ điều mình làm được: chuẩn bị đồ dùng đầy đủ, chào cô và kể với ba mẹ cảm giác của mình",
+      "Think of what you can do: have your things ready, greet her and tell your parents how you feel",
+      1,
+      "Điều mình chuẩn bị được thì mình làm, điều chưa biết thì từ từ tìm hiểu.",
+      "Do what you can prepare; take the unknowns step by step."
+     ],
+     [
+      "Rủ các bạn cùng không thích cô mới",
+      "Get friends to agree not to like her",
+      0,
+      "Chưa gặp mà đã không thích thì không công bằng với cô. Hãy cho mình cơ hội làm quen.",
+      "Disliking her before meeting isn’t fair. Give it a chance."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Kỳ nghỉ này An được ba mẹ cho đi trại hè ba ngày có thầy cô phụ trách. Gần ngày đi, An thấy bụng thắt lại.",
+     "These holidays An is going on a three-day supervised summer camp. As the day gets closer, An’s tummy feels tight."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói với ba mẹ là mình bị đau bụng để khỏi đi",
+      "Tell your parents you have a stomach ache to get out of it",
+      0,
+      "Nói thật cảm xúc thì ba mẹ mới giúp đúng được. Lo lắng không có gì xấu.",
+      "Telling the truth about feelings lets your parents help. Being nervous is okay."
+     ],
+     [
+      "Không nói gì, cố chịu",
+      "Say nothing and put up with it",
+      0,
+      "Giữ một mình thì nỗi lo nặng hơn. Chia sẻ sẽ nhẹ lòng.",
+      "Keeping it inside makes it heavier. Sharing lightens it."
+     ],
+     [
+      "Nói với ba mẹ điều mình lo, cùng soạn đồ, hỏi lịch trại và tên thầy cô phụ trách",
+      "Tell your parents what worries you, pack together, and ask about the timetable and the leaders",
+      1,
+      "Biết trước lịch và người phụ trách giúp con thấy chủ động hơn.",
+      "Knowing the plan and the grown-ups in charge helps you feel in control."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai cột: điều con lo – điều con làm được",
+    "Two columns: worries and actions"
+   ],
+   "s": [
+    "Về một thay đổi sắp tới (lên lớp, đổi chỗ ngồi, chuyển nhà, đi trại), con viết 2 cột “điều con lo” và “điều con có thể làm”, rồi chia sẻ với ba mẹ.",
+    "About a change coming up (a new class, new seat, moving, camp), write 2 columns, “What I worry about” and “What I can do”, then share them with your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ và viết từng dòng.",
+     "Your parent helps you think and write each line."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết rồi đọc cho ba mẹ nghe.",
+     "With one reminder, you write it and read it to your parent."
+    ],
+    [
+     "Con tự viết, chọn một việc ở cột “làm được” để làm ngay tuần này và kể lại.",
+     "You write it, pick one action to do this week and report back."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể về một lần thay đổi lớn hồi nhỏ và cách ba mẹ vượt qua",
+    "Your parent tells you about a big change they faced as a child"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Làm việc với bạn chưa thân",
+   "Working with people I’m not close to"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở nhóm đọc sách cuối tuần của thư viện khu phố, cô phụ trách xếp An làm cùng Bảo, một bạn ít nói An chưa bao giờ chơi cùng. Hai bạn phải cùng kể lại một câu chuyện.",
+   "At the local library’s weekend reading group, the leader pairs An with Bảo, a quiet child An has never played with. Together they must retell a story."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Xin cô đổi sang làm với bạn thân",
+    "Ask to swap to a best friend",
+    0,
+    "Làm với bạn thân dễ hơn, nhưng làm với bạn mới giúp con học thêm nhiều điều.",
+    "Friends are easier, but working with someone new teaches you more."
+   ],
+   [
+    "Hỏi Bảo thích đoạn nào, chia nhau phần kể và khen điều Bảo làm tốt",
+    "Ask Bảo which part he likes, share the retelling and praise what he does well",
+    1,
+    "Tôn trọng, tập trung vào việc chung và tìm điểm mạnh của bạn giúp hai người làm tốt cùng nhau.",
+    "Respect, focus on the task and spot their strengths: that’s how two people work well together."
+   ],
+   [
+    "Tự làm hết vì Bảo ít nói",
+    "Do it all because Bảo is quiet",
+    0,
+    "Ít nói không có nghĩa là không có ý hay. Hỏi bạn, con sẽ bất ngờ đấy.",
+    "Quiet doesn’t mean no ideas. Ask, and you may be surprised."
+   ]
+  ],
+  "qq": [
+   "Làm việc với bạn chưa thân, điều quan trọng là gì?",
+   "Working with someone you don’t know well, what matters most?"
+  ],
+  "qo": [
+   [
+    "Chỉ làm phần mình thích",
+    "Doing only the bits you like"
+   ],
+   [
+    "Chờ bạn làm trước",
+    "Waiting for them to start"
+   ],
+   [
+    "Tôn trọng, tập trung việc chung và tìm điểm mạnh của bạn",
+    "Respect, focus on the task and find their strengths"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Kỳ nghỉ, chị họ của An đến ở chơi. Hai chị em ít gặp nên còn ngại. Mẹ nhờ hai chị em cùng gói bánh.",
+     "During the holidays An’s older cousin comes to stay. They rarely meet and feel awkward. Mum asks them to wrap dumplings together."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi chị cách gói, chia việc: chị gói, em xếp nhân, rồi cùng đếm xem được bao nhiêu cái",
+      "Ask how she wraps them, split the jobs (she wraps, you add the filling) and count them together",
+      1,
+      "Hỏi và chia việc rõ ràng giúp hai người bớt ngại và làm việc vui hơn.",
+      "Asking and sharing jobs clearly makes it less awkward and more fun."
+     ],
+     [
+      "Làm phần mình, không nói gì",
+      "Do your bit in silence",
+      0,
+      "Im lặng thì cả hai vẫn ngại. Một câu hỏi nhỏ giúp phá băng.",
+      "Silence keeps it awkward. One small question breaks the ice."
+     ],
+     [
+      "Bảo mẹ để mình làm một mình",
+      "Ask Mum to let you do it alone",
+      0,
+      "Làm cùng nhau là cơ hội để hai chị em gần nhau hơn.",
+      "Working together is a chance to get closer."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô xếp nhóm mới cho dự án Khoa học. Trong nhóm có Linh, bạn từng không đồng ý với An trong một trò chơi.",
+     "The teacher makes new groups for a science project. Linh, who once disagreed with An in a game, is in the group."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ít nói chuyện với Linh",
+      "Avoid talking to Linh",
+      0,
+      "Chuyện cũ không nên ảnh hưởng việc chung. Hãy bắt đầu lại với thái độ tôn trọng.",
+      "Old disagreements shouldn’t spoil teamwork. Start fresh with respect."
+     ],
+     [
+      "Chào Linh, hỏi Linh muốn nhận phần nào, và ghi nhận khi Linh vẽ sơ đồ đẹp",
+      "Say hello, ask which part Linh wants, and say so when her diagram looks great",
+      1,
+      "Tập trung vào việc chung và nhìn điểm mạnh của bạn giúp nhóm làm tốt.",
+      "Focusing on the task and seeing strengths makes the group work."
+     ],
+     [
+      "Xin cô đổi nhóm",
+      "Ask to change groups",
+      0,
+      "Không phải lúc nào cũng được chọn người cùng nhóm. Đây là dịp tập làm việc với mọi người.",
+      "You can’t always choose teammates. This is a chance to practise."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Điểm mạnh của một bạn ít chơi cùng",
+    "A strength of someone I don’t know well"
+   ],
+   "s": [
+    "Con nghĩ về một bạn con ít chơi cùng (ở lớp hoặc khu phố) và kể với ba mẹ một điểm mạnh của bạn ấy, kèm một ví dụ con đã thấy.",
+    "Think of someone you don’t usually play with (at school or nearby) and tell your parent one of their strengths, with an example you’ve seen."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu hỏi để con nhớ lại bạn đã làm tốt điều gì.",
+     "Your parent asks questions to help you remember what they did well."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ và kể.",
+     "With one reminder, you think of it and tell them."
+    ],
+    [
+     "Con tự kể, còn nói với chính bạn ấy một lời khen ở lớp và kể lại bạn phản ứng thế nào.",
+     "You share it, also compliment that person at school and say how they reacted."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dạy con một trò chơi dân gian ba mẹ từng chơi",
+    "Your parent teaches you a traditional game they used to play"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự lo khi bị mệt nhẹ",
+   "Looking after myself when unwell"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chiều thứ Bảy, An thấy hơi nhức đầu, người mệt và hắt hơi liên tục. Ba mẹ đang ở phòng bên. An thấy tủ thuốc trong bếp và định tự lấy thuốc uống.",
+   "On Saturday afternoon An has a slight headache, feels tired and keeps sneezing. Mum and Dad are in the next room. An sees the medicine cabinet in the kitchen and thinks about taking something."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tự lấy một viên thuốc hay thấy mẹ uống",
+    "Take a tablet you’ve seen Mum use",
+    0,
+    "Thuốc của người lớn có thể không hợp với trẻ. Thuốc chỉ do ba mẹ hoặc bác sĩ đưa cho con.",
+    "Adult medicine may not suit children. Medicine only comes from your parents or a doctor."
+   ],
+   [
+    "Cố chịu, không nói ai",
+    "Put up with it and tell nobody",
+    0,
+    "Cố chịu thì ba mẹ không biết để chăm con. Báo sớm sẽ khoẻ nhanh hơn.",
+    "If you keep quiet, nobody can help. Telling early helps you recover."
+   ],
+   [
+    "Sang báo ba mẹ mình thấy mệt, uống nước ấm, nằm nghỉ và để ba mẹ quyết định có cần thuốc không",
+    "Tell Mum and Dad you feel unwell, drink warm water, rest and let them decide about medicine",
+    1,
+    "Nhận ra mình mệt và báo người lớn là cách tự lo đúng. Thuốc là việc của người lớn.",
+    "Noticing you’re unwell and telling a grown-up is real self-care. Medicine is a grown-up’s job."
+   ]
+  ],
+  "qq": [
+   "Khi thấy mệt, việc đầu tiên nên làm là gì?",
+   "When you feel unwell, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Báo người lớn và nghỉ ngơi",
+    "Tell a grown-up and rest"
+   ],
+   [
+    "Tự uống thuốc",
+    "Take medicine yourself"
+   ],
+   [
+    "Cố chịu cho qua",
+    "Tough it out"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giữa giờ học, An thấy chóng mặt nhẹ và hơi buồn nôn.",
+     "During a lesson, An feels a little dizzy and slightly sick."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gục xuống bàn chờ hết giờ",
+      "Put your head on the desk until the end",
+      0,
+      "Cô không biết thì không giúp được. Nói với cô là việc đúng.",
+      "The teacher can’t help if she doesn’t know. Telling her is right."
+     ],
+     [
+      "Giơ tay báo cô, xin xuống phòng y tế và nhờ cô gọi ba mẹ nếu cần",
+      "Put your hand up, tell the teacher, ask to see the school nurse and ask her to call home if needed",
+      1,
+      "Báo cô và đến phòng y tế giúp con được chăm sóc đúng cách.",
+      "Telling the teacher and seeing the nurse gets you proper care."
+     ],
+     [
+      "Xin kẹo của bạn ăn cho đỡ",
+      "Get a sweet from a friend to feel better",
+      0,
+      "Khi mệt cần người lớn xem giúp. Báo cô trước nhé.",
+      "When unwell, a grown-up should check. Tell the teacher first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên với ông bà, trời nắng, An thấy khát, mệt và nóng bừng mặt.",
+     "At the park with Grandma and Grandpa on a sunny day, An feels thirsty, tired and hot in the face."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói ngay với ông bà, vào chỗ bóng râm ngồi nghỉ và uống nước",
+      "Tell your grandparents right away, sit in the shade and drink water",
+      1,
+      "Nhận ra dấu hiệu mệt và nói với người lớn đi cùng giúp con hồi lại nhanh.",
+      "Spotting the signs and telling the grown-up with you helps you recover quickly."
+     ],
+     [
+      "Chạy chơi tiếp cho hết buổi",
+      "Keep running around until the end",
+      0,
+      "Cố chơi khi mệt dễ làm con mệt hơn. Nghỉ một chút rồi chơi tiếp cũng được.",
+      "Playing on when tired makes it worse. A short rest first is fine."
+     ],
+     [
+      "Đi một mình ra quầy mua nước",
+      "Go off alone to buy a drink",
+      0,
+      "Khi mệt, đừng tự đi một mình. Hãy nói với ông bà để cùng đi.",
+      "When you’re unwell, don’t wander off alone. Ask your grandparents to come."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thẻ “khi con thấy mệt”",
+    "My “when I feel unwell” card"
+   ],
+   "s": [
+    "Con cùng ba mẹ làm thẻ “khi con thấy mệt” với 4 bước (báo người lớn, uống nước, nghỉ ngơi, thuốc chỉ do người lớn đưa) và dán ở chỗ dễ thấy.",
+    "With your parent, make a “when I feel unwell” card with 4 steps (tell a grown-up, drink water, rest, medicine only from a grown-up) and stick it somewhere easy to see."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết và trang trí thẻ.",
+     "Your parent writes and decorates the card with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm thẻ rồi đọc lại 4 bước.",
+     "With one reminder, you make the card and read the 4 steps aloud."
+    ],
+    [
+     "Con tự làm, đọc thuộc 4 bước và nói tên người lớn con sẽ báo khi ở nhà, ở trường, khi đi chơi.",
+     "You make it, know the 4 steps by heart and name who you’d tell at home, at school and when out."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ nấu một bát cháo hoặc món ấm con thích vào cuối tuần",
+    "Your parent cooks your favourite warm dish at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Khi mình mắc lỗi lớn",
+   "When I make a big mistake"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "An được giao giữ tấm áp phích cả nhóm làm hai tuần để mang đi thi. Sáng nay An để quên nó trên xe buýt của trường. Còn một tiết nữa là đến giờ nộp.",
+   "An was trusted with the poster the group spent two weeks making for a competition. This morning An left it on the school bus. Hand-in is in one lesson’s time."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Báo ngay với nhóm và cô, nhờ cô liên hệ xe buýt, đồng thời cùng nhóm nghĩ phương án nếu không tìm được",
+    "Tell the group and teacher straight away, ask the teacher to contact the bus, and plan with the group in case it’s not found",
+    1,
+    "Nhận lỗi sớm thì còn thời gian sửa. Từng bước nhỏ giúp lỗi lớn bớt nặng nề.",
+    "Owning up early leaves time to fix it. Small steps make a big mistake manageable."
+   ],
+   [
+    "Giấu đi, nói là chưa thấy cô giao",
+    "Hide it and say the teacher never gave it to you",
+    0,
+    "Giấu lỗi làm mất cơ hội tìm lại và mất lòng tin của nhóm.",
+    "Hiding it loses the chance to recover it and the group’s trust."
+   ],
+   [
+    "Ngồi khóc, nghĩ mình thật tệ",
+    "Sit and cry, thinking you’re awful",
+    0,
+    "Buồn là bình thường, nhưng con không tệ. Lau nước mắt rồi bắt tay vào sửa nhé.",
+    "Feeling sad is normal, but you’re not awful. Dry your eyes and start fixing it."
+   ]
+  ],
+  "qq": [
+   "Khi mắc lỗi lớn, việc nên làm đầu tiên?",
+   "After a big mistake, the first step is…"
+  ],
+  "qo": [
+   [
+    "Giấu đi để không bị trách",
+    "Hide it to avoid blame"
+   ],
+   [
+    "Nhận lỗi và bắt đầu khắc phục",
+    "Own up and start fixing it"
+   ],
+   [
+    "Đợi người khác phát hiện",
+    "Wait for someone to notice"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An mượn chiếc máy ảnh cũ của ba để chụp ảnh lá cây, lỡ làm rơi, ống kính bị xước.",
+     "An borrowed Dad’s old camera to photograph leaves, dropped it, and scratched the lens."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cất lại chỗ cũ, mong ba không để ý",
+      "Put it back and hope Dad doesn’t notice",
+      0,
+      "Ba sẽ phát hiện và buồn vì con không nói. Nói thật sẽ tốt hơn.",
+      "Dad will notice and be sad you didn’t say. Honesty is better."
+     ],
+     [
+      "Nói với ba ngay, xin lỗi, hỏi ba có sửa được không và lần sau đeo dây máy vào cổ tay",
+      "Tell Dad straight away, apologise, ask if it can be fixed and use the wrist strap next time",
+      1,
+      "Nhận lỗi, hỏi cách khắc phục và rút kinh nghiệm là ba bước để sửa lỗi lớn.",
+      "Owning it, asking how to fix it and learning from it are the three steps."
+     ],
+     [
+      "Đổ cho em làm rơi",
+      "Blame little Tí",
+      0,
+      "Đổ lỗi làm em bị oan và con mất lòng tin. Nhận lỗi cần can đảm, con làm được.",
+      "Blaming him is unfair and loses trust. Owning up takes courage, and you can do it."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố, An lỡ làm đổ nước lên cuốn sách đang mượn, vài trang bị nhăn.",
+     "At the local library, An spills water on a borrowed book and some pages wrinkle."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Trả lại không nói gì",
+      "Return it without a word",
+      0,
+      "Thư viện cần biết để xử lý sách. Nói thật là cách tôn trọng đồ dùng chung.",
+      "The library needs to know. Honesty respects shared things."
+     ],
+     [
+      "Không bao giờ quay lại thư viện nữa",
+      "Never go back to the library",
+      0,
+      "Tránh mặt không sửa được lỗi. Cùng ba mẹ đến nói với cô thủ thư sẽ tốt hơn.",
+      "Avoiding it fixes nothing. Going with a parent to tell the librarian is better."
+     ],
+     [
+      "Cùng ba mẹ đến báo cô thủ thư, xin lỗi và hỏi cách đền bù hoặc sửa",
+      "Go with your parent to tell the librarian, apologise and ask how to make it right",
+      1,
+      "Nhận lỗi cùng người lớn và hỏi cách khắc phục giúp con giữ được sự tin cậy.",
+      "Owning up with a grown-up and asking how to fix it keeps people’s trust."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Các bước sửa một lỗi",
+    "Steps to fix a mistake"
+   ],
+   "s": [
+    "Con cùng ba mẹ kể về một lỗi con từng mắc (lớn hoặc vừa), rồi viết các bước con đã làm hoặc sẽ làm để sửa và điều con rút ra.",
+    "Talk with your parent about a mistake you once made, then write the steps you took or will take to fix it and what you learned."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể một lỗi của ba mẹ trước, rồi giúp con viết các bước.",
+     "Your parent shares a mistake of their own first, then helps you write the steps."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể và tự viết các bước.",
+     "With one reminder, you tell the story and write the steps."
+    ],
+    [
+     "Con tự kể, viết đủ ba bước: nhận lỗi, khắc phục, rút kinh nghiệm, và làm luôn một bước còn dang dở.",
+     "You tell it, write all three steps (own up, fix, learn) and do any step still unfinished."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết cho con một tấm thiệp nhỏ “Ba mẹ tự hào vì con dám nhận lỗi”",
+    "Your parent writes you a card: “Proud of you for owning up”"
+   ]
+  }
+ }
+]

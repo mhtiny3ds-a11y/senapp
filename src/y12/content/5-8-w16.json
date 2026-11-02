@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự tắm và lau người",
+   "Bathing on my own"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ pha sẵn nước ấm và bảo Bin tự tắm. Bin chỉ dội nước qua người rồi định ra luôn.",
+   "Mum gets warm water ready and asks Bin to wash. Bin just splashes some water about and is about to come out."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Dội qua là xong",
+    "A quick splash is enough",
+    0,
+    "Dội qua thì chưa sạch mồ hôi và bụi. Làm đủ các bước nhé.",
+    "A splash doesn’t remove sweat and dirt. Do all the steps."
+   ],
+   [
+    "Gọi mẹ tắm hộ hết",
+    "Call Mum to do it all",
+    0,
+    "Con đã lớn để tự tắm rồi. Mẹ chỉ giúp phần khó thôi nhé.",
+    "You’re big enough to wash yourself. Mum can help with the hard parts."
+   ],
+   [
+    "Xoa xà phòng khắp người, gội đầu, dội sạch rồi lau khô, phần khó thì nhờ mẹ",
+    "Soap all over, wash your hair, rinse, dry off, and ask Mum for the tricky bits",
+    1,
+    "Tự tắm đủ bước và chỉ nhờ phần khó là con đã rất tự lập.",
+    "Doing all the steps and only asking for the tricky bits is real independence."
+   ]
+  ],
+  "qq": [
+   "Tự tắm sạch nghĩa là…",
+   "Washing yourself properly means…"
+  ],
+  "qo": [
+   [
+    "Dội nước qua là xong",
+    "A quick splash"
+   ],
+   [
+    "Chờ người khác tắm hộ",
+    "Waiting for someone to do it"
+   ],
+   [
+    "Làm đủ các bước, phần khó thì nhờ ba mẹ",
+    "Doing all the steps, asking for help with the hard parts"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau giờ thể dục, cô nhắc các bạn tự lau mồ hôi và thay áo. Bin lười, định để nguyên áo ướt.",
+     "After PE, the teacher reminds everyone to wipe off sweat and change tops. Bin can’t be bothered and plans to stay in the damp top."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Để nguyên áo ướt",
+      "Stay in the damp top",
+      0,
+      "Áo ướt mồ hôi dễ làm con bị lạnh. Thay áo chỉ mất một chút.",
+      "A sweaty top can make you cold. Changing takes a moment."
+     ],
+     [
+      "Tự lau mồ hôi bằng khăn, thay áo sạch mang theo",
+      "Wipe off with your towel and put on the clean top you brought",
+      1,
+      "Tự giữ cơ thể sạch sẽ giúp con khoẻ và dễ chịu cả buổi chiều.",
+      "Keeping yourself clean helps you stay healthy and comfy all afternoon."
+     ],
+     [
+      "Nhờ bạn lau hộ",
+      "Ask a friend to wipe you",
+      0,
+      "Việc của cơ thể mình thì mình tự làm nhé. Con làm được mà.",
+      "Looking after your own body is your job. You can do it."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi bơi cùng ba về, ở phòng thay đồ, ba bảo Bin tự tắm tráng và lau người.",
+     "After swimming, in the changing room, Dad asks Bin to rinse off and dry by themselves."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự tắm tráng, lau khô, mặc đồ, chỗ nào khó thì nhờ ba",
+      "Rinse, dry off and dress, asking Dad for anything tricky",
+      1,
+      "Làm từng bước và biết nhờ ba khi cần là cách tự lập rất giỏi.",
+      "Taking each step and asking Dad when needed is great independence."
+     ],
+     [
+      "Mặc luôn đồ khô lên người còn ướt",
+      "Pull dry clothes on over wet skin",
+      0,
+      "Người còn ướt thì quần áo ướt theo và dễ lạnh. Lau khô trước nhé.",
+      "Wet skin makes clothes wet and you get cold. Dry off first."
+     ],
+     [
+      "Đứng chờ ba làm hộ",
+      "Stand and wait for Dad to do it",
+      0,
+      "Ba tin con tự làm được. Thử từng bước, cần thì nhờ ba.",
+      "Dad trusts you to do it. Try each step and ask if stuck."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự tắm đủ bước",
+    "Wash myself, every step"
+   ],
+   "s": [
+    "Hôm nay con tự tắm: xà phòng, gội đầu, dội sạch, lau khô, mặc đồ. Ba mẹ chỉ chỉnh nước ấm và kiểm tra lại.",
+    "Today wash yourself: soap, hair, rinse, dry, dress. Mum or Dad only sets the warm water and checks afterwards."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ở cạnh, nhắc từng bước, con tự làm.",
+     "Mum or Dad stays nearby and says each step; you do it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tắm đủ bước.",
+     "Mum or Dad reminds you once; you do every step."
+    ],
+    [
+     "Con tự tắm đủ bước, tự treo khăn và kể lại các bước cho ba mẹ.",
+     "You do every step, hang up your towel and tell Mum or Dad the steps."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ hát cho con nghe một bài trước khi ngủ",
+    "Mum or Dad sings you a song at bedtime"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Lỡ làm vỡ cốc",
+   "When a cup breaks"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin đang rót nước thì tuột tay, chiếc cốc thuỷ tinh rơi vỡ dưới chân.",
+   "Bin is pouring water when the glass slips and smashes by Bin’s feet."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cúi xuống nhặt mảnh vỡ",
+    "Bend down and pick up the pieces",
+    0,
+    "Mảnh vỡ rất sắc, dễ đứt tay. Để người lớn dọn nhé.",
+    "Broken glass is very sharp. Let a grown-up clear it up."
+   ],
+   [
+    "Chạy đi trốn vì sợ bị mắng",
+    "Run and hide in case you’re told off",
+    0,
+    "Chạy có thể giẫm vào mảnh vỡ. Ai cũng có lúc lỡ tay, gọi mẹ nhé.",
+    "Running could mean stepping on glass. Accidents happen; call Mum."
+   ],
+   [
+    "Đứng yên, gọi: “Mẹ ơi, cốc vỡ rồi!”, chờ mẹ đến dọn",
+    "Stay still, call “Mum, a glass broke!” and wait for her",
+    1,
+    "Đứng yên và gọi người lớn là cách an toàn nhất. Sau đó cùng nghĩ cách để lần sau không vỡ.",
+    "Staying still and calling a grown-up is safest. Then think how to avoid it next time."
+   ]
+  ],
+  "qq": [
+   "Khi cốc vỡ, việc đầu tiên con nên làm là…",
+   "When a glass breaks, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Tự nhặt mảnh vỡ",
+    "Pick up the pieces"
+   ],
+   [
+    "Chạy đi chỗ khác",
+    "Run away"
+   ],
+   [
+    "Đứng yên và gọi người lớn",
+    "Stay still and call a grown-up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, bạn Linh làm rơi lọ hoa thuỷ tinh, mảnh vỡ văng gần chân Bin.",
+     "In class, Linh knocks over a glass vase and pieces land near Bin’s feet."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhặt mảnh vỡ giúp bạn",
+      "Help Linh pick up the pieces",
+      0,
+      "Muốn giúp bạn là tốt, nhưng mảnh vỡ rất sắc. Báo cô sẽ giúp được nhiều hơn.",
+      "Helping is kind, but glass is sharp. Telling the teacher helps more."
+     ],
+     [
+      "Chạy lại xem",
+      "Run over to look",
+      0,
+      "Chạy lại gần dễ giẫm vào mảnh vỡ. Đứng yên và báo cô nhé.",
+      "Running closer risks stepping on glass. Stay put and tell the teacher."
+     ],
+     [
+      "Đứng yên, nhắc các bạn đừng lại gần và báo cô",
+      "Stay still, tell others to keep back, and tell the teacher",
+      1,
+      "Đứng yên, giữ các bạn xa ra và báo cô giúp không ai bị đứt tay.",
+      "Staying still, keeping friends back and telling the teacher stops anyone getting cut."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quán ăn cùng ba mẹ, Bin vô tình gạt tay làm rơi vỡ cái đĩa.",
+     "At a restaurant with Mum and Dad, Bin accidentally knocks a plate off the table and it breaks."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi yên, xin lỗi và để ba nhờ cô nhân viên dọn",
+      "Stay seated, say sorry, and let Dad ask a staff member to clear it",
+      1,
+      "Ngồi yên, nhận lỗi và để người lớn xử lý là cách an toàn và lịch sự.",
+      "Sitting still, owning up and letting grown-ups handle it is safe and polite."
+     ],
+     [
+      "Lấy chân gạt mảnh vỡ vào gầm bàn",
+      "Kick the pieces under the table",
+      0,
+      "Gạt bằng chân dễ bị đứt và người khác có thể giẫm phải. Ngồi yên nhé.",
+      "Kicking can cut you and others might step on them. Sit still."
+     ],
+     [
+      "Giả vờ như không phải mình",
+      "Pretend it wasn’t you",
+      0,
+      "Lỡ tay thì ai cũng có lúc. Nói thật và xin lỗi sẽ nhẹ lòng hơn.",
+      "Everyone has accidents. Owning up and saying sorry feels better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Diễn tập khi cốc vỡ",
+    "Practise what to do if a glass breaks"
+   ],
+   "s": [
+    "Con cùng ba mẹ diễn tập các bước khi cốc vỡ (dùng cốc nhựa giả vờ): đứng yên, gọi người lớn, chờ dọn. Rồi cùng chọn chỗ để cốc an toàn hơn.",
+    "Practise with Mum or Dad what to do if a glass breaks (pretend with a plastic cup): stay still, call a grown-up, wait. Then choose a safer place for cups."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói từng bước, con làm theo.",
+     "Mum or Dad says each step and you act it out."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự diễn lại đủ bước.",
+     "Mum or Dad reminds you once; you act out all the steps."
+    ],
+    [
+     "Con tự diễn đủ bước, giải thích vì sao và đề xuất chỗ để cốc an toàn hơn.",
+     "You act out every step, explain why, and suggest a safer place for cups."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ trồng một cây nhỏ trong chậu",
+    "Plant a little pot plant with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đếm thử để biết thật",
+   "Count to find out"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bạn Huy nói: “Lớp mình bạn nào cũng thích đá bóng hơn nhảy dây”. Bin thấy chưa chắc.",
+   "Huy says: “Everyone in our class likes football more than skipping.” Bin isn’t sure."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tin lời Huy vì Huy nói chắc chắn",
+    "Believe Huy because he sounds sure",
+    0,
+    "Nói chắc chưa chắc đã đúng. Hỏi và đếm mới biết.",
+    "Sounding sure doesn’t make it true. Ask and count."
+   ],
+   [
+    "Đề nghị hỏi từng bạn rồi đếm xem bao nhiêu bạn thích mỗi trò",
+    "Suggest asking each friend and counting who likes which",
+    1,
+    "Hỏi từng bạn rồi đếm là cách tìm ra câu trả lời thật, ai cũng phải đồng ý.",
+    "Asking everyone and counting finds the real answer that all can agree on."
+   ],
+   [
+    "Cãi lại: “Không phải!”",
+    "Argue back: “That’s not true!”",
+    0,
+    "Cãi thì hai bạn đều chưa có bằng chứng. Đếm thử sẽ rõ ngay.",
+    "Arguing gives no proof either way. Counting makes it clear."
+   ]
+  ],
+  "qq": [
+   "Muốn biết “cái nào nhiều hơn”, cách chắc chắn nhất là…",
+   "To find out “which is more”, the surest way is…"
+  ],
+  "qo": [
+   [
+    "Đoán theo cảm giác",
+    "Go by feeling"
+   ],
+   [
+    "Đếm thử",
+    "Count"
+   ],
+   [
+    "Hỏi ai nói to nhất",
+    "Ask whoever is loudest"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin than: “Con toàn phải làm nhiều việc nhà hơn em!”. Mẹ hỏi Bin có chắc không.",
+     "Bin moans: “I always do more chores than my little sister!” Mum asks if Bin is sure."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Khẳng định chắc chắn mình làm nhiều hơn",
+      "Insist you definitely do more",
+      0,
+      "Cảm giác có khi chưa đúng. Đếm thử mới biết thật.",
+      "Feelings can be wrong. Counting tells you for sure."
+     ],
+     [
+      "Cùng mẹ đếm việc mỗi người làm hôm nay rồi so sánh",
+      "Count everyone’s jobs today with Mum and compare",
+      1,
+      "Đếm thật giúp con biết điều đúng, thay vì chỉ dựa vào cảm giác.",
+      "Counting shows what’s true instead of just how it feels."
+     ],
+     [
+      "Giận dỗi không làm nữa",
+      "Sulk and stop helping",
+      0,
+      "Dỗi thì chưa biết ai làm nhiều hơn. Đếm thử xem nhé.",
+      "Sulking doesn’t answer it. Try counting."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, Bin đoán có nhiều chim sẻ hơn chim bồ câu. Mẹ ngồi cạnh trên ghế đá.",
+     "At the park, Bin guesses there are more sparrows than pigeons. Mum is beside Bin on a bench."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói chắc luôn mà không đếm",
+      "Say it for certain without counting",
+      0,
+      "Đoán thì vui, nhưng đếm thử mới biết mình đúng không.",
+      "Guessing is fun, but counting shows if you’re right."
+     ],
+     [
+      "Đuổi cho chim bay hết",
+      "Chase the birds away",
+      0,
+      "Đuổi chim làm chúng sợ, lại không đếm được nữa. Ngồi yên mà đếm nhé.",
+      "Chasing scares them and you can’t count. Sit still and count."
+     ],
+     [
+      "Cùng mẹ đếm số chim mỗi loại trong năm phút",
+      "Count each kind of bird with Mum for five minutes",
+      1,
+      "Đếm cẩn thận giúp con kiểm tra điều mình đoán.",
+      "Careful counting lets you check your guess."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đếm việc nhà của cả nhà",
+    "Count the family’s chores"
+   ],
+   "s": [
+    "Con đếm số việc nhà mỗi người làm trong một ngày, vẽ bảng có vạch đếm, rồi cùng ba mẹ xem ai làm bao nhiêu việc.",
+    "Count how many chores each person does in one day, make a tally chart, then look at it with Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể từng việc, con gạch vạch đếm vào bảng.",
+     "Mum or Dad names each job and you add a tally mark."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự để ý và đếm cả ngày.",
+     "Mum or Dad reminds you once; you watch and count all day."
+    ],
+    [
+     "Con tự đếm, vẽ bảng và nói ra điều con thấy có khác với lúc đoán không.",
+     "You count, draw the chart and say whether it matched your guess."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi một ván cờ ca-rô",
+    "A family game of noughts and crosses"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "An toàn trong nhà tắm",
+   "Bathroom safety"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tắm xong, sàn nhà tắm còn ướt. Bin muốn chạy thật nhanh ra xem hoạt hình.",
+   "After a bath the bathroom floor is wet. Bin wants to dash out to watch cartoons."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đi dép, bước chậm lên thảm chùi chân rồi mới ra",
+    "Put slippers on, step slowly onto the mat, then go",
+    1,
+    "Đi dép và bước chậm giúp con không bị trơn ngã trong nhà tắm.",
+    "Slippers and slow steps stop you slipping in the bathroom."
+   ],
+   [
+    "Chạy thật nhanh cho kịp",
+    "Run as fast as you can",
+    0,
+    "Sàn ướt rất trơn, chạy dễ ngã. Đi chậm thôi con nhé.",
+    "Wet floors are slippery and running can make you fall. Walk slowly."
+   ],
+   [
+    "Trượt trên sàn cho vui",
+    "Slide on the floor for fun",
+    0,
+    "Trượt trên sàn ướt có thể ngã đập đầu. Chơi ở chỗ khác nhé.",
+    "Sliding on a wet floor can mean a nasty fall. Play elsewhere."
+   ]
+  ],
+  "qq": [
+   "Ở nơi sàn ướt như nhà tắm, con nên…",
+   "Where the floor is wet, like a bathroom, you should…"
+  ],
+  "qo": [
+   [
+    "Đi chậm và đi dép",
+    "Walk slowly and wear slippers"
+   ],
+   [
+    "Chạy nhảy",
+    "Run and jump"
+   ],
+   [
+    "Trượt trên sàn",
+    "Slide on the floor"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở nhà vệ sinh trường, sàn bị đọng nước. Mấy bạn rủ nhau trượt chân chơi.",
+     "In the school toilets the floor has puddles. Some friends want to slide about for fun."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không chơi, đi chậm ra ngoài và báo cô",
+      "Don’t join in, walk out carefully and tell the teacher",
+      1,
+      "Tránh xa chỗ trơn và báo người lớn để lau khô giúp cả lớp an toàn.",
+      "Keeping away and telling a grown-up so it gets dried keeps everyone safe."
+     ],
+     [
+      "Trượt thử một lần thôi",
+      "Just one slide",
+      0,
+      "Một lần ngã cũng có thể đau. Không chơi ở chỗ sàn ướt nhé.",
+      "One fall can still hurt. Don’t play on wet floors."
+     ],
+     [
+      "Đẩy bạn cho trượt xa",
+      "Push a friend to slide further",
+      0,
+      "Đẩy bạn trên sàn ướt rất dễ làm bạn ngã. Rủ bạn ra ngoài và báo cô nhé.",
+      "Pushing on a wet floor could make them fall. Leave and tell the teacher."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở bể bơi, nền gạch quanh bể ướt. Ba đi lấy khăn, Bin muốn chạy ra bể trước.",
+     "At the swimming pool the tiles are wet. Dad goes to get towels and Bin wants to run to the pool first."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy ra bể trước",
+      "Run to the pool first",
+      0,
+      "Chạy trên nền ướt dễ ngã, lại không có ba bên cạnh. Chờ ba nhé.",
+      "Running on wet tiles can make you fall, and Dad isn’t with you. Wait."
+     ],
+     [
+      "Đứng chờ ba, rồi cùng ba đi chậm ra bể",
+      "Wait for Dad, then walk slowly to the pool together",
+      1,
+      "Nền ướt rất trơn, và ở bể bơi con luôn đi cùng người lớn.",
+      "Wet tiles are slippery, and at the pool you always stay with a grown-up."
+     ],
+     [
+      "Đi nhón chân thật nhanh cho kịp",
+      "Tiptoe quickly to get there",
+      0,
+      "Nhón chân trên nền trơn vẫn dễ ngã. Chờ ba rồi đi chậm.",
+      "Tiptoeing on slippery tiles still risks falling. Wait and walk slowly."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm chỗ trơn trong nhà tắm",
+    "Spot the slippery places"
+   ],
+   "s": [
+    "Con cùng ba mẹ chỉ ra hai chỗ dễ trơn trong nhà tắm, rồi để dép và thảm chùi chân đúng chỗ.",
+    "With Mum or Dad, point out two slippery spots in the bathroom, then put the slippers and bath mat in the right places."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ chỗ trơn, con nhắc lại và đặt dép, thảm cùng ba mẹ.",
+     "Mum or Dad shows the spots; you repeat and place the slippers and mat together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm hai chỗ và sắp xếp.",
+     "Mum or Dad reminds you once; you find two spots and set things up."
+    ],
+    [
+     "Con tự tìm, sắp xếp và nhắc cả nhà một quy tắc an toàn trong nhà tắm.",
+     "You find them, set up, and remind the family of one bathroom safety rule."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một câu chuyện cười trước giờ ngủ",
+    "Mum or Dad tells a funny story at bedtime"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Việc nào làm trước?",
+   "Which chore comes first?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ba bảo mười phút nữa ra xe về quê. Bin chưa đi giày, chưa lấy bình nước, mà vẫn muốn chơi thêm.",
+   "Dad says the car leaves for the countryside in ten minutes. Bin hasn’t got shoes on or the water bottle, and wants to play more."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chơi tiếp, ba gọi mới chuẩn bị",
+    "Keep playing and get ready when Dad calls",
+    0,
+    "Đợi gọi mới làm thì cả nhà phải chờ. Chuẩn bị trước rồi chơi nhé.",
+    "Waiting to be called keeps everyone waiting. Get ready, then play."
+   ],
+   [
+    "Ra xe luôn, chưa cần đi giày",
+    "Go to the car without shoes",
+    0,
+    "Thiếu giày, thiếu nước thì đi chơi sẽ khó. Chuẩn bị đủ trước nhé.",
+    "No shoes or water makes the trip hard. Get ready properly."
+   ],
+   [
+    "Đi giày, lấy bình nước trước, xong rồi chơi tiếp một chút",
+    "Shoes on and water bottle first, then play a little",
+    1,
+    "Làm việc gấp trước giúp con vừa kịp giờ vừa còn thời gian chơi.",
+    "Doing the urgent things first gets you ready on time with play left over."
+   ]
+  ],
+  "qq": [
+   "Khi có nhiều việc, con nên làm trước…",
+   "When you have lots to do, do this first…"
+  ],
+  "qo": [
+   [
+    "Việc thích nhất",
+    "The favourite thing"
+   ],
+   [
+    "Việc gấp",
+    "The urgent thing"
+   ],
+   [
+    "Việc dễ nhất",
+    "The easiest thing"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay Bin cần đọc bài cô dặn mai kiểm tra, cần soạn cặp, và rất muốn vẽ tranh.",
+     "Tonight Bin must practise reading for tomorrow’s check, pack the school bag, and really wants to draw."
+    ],
+    "q": [
+     "Bin nên làm gì trước?",
+     "What should Bin do first?"
+    ],
+    "o": [
+     [
+      "Vẽ trước vì thích nhất",
+      "Draw first because it’s the favourite",
+      0,
+      "Việc thích dễ kéo dài mãi. Làm việc gấp trước rồi vẽ sẽ thoải mái hơn.",
+      "Fun things stretch on. Do the urgent job first, then draw happily."
+     ],
+     [
+      "Đọc bài trước vì mai cần, rồi soạn cặp, còn thời gian thì vẽ",
+      "Reading first because it’s for tomorrow, then pack, then draw if there’s time",
+      1,
+      "Việc gấp làm trước, việc chưa gấp làm sau, thế là con kịp cả.",
+      "Urgent first, less urgent later, and you fit it all in."
+     ],
+     [
+      "Làm cùng lúc cả ba việc",
+      "Do all three at once",
+      0,
+      "Làm cùng lúc thì việc nào cũng dở dang. Làm lần lượt từng việc nhé.",
+      "Doing everything at once leaves it all half done. One at a time."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Còn mười phút ra chơi. Bin phải trả sách thư viện trong hôm nay, mà lại muốn chơi đuổi bắt.",
+     "Ten minutes of break left. Bin has to return a library book today but wants to play tag."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Trả sách trước vì hạn là hôm nay, rồi ra chơi",
+      "Return the book first because it’s due today, then play",
+      1,
+      "Việc có hạn hôm nay là việc gấp. Làm xong rồi chơi con sẽ yên tâm.",
+      "A job due today is urgent. Do it, then play with nothing to worry about."
+     ],
+     [
+      "Chơi trước, còn giờ thì trả",
+      "Play first and return it if there’s time",
+      0,
+      "Mải chơi dễ hết giờ mà quên trả sách. Làm việc gấp trước nhé.",
+      "Playing can use up the time and the book’s forgotten. Urgent first."
+     ],
+     [
+      "Nhờ bạn trả hộ",
+      "Ask a friend to return it",
+      0,
+      "Sách con mượn thì con tự trả sẽ chắc hơn. Chỉ mất vài phút thôi.",
+      "You borrowed it, so returning it yourself is safer. It takes minutes."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Xếp thứ tự ba việc tối nay",
+    "Put tonight’s three jobs in order"
+   ],
+   "s": [
+    "Con viết hoặc vẽ ba việc cần làm tối nay, đánh số 1, 2, 3 theo việc gấp trước, rồi làm đúng thứ tự đó.",
+    "Write or draw three jobs for tonight, number them 1, 2, 3 with the most urgent first, then do them in that order."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xếp thứ tự và nhắc từng việc.",
+     "Mum or Dad orders them with you and reminds each step."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự xếp và làm.",
+     "Mum or Dad reminds you once; you order and do them."
+    ],
+    [
+     "Con tự xếp thứ tự, giải thích vì sao việc 1 gấp nhất và làm xong cả ba.",
+     "You order them, explain why number 1 is most urgent and finish all three."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ ngắm trăng trên ban công",
+    "Moon-watching on the balcony with Mum or Dad"
+   ]
+  }
+ }
+]

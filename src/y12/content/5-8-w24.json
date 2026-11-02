@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Mười phút tập trung",
+   "Ten focused minutes"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin ngồi làm bài, cứ vài phút lại đứng dậy uống nước, xem mèo, nghịch bút. Nửa tiếng vẫn chưa xong một bài.",
+   "Bin sits down to homework but keeps getting up for water, the cat, fiddling with pens. Half an hour later, not one task is done."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Vừa làm vừa xem mèo cho vui",
+    "Watch the cat while working",
+    0,
+    "Làm nhiều việc một lúc thì việc nào cũng chậm. Thử 10 phút chỉ làm bài nhé.",
+    "Doing lots at once slows everything. Try 10 minutes of just homework."
+   ],
+   [
+    "Cất đồ chơi, hẹn giờ 10 phút, chỉ làm bài đến khi chuông reo",
+    "Put toys away, set a 10-minute timer and only work until it rings",
+    1,
+    "Tập trung một việc trong thời gian ngắn giúp con làm nhanh và tốt hơn.",
+    "Focusing on one thing for a short time makes you quicker and better."
+   ],
+   [
+    "Làm liền một mạch thật lâu không nghỉ",
+    "Work for ages without a break",
+    0,
+    "Lâu quá dễ mệt. Mười phút tập trung rồi nghỉ ngắn là vừa sức.",
+    "Too long is tiring. Ten focused minutes and a short break is just right."
+   ]
+  ],
+  "qq": [
+   "Mười phút tập trung nghĩa là…",
+   "Ten focused minutes means…"
+  ],
+  "qo": [
+   [
+    "Làm nhiều việc cùng lúc",
+    "Doing lots of things at once"
+   ],
+   [
+    "Chỉ làm một việc trong mười phút",
+    "Doing just one thing for ten minutes"
+   ],
+   [
+    "Làm thật lâu không nghỉ",
+    "Working for ages without a break"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ tập viết, cô cho 10 phút. Bạn bên cạnh cứ rủ Bin nói chuyện.",
+     "In handwriting practice the teacher gives 10 minutes. The boy next to Bin keeps chatting."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói chuyện cùng bạn",
+      "Chat along",
+      0,
+      "Mười phút trôi nhanh lắm. Nói chuyện sau nhé.",
+      "Ten minutes goes fast. Talk afterwards."
+     ],
+     [
+      "Mắng bạn thật to",
+      "Tell him off loudly",
+      0,
+      "Nói to làm cả lớp mất tập trung. Hẹn bạn nhỏ nhẹ thôi.",
+      "That disturbs the class. A quiet “later” is enough."
+     ],
+     [
+      "Nói nhỏ: “Viết xong rồi mình nói nhé”, rồi viết tiếp",
+      "Whisper, “Let’s talk when we’ve finished,” and keep writing",
+      1,
+      "Hẹn bạn lúc khác giúp con giữ tập trung mà vẫn lịch sự.",
+      "Saying “later” keeps you focused and polite."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện cùng mẹ, Bin định đọc một cuốn truyện nhưng cứ nhìn quanh, lật trang lung tung.",
+     "At the library with Mum, Bin opens a book but keeps looking around and flicking pages."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đổi sang cuốn khác liên tục",
+      "Keep swapping books",
+      0,
+      "Đổi mãi thì chẳng đọc được cuốn nào. Chọn một cuốn và đọc 10 phút nhé.",
+      "Constant swapping means reading nothing. Pick one for 10 minutes."
+     ],
+     [
+      "Chọn chỗ ngồi yên, đọc 10 phút rồi mới nghỉ",
+      "Find a quiet seat and read for 10 minutes before a break",
+      1,
+      "Chỗ yên tĩnh và thời gian ngắn giúp con tập trung dễ hơn.",
+      "A quiet spot and a short time make focusing easier."
+     ],
+     [
+      "Đi lòng vòng xem mọi người",
+      "Wander around watching people",
+      0,
+      "Ngồi yên một chỗ giúp con đắm vào câu chuyện.",
+      "Sitting still helps you get into the story."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mười phút làm bài không đứng dậy",
+    "Ten minutes of homework without getting up"
+   ],
+   "s": [
+    "Con nhờ ba mẹ hẹn giờ 10 phút, chỉ làm bài, không đứng dậy, không làm việc khác cho đến khi chuông reo.",
+    "Ask Mum or Dad to set a 10-minute timer and only do homework, without getting up or doing anything else, until it rings."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cạnh, cùng con cất đồ chơi rồi bấm giờ.",
+     "Mum or Dad sits with you, helps put toys away and starts the timer."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tập trung đủ 10 phút.",
+     "Mum or Dad reminds you once; you focus for the full 10 minutes."
+    ],
+    [
+     "Con tự chuẩn bị bàn, tự hẹn giờ cùng ba mẹ và kể lại đã làm được bao nhiêu.",
+     "You get your desk ready, start the timer with Mum or Dad and report how much you did."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nhảy theo một bài hát con chọn",
+    "The whole family dances to a song you choose"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Đồ của bạn đẹp hơn của mình",
+   "When a friend has nicer things"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bạn Linh có hộp bút mới có nhiều ngăn. Bin nhìn hộp bút cũ của mình và thấy buồn.",
+   "Linh has a new pencil case with lots of compartments. Bin looks at his old one and feels sad."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Khen hộp bút của Linh, rồi nghĩ những điều mình thích ở hộp bút của mình",
+    "Compliment Linh’s, then think of what you like about yours",
+    1,
+    "Khen bạn mà vẫn quý đồ của mình là cách nghĩ rất vui.",
+    "Praising a friend while valuing your own things is a happy way to think."
+   ],
+   [
+    "Về nhà đòi mẹ mua hộp giống Linh",
+    "Go home and demand one like Linh’s",
+    0,
+    "Hộp bút của con vẫn dùng tốt. Mình quý những gì đang có nhé.",
+    "Yours still works well. Let’s value what we have."
+   ],
+   [
+    "Nói hộp bút của Linh xấu",
+    "Say Linh’s pencil case is ugly",
+    0,
+    "Câu đó làm Linh buồn mà con cũng không vui hơn.",
+    "That would upset Linh and wouldn’t make you happier."
+   ]
+  ],
+  "qq": [
+   "Khi thấy đồ của bạn đẹp hơn, con có thể…",
+   "When a friend has nicer things, you can…"
+  ],
+  "qo": [
+   [
+    "Vẫn quý và hài lòng với đồ mình có",
+    "Still value and enjoy what you have"
+   ],
+   [
+    "Đòi mua ngay đồ giống bạn",
+    "Demand the same thing right away"
+   ],
+   [
+    "Chê đồ của bạn",
+    "Say their things are bad"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ Bảo sang chơi, mang theo chiếc xe đồ chơi mới tinh. Bin nhìn xe của mình và thấy nó cũ quá.",
+     "Cousin Bảo visits with a brand-new toy car. Bin looks at his own car and thinks it looks old."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi mẹ mua xe mới ngay",
+      "Ask Mum for a new car straight away",
+      0,
+      "Xe của con vẫn chơi được mà. Thử kể ba điều con thích ở xe mình nhé.",
+      "Your car still works. Try naming three things you like about it."
+     ],
+     [
+      "Giận dỗi, không chơi với anh",
+      "Sulk and not play with Bảo",
+      0,
+      "Anh đến chơi với con mà. Chơi chung sẽ vui hơn.",
+      "He came to play with you. Playing together is more fun."
+     ],
+     [
+      "Rủ anh chơi chung, và nhớ xe của mình vẫn chạy rất tốt",
+      "Play together, and remember your car still runs really well",
+      1,
+      "Đồ của mình vẫn có nhiều điểm hay. Quý những gì mình có giúp con vui hơn.",
+      "Your things still have lots going for them. Valuing what you have makes you happier."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng ba, Bin thấy một bạn đi chiếc xe đạp mới màu đỏ. Xe của Bin đã cũ, tróc sơn.",
+     "At the park with Dad, Bin sees a child on a shiny red bike. Bin’s bike is old and chipped."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không muốn đi xe cũ nữa",
+      "Refuse to ride your old bike",
+      0,
+      "Xe cũ vẫn đưa con đi chơi vui mà. Cùng ba làm đẹp xe nhé.",
+      "Your old bike is still fun. Make it look nice with Dad."
+     ],
+     [
+      "Chê xe bạn kia “chắc chạy chậm”",
+      "Say the red bike “is probably slow”",
+      0,
+      "Chê xe bạn không làm con vui hơn. Nghĩ về điều hay của xe mình nhé.",
+      "Putting it down won’t help. Think about what’s good about yours."
+     ],
+     [
+      "Nghĩ xe mình vẫn chạy tốt và cùng ba dán hình trang trí lại",
+      "Remember yours still rides well, and decorate it with stickers with Dad",
+      1,
+      "Chăm chút đồ của mình làm nó mới hơn trong mắt con. Hài lòng giúp con vui.",
+      "Caring for your things makes them feel new. Being content makes you happy."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba điều con thích ở đồ của mình",
+    "Three things I like about my things"
+   ],
+   "s": [
+    "Con chọn đồ dùng học tập của mình và kể với ba mẹ ba điều con thích ở chúng.",
+    "Pick your school things and tell Mum or Dad three things you like about them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu “Con thích… vì…”, con nói theo ba lần.",
+     "Mum or Dad suggests “I like… because…”; you say it three times."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể ba điều.",
+     "Mum or Dad reminds you once; you name three things."
+    ],
+    [
+     "Con tự kể ba điều và chọn một món để lau chùi, chăm chút lại.",
+     "You name three things and pick one to clean and care for."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ làm một tấm thiệp tặng người thân",
+    "Make a card for a relative with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nói chuyện với cô giáo",
+   "Talking to my teacher"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giữa giờ học, Bin thấy đau bụng nhưng ngại nói với cô.",
+   "In the middle of a lesson, Bin has a tummy ache but feels shy about telling the teacher."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cố chịu đến hết giờ",
+    "Put up with it till the end",
+    0,
+    "Cô có thể giúp con ngay. Đừng ngại báo cô nhé.",
+    "Your teacher can help now. Don’t be shy."
+   ],
+   [
+    "Giơ tay, nói: “Thưa cô, em thấy đau bụng ạ”",
+    "Raise your hand and say, “Excuse me, Miss, my tummy hurts”",
+    1,
+    "Báo cô khi mệt giúp cô chăm sóc con kịp thời.",
+    "Telling the teacher when you feel unwell lets her look after you."
+   ],
+   [
+    "Gục xuống bàn, không nói gì",
+    "Put your head down and say nothing",
+    0,
+    "Cô không biết con mệt nếu con không nói. Giơ tay báo cô nhé.",
+    "She won’t know unless you say. Raise your hand."
+   ]
+  ],
+  "qq": [
+   "Khi cần, con nói với cô thế nào?",
+   "When you need something, how do you tell your teacher?"
+  ],
+  "qo": [
+   [
+    "Lễ phép và rõ ràng: “Thưa cô, em…”",
+    "Politely and clearly: “Excuse me, Miss, I…”"
+   ],
+   [
+    "Im lặng chịu đựng",
+    "Say nothing and cope"
+   ],
+   [
+    "Gọi to “Cô ơi!” giữa giờ",
+    "Shout “Miss!” in the middle of the lesson"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay mẹ đóng vai cô giáo để Bin tập nói. Bin cần xin phép đi vệ sinh nhưng chỉ nói: “Cô ơi, đi!”",
+     "Tonight Mum plays the teacher so Bin can practise. He needs to ask for the toilet but just says, “Miss, go!”"
+    ],
+    "q": [
+     "Bin nên nói thế nào?",
+     "How should Bin say it?"
+    ],
+    "o": [
+     [
+      "“Thưa cô, em xin phép đi vệ sinh ạ”",
+      "“Excuse me, Miss, may I go to the toilet, please?”",
+      1,
+      "Câu đầy đủ, lễ phép giúp cô hiểu ngay con cần gì.",
+      "A full, polite sentence tells the teacher exactly what you need."
+     ],
+     [
+      "Đứng dậy đi luôn, không nói",
+      "Just get up and go",
+      0,
+      "Cô cần biết con đi đâu. Xin phép trước nhé.",
+      "The teacher needs to know where you are. Ask first."
+     ],
+     [
+      "Ngại quá nên cố nhịn",
+      "Feel shy and hold it in",
+      0,
+      "Nhịn không tốt cho sức khoẻ. Cô luôn sẵn lòng cho phép.",
+      "Holding it isn’t healthy. Your teacher will say yes."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Lớp đi dã ngoại ở công viên. Bin không nhớ nhóm mình tập trung ở chỗ nào.",
+     "The class is on a trip to the park. Bin can’t remember where his group is meeting."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đến gần cô giáo, hỏi rõ: “Thưa cô, nhóm em tập trung ở đâu ạ?”",
+      "Go to the teacher and ask, “Excuse me, Miss, where does my group meet?”",
+      1,
+      "Hỏi cô rõ ràng giúp con không bị lạc nhóm.",
+      "Asking clearly keeps you with your group."
+     ],
+     [
+      "Tự đi tìm nhóm khắp công viên",
+      "Wander the park looking for them",
+      0,
+      "Đi một mình dễ bị lạc. Luôn hỏi cô trước nhé.",
+      "Wandering off alone can get you lost. Ask the teacher."
+     ],
+     [
+      "Đứng một chỗ khóc",
+      "Stand still and cry",
+      0,
+      "Lo lắng là bình thường. Hít sâu rồi đến hỏi cô nhé.",
+      "Feeling worried is normal. Breathe and go and ask."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập ba câu nói với cô",
+    "Practise three things to say to my teacher"
+   ],
+   "s": [
+    "Con tập với ba mẹ ba câu nói với cô: xin phép đi vệ sinh, báo mệt và hỏi bài.",
+    "Practise three lines with Mum or Dad: asking for the toilet, saying you feel unwell, and asking about the work."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu từng câu, con nói theo.",
+     "Mum or Dad says each line first; you repeat."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ ba câu.",
+     "Mum or Dad reminds you once; you say all three."
+    ],
+    [
+     "Con tự nói đủ ba câu khi ba mẹ đóng vai cô và kể lại lần con đã dùng ở lớp.",
+     "You say all three in a role-play and tell when you used one at school."
+    ]
+   ],
+   "rw": [
+    "Được ghé thư viện cùng ba mẹ cuối tuần",
+    "A weekend trip to the library with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi bị bạn chê",
+   "When someone criticises my work"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở lớp học vẽ cuối tuần, cô nói: “Màu bầu trời con tô hơi đậm.” Bin thấy hơi buồn.",
+   "At weekend art class, the teacher says, “Your sky is a bit too dark.” Bin feels a little hurt."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cãi: “Con thích tô đậm!”",
+    "Argue, “I like it dark!”",
+    0,
+    "Con có thể thích tô đậm, nhưng nghe góp ý trước rồi tự quyết nhé.",
+    "You may like it dark, but listen first, then decide."
+   ],
+   [
+    "Nói: “Cảm ơn cô, con sẽ thử tô nhạt hơn”",
+    "Say, “Thank you, I’ll try it lighter”",
+    1,
+    "Lời góp ý giúp con tiến bộ. Cảm ơn và thử lại là rất trưởng thành.",
+    "Feedback helps you improve. Saying thanks and trying again is very grown-up."
+   ],
+   [
+    "Im lặng, mặt xị cả buổi",
+    "Sulk quietly all lesson",
+    0,
+    "Buồn chút là bình thường. Hít sâu và thử lại nhé.",
+    "Feeling a bit hurt is normal. Breathe and try again."
+   ]
+  ],
+  "qq": [
+   "Khi bị chê, con nên…",
+   "When someone criticises your work, you should…"
+  ],
+  "qo": [
+   [
+    "Cãi lại ngay",
+    "Argue back straight away"
+   ],
+   [
+    "Bỏ cuộc luôn",
+    "Give up"
+   ],
+   [
+    "Bình tĩnh nghe và giữ lại điều có ích",
+    "Listen calmly and keep what’s useful"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin gấp quần áo. Chị Mai nói: “Em gấp áo nhăn quá.” Bin thấy cáu.",
+     "Bin is folding clothes. Mai says, “Your shirts are all creased.” Bin feels cross."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cãi: “Chị gấp còn xấu hơn!”",
+      "Snap back, “Yours are worse!”",
+      0,
+      "Cãi lại làm cả hai cùng bực. Thử hỏi chị cách làm nhé.",
+      "Arguing makes you both upset. Ask how instead."
+     ],
+     [
+      "Hít sâu rồi nói: “Chị chỉ em gấp lại nhé”",
+      "Take a breath and say, “Can you show me how?”",
+      1,
+      "Bình tĩnh nghe lời chê giúp con học thêm điều có ích.",
+      "Staying calm with criticism helps you learn something useful."
+     ],
+     [
+      "Ném áo xuống, không gấp nữa",
+      "Throw the clothes down and stop",
+      0,
+      "Con đã cố gắng rồi. Học thêm một chút là gấp đẹp ngay.",
+      "You tried hard. A little tip and you’ll get it."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bin khoe tranh vẽ con mèo. Huy nói: “Con mèo của cậu trông như con chuột!” Bin thấy mặt nóng bừng.",
+     "Bin shows his cat drawing. Huy says, “Your cat looks like a mouse!” Bin’s face goes hot."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hét lại: “Tranh cậu còn xấu hơn!”",
+      "Shout, “Yours is worse!”",
+      0,
+      "Nói vậy làm hai bạn giận nhau. Con thử hỏi bạn góp ý cụ thể nhé.",
+      "That starts a fight. Ask for a specific tip instead."
+     ],
+     [
+      "Xé tranh đi",
+      "Rip the drawing up",
+      0,
+      "Tranh của con có nhiều chỗ hay. Sửa một chút là được.",
+      "Your drawing has good parts. A small fix will do."
+     ],
+     [
+      "Hít sâu, hỏi: “Theo cậu, sửa chỗ nào thì giống mèo hơn?”",
+      "Breathe and ask, “What would make it look more like a cat?”",
+      1,
+      "Giữ bình tĩnh và giữ lại điều có ích giúp tranh lần sau đẹp hơn.",
+      "Staying calm and keeping the useful bit helps your next drawing."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập nói “Cảm ơn, tớ sẽ thử”",
+    "Practise saying “Thanks, I’ll try”"
+   ],
+   "s": [
+    "Con đóng vai với ba mẹ: ba mẹ góp ý nhẹ một việc con làm, con hít sâu và trả lời “Cảm ơn, tớ sẽ thử”.",
+    "Role-play with Mum or Dad: they give gentle feedback on something you made; you take a breath and say “Thanks, I’ll try.”"
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu cả câu chê và câu đáp, con nói theo.",
+     "Mum or Dad models both the comment and the reply; you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hít sâu và đáp.",
+     "Mum or Dad reminds you once; you breathe and reply."
+    ],
+    [
+     "Con tự đáp bình tĩnh, rồi sửa lại một chỗ theo góp ý.",
+     "You reply calmly, then fix one thing using the feedback."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ bị chê và đã làm gì",
+    "Mum or Dad tells you about a time they got criticised and what they did"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Rủ bạn cùng chơi",
+   "Inviting others to join"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở bãi cát công viên, Bin đang xây lâu đài cùng Na. Một bạn nhỏ đứng cạnh nhìn mãi. Mẹ Bin ngồi gần đó.",
+   "At the park sandpit, Bin and Na are building a castle. A small child keeps watching. Bin’s mum sits nearby."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Che lâu đài lại, không cho ai đụng",
+    "Guard the castle so no one touches it",
+    0,
+    "Chơi chung vui hơn giữ riêng. Thử mời bạn nhé.",
+    "Sharing the fun beats guarding. Try inviting them."
+   ],
+   [
+    "Bảo bạn đi chỗ khác chơi",
+    "Tell them to go away",
+    0,
+    "Bạn ấy chỉ muốn chơi cùng. Một lời mời sẽ làm bạn rất vui.",
+    "They just want to play. An invitation would mean a lot."
+   ],
+   [
+    "Rủ bạn cùng xây: “Cậu xây tháp này với tụi tớ nhé!”",
+    "Invite them: “Want to build this tower with us?”",
+    1,
+    "Thêm bạn thì lâu đài to hơn và cả nhóm vui hơn.",
+    "One more friend makes a bigger castle and more fun."
+   ]
+  ],
+  "qq": [
+   "Rủ thêm người vào chơi giúp…",
+   "Inviting someone to join helps…"
+  ],
+  "qo": [
+   [
+    "Mình thắng dễ hơn",
+    "You win more easily"
+   ],
+   [
+    "Cả nhóm vui hơn, không ai bị bỏ lại",
+    "Everyone have fun and no one is left out"
+   ],
+   [
+    "Trò chơi nhanh kết thúc",
+    "The game end sooner"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin và chị Mai chơi cờ cá ngựa. Em Bông đứng nhìn, rất muốn chơi cùng.",
+     "Bin and Mai are playing a board game. Little Bông watches and really wants to join."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bảo em đi chỗ khác, em còn nhỏ",
+      "Tell Bông to go away, she’s too little",
+      0,
+      "Em có thể chơi cùng con nếu được chỉ cách. Thử rủ em nhé.",
+      "She can join if you show her how. Try inviting her."
+     ],
+     [
+      "Kệ em, chơi tiếp",
+      "Ignore her and carry on",
+      0,
+      "Em đang buồn vì đứng ngoài. Một lời mời làm em rất vui.",
+      "She feels left out. An invitation would make her day."
+     ],
+     [
+      "Rủ em vào đội với mình và chỉ em cách chơi",
+      "Invite Bông onto your team and show her how to play",
+      1,
+      "Mời người đứng ngoài vào chơi giúp ai cũng vui, không ai bị bỏ lại.",
+      "Inviting someone in makes everyone happy and no one is left out."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bin và các bạn chơi bịt mắt bắt dê. Bạn Vy mới chuyển đến, đứng một mình nhìn.",
+     "Bin and friends are playing blind man’s buff. Vy, who is new, stands alone watching."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy lại rủ: “Vy chơi cùng tụi tớ nhé!”",
+      "Run over and say, “Vy, come and play with us!”",
+      1,
+      "Bạn mới thường ngại. Một lời rủ giúp bạn thấy được chào đón.",
+      "New children often feel shy. An invitation helps them feel welcome."
+     ],
+     [
+      "Không để ý, chơi tiếp",
+      "Don’t notice and keep playing",
+      0,
+      "Thử nhìn quanh xem có ai đứng ngoài không nhé.",
+      "Look around to see if anyone’s left out."
+     ],
+     [
+      "Chờ Vy tự xin chơi",
+      "Wait for Vy to ask",
+      0,
+      "Bạn mới có thể ngại hỏi. Con mời trước thì bạn dễ vào hơn.",
+      "She may be too shy to ask. Inviting her first helps."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Rủ thêm một người cùng chơi",
+    "Invite one more person to play"
+   ],
+   "s": [
+    "Hôm nay con rủ thêm một người (em, anh chị hoặc ba mẹ) cùng chơi trò của mình và chỉ người đó cách chơi.",
+    "Today invite one more person (a sibling or parent) into your game and show them how to play."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý người để rủ và nói mẫu lời mời.",
+     "Mum or Dad suggests who to invite and says the invitation first."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự rủ và chỉ cách chơi.",
+     "Mum or Dad reminds you once; you invite and explain the game."
+    ],
+    [
+     "Con tự nhận ra ai đang đứng ngoài, tự mời và kể lại mọi người chơi thế nào.",
+     "You notice who’s left out, invite them and tell how the game went."
+    ]
+   ],
+   "rw": [
+    "Cả nhà ăn nhẹ dã ngoại trên ban công",
+    "A little family picnic on the balcony"
+   ]
+  }
+ }
+]

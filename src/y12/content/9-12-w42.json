@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Thói quen xanh mỗi ngày",
+   "A daily green routine"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An hứa sẽ tắt đèn khi ra khỏi phòng và mang bình nước đi học. Mới được hai hôm, An đã quên cả hai việc. Tối qua đèn và quạt phòng An vẫn bật suốt bữa cơm.",
+   "An promised to switch off the light when leaving the room and to take a water bottle to school. Two days later, both were forgotten. Last night An’s light and fan stayed on all through dinner."
+  ],
+  "cq": [
+   "Làm sao để An nhớ làm việc xanh mỗi ngày?",
+   "How can An remember the green jobs every day?"
+  ],
+  "co": [
+   [
+    "Cố nhớ trong đầu, quên thì thôi",
+    "Try to keep it in mind, and let it go if forgotten",
+    0,
+    "Chỉ nhớ trong đầu thì rất dễ quên khi bận. Thói quen cần một tín hiệu nhắc.",
+    "Keeping it in your head is easy to lose when busy. A habit needs a cue."
+   ],
+   [
+    "Gắn việc xanh vào việc đã làm hằng ngày: ra khỏi phòng là chạm công tắc, xếp cặp là cho bình nước vào",
+    "Link each green job to something already done daily: leave the room, touch the switch; pack the bag, add the bottle",
+    1,
+    "Gắn thói quen mới vào thói quen cũ giúp mình làm mà không cần cố nhớ.",
+    "Hooking a new habit onto an old one means you don’t have to remember it."
+   ],
+   [
+    "Hôm nào nhớ ra thì làm thật nhiều việc xanh cho bù",
+    "On days you remember, do loads of green jobs to make up",
+    0,
+    "Làm dồn một hôm rồi bỏ thì không thành thói quen. Ít mà đều mới bền.",
+    "Doing lots one day then stopping won’t build a habit. Small and steady lasts."
+   ]
+  ],
+  "qq": [
+   "Cách nào giúp việc xanh thành thói quen?",
+   "What turns a green action into a habit?"
+  ],
+  "qo": [
+   [
+    "Làm thật nhiều trong một ngày",
+    "Doing lots in one day"
+   ],
+   [
+    "Gắn nó vào một việc mình làm mỗi ngày",
+    "Linking it to something you do every day"
+   ],
+   [
+    "Chờ khi nào rảnh mới làm",
+    "Waiting until you’re free"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp quy định cuối giờ phải tắt quạt, nhưng gần như ngày nào cũng có người quên. Tuần này An làm tổ trưởng trực nhật.",
+     "The class rule is to switch off the fans at the end of the day, but someone forgets almost every day. This week An is on duty."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tự đi tắt quạt mỗi khi nhớ ra",
+      "Switch them off whenever An remembers",
+      0,
+      "Một mình An nhớ thay cả lớp thì rất mệt và không bền.",
+      "One person remembering for everyone is tiring and won’t last."
+     ],
+     [
+      "Nhắc cả lớp một lần rồi thôi",
+      "Remind the class once and leave it",
+      0,
+      "Nhắc một lần thì vài hôm mọi người lại quên. Cần một tín hiệu nhắc lâu dài.",
+      "One reminder fades in a few days. People need a lasting cue."
+     ],
+     [
+      "Đề xuất với cô: bạn ra cuối cùng tắt quạt, dán tờ nhắc nhỏ cạnh cửa",
+      "Suggest to the teacher: last one out switches off, with a small note by the door",
+      1,
+      "Gắn việc tắt quạt với lúc ra khỏi cửa giúp cả lớp nhớ mà không cần ai canh.",
+      "Tying it to walking out the door helps everyone remember without a guard."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ cùng mẹ, An hay quên túi vải ở nhà nên lần nào cũng phải lấy thêm túi ni lông.",
+     "Going to the market with Mum, An keeps forgetting the cloth bag, so they always end up taking plastic ones."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Treo túi vải ngay cạnh chỗ để giày dép, cứ đi giày là cầm túi",
+      "Hang the cloth bag by the shoes, so putting shoes on means grabbing the bag",
+      1,
+      "Đặt đồ ở chỗ mình chắc chắn đi qua là cách nhắc rất hiệu quả.",
+      "Putting it where you always pass is a powerful reminder."
+     ],
+     [
+      "Mua thêm thật nhiều túi vải để quên cũng không sao",
+      "Buy lots more cloth bags so forgetting doesn’t matter",
+      0,
+      "Mua thêm mà vẫn để ở nhà thì vẫn phải lấy túi ni lông. Cái cần là thói quen mang theo.",
+      "More bags still left at home won’t help. What’s needed is the habit of taking one."
+     ],
+     [
+      "Thôi, lấy túi ni lông cũng được",
+      "Never mind, plastic bags are fine",
+      0,
+      "Bỏ cuộc sớm quá! Chỉ cần một tín hiệu nhắc là con làm được.",
+      "That’s giving up too soon! One simple cue and you can do it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai việc xanh, năm ngày liền",
+    "Two green jobs, five days in a row"
+   ],
+   "s": [
+    "Con chọn 2 việc xanh (như tắt đèn khi ra khỏi phòng, mang bình nước đi học), làm mỗi ngày trong 5 ngày và đánh dấu vào bảng. Ba mẹ xem bảng và xác nhận.",
+    "Choose 2 green jobs (like switching off the light when you leave, taking your water bottle to school), do them every day for 5 days and tick a chart. Your parent checks the chart."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn 2 việc, kẻ bảng và nhắc con mỗi ngày.",
+     "Your parent helps you choose 2 jobs, draws the chart and reminds you each day."
+    ],
+    [
+     "Ba mẹ nhắc một lần đầu tuần, con tự làm và tự đánh dấu.",
+     "Your parent reminds you once at the start; you do the jobs and tick the chart yourself."
+    ],
+    [
+     "Con tự nghĩ ra tín hiệu nhắc cho mỗi việc, làm đủ 5 ngày và kể lại ngày nào khó nhớ nhất.",
+     "You invent a cue for each job, keep it up for 5 days and say which day was hardest."
+    ]
+   ],
+   "rw": [
+    "Cuối tuần cả nhà đi dạo, con được chọn đường đi",
+    "A family walk at the weekend, with you choosing the route"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Bớt bỏ thừa đồ ăn, bớt tốn tiền",
+   "Less food waste, less money wasted"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ở bữa trưa bán trú, An xới đầy khay vì sợ đói. Ăn được nửa, An đã no và định đổ phần còn lại. Cô nhắc: “Cơm thừa cũng là tiền và công sức của nhiều người đấy.”",
+   "At school lunch, An piles the tray high in case of hunger. Halfway through, An is full and is about to tip the rest away. The teacher says, “Leftover rice is money and many people’s hard work too.”"
+  ],
+  "cq": [
+   "Lần sau An nên làm gì?",
+   "What should An do next time?"
+  ],
+  "co": [
+   [
+    "Vẫn lấy đầy cho chắc, thừa thì đổ",
+    "Still take a full tray to be safe and tip what’s left",
+    0,
+    "Lấy dư rồi đổ đi là bỏ phí đồ ăn và tiền mua đồ ăn.",
+    "Taking too much and tipping it away wastes food and the money that paid for it."
+   ],
+   [
+    "Lấy ít hơn, ăn hết rồi nếu còn đói thì xin thêm",
+    "Take less, finish it, and ask for more if still hungry",
+    1,
+    "Lấy vừa đủ trước, thiếu thì thêm sau. Như vậy không ai phải đổ bỏ.",
+    "Take enough first, add more later. That way nothing gets thrown out."
+   ],
+   [
+    "Bỏ bớt món mình không thích vào khay bạn",
+    "Slip the food you don’t like onto a friend’s tray",
+    0,
+    "Đẩy sang bạn chỉ là chuyển chỗ đồ thừa. Lấy ít món đó ngay từ đầu sẽ tốt hơn.",
+    "Passing it on just moves the waste. Take less of it to begin with."
+   ]
+  ],
+  "qq": [
+   "Cách tốt nhất để bớt bỏ thừa đồ ăn là gì?",
+   "The best way to waste less food is…"
+  ],
+  "qo": [
+   [
+    "Lấy nhiều cho chắc",
+    "Take plenty just in case"
+   ],
+   [
+    "Ăn cố cho hết dù đã quá no",
+    "Force it down even when stuffed"
+   ],
+   [
+    "Lấy vừa đủ, thiếu thì thêm",
+    "Take just enough and add more if needed"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nào nhà An cũng còn nửa đĩa rau và ít thịt kho. Mẹ thường đổ đi vì không ai muốn ăn lại.",
+     "Every evening there’s half a plate of greens and some braised pork left. Mum usually throws it out because nobody wants it again."
+    ],
+    "q": [
+     "An có thể góp ý gì?",
+     "What could An suggest?"
+    ],
+    "o": [
+     [
+      "Gợi ý nấu ít đi một chút, phần còn lại cất tủ lạnh làm bữa sáng hoặc trộn cơm chiên",
+      "Suggest cooking a bit less, and saving leftovers for breakfast or fried rice",
+      1,
+      "Nấu vừa đủ và tận dụng đồ còn lại giúp cả nhà đỡ tốn tiền chợ.",
+      "Cooking the right amount and reusing leftovers saves the family money."
+     ],
+     [
+      "Không nói gì vì đó là việc của mẹ",
+      "Say nothing, it’s Mum’s job",
+      0,
+      "Bữa cơm là của cả nhà, con cũng góp ý được một cách nhẹ nhàng.",
+      "Meals belong to the whole family, so you can gently share ideas too."
+     ],
+     [
+      "Đề nghị lần sau nấu thêm món khác cho đỡ chán",
+      "Suggest cooking an extra dish so it’s less boring",
+      0,
+      "Thêm món thì đồ thừa còn nhiều hơn. Thử tận dụng phần còn lại trước nhé.",
+      "More dishes means more leftovers. Try using up what’s there first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi ăn tiệm cùng ông bà, An muốn gọi ba món vì món nào nhìn cũng ngon.",
+     "Eating out with Grandma and Grandpa, An wants to order three dishes because they all look tasty."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gọi cả ba, ăn không hết thì để lại",
+      "Order all three and leave what’s left",
+      0,
+      "Món để lại vẫn phải trả tiền. Gọi dư là tốn tiền mà phí đồ ăn.",
+      "You still pay for what’s left. Over-ordering wastes money and food."
+     ],
+     [
+      "Hỏi ông bà xem phần ăn to hay nhỏ, gọi trước một món, ăn xong còn đói mới gọi thêm",
+      "Ask how big the portions are, order one first, and more only if still hungry",
+      1,
+      "Hỏi trước và gọi dần giúp mình ăn vừa đủ, không ai phải bỏ phí.",
+      "Asking first and ordering step by step means just enough and no waste."
+     ],
+     [
+      "Gọi món rẻ nhất cho đỡ tiền dù không thích",
+      "Order the cheapest dish even if you don’t like it",
+      0,
+      "Món rẻ mà không ăn thì cũng là bỏ phí. Chọn món mình sẽ ăn hết mới là tiết kiệm.",
+      "A cheap dish left uneaten is still waste. Choosing what you’ll finish is the real saving."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một tuần “khay sạch”",
+    "A clean-plate week"
+   ],
+   "s": [
+    "Trong một tuần, mỗi bữa con lấy thức ăn vừa đủ, thiếu thì thêm. Con ghi lại số bữa không bỏ thừa vào lịch và cho ba mẹ xem cuối tuần.",
+    "For one week, take just enough food at each meal and add more if needed. Mark every meal with no leftovers on a calendar and show your parent at the weekend."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xới cơm, gợi ý lượng vừa đủ và đánh dấu cùng con.",
+     "Your parent serves with you, suggests a good amount and marks the calendar together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lấy vừa đủ và tự đánh dấu.",
+     "With one reminder, you serve yourself sensibly and mark it yourself."
+    ],
+    [
+     "Con tự làm cả tuần, còn nghĩ ra một món tận dụng đồ ăn thừa để gợi ý cho ba mẹ.",
+     "You manage the whole week and suggest one dish that uses up leftovers."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con chọn từ đồ ăn còn lại trong tủ lạnh",
+    "The family cooks a dish you choose from fridge leftovers"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Nhắc người khác lịch sự",
+   "Reminding others politely"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, An đi cùng ba thì thấy một anh lớn vứt vỏ hộp sữa xuống bãi cỏ, ngay cạnh thùng rác.",
+   "In the park with Dad, An sees an older boy drop a milk carton on the grass, right next to the bin."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Ở gần ba, nhẹ nhàng nói: “Anh ơi, thùng rác ở đây ạ”, rồi tự mình bỏ rác đúng chỗ",
+    "Staying near Dad, say kindly, “Excuse me, the bin’s just here,” and put your own rubbish in it",
+    1,
+    "Lời nhắc ngắn, lễ phép và làm gương thì người khác dễ nghe hơn. Có ba ở cạnh, con yên tâm hơn.",
+    "A short, polite reminder plus a good example is easiest to hear. With Dad nearby, you feel safe."
+   ],
+   [
+    "Nói to: “Sao anh xả rác bừa thế!”",
+    "Say loudly, “Why are you littering?”",
+    0,
+    "Nói to kiểu trách móc dễ làm người kia xấu hổ và cãi lại. Nhẹ nhàng sẽ hiệu quả hơn.",
+    "Telling someone off loudly makes them embarrassed and defensive. Gentle works better."
+   ],
+   [
+    "Chụp ảnh lại để kể với bạn bè",
+    "Take a photo to show friends",
+    0,
+    "Chụp ảnh người khác để kể là không tôn trọng họ. Một lời nhắc lịch sự tốt hơn nhiều.",
+    "Photographing someone to gossip isn’t respectful. A polite word is much better."
+   ]
+  ],
+  "qq": [
+   "Một lời nhắc lịch sự nên thế nào?",
+   "A polite reminder should be…"
+  ],
+  "qo": [
+   [
+    "Ngắn, nhẹ nhàng và mình làm gương",
+    "Short, gentle, and backed by your own example"
+   ],
+   [
+    "Thật to để ai cũng nghe",
+    "Loud so everyone hears"
+   ],
+   [
+    "Nhắc đi nhắc lại nhiều lần",
+    "Repeated again and again"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Tí hay để đèn nhà tắm sáng cả buổi sau khi tắm xong.",
+     "Little brother Tí often leaves the bathroom light on for hours after his bath."
+    ],
+    "q": [
+     "An nên nhắc em thế nào?",
+     "How should An remind him?"
+    ],
+    "o": [
+     [
+      "“Em lúc nào cũng quên, hư quá!”",
+      "“You always forget, you’re so naughty!”",
+      0,
+      "Câu chê làm em buồn mà chưa chắc em nhớ. Nói về việc cần làm thay vì chê người.",
+      "Labels hurt and don’t help him remember. Talk about the action, not the person."
+     ],
+     [
+      "Tự đi tắt mãi mà không nói gì",
+      "Keep switching it off without saying anything",
+      0,
+      "Con làm thay mãi thì em không bao giờ học được. Một lời nhắc nhẹ sẽ giúp em.",
+      "Doing it for him forever means he never learns. A gentle reminder helps."
+     ],
+     [
+      "“Tí ơi, tắm xong mình tắt đèn nhé, chị/anh cũng đang tập đấy”",
+      "“Tí, let’s switch the light off after a bath; I’m practising too”",
+      1,
+      "Nói “mình” và kể rằng con cũng đang tập làm lời nhắc thành rủ nhau làm, không phải chê.",
+      "Saying “let’s” and that you’re practising too turns it into teamwork, not blame."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, Nam và Linh để vỏ bánh trên bàn rồi chạy đi chơi. Lát nữa đến giờ học.",
+     "At break, Nam and Linh leave snack wrappers on the desk and run off to play. Lessons start soon."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mách cô ngay",
+      "Tell the teacher straight away",
+      0,
+      "Chuyện nhỏ thì nên nhắc bạn trước. Mách ngay dễ làm bạn thấy bị tố.",
+      "For small things, remind friends first. Telling straight away can feel like snitching."
+     ],
+     [
+      "Khi bạn quay lại, nói: “Mình bỏ vỏ bánh vào thùng nhé, bàn sạch học dễ chịu hơn”",
+      "When they’re back, say, “Let’s bin the wrappers, a clean desk is nicer to work at”",
+      1,
+      "Nói lý do ngắn gọn và rủ cùng làm giúp bạn dễ đồng ý.",
+      "A short reason and an invitation make it easy for friends to agree."
+     ],
+     [
+      "Ném vỏ bánh sang bàn của bạn",
+      "Throw the wrappers onto their desk",
+      0,
+      "Làm vậy dễ thành cãi nhau. Lời nhắc nhẹ nhàng giữ được tình bạn.",
+      "That leads to arguments. A gentle reminder keeps the friendship."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba câu nhắc lịch sự",
+    "Three polite reminders"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập 3 câu nhắc lịch sự (bỏ rác đúng chỗ, tắt đèn, xếp dép) rồi dùng thật một câu trong tuần. Kể lại cho ba mẹ con đã nói với ai, người đó phản ứng ra sao.",
+    "Practise 3 polite reminders with your parent (bin rubbish, switch off lights, tidy shoes), then use one for real this week. Tell your parent who you said it to and how they reacted."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu từng câu, con nói theo và đóng vai cùng ba mẹ.",
+     "Your parent models each line, you repeat it and role-play together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ câu nhắc và dùng thật trong nhà.",
+     "With one reminder, you create your own lines and use one at home."
+    ],
+    [
+     "Con tự nhận ra lúc cần nhắc, nói lịch sự, tự làm gương và kể lại cho ba mẹ.",
+     "You notice when a reminder is needed, say it politely, set an example and tell your parent."
+    ]
+   ],
+   "rw": [
+    "Con được chọn bài hát cả nhà nghe trên đường đi học",
+    "You choose the music on the way to school"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Lo lắng khi nghe tin thiên tai",
+   "Worried by news of disasters"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bản tin tối nói về một trận bão lớn ở tỉnh xa. Đi ngủ, An cứ nghĩ mãi: “Nếu bão đến nhà mình thì sao?” và không ngủ được.",
+   "The evening news is about a big storm in a faraway province. At bedtime An keeps thinking, “What if a storm comes here?” and can’t sleep."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cố giấu đi, không muốn làm ba mẹ lo",
+    "Hide it so Mum and Dad don’t worry",
+    0,
+    "Giấu nỗi lo khiến nó to ra trong đầu. Nói ra với ba mẹ là việc rất nên làm.",
+    "Hiding a worry makes it grow. Telling your parents is the right thing."
+   ],
+   [
+    "Lên mạng xem thêm thật nhiều tin về bão",
+    "Look up lots more storm news online",
+    0,
+    "Xem thêm tin lúc đang lo thường làm mình sợ hơn. Hỏi ba mẹ sẽ rõ ràng hơn.",
+    "More news while worried usually feels scarier. Asking your parents gives clearer answers."
+   ],
+   [
+    "Kể với ba mẹ nỗi lo, hỏi nhà mình đã chuẩn bị những gì, rồi nghĩ một việc nhỏ mình làm được",
+    "Tell Mum or Dad, ask how the family is prepared, and think of one small thing you can do",
+    1,
+    "Nói ra, hỏi người lớn và tập trung vào việc làm được giúp nỗi lo nhỏ lại.",
+    "Sharing, asking a grown-up and focusing on what you can do makes worry shrink."
+   ]
+  ],
+  "qq": [
+   "Khi lo vì nghe tin buồn, cách tốt là gì?",
+   "When sad news worries you, a good step is…"
+  ],
+  "qo": [
+   [
+    "Giữ kín trong lòng",
+    "Keep it to yourself"
+   ],
+   [
+    "Nói với người lớn và tìm việc nhỏ mình làm được",
+    "Talk to a grown-up and find a small thing you can do"
+   ],
+   [
+    "Xem thêm tin cho biết hết",
+    "Watch more news to know everything"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô kể lớp sẽ góp sách vở cho các bạn vùng vừa bị lũ. Vy thì thầm: “Tớ sợ lũ lắm, tối qua tớ mơ thấy nước.”",
+     "The teacher says the class will collect books for children in a flooded area. Vy whispers, “Floods scare me, I dreamt about water last night.”"
+    ],
+    "q": [
+     "An nên đáp lại Vy thế nào?",
+     "How should An reply to Vy?"
+    ],
+    "o": [
+     [
+      "“Sợ gì chứ, có gì đâu!”",
+      "“Don’t be silly, it’s nothing!”",
+      0,
+      "Gạt đi nỗi sợ làm bạn thấy không được hiểu. Hãy công nhận cảm xúc của bạn trước.",
+      "Brushing off fear leaves a friend feeling unheard. Acknowledge the feeling first."
+     ],
+     [
+      "“Tớ cũng thấy lo. Mình kể với cô nhé, rồi cùng chọn sách để góp”",
+      "“I feel worried too. Let’s tell the teacher, then pick books to give together”",
+      1,
+      "Đồng cảm, tìm người lớn và cùng làm một việc có ích giúp cả hai bớt lo.",
+      "Empathy, a grown-up and a helpful action together ease both your worries."
+     ],
+     [
+      "Kể thêm những gì mình đã xem trên tin",
+      "Tell her more of what you saw on the news",
+      0,
+      "Kể thêm chi tiết dễ làm bạn sợ hơn. Lúc này bạn cần được an ủi.",
+      "More details can make her more scared. Right now she needs comfort."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi siêu thị với mẹ, An thấy góc quyên góp cho vùng bị bão. An lại nhớ bản tin và thấy nặng lòng.",
+     "At the supermarket with Mum, An sees a donation corner for storm-hit areas. The news comes back and An feels heavy-hearted."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Nói với mẹ cảm giác của mình và hỏi xem nhà mình có thể góp gì",
+      "Tell Mum how you feel and ask what the family could give",
+      1,
+      "Biến nỗi lo thành một việc tốt nhỏ cùng ba mẹ giúp mình thấy có ích.",
+      "Turning worry into a small kind act with your parent helps you feel useful."
+     ],
+     [
+      "Vội đi chỗ khác cho khỏi nghĩ",
+      "Hurry away to stop thinking about it",
+      0,
+      "Tránh đi thì nỗi lo vẫn còn đó. Nói với mẹ sẽ nhẹ lòng hơn.",
+      "Avoiding it doesn’t make the worry go. Telling Mum will help."
+     ],
+     [
+      "Tự lấy hết tiền tiêu vặt bỏ vào hộp mà không hỏi mẹ",
+      "Put all your pocket money in without asking Mum",
+      0,
+      "Tấm lòng của con rất đẹp. Hỏi mẹ trước để cùng chọn cách góp phù hợp nhé.",
+      "Your heart is in the right place. Ask Mum first so you can choose together."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nói ra nỗi lo, tìm việc có ích",
+    "Share a worry, find a helpful step"
+   ],
+   "s": [
+    "Con chọn một lúc yên tĩnh trò chuyện với ba mẹ về một nỗi lo của con, rồi cùng tìm một việc nhỏ có ích con làm được (như xếp sách cũ để góp, kiểm tra đèn pin của nhà).",
+    "Choose a quiet moment to talk with your parent about a worry, then find one small helpful thing you can do together (like sorting old books to donate or checking the family torch)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ mở lời hỏi, con kể và cùng ba mẹ chọn việc có ích.",
+     "Your parent starts the chat, you share, and you choose a helpful step together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể nỗi lo và tự đề xuất một việc.",
+     "With one reminder, you share the worry and suggest a step yourself."
+    ],
+    [
+     "Con tự mở lời “Con đang lo về…”, tự làm việc có ích đã chọn và kể lại con thấy thế nào.",
+     "You start with “I’m worried about…”, do the helpful step and say how you feel after."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ ôm con thật chặt và cùng đọc truyện trước giờ ngủ",
+    "A big hug and a bedtime story together"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Dự án xanh của lớp",
+   "A class green project"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô giao mỗi tổ làm một dự án xanh trong một tháng. Tổ An có rất nhiều ý: trồng cây, thu giấy cũ, làm áp phích. Cả tổ bàn mãi mà chưa ai nhận việc gì.",
+   "The teacher asks each group to run a one-month green project. An’s group has loads of ideas: planting, collecting paper, making posters. They talk for ages and nobody takes on a job."
+  ],
+  "cq": [
+   "Tổ An nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Làm cả ba ý cho thật hoành tráng",
+    "Do all three ideas to make it big",
+    0,
+    "Ôm nhiều việc quá thì việc nào cũng dở dang. Chọn một ý vừa sức sẽ làm tốt hơn.",
+    "Too many things means nothing gets finished. One manageable idea works better."
+   ],
+   [
+    "Để bạn giỏi nhất quyết định và làm hết",
+    "Let the best student decide and do it all",
+    0,
+    "Một người làm hết thì cả tổ không cùng học. Mỗi người nên có một phần.",
+    "If one person does everything, nobody else learns. Everyone should have a part."
+   ],
+   [
+    "Chọn một ý, chia việc theo thế mạnh từng bạn và đặt cách đo kết quả, ví dụ đếm số kí giấy",
+    "Pick one idea, share jobs by each person’s strengths, and decide how to measure it, like weighing the paper",
+    1,
+    "Chọn rõ, chia việc theo điểm mạnh và đo được kết quả là cách dự án nhóm thành công.",
+    "A clear choice, jobs by strengths and a way to measure make a group project work."
+   ]
+  ],
+  "qq": [
+   "Một dự án nhóm tốt cần gì?",
+   "A good group project needs…"
+  ],
+  "qo": [
+   [
+    "Thật nhiều ý tưởng cùng lúc",
+    "As many ideas as possible at once"
+   ],
+   [
+    "Một bạn làm hết cho nhanh",
+    "One person doing everything to be quick"
+   ],
+   [
+    "Mục tiêu rõ, chia việc theo thế mạnh và đo kết quả",
+    "A clear goal, jobs by strengths and a way to measure"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà An muốn bớt rác nhựa trong tháng này. Ba giỏi đi chợ, mẹ giỏi ghi chép, em Tí thích vẽ.",
+     "An’s family wants less plastic this month. Dad is good at shopping, Mum at keeping notes, little Tí loves drawing."
+    ],
+    "q": [
+     "An có thể đề xuất gì?",
+     "What could An suggest?"
+    ],
+    "o": [
+     [
+      "Ba nhớ mang túi vải, mẹ ghi số túi nhựa mỗi tuần, Tí vẽ tờ nhắc, An đếm và báo kết quả",
+      "Dad takes cloth bags, Mum logs plastic bags weekly, Tí draws reminders, An counts and reports",
+      1,
+      "Mỗi người một việc hợp với mình và có số liệu để xem tiến bộ.",
+      "Everyone gets a job that suits them, plus numbers to track progress."
+     ],
+     [
+      "Để mẹ lo hết vì mẹ hay đi chợ",
+      "Leave it all to Mum since she shops",
+      0,
+      "Một người làm thì nhanh mệt. Dự án của cả nhà nên ai cũng có phần.",
+      "One person tires quickly. A family project needs everyone involved."
+     ],
+     [
+      "Cứ cố gắng bớt nhựa, không cần ghi chép",
+      "Just try to use less, no need to track",
+      0,
+      "Không đo thì khó biết mình có tiến bộ không. Một bảng đếm đơn giản là đủ.",
+      "Without measuring, you can’t see progress. A simple tally is enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khu phố tổ chức buổi nhặt rác ở công viên sáng Chủ nhật, có các cô chú tổ dân phố đi cùng. Nhóm bạn của An muốn tham gia.",
+     "The neighbourhood is holding a Sunday-morning park clean-up with local grown-ups. An’s friends want to join."
+    ],
+    "q": [
+     "Nhóm nên chuẩn bị thế nào?",
+     "How should they prepare?"
+    ],
+    "o": [
+     [
+      "Đến rồi tính, ai thích nhặt đâu thì nhặt",
+      "Just turn up and pick wherever",
+      0,
+      "Không chia khu thì có chỗ nhặt hai lần, có chỗ bỏ sót.",
+      "Without zones, some spots get done twice and others missed."
+     ],
+     [
+      "Xin phép ba mẹ, hỏi cô chú phụ trách khu vực của nhóm, rồi chia người cầm túi, người phân loại, người đếm túi",
+      "Ask parents, ask the organisers for an area, then split into bag holders, sorters and a counter",
+      1,
+      "Có người lớn hướng dẫn, chia vai rõ và đếm kết quả giúp nhóm làm an toàn, hiệu quả.",
+      "Adult guidance, clear roles and counting results make it safe and effective."
+     ],
+     [
+      "Mỗi bạn tự đi nhặt một nơi cho nhanh",
+      "Each go off alone to cover more ground",
+      0,
+      "Đi lẻ ở nơi đông người không an toàn. Nhóm nên ở gần nhau và gần người lớn.",
+      "Splitting up in a public place isn’t safe. Stay together and near grown-ups."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đề xuất dự án xanh nhỏ",
+    "A mini green project proposal"
+   ],
+   "s": [
+    "Con viết một đề xuất dự án xanh nhỏ cho lớp trên một trang giấy: làm gì, ai làm việc gì, đo kết quả bằng cách nào. Đọc cho ba mẹ nghe và nhận một góp ý.",
+    "Write a one-page proposal for a small class green project: what, who does which job, and how to measure it. Read it to your parent and take one suggestion."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nghĩ ý tưởng và viết từng phần.",
+     "Your parent helps you brainstorm and write each part."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết rồi nhờ ba mẹ góp ý.",
+     "With one reminder, you write it yourself and ask for feedback."
+    ],
+    [
+     "Con tự viết, sửa theo góp ý của ba mẹ và mang lên lớp kể với cô.",
+     "You write it, improve it with feedback and share it with your teacher."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một kỷ niệm làm việc nhóm hồi nhỏ",
+    "Your parent tells you about a teamwork memory from childhood"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Đội mũ bảo hiểm",
+   "Wearing a helmet"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba chuẩn bị chở Bin đi học bằng xe máy. Trường gần nhà, Bin nói: “Gần mà ba, con không đội mũ đâu.”",
+   "Dad is about to take Bin to school on the motorbike. School is close, so Bin says, “It’s near, Dad, I don’t need a helmet.”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đội mũ nhưng không cài quai",
+    "Wear it but leave the strap undone",
+    0,
+    "Không cài quai thì mũ dễ rơi ra. Con cài lại cho vừa khít nhé.",
+    "Without the strap, the helmet can fall off. Fasten it snugly."
+   ],
+   [
+    "Không đội vì đường gần",
+    "Skip it because it’s close",
+    0,
+    "Đường gần vẫn cần đội mũ. Đội mũ đúng cách là thói quen giữ con an toàn.",
+    "Short trips still need a helmet. Wearing it properly is a habit that keeps you safe."
+   ],
+   [
+    "Đội mũ và cài quai vừa khít rồi mới lên xe",
+    "Put the helmet on, fasten the strap snugly, then get on",
+    1,
+    "Đường gần hay xa đều cần đội mũ. Quai cài chắc thì mũ mới bảo vệ được đầu con.",
+    "Near or far, you need a helmet. A fastened strap is what keeps it protecting your head."
+   ]
+  ],
+  "qq": [
+   "Đội mũ bảo hiểm đúng là…",
+   "Wearing a helmet properly means…"
+  ],
+  "qo": [
+   [
+    "Đội lỏng, không cài quai",
+    "Wearing it loose, strap undone"
+   ],
+   [
+    "Đội ngay ngắn và cài quai vừa khít",
+    "Wearing it straight with the strap fastened snugly"
+   ],
+   [
+    "Chỉ đội khi đi xa",
+    "Only wearing it on long trips"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô hỏi cả lớp ai đội mũ bảo hiểm khi đi học. Huy nói: “Tớ treo mũ ở xe thôi.”",
+     "The teacher asks who wears a helmet to school. Huy says, “I just hang mine on the bike.”"
+    ],
+    "q": [
+     "Bin nên nói gì với Huy?",
+     "What should Bin say to Huy?"
+    ],
+    "o": [
+     [
+      "“Tớ cũng thế, cho nhẹ đầu”",
+      "“Me too, it’s lighter”",
+      0,
+      "Mũ chỉ bảo vệ khi đội đúng cách. Con nhắc nhau đội mũ nhé.",
+      "A helmet only works when worn properly. Remind each other."
+     ],
+     [
+      "“Đội lên đầu và cài quai thì mũ mới bảo vệ được cậu đấy”",
+      "“It only protects you if it’s on your head and fastened”",
+      1,
+      "Nhắc bạn nhẹ nhàng giúp bạn nhớ giữ an toàn.",
+      "A gentle reminder helps your friend stay safe."
+     ],
+     [
+      "Cười chê Huy trước lớp",
+      "Laugh at Huy in front of the class",
+      0,
+      "Chê bạn làm bạn ngại. Con nhắc nhẹ nhàng sẽ tốt hơn.",
+      "Laughing embarrasses him. A kind reminder works better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, Bin đạp xe cùng ba. Mũ làm Bin thấy nóng, Bin muốn cởi ra.",
+     "At the park, Bin is cycling with Dad. His helmet feels hot and he wants to take it off."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Dừng nghỉ chỗ mát, uống nước, rồi đội lại và cài quai trước khi đạp tiếp",
+      "Rest in the shade, have a drink, then put it back on before cycling",
+      1,
+      "Nghỉ ở chỗ mát giúp con đỡ nóng. Đạp xe thì luôn đội mũ.",
+      "Resting in the shade cools you down. When cycling, the helmet stays on."
+     ],
+     [
+      "Cởi mũ ra rồi đạp tiếp",
+      "Take it off and carry on cycling",
+      0,
+      "Đạp xe không đội mũ dễ bị đau đầu nếu ngã. Con nghỉ cho mát rồi đội lại nhé.",
+      "Cycling without a helmet risks a sore head if you fall. Cool down, then put it back on."
+     ],
+     [
+      "Đẩy mũ lệch ra sau cho mát",
+      "Push it back on his head to cool off",
+      0,
+      "Mũ lệch không bảo vệ được trán. Con đội lại ngay ngắn nhé.",
+      "A tilted helmet doesn’t protect your forehead. Put it on straight."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự đội và cài quai mũ bảo hiểm",
+    "Put on and fasten my helmet"
+   ],
+   "s": [
+    "Con tự đội mũ bảo hiểm và cài quai đúng cách ba lần trong tuần (trước khi lên xe hoặc đạp xe). Ba mẹ kiểm tra quai vừa khít.",
+    "Put on your helmet and fasten the strap properly three times this week (before a ride). Mum or Dad checks it’s snug."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đội cùng con và chỉ cách cài quai.",
+     "Mum or Dad helps you put it on and shows how to fasten it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đội và cài quai.",
+     "Mum or Dad reminds you once; you put it on and fasten it."
+    ],
+    [
+     "Con tự nhớ đội mũ trước khi lên xe và tự kiểm tra quai.",
+     "You remember your helmet before every ride and check the strap yourself."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ khen con trước cả nhà và dán một hình dán vui lên mũ của con",
+    "Mum or Dad praises you in front of the family and puts a fun sticker on your helmet"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Đi chơi về vẫn đúng nếp",
+   "Back from fun, still on track"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chủ nhật cả nhà đi chơi về muộn hơn mọi ngày. Bin mệt, muốn đi ngủ luôn, chưa tắm, chưa soạn cặp.",
+   "On Sunday the family gets home later than usual. Bin is tired and wants to go straight to bed without a bath or packing his school bag."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngủ luôn, sáng mai tính",
+    "Go to sleep and sort it in the morning",
+    0,
+    "Sáng mai sẽ rất vội và dễ quên đồ. Con làm nhanh tối nay nhé.",
+    "The morning will be a rush and things get forgotten. Do it quickly tonight."
+   ],
+   [
+    "Tắm nhanh, soạn cặp cho ngày mai rồi đi ngủ",
+    "Have a quick bath, pack his bag for tomorrow, then sleep",
+    1,
+    "Đi chơi về vẫn làm đủ việc thường ngày, có thể làm nhanh hơn. Sáng mai con sẽ không bị vội.",
+    "After a day out, still do the usual jobs, just faster. Tomorrow morning won’t be a rush."
+   ],
+   [
+    "Xem ti vi thêm cho đỡ mệt",
+    "Watch telly to relax",
+    0,
+    "Xem ti vi làm con ngủ muộn hơn và mệt hơn. Con tắm, soạn cặp rồi ngủ nhé.",
+    "Telly means later bedtime and more tiredness. Bath, bag, then bed."
+   ]
+  ],
+  "qq": [
+   "Đi chơi về, những việc thường ngày thì…",
+   "After a day out, your usual jobs…"
+  ],
+  "qo": [
+   [
+    "Vẫn làm đủ, có thể làm nhanh hơn",
+    "Still get done, maybe faster"
+   ],
+   [
+    "Bỏ hết",
+    "Get skipped"
+   ],
+   [
+    "Để mai làm gấp đôi",
+    "Wait till tomorrow, double"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sau buổi tham quan, cả lớp về trường. Cô nhắc cất đồ, uống nước và vào tiết học tiếp theo.",
+     "After a class trip, everyone is back at school. The teacher says to put things away, drink some water and start the next lesson."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kể chuyện ồn ào suốt tiết",
+      "Chat noisily through the lesson",
+      0,
+      "Chuyện vui để giờ ra chơi kể tiếp nhé. Giờ là giờ học rồi.",
+      "Save the stories for break. Now it’s lesson time."
+     ],
+     [
+      "Gục xuống bàn không học",
+      "Put his head on the desk and not work",
+      0,
+      "Mệt thì uống nước, hít thở rồi bắt đầu từ từ nhé.",
+      "If you’re tired, drink water, take a breath and start slowly."
+     ],
+     [
+      "Cất ba lô, uống nước rồi ngồi vào chỗ học",
+      "Put his bag away, have a drink and sit ready to learn",
+      1,
+      "Vui xong rồi quay lại nếp học giúp con không bỏ lỡ bài.",
+      "Getting back to routine after fun means you don’t miss anything."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin sang nhà bà chơi cả buổi chiều. Đến giờ ăn tối, Bin vẫn mải chơi với anh họ.",
+     "Bin spends the afternoon at Grandma’s. At dinnertime he’s still busy playing with his cousin."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nghe bà gọi thì rửa tay, vào ăn đúng giờ như ở nhà",
+      "When Grandma calls, wash his hands and come to eat on time like at home",
+      1,
+      "Ở đâu cũng giữ giờ ăn đúng nếp thì cơ thể khoẻ và mọi người vui.",
+      "Keeping mealtimes wherever you are keeps you healthy and everyone happy."
+     ],
+     [
+      "Xin chơi thêm, ăn sau",
+      "Ask to play more and eat later",
+      0,
+      "Cả nhà đang chờ con. Chơi tiếp sau bữa ăn nhé.",
+      "Everyone is waiting. You can play again after dinner."
+     ],
+     [
+      "Ăn vội vài miếng rồi chạy đi chơi",
+      "Gobble a few bites and run off",
+      0,
+      "Ăn vội không tốt cho bụng. Ngồi ăn hết bữa cùng cả nhà nhé.",
+      "Gobbling isn’t good for your tummy. Sit and finish with everyone."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đi chơi về vẫn làm đủ ba việc",
+    "Three jobs after a day out"
+   ],
+   "s": [
+    "Sau một buổi đi chơi, con tự làm lại ba việc cố định: tắm, soạn cặp và đi ngủ đúng giờ. Ba mẹ xác nhận khi con làm xong.",
+    "After a day out, do your three usual jobs: bath, pack your bag and go to bed on time. Mum or Dad confirms when you’re done."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nhắc và làm cùng con từng việc.",
+     "Mum or Dad reminds you and does each job with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ ba việc.",
+     "Mum or Dad reminds you once; you do all three."
+    ],
+    [
+     "Con tự nhớ làm đủ ba việc không cần nhắc và kể lại cho ba mẹ.",
+     "You remember all three with no reminder and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ hát ru hoặc kể chuyện con chọn trước khi ngủ",
+    "Mum or Dad sings or tells a story of your choice at bedtime"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Vé và phí khi đi chơi",
+   "Tickets and fees"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cả nhà Bin đến vườn thú. Ba trả tiền gửi xe rồi mua vé. Bin hỏi: “Vào chơi cũng mất tiền ạ?”",
+   "Bin’s family arrives at the zoo. Dad pays for parking, then buys tickets. Bin asks, “Does it cost money to go in?”"
+  ],
+  "cq": [
+   "Điều nào đúng?",
+   "Which is true?"
+  ],
+  "co": [
+   [
+    "Đi chơi cũng tốn tiền vé, gửi xe; biết trước thì chuẩn bị được",
+    "Outings cost money for tickets and parking; knowing helps us plan",
+    1,
+    "Nhiều nơi vui chơi cần trả tiền. Biết trước giúp cả nhà chuẩn bị đủ và chọn chỗ phù hợp.",
+    "Lots of fun places cost money. Knowing ahead helps the family plan and choose well."
+   ],
+   [
+    "Vào chơi thì không bao giờ mất tiền",
+    "Fun places never cost money",
+    0,
+    "Có nơi miễn phí, có nơi phải trả tiền. Mình hỏi trước nhé.",
+    "Some places are free and some cost money. We check first."
+   ],
+   [
+    "Chỉ người lớn mới cần vé",
+    "Only grown-ups need tickets",
+    0,
+    "Nhiều nơi trẻ em cũng cần vé, có khi giá thấp hơn.",
+    "Children often need tickets too, sometimes cheaper ones."
+   ]
+  ],
+  "qq": [
+   "Trước khi đi chơi, cả nhà nên…",
+   "Before an outing, the family should…"
+  ],
+  "qo": [
+   [
+    "Không cần nghĩ đến tiền",
+    "Not think about money"
+   ],
+   [
+    "Mang thật nhiều đồ chơi",
+    "Bring lots of toys"
+   ],
+   [
+    "Xem trước giá vé và tiền gửi xe",
+    "Check ticket prices and parking"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà bàn đi bể bơi cuối tuần. Ba nói vé người lớn và trẻ em giá khác nhau.",
+     "The family plans a swim at the weekend. Dad says adult and child tickets cost different amounts."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Nói “Ba trả là được, con không cần biết”",
+      "Say “You pay, I don’t need to know”",
+      0,
+      "Biết một chút về chi phí giúp con hiểu giá trị của buổi đi chơi.",
+      "Knowing a bit about costs helps you value the outing."
+     ],
+     [
+      "Đòi đi thêm nhiều chỗ trong cùng ngày",
+      "Ask to go to lots more places that day",
+      0,
+      "Mỗi chỗ đều tốn tiền và thời gian. Chọn một chỗ là đủ vui rồi.",
+      "Each place costs money and time. One is plenty of fun."
+     ],
+     [
+      "Cùng ba đếm xem cả nhà có mấy người lớn, mấy trẻ em để biết cần bao nhiêu vé",
+      "Count with Dad how many adults and children need tickets",
+      1,
+      "Đếm trước giúp cả nhà biết cần chuẩn bị bao nhiêu tiền.",
+      "Counting first shows how much money to bring."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô gửi giấy báo cả lớp đi xem múa rối, trên giấy có ghi tiền vé.",
+     "The teacher sends home a note about a puppet show trip, with the ticket price on it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhét vào cặp rồi quên",
+      "Stuff it in his bag and forget",
+      0,
+      "Quên giấy thì ba mẹ không kịp chuẩn bị. Con đưa ngay khi về nhé.",
+      "Forgotten notes mean no time to plan. Hand it over when you get home."
+     ],
+     [
+      "Mang giấy về đưa ba mẹ xem ngay",
+      "Take the note home and give it to his parents straight away",
+      1,
+      "Ba mẹ cần biết sớm để chuẩn bị. Đưa giấy ngay là con có trách nhiệm.",
+      "Parents need to know early to plan. Handing it over shows responsibility."
+     ],
+     [
+      "Tự đoán là không mất tiền",
+      "Guess it’s free",
+      0,
+      "Giấy có ghi tiền vé rồi. Con đưa ba mẹ đọc nhé.",
+      "The note shows the price. Let your parents read it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Xem giá vé và đếm cho cả nhà",
+    "Check ticket prices for the family"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem giá vé một nơi vui chơi (trên tờ giới thiệu hoặc bảng giá) và đếm xem cả nhà cần bao nhiêu vé.",
+    "With Mum or Dad, look at the ticket prices for a fun place (on a leaflet or price board) and count how many tickets the family needs."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc giá vé, con đếm số người cùng ba mẹ.",
+     "Mum or Dad reads the prices and you count people together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đếm số vé người lớn và trẻ em.",
+     "Mum or Dad reminds you once; you count adult and child tickets."
+    ],
+    [
+     "Con tự đếm số vé và nói thêm cần trả tiền gửi xe hay không.",
+     "You count the tickets and say whether parking needs paying too."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng lên kế hoạch buổi đi chơi, con được chọn một hoạt động",
+    "The family plans an outing and you choose one activity"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Hỏi cô thủ thư",
+   "Asking the librarian"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở thư viện, Bin muốn tìm sách về cá heo nhưng không biết ở kệ nào. Mẹ đứng cạnh Bin.",
+   "At the library, Bin wants a book about dolphins but doesn’t know which shelf. Mum is beside him."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Rút từng cuốn ra xem rồi để bừa",
+    "Pull out books one by one and leave them messy",
+    0,
+    "Để bừa làm người khác khó tìm sách. Con hỏi cô thủ thư nhanh hơn nhiều.",
+    "Messy shelves make it hard for others. Asking the librarian is much quicker."
+   ],
+   [
+    "Gọi to từ xa: “Cô ơi, sách cá heo đâu?”",
+    "Shout from far away, “Where are the dolphin books?”",
+    0,
+    "Thư viện cần yên lặng. Con đến gần quầy và nói nhỏ nhé.",
+    "Libraries need quiet. Walk to the desk and speak softly."
+   ],
+   [
+    "Đến quầy, nói nhỏ: “Cháu chào cô ạ. Cô chỉ giúp cháu sách về cá heo ạ.”",
+    "Go to the desk and say quietly, “Hello. Could you help me find books about dolphins, please?”",
+    1,
+    "Đến gần, chào và nói rõ điều mình cần thì cô thủ thư giúp được ngay.",
+    "Going close, greeting and saying what you need lets the librarian help straight away."
+   ]
+  ],
+  "qq": [
+   "Hỏi người làm ở thư viện, con nên…",
+   "When asking at the library, you should…"
+  ],
+  "qo": [
+   [
+    "Đến gần, chào, nói nhỏ và rõ điều mình cần",
+    "Go close, greet, and say quietly and clearly what you need"
+   ],
+   [
+    "Gọi to từ xa",
+    "Call from far away"
+   ],
+   [
+    "Tự lục khắp các kệ",
+    "Search every shelf yourself"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin muốn nhờ ông giải câu đố trong sách nhưng ông đang đọc báo.",
+     "Bin wants Grandad’s help with a puzzle in his book, but Grandad is reading the paper."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chờ ông ngẩng lên rồi hỏi: “Ông ơi, ông giúp cháu câu này được không ạ?”",
+      "Wait for Grandad to look up, then ask, “Grandad, could you help me with this, please?”",
+      1,
+      "Chờ đúng lúc và hỏi lễ phép thì ông vui lòng giúp ngay.",
+      "Waiting for the right moment and asking politely makes Grandad happy to help."
+     ],
+     [
+      "Kéo tờ báo của ông xuống",
+      "Pull Grandad’s newspaper down",
+      0,
+      "Kéo báo làm ông giật mình. Con chờ ông ngẩng lên rồi hỏi nhé.",
+      "That would startle him. Wait for him to look up, then ask."
+     ],
+     [
+      "Hỏi liên tục cắt ngang ông",
+      "Keep interrupting",
+      0,
+      "Cắt ngang liên tục làm ông khó đọc. Con chờ một chút nhé.",
+      "Interrupting makes it hard for him to read. Wait a moment."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ở thư viện trường, Bin muốn mượn sách về nhà nhưng không biết cách.",
+     "In the school library, Bin wants to borrow a book but doesn’t know how."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bỏ sách vào cặp mang về",
+      "Put the book in his bag and take it",
+      0,
+      "Sách thư viện cần ghi mượn với cô. Con hỏi cô nhé.",
+      "Library books need to be signed out. Ask the librarian."
+     ],
+     [
+      "Mang sách đến cô thủ thư: “Em muốn mượn cuốn này về nhà ạ. Em cần làm gì ạ?”",
+      "Take it to the librarian: “I’d like to borrow this, please. What do I need to do?”",
+      1,
+      "Hỏi rõ ràng giúp con biết cách mượn đúng, lần sau tự làm được.",
+      "Asking clearly shows you how to borrow, so next time you can do it yourself."
+     ],
+     [
+      "Thôi không mượn nữa vì ngại hỏi",
+      "Give up because he’s too shy",
+      0,
+      "Ngại một chút là bình thường. Con hỏi một câu thôi là được sách hay rồi.",
+      "Feeling shy is normal. One question gets you a great book."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự hỏi để mượn một cuốn sách",
+    "Ask to borrow a book"
+   ],
+   "s": [
+    "Ở thư viện cùng ba mẹ (hoặc đóng vai ở nhà), con tự đến quầy, chào và nói nhỏ, rõ ràng để mượn một cuốn sách.",
+    "At the library with Mum or Dad (or playing libraries at home), go to the desk, say hello and ask quietly and clearly to borrow a book."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đi cùng đến quầy và nói mẫu, con nói theo.",
+     "Mum or Dad comes to the desk, says it first, and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi.",
+     "Mum or Dad reminds you once; you ask by yourself."
+    ],
+    [
+     "Con tự hỏi, tự cảm ơn và kể lại cô thủ thư đã giúp gì.",
+     "You ask, say thank you and tell how the librarian helped."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ đọc cùng con cuốn sách mới mượn",
+    "Mum or Dad reads your new library book with you"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi không được mua thứ mình thích",
+   "When the answer is no"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở cửa hàng, Bin thấy con rô-bốt to và xin mẹ mua. Mẹ nói: “Hôm nay mình không mua, con ạ.”",
+   "In a shop, Bin sees a big robot and asks Mum for it. Mum says, “We’re not buying it today, love.”"
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Nằm ra sàn khóc thật to",
+    "Lie on the floor and cry loudly",
+    0,
+    "Khóc to không làm mẹ đổi ý mà con còn mệt hơn. Con thử nói “Con buồn” nhé.",
+    "Crying loudly won’t change the answer and tires you out. Try saying “I’m sad”."
+   ],
+   [
+    "Giận, không nói chuyện với mẹ suốt buổi",
+    "Sulk and not speak to Mum all trip",
+    0,
+    "Giận mãi thì buổi đi chơi mất vui. Con nói ra cảm xúc rồi cùng mẹ đi tiếp nhé.",
+    "Sulking spoils the outing. Say how you feel and carry on with Mum."
+   ],
+   [
+    "Nói “Con buồn nhưng con hiểu”, hít sâu rồi cùng mẹ đi tiếp",
+    "Say “I’m sad but I understand”, breathe deeply and walk on with Mum",
+    1,
+    "Buồn khi bị từ chối là bình thường. Nói ra và tự dỗ mình là con đang lớn lên đấy.",
+    "Feeling sad at a no is normal. Saying it and calming yourself shows you’re growing up."
+   ]
+  ],
+  "qq": [
+   "Khi bị từ chối, con có thể…",
+   "When the answer is no, you can…"
+  ],
+  "qo": [
+   [
+    "Ăn vạ cho bằng được",
+    "Make a fuss until you get it"
+   ],
+   [
+    "Nói ra cảm xúc và tự dỗ mình",
+    "Say how you feel and calm yourself"
+   ],
+   [
+    "Giận mãi",
+    "Stay cross forever"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin xin xem thêm một tập hoạt hình. Ba nói: “Hết giờ rồi, con tắt nhé.”",
+     "Bin asks for one more cartoon. Dad says, “Time’s up, switch it off please.”"
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Giấu cái điều khiển đi",
+      "Hide the remote",
+      0,
+      "Giấu điều khiển làm ba buồn. Con nói ra con tiếc rồi tắt nhé.",
+      "Hiding it upsets Dad. Say you’re disappointed, then switch off."
+     ],
+     [
+      "Nói “Con tiếc lắm, nhưng con hiểu ạ”, tắt ti vi rồi ôm gấu bông một lúc",
+      "Say “I’m disappointed, but I understand”, switch off and cuddle his teddy",
+      1,
+      "Gọi tên cảm xúc và có cách tự an ủi giúp con vui lại nhanh hơn.",
+      "Naming the feeling and having a way to comfort yourself helps you feel better faster."
+     ],
+     [
+      "Khóc lóc mặc cả mãi",
+      "Cry and bargain on and on",
+      0,
+      "Mặc cả mãi làm cả hai mệt. Con thử nói “Con buồn nhưng con hiểu” nhé.",
+      "Endless bargaining tires you both. Try “I’m sad but I understand”."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bin xin cô cho phát vở hôm nay. Cô nói: “Hôm nay đến lượt Vy, con ạ.”",
+     "Bin asks to hand out the books today. The teacher says, “It’s Vy’s turn today.”"
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Nói “Dạ vâng ạ” và tự nhủ “Lần sau sẽ đến lượt mình”",
+      "Say “OK” and tell himself, “My turn will come”",
+      1,
+      "Tự nhắc mình rằng lượt sẽ đến giúp con bình tĩnh và vui lại.",
+      "Reminding yourself your turn will come helps you stay calm and cheerful."
+     ],
+     [
+      "Dỗi, úp mặt xuống bàn",
+      "Sulk with his head on the desk",
+      0,
+      "Buồn một chút cũng được, rồi con tự nhủ lần sau đến lượt mình nhé.",
+      "A little sadness is fine, then remind yourself your turn will come."
+     ],
+     [
+      "Giành vở từ tay Vy",
+      "Grab the books from Vy",
+      0,
+      "Giành vở làm Vy buồn và không công bằng. Con chờ lượt mình nhé.",
+      "Grabbing upsets Vy and isn’t fair. Wait for your turn."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập câu “Con buồn nhưng con hiểu”",
+    "Practise “I’m sad but I understand”"
+   ],
+   "s": [
+    "Con tập nói câu “Con buồn nhưng con hiểu” với ba mẹ và chọn một cách tự an ủi (ôm gấu bông, hít sâu, uống nước).",
+    "Practise saying “I’m sad but I understand” with Mum or Dad and choose one way to comfort yourself (hug a teddy, breathe deeply, have a drink)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu, con nói theo và chọn cách tự an ủi.",
+     "Mum or Dad says it first; you copy and choose a comfort."
+    ],
+    [
+     "Ba mẹ đóng vai nói “không”, ba mẹ nhắc một lần rồi con tự nói câu đó.",
+     "Mum or Dad plays saying “no”, reminds you once, then you say the phrase."
+    ],
+    [
+     "Con tự dùng câu đó khi bị từ chối thật và kể lại cho ba mẹ.",
+     "You use the phrase when you really get a no and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dạy con một trò chơi hồi nhỏ của ba mẹ",
+    "Mum or Dad teaches you a game they played as a child"
+   ]
+  }
+ }
+]

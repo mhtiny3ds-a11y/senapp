@@ -1,0 +1,1959 @@
+{
+ "chang": [
+  {
+   "n": 1,
+   "theme": "Bắt đầu từ chính mình",
+   "weeks": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "n": 2,
+   "theme": "Thói quen tốt mỗi ngày",
+   "weeks": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "n": 3,
+   "theme": "Mình và bạn bè",
+   "weeks": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "n": 4,
+   "theme": "Ở nhà là một đội",
+   "weeks": [
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "n": 5,
+   "theme": "Học tập chủ động",
+   "weeks": [
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "n": 6,
+   "theme": "Lớp học là nhà chung",
+   "weeks": [
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "n": 7,
+   "theme": "Ra ngoài khám phá",
+   "weeks": [
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "n": 8,
+   "theme": "Khôn ngoan trong thế giới số",
+   "weeks": [
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "n": 9,
+   "theme": "Dự án nhỏ, ước mơ lớn",
+   "weeks": [
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "n": 10,
+   "theme": "Hàng xóm và cộng đồng",
+   "weeks": [
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "n": 11,
+   "theme": "Sống xanh, sống trách nhiệm",
+   "weeks": [
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "n": 12,
+   "theme": "Sẵn sàng lớn lên",
+   "weeks": [
+    45,
+    46,
+    47,
+    48
+   ]
+  }
+ ],
+ "weeks": {
+  "10": [
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi han khi bạn buồn",
+     "Checking in on a sad friend"
+    ],
+    "gist": "Hỏi một câu mở, lắng nghe trọn vẹn và không vội khuyên.",
+    "mission": "Hỏi thăm một người thân bằng một câu hỏi mở, nghe hết rồi kể lại với ba mẹ con đã nghe được gì."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị bạn bỏ rơi",
+     "Feeling left out"
+    ],
+    "gist": "Gọi tên cảm giác bị ra rìa và chọn một cách lành mạnh để vượt qua.",
+    "mission": "Viết 3 câu về một lần thấy bị bỏ rơi và một việc giúp con thấy khá hơn, rồi chia sẻ với ba mẹ."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Chọn trò chơi chung không cãi nhau",
+     "Choosing a game everyone agrees on"
+    ],
+    "gist": "Dùng cách công bằng như bỏ phiếu, bốc thăm hay lần lượt để cả nhóm cùng chọn.",
+    "mission": "Tối nay cùng cả nhà chọn một trò chơi bằng cách bỏ phiếu hoặc lần lượt, ba mẹ xác nhận không ai phải cãi."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự chuẩn bị khi sang nhà bạn chơi",
+     "Getting ready to visit a friend's home"
+    ],
+    "gist": "Tự xin phép, báo giờ về, soạn đồ cần mang và nhớ phép lịch sự khi đến nhà người khác.",
+    "mission": "Lập danh sách đồ cần mang và 3 điều cần báo ba mẹ trước khi sang nhà bạn, ba mẹ kiểm tra."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Hai bạn giận nhau, mình đứng giữa",
+     "Caught between two friends"
+    ],
+    "gist": "Không chọn phe, không chuyển lời; giúp hai bạn tự nói chuyện trực tiếp với nhau.",
+    "mission": "Cùng ba mẹ đóng vai và tập 3 câu giúp hai bạn bình tĩnh nói chuyện với nhau."
+   }
+  ],
+  "11": [
+   {
+    "sk": 5,
+    "t": [
+     "Tin đồn trong lớp: tin hay không?",
+     "Class rumours: believe them or not?"
+    ],
+    "gist": "Hỏi ai nói, dựa vào đâu và có kiểm chứng được không trước khi tin hay kể lại.",
+    "mission": "Chọn một chuyện nghe được gần đây, cùng ba mẹ trả lời 3 câu: ai nói, dựa vào đâu, kiểm được không."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Khi trò đùa làm mình đau",
+     "When play goes too far"
+    ],
+    "gist": "Nói rõ “dừng lại” khi trò đùa làm mình đau hay khó chịu, và báo người lớn nếu vẫn tiếp diễn.",
+    "mission": "Tập nói câu “Dừng lại, tớ không thích” thật dứt khoát 3 lần với ba mẹ và chọn một người lớn ở trường để báo khi cần."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Chơi với bạn mà vẫn xong bài",
+     "Playtime and homework both done"
+    ],
+    "gist": "Thoả thuận trước giờ học và giờ chơi để việc này không lấn việc kia.",
+    "mission": "Viết lịch buổi chiều mai có giờ học và giờ chơi, làm đúng lịch và nhờ ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Quà sinh nhật bạn: tấm lòng hơn giá tiền",
+     "A friend's gift: thought over price"
+    ],
+    "gist": "Chọn quà theo sở thích của bạn trong số tiền đã định; quà ý nghĩa không cần đắt.",
+    "mission": "Nghĩ 3 ý tưởng quà cho một người bạn trong mức tiền ba mẹ đặt và giải thích vì sao mỗi món hợp với bạn ấy."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Khen cho thật lòng",
+     "Giving genuine compliments"
+    ],
+    "gist": "Khen việc cụ thể người khác đã làm thay vì khen chung chung.",
+    "mission": "Khen cụ thể 3 người trong nhà về một việc họ làm hôm nay, ba mẹ xác nhận."
+   }
+  ],
+  "12": [
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị hiểu lầm",
+     "When I'm misunderstood"
+    ],
+    "gist": "Giữ bình tĩnh, giải thích một lần thật rõ và chấp nhận người kia cần thời gian để hiểu.",
+    "mission": "Kể với ba mẹ một lần bị hiểu lầm, rồi tập lại cách giải thích bình tĩnh trong 3 câu."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Thắng cùng nhau, thua cùng nhau",
+     "Win together, lose together"
+    ],
+    "gist": "Khi đội thua, không đổ lỗi cho một người mà cùng tìm điều rút ra.",
+    "mission": "Chơi một trò đồng đội với gia đình, sau đó mỗi người nói một điều cả đội đã làm tốt."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Giữ lời hẹn với bạn",
+     "Keeping my promises to friends"
+    ],
+    "gist": "Chỉ hứa điều làm được, tự ghi lại và tự nhớ để giữ lời.",
+    "mission": "Ghi một lời hứa nhỏ với người trong nhà vào giấy nhắc và tự hoàn thành trong ngày, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Bạn xin chép bài",
+     "A friend asks to copy my homework"
+    ],
+    "gist": "Tìm cách giúp bạn hiểu bài thay vì cho chép, và từ chối nhẹ nhàng mà rõ ràng.",
+    "mission": "Cùng ba mẹ nghĩ 3 cách giúp bạn mà không cho chép, chọn cách con thấy hợp nhất và tập nói."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Nhìn bạn qua việc làm, không qua vẻ ngoài",
+     "Judging by actions, not looks"
+    ],
+    "gist": "Ấn tượng ban đầu có thể sai; hãy dựa vào việc người đó làm để đánh giá.",
+    "mission": "Kể với ba mẹ về một người con đã hiểu hơn sau khi cùng làm việc hay trò chuyện với họ."
+   }
+  ],
+  "13": [
+   {
+    "sk": 6,
+    "t": [
+     "An toàn trong bếp",
+     "Kitchen safety"
+    ],
+    "gist": "Nhận ra nguy cơ từ dao, lửa, nước sôi, điện và chỉ dùng khi có người lớn bên cạnh.",
+    "mission": "Cùng ba mẹ đi quanh bếp, chỉ ra 5 chỗ cần cẩn thận và nói quy tắc cho từng chỗ."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Lịch chung của cả nhà",
+     "A shared family calendar"
+    ],
+    "gist": "Ghi việc của mọi người lên một lịch chung để không ai lỡ việc của ai.",
+    "mission": "Cùng cả nhà ghi lịch tuần tới lên một tờ giấy và dán ở chỗ ai cũng thấy."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tiền điện nước của nhà mình",
+     "Our home's power and water bills"
+    ],
+    "gist": "Tiền điện nước là khoản cả nhà cùng trả; dùng tiết kiệm là góp phần giúp gia đình.",
+    "mission": "Tìm 3 chỗ trong nhà có thể tắt đèn hoặc khoá nước khi không dùng và làm suốt một ngày, ba mẹ xác nhận."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Kể chuyện ở trường cho ba mẹ",
+     "Telling my parents about school"
+    ],
+    "gist": "Kể có đầu có cuối: chuyện gì, có ai, con thấy thế nào.",
+    "mission": "Bữa tối nay kể một chuyện ở trường đủ 3 ý, ba mẹ hỏi lại một câu và con trả lời."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi anh chị em làm mình bực",
+     "When siblings get on my nerves"
+    ],
+    "gist": "Bình tĩnh nói điều mình cần thay vì la hét hay mách ngay.",
+    "mission": "Tập mẫu câu “Em thấy… khi… Mình thử… nhé?” với ba mẹ và dùng một lần trong tuần."
+   }
+  ],
+  "14": [
+   {
+    "sk": 2,
+    "t": [
+     "Cả nhà dọn dẹp như một đội",
+     "Cleaning up as a family team"
+    ],
+    "gist": "Mỗi người nhận một khu, ai xong trước thì sang giúp người khác.",
+    "mission": "Nhận một khu dọn trong 15 phút cuối tuần, xong thì giúp thêm một người, ba mẹ xác nhận."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự giặt đồ nhỏ của mình",
+     "Washing my own small items"
+    ],
+    "gist": "Tự giặt tay tất, khăn nhỏ đúng cách và phơi gọn gàng.",
+    "mission": "Tự giặt tay một đôi tất hoặc một chiếc khăn rồi phơi lên, ba mẹ kiểm tra."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Mất điện buổi tối thì làm gì?",
+     "A power cut in the evening"
+    ],
+    "gist": "Bình tĩnh, tìm đèn pin ở chỗ đã định, tránh xa ổ điện và hỏi người lớn.",
+    "mission": "Cùng ba mẹ chọn chỗ cố định để đèn pin và tập tìm thấy nó trong 1 phút khi tắt đèn."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Vì sao nhà mình có quy định này?",
+     "Why does my family have this rule?"
+    ],
+    "gist": "Tìm hiểu lý do đằng sau một quy định trước khi đồng ý hay phản đối.",
+    "mission": "Chọn một nội quy trong nhà, hỏi ba mẹ lý do và viết lại bằng lời của con."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Khi người lạ gọi điện đến nhà",
+     "When a stranger calls home"
+    ],
+    "gist": "Không nói mình ở nhà một mình, không cho thông tin, ghi lời nhắn và báo ba mẹ.",
+    "mission": "Đóng vai với ba mẹ 2 cuộc gọi lạ và tập cách trả lời an toàn."
+   }
+  ],
+  "15": [
+   {
+    "sk": 7,
+    "t": [
+     "Việc nhà hay bài tập: cái nào trước?",
+     "Chores or homework first?"
+    ],
+    "gist": "Xếp thứ tự việc theo hạn chót và mức độ quan trọng.",
+    "mission": "Liệt kê các việc chiều nay, đánh số thứ tự, làm theo và đưa ba mẹ xem."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Đọc hoá đơn đi chợ",
+     "Reading a shopping receipt"
+    ],
+    "gist": "Đọc từng dòng hoá đơn để biết tiền đã chi vào đâu và kiểm tra có đúng không.",
+    "mission": "Cùng ba mẹ đọc một hoá đơn, cộng thử 3 dòng và tìm món đắt nhất."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Gọi điện hỏi thăm ông bà",
+     "Calling my grandparents"
+    ],
+    "gist": "Chào hỏi, hỏi thăm, kể một chuyện và chào tạm biệt lễ phép.",
+    "mission": "Gọi cho ông bà hoặc một người thân lớn tuổi 5 phút với 3 câu hỏi đã chuẩn bị trước."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị ba mẹ la",
+     "When my parents scold me"
+    ],
+    "gist": "Nghe hết, thở chậm, đợi lúc bình tĩnh rồi mới nói suy nghĩ của mình.",
+    "mission": "Cùng ba mẹ thoả thuận một “tín hiệu xin bình tĩnh” và tập dùng thử một lần."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Nấu một bữa cùng cả nhà",
+     "Cooking a meal together"
+    ],
+    "gist": "Mỗi người một phần việc, nói với nhau khi cần và cùng dọn sau bữa ăn.",
+    "mission": "Nhận một việc an toàn như nhặt rau hay bày bát trong bữa tối và làm trọn, ba mẹ xác nhận."
+   }
+  ],
+  "16": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự quản góc học tập",
+     "Running my own study corner"
+    ],
+    "gist": "Tự sắp xếp bàn học gọn gàng, đủ đồ dùng cho mỗi ngày.",
+    "mission": "Dọn bàn học 15 phút, nhờ ba mẹ xem trước và sau khi dọn."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Em nhỏ khóc mãi, mình làm gì?",
+     "When a little one won't stop crying"
+    ],
+    "gist": "Đoán nguyên nhân (đói, mệt, sợ), thử cách dỗ nhẹ nhàng và gọi người lớn.",
+    "mission": "Cùng ba mẹ lập danh sách 4 cách dỗ em nhỏ an toàn."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đừng so nhà mình với nhà khác",
+     "Not comparing my family with others"
+    ],
+    "gist": "Mỗi nhà có cách sống riêng; hãy nhìn điều nhà mình có thay vì chỉ thấy điều thiếu.",
+    "mission": "Viết 5 điều con quý ở gia đình mình và đọc cho ba mẹ nghe."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Thuốc không phải là kẹo",
+     "Medicine isn't candy"
+    ],
+    "gist": "Chỉ dùng thuốc khi người lớn đưa, không tự lấy và không đưa cho em nhỏ.",
+    "mission": "Cùng ba mẹ kiểm tra tủ thuốc đã để chỗ an toàn chưa và nhắc lại 3 quy tắc."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Cuối tuần trọn vẹn",
+     "A balanced weekend"
+    ],
+    "gist": "Cân bằng nghỉ ngơi, việc nhà, học bài và thời gian bên gia đình.",
+    "mission": "Lập kế hoạch cuối tuần có đủ 4 phần, đến tối Chủ nhật tự chấm cùng ba mẹ."
+   }
+  ],
+  "17": [
+   {
+    "sk": 8,
+    "t": [
+     "Đồ dùng học tập: dùng hết rồi mới mua",
+     "School supplies: use up before buying"
+    ],
+    "gist": "Kiểm tra đồ đang có trước khi mua thêm để không lãng phí.",
+    "mission": "Kiểm hộp bút, đếm đồ còn dùng được và chỉ ghi những thứ thật sự đã hết, ba mẹ xem lại."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi thầy cô khi chưa hiểu bài",
+     "Asking the teacher when I'm stuck"
+    ],
+    "gist": "Chuẩn bị câu hỏi cụ thể, chọn lúc phù hợp và hỏi lễ phép.",
+    "mission": "Viết một câu hỏi cụ thể về bài đang học, tập hỏi với ba mẹ rồi hỏi thầy cô."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Gặp bài khó muốn bỏ cuộc",
+     "When a hard task makes me want to quit"
+    ],
+    "gist": "Nhận ra lúc nản, nghỉ ngắn rồi thử lại bằng một cách khác.",
+    "mission": "Với một bài khó, khi nản thì nghỉ 2 phút thở chậm rồi làm tiếp; kể lại với ba mẹ."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Học nhóm cho hiệu quả",
+     "Studying in a group well"
+    ],
+    "gist": "Đặt mục tiêu chung, mỗi người giảng lại một phần cho cả nhóm.",
+    "mission": "Giảng lại một phần bài cho người trong nhà trong 5 phút như đang học nhóm."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự soát bài trước khi nộp",
+     "Checking my work before handing it in"
+    ],
+    "gist": "Tự đọc lại và soát lỗi theo danh sách trước khi nhờ người khác xem.",
+    "mission": "Tự soát một bài tập theo danh sách 3 điểm, sau đó mới đưa ba mẹ xem."
+   }
+  ],
+  "18": [
+   {
+    "sk": 4,
+    "t": [
+     "Quên làm bài tập về nhà",
+     "Forgot my homework"
+    ],
+    "gist": "Nhận lỗi trung thực, đề xuất cách bù và tạo cách nhắc cho lần sau.",
+    "mission": "Tự làm một cách nhắc bài tập (sổ, giấy dán) và dùng 3 ngày liền, ba mẹ xác nhận."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đọc kỹ đề trước khi làm",
+     "Reading the question carefully"
+    ],
+    "gist": "Gạch chân từ khoá và tự hỏi “đề thật sự yêu cầu gì?” trước khi làm.",
+    "mission": "Cùng ba mẹ đọc 3 đề bài, gạch từ khoá và nói lại yêu cầu bằng lời của con."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chờ người đón an toàn",
+     "Waiting safely to be picked up"
+    ],
+    "gist": "Chờ đúng chỗ hẹn, không đi theo ai khi ba mẹ chưa báo, biết làm gì khi người đón đến muộn.",
+    "mission": "Cùng ba mẹ thống nhất chỗ chờ, danh sách người được đón con và một “mật khẩu gia đình”."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Ước lượng thời gian làm bài",
+     "Estimating how long homework takes"
+    ],
+    "gist": "Đoán trước thời gian, bấm giờ thật rồi so sánh để lập kế hoạch chính xác hơn.",
+    "mission": "Đoán thời gian làm 2 bài tập, bấm giờ thật và ghi chênh lệch cho ba mẹ xem."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Sách mới, sách cũ hay thư viện?",
+     "New book, used book or library?"
+    ],
+    "gist": "Có nhiều cách để có thứ mình cần; không phải lúc nào cũng phải mua mới.",
+    "mission": "Cùng ba mẹ so sánh 3 cách để có một cuốn sách con muốn đọc và chọn cách hợp lý nhất."
+   }
+  ],
+  "19": [
+   {
+    "sk": 0,
+    "t": [
+     "Thuyết trình trước lớp",
+     "Presenting to the class"
+    ],
+    "gist": "Có mở đầu, ba ý chính và kết thúc; nhìn người nghe và nói đủ to.",
+    "mission": "Thuyết trình 2 phút về một chủ đề con thích cho cả nhà nghe."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bạn bè so điểm",
+     "When classmates compare marks"
+    ],
+    "gist": "Tập trung vào tiến bộ của mình thay vì thứ hạng so với bạn.",
+    "mission": "Viết 3 điều con tiến bộ so với tháng trước và chia sẻ với ba mẹ."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Nhóm trưởng, thư ký, người giữ giờ",
+     "Leader, note-taker, timekeeper"
+    ],
+    "gist": "Mỗi người một vai rõ ràng giúp nhóm chạy trơn tru và ai cũng có trách nhiệm.",
+    "mission": "Trong một việc chung của cả nhà, chia 3 vai và con thử làm người giữ giờ."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự học khi không ai nhắc",
+     "Studying without reminders"
+    ],
+    "gist": "Tự bắt đầu đúng giờ đã định và có cách tự nhắc mình.",
+    "mission": "Ba ngày liền tự ngồi vào bàn học đúng giờ mà không cần nhắc, ba mẹ ghi nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Bí bài: tự tìm cách gỡ",
+     "Unsticking myself on a problem"
+    ],
+    "gist": "Đọc lại ví dụ, vẽ hình, thử với số nhỏ trước khi đi hỏi.",
+    "mission": "Với một bài khó, thử 2 cách tự gỡ rồi mới hỏi ba mẹ; kể lại cách nào hiệu quả."
+   }
+  ],
+  "20": [
+   {
+    "sk": 5,
+    "t": [
+     "Tra cứu thông tin cho bài học",
+     "Researching for a school task"
+    ],
+    "gist": "So sánh ít nhất hai nguồn đáng tin và ghi lại nguồn đã dùng.",
+    "mission": "Cùng ba mẹ tra một thông tin ở 2 nguồn (sách và trang chính thống), so xem có khớp không."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chơi an toàn ở sân trường",
+     "Playing safely in the schoolyard"
+    ],
+    "gist": "Biết chỗ và trò chơi dễ gây nguy hiểm; khi bạn bị ngã thì báo thầy cô ngay.",
+    "mission": "Vẽ sơ đồ sân trường, đánh dấu 3 chỗ cần cẩn thận và giải thích cho ba mẹ."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Mục tiêu học tập mỗi tuần",
+     "Weekly learning goals"
+    ],
+    "gist": "Đặt mục tiêu nhỏ, cụ thể, đo được và tự kiểm tra cuối tuần.",
+    "mission": "Viết một mục tiêu học tập cho tuần tới theo mẫu “Con sẽ… vào… bằng cách…” và dán lên bàn học."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Rẻ mà mau hỏng có thật là rẻ?",
+     "Is cheap really cheap if it breaks?"
+    ],
+    "gist": "Tính xem một món dùng được bao lâu; đồ bền đôi khi tiết kiệm hơn đồ rẻ.",
+    "mission": "Cùng ba mẹ so hai món đồ dùng (một rẻ, một bền) và ước tính mỗi món dùng được bao lâu."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Viết lời nhắn cho thầy cô",
+     "Writing a note to my teacher"
+    ],
+    "gist": "Viết ngắn gọn, lễ phép, đủ ý: lời chào, việc cần, lời cảm ơn.",
+    "mission": "Soạn một lời nhắn mẫu xin phép hoặc hỏi bài và nhờ ba mẹ góp ý."
+   }
+  ],
+  "21": [
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị nhắc nhở trước lớp",
+     "Being corrected in front of the class"
+    ],
+    "gist": "Đón nhận lời nhắc, giữ bình tĩnh và sửa; bị nhắc không có nghĩa là mình kém.",
+    "mission": "Kể với ba mẹ một lần bị nhắc và cùng tìm một câu tự nói giúp con bình tĩnh."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng nhau trang trí lớp học",
+     "Decorating the classroom together"
+    ],
+    "gist": "Ai cũng góp ý tưởng, cả nhóm cùng chọn và mỗi người làm một phần.",
+    "mission": "Cùng gia đình trang trí một góc nhỏ trong nhà, con điều phối ý tưởng của mọi người."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Trực nhật không cần nhắc",
+     "Class duty without reminders"
+    ],
+    "gist": "Tự nhớ ngày trực và làm đủ các việc được giao.",
+    "mission": "Lập danh sách việc trực nhật, rồi làm thử ở một góc nhà trong 10 phút, ba mẹ kiểm tra."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Lớp ồn, làm sao tập trung?",
+     "Focusing in a noisy class"
+    ],
+    "gist": "Tập trung vào điều mình làm được: chỗ ngồi, tự nhắc, nhờ thầy cô.",
+    "mission": "Làm bài 10 phút khi có tiếng ồn nhẹ, ghi lại cách giúp con tập trung và kể với ba mẹ."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Bầu lớp trưởng: chọn ai?",
+     "Choosing a class monitor"
+    ],
+    "gist": "Chọn người dựa vào việc làm và khả năng, không dựa vào độ nổi tiếng.",
+    "mission": "Viết 3 tiêu chí của một lớp trưởng tốt và giải thích với ba mẹ."
+   }
+  ],
+  "22": [
+   {
+    "sk": 6,
+    "t": [
+     "Khi thấy bạn bị bắt nạt",
+     "When I see a classmate bullied"
+    ],
+    "gist": "Không đứng xem hay cổ vũ, ở bên bạn và báo thầy cô ngay.",
+    "mission": "Cùng ba mẹ tập cách báo thầy cô và 2 câu động viên bạn bị bắt nạt."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Giờ ra chơi 15 phút",
+     "Making the most of recess"
+    ],
+    "gist": "Sắp xếp để kịp vệ sinh, uống nước, vui chơi và vào lớp đúng giờ.",
+    "mission": "Lên kế hoạch cho 15 phút nghỉ ở nhà và dùng đồng hồ hẹn giờ để làm thử."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Quỹ lớp dùng thế nào?",
+     "How the class fund is used"
+    ],
+    "gist": "Tiền chung phải được ghi chép rõ ràng, minh bạch để ai cũng xem được.",
+    "mission": "Cùng ba mẹ lập một sổ thu chi mẫu cho một khoản chung của gia đình trong tuần."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Phát biểu trong giờ sinh hoạt",
+     "Speaking up at class meetings"
+    ],
+    "gist": "Giơ tay, nêu ý ngắn gọn kèm lý do và lắng nghe ý khác.",
+    "mission": "Trong bữa tối, nêu một đề xuất cho gia đình kèm lý do rõ ràng."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi thấy điều không công bằng",
+     "When something feels unfair"
+    ],
+    "gist": "Nhận ra cảm giác bất công, bình tĩnh tìm hiểu và nói với đúng người.",
+    "mission": "Kể với ba mẹ một việc con thấy chưa công bằng và tập nói với thầy cô thật bình tĩnh."
+   }
+  ],
+  "23": [
+   {
+    "sk": 2,
+    "t": [
+     "Mời bạn ít nói góp ý",
+     "Bringing in the quiet voices"
+    ],
+    "gist": "Mời bạn ít nói chia sẻ để nhóm có đủ các góc nhìn.",
+    "mission": "Trong bữa tối, mời người ít nói nhất trong nhà chia sẻ trước và lắng nghe hết."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Giữ gìn đồ dùng chung",
+     "Caring for shared things"
+    ],
+    "gist": "Dùng xong cất đúng chỗ, giữ sạch và báo ngay khi thấy hỏng.",
+    "mission": "Chọn một món đồ dùng chung trong nhà, lau sạch và cất đúng chỗ, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Bạn cùng bàn lấn chỗ",
+     "My deskmate takes my space"
+    ],
+    "gist": "Nói nhẹ nhàng, đề xuất cách chia chỗ công bằng và nhờ thầy cô khi cần.",
+    "mission": "Đóng vai với ba mẹ cách nói và đề xuất chia chỗ công bằng."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Nhận xét bài bạn có căn cứ",
+     "Feedback with evidence"
+    ],
+    "gist": "Nói điều làm tốt, điều chưa tốt và vì sao, dựa trên tiêu chí rõ ràng.",
+    "mission": "Nhận xét một bức vẽ hay bài viết của người nhà theo 2 tiêu chí đã chọn."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Tôn trọng ranh giới của bạn",
+     "Respecting other people's boundaries"
+    ],
+    "gist": "Hỏi trước khi chạm vào bạn hay đồ của bạn; nghe “không” thì dừng.",
+    "mission": "Tập 3 câu xin phép với ba mẹ và dùng chúng trong tuần."
+   }
+  ],
+  "24": [
+   {
+    "sk": 7,
+    "t": [
+     "Lập lịch lùi từ hạn nộp",
+     "Planning backwards from a deadline"
+    ],
+    "gist": "Bắt đầu từ ngày nộp rồi lùi lại để chia việc cho từng ngày.",
+    "mission": "Chọn một bài cần nộp, lập lịch lùi trên giấy và theo đúng 3 ngày, ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Giúp bạn gặp khó khăn",
+     "Helping a classmate in need"
+    ],
+    "gist": "Góp sức theo khả năng, kín đáo và tôn trọng bạn.",
+    "mission": "Cùng ba mẹ chọn đồ dùng học tập còn tốt để tặng lại và gói cẩn thận."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Cảm ơn bác bảo vệ, cô lao công",
+     "Thanking school staff"
+    ],
+    "gist": "Chào hỏi và cảm ơn những người lặng lẽ giữ trường sạch đẹp, an toàn.",
+    "mission": "Chào và cảm ơn một bác bảo vệ hoặc cô lao công bằng một câu cụ thể, kể lại với ba mẹ."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Tự tin khi nhận việc mới",
+     "Confidence in a new role"
+    ],
+    "gist": "Lo lắng là bình thường; chuẩn bị kỹ và bắt đầu từ việc nhỏ.",
+    "mission": "Nhận một việc mới trong nhà, nói ra một điều con lo và một cách con chuẩn bị."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Thi đua giữa các tổ",
+     "Friendly competition between teams"
+    ],
+    "gist": "Cạnh tranh lành mạnh, tôn trọng đội bạn và vui vì đã cố gắng.",
+    "mission": "Chơi một trò thi đua trong gia đình, cuối cùng mỗi đội khen đội kia một điều."
+   }
+  ],
+  "25": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự soạn balo đi dã ngoại",
+     "Packing for a field trip"
+    ],
+    "gist": "Lập danh sách đồ theo thời tiết, thời gian và tự kiểm tra lại.",
+    "mission": "Tự soạn balo cho một chuyến đi một ngày giả định, ba mẹ kiểm danh sách."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Mắc mưa khi đang ở ngoài",
+     "Caught in the rain outside"
+    ],
+    "gist": "Tìm chỗ trú an toàn, tránh cây to, cột điện và báo người lớn.",
+    "mission": "Cùng ba mẹ liệt kê các chỗ trú an toàn trên đường con hay đi."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Quan sát kỹ trước khi kết luận",
+     "Observe before concluding"
+    ],
+    "gist": "Tách điều mình thật sự thấy với điều mình đoán.",
+    "mission": "Đi dạo cùng ba mẹ 10 phút, ghi 5 điều quan sát được và đánh dấu đâu là “thấy”, đâu là “đoán”."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Đi xe đạp an toàn",
+     "Cycling safely"
+    ],
+    "gist": "Đội mũ, kiểm tra phanh, đi đúng phần đường và chỉ đi ở nơi ba mẹ cho phép.",
+    "mission": "Cùng ba mẹ kiểm tra phanh, lốp, chuông của xe đạp và cách đội mũ đúng."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đúng giờ khi đi chơi",
+     "Being on time for an outing"
+    ],
+    "gist": "Tính thời gian chuẩn bị và di chuyển, có dư ra một chút để không trễ.",
+    "mission": "Lần ra ngoài tới, tự tính giờ chuẩn bị và sẵn sàng trước 5 phút, ba mẹ xác nhận."
+   }
+  ],
+  "26": [
+   {
+    "sk": 8,
+    "t": [
+     "Tiền tiêu khi đi chơi",
+     "Spending money on an outing"
+    ],
+    "gist": "Đặt mức chi trước và ưu tiên điều mình muốn nhất.",
+    "mission": "Lên kế hoạch chi cho một buổi đi chơi với số tiền ba mẹ đặt, xếp ưu tiên 3 món."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi thông tin nơi công cộng",
+     "Asking for information in public"
+    ],
+    "gist": "Hỏi nhân viên tại quầy khi có ba mẹ đi cùng, nói rõ ràng và cảm ơn.",
+    "mission": "Khi đi cùng ba mẹ, con tự hỏi một nhân viên một câu thông tin và cảm ơn."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Lần đầu thử điều mới",
+     "Nervous about trying something new"
+    ],
+    "gist": "Thừa nhận nỗi sợ và chia nhỏ từng bước làm quen.",
+    "mission": "Chọn một điều mới an toàn (món ăn, hoạt động) và thử một bước nhỏ cùng ba mẹ."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng nhau dựng trại",
+     "Setting up camp together"
+    ],
+    "gist": "Làm theo hướng dẫn, phối hợp nhịp nhàng và giúp nhau khi cần.",
+    "mission": "Cùng gia đình dựng một “lều” bằng chăn gối trong nhà trong 15 phút, mỗi người một việc."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự gọi món và thanh toán",
+     "Ordering and paying by myself"
+    ],
+    "gist": "Đọc thực đơn, gọi món rõ ràng và kiểm tiền thối, có ba mẹ ngồi cạnh.",
+    "mission": "Ở quán ăn cùng ba mẹ, con tự gọi món và trả tiền."
+   }
+  ],
+  "27": [
+   {
+    "sk": 4,
+    "t": [
+     "Đánh rơi đồ khi đi chơi",
+     "Losing something on an outing"
+    ],
+    "gist": "Dừng lại, nhớ lại đường đã đi và cùng người lớn hỏi quầy thông tin.",
+    "mission": "Cùng ba mẹ tập 4 bước “dừng – nhớ – tìm – hỏi” với một đồ vật giấu trong nhà."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Nhận xét một nơi mình đã đến",
+     "Reviewing a place I visited"
+    ],
+    "gist": "Nêu điểm tốt, điểm chưa tốt, có lý do cụ thể chứ không chỉ “thích” hay “không thích”.",
+    "mission": "Viết nhận xét 5 câu về một nơi con từng đến, mỗi ý có lý do, đọc cho ba mẹ nghe."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "An toàn ở công viên, khu vui chơi",
+     "Safety at parks and playgrounds"
+    ],
+    "gist": "Chơi trò đúng độ tuổi, ở trong tầm mắt người lớn và có điểm hẹn khi lạc nhau.",
+    "mission": "Cùng ba mẹ chọn điểm hẹn ở công viên gần nhà và nhắc lại 3 quy tắc."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Lịch trình chuyến đi một ngày",
+     "A one-day trip itinerary"
+    ],
+    "gist": "Sắp thứ tự điểm đến, thời gian ăn, nghỉ và di chuyển.",
+    "mission": "Cùng ba mẹ lập lịch trình một ngày đi chơi gần nhà."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Quà lưu niệm hay kỷ niệm?",
+     "Souvenirs or memories?"
+    ],
+    "gist": "Cân nhắc có thật cần quà lưu niệm; kỷ niệm có thể giữ bằng nhật ký, tranh vẽ.",
+    "mission": "Làm một trang kỷ niệm về chuyến đi gần nhất thay cho mua quà, cho ba mẹ xem."
+   }
+  ],
+  "28": [
+   {
+    "sk": 0,
+    "t": [
+     "Kể lại chuyến đi cho hấp dẫn",
+     "Telling a trip story well"
+    ],
+    "gist": "Kể theo trình tự, có chi tiết nổi bật và cảm xúc của mình.",
+    "mission": "Kể chuyến đi gần nhất trong 3 phút cho một người thân nghe."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Mệt và cáu khi đi xa",
+     "Tired and cranky on a trip"
+    ],
+    "gist": "Nhận ra mệt, đói dễ làm mình cáu; nói ra và nghỉ ngơi.",
+    "mission": "Cùng ba mẹ chuẩn bị “túi chống cáu” khi đi xa: nước, đồ ăn nhẹ, một việc để làm."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Đi theo nhóm, chờ nhau",
+     "Sticking together as a group"
+    ],
+    "gist": "Đi cùng nhau, đếm người ở mỗi điểm dừng và không bỏ ai lại.",
+    "mission": "Khi ra ngoài cùng gia đình, con làm “người đếm người” ở mỗi điểm dừng."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự chăm sóc mình dưới trời nắng",
+     "Looking after myself in the sun"
+    ],
+    "gist": "Tự mang nước, mũ, áo chống nắng và nghỉ trong bóng râm.",
+    "mission": "Tự chuẩn bị bộ đồ ra nắng và nhắc cả nhà trước khi đi, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Xe gặp sự cố giữa đường",
+     "When the car breaks down"
+    ],
+    "gist": "Bình tĩnh, đứng ở chỗ an toàn và giúp người lớn bằng việc phù hợp.",
+    "mission": "Cùng ba mẹ trao đổi con nên làm gì và không nên làm gì khi xe gặp sự cố."
+   }
+  ],
+  "29": [
+   {
+    "sk": 5,
+    "t": [
+     "Ảnh và video có thể bị chỉnh sửa",
+     "Photos and videos can be edited"
+    ],
+    "gist": "Hình ảnh có thể bị ghép, sửa; hãy hỏi nguồn và kiểm tra trước khi tin.",
+    "mission": "Cùng ba mẹ xem 2 cặp ảnh trước và sau chỉnh sửa, tìm ra các điểm khác."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Người lạ nhắn tin làm quen",
+     "A stranger messages me online"
+    ],
+    "gist": "Không trả lời, không gửi ảnh hay thông tin, không hẹn gặp và báo ba mẹ ngay.",
+    "mission": "Cùng ba mẹ viết “quy tắc 4 không” và dán cạnh máy tính."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Học trực tuyến không lan man",
+     "Staying on task while studying online"
+    ],
+    "gist": "Chỉ mở đúng thứ cần và đặt mục tiêu cho từng buổi.",
+    "mission": "Một buổi học trên máy, chỉ mở đúng thứ cần và ghi lại có lúc nào bị lạc đề không, ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Mua hàng trong ứng dụng",
+     "In-app purchases"
+    ],
+    "gist": "Tiền trong ứng dụng là tiền thật; luôn hỏi ba mẹ trước khi bấm mua.",
+    "mission": "Cùng ba mẹ bật chế độ phải xin phép khi mua trên thiết bị của gia đình."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nhắn tin lịch sự",
+     "Polite messaging"
+    ],
+    "gist": "Chào hỏi, viết rõ ràng, đọc lại trước khi gửi và không nhắn lúc khuya.",
+    "mission": "Soạn một tin nhắn hỏi bài và nhờ ba mẹ góp ý trước khi gửi."
+   }
+  ],
+  "30": [
+   {
+    "sk": 1,
+    "t": [
+     "Khi đọc được lời làm mình buồn",
+     "When words online hurt"
+    ],
+    "gist": "Tạm rời màn hình, không đáp trả lúc đang giận và nói với người lớn.",
+    "mission": "Cùng ba mẹ liệt kê 3 việc con sẽ làm khi đọc điều khiến con buồn trên mạng."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Làm việc nhóm trực tuyến",
+     "Teamwork online"
+    ],
+    "gist": "Hẹn giờ, chia việc rõ và phản hồi đúng hạn.",
+    "mission": "Cùng một người thân làm một tài liệu chung nhỏ (danh sách, kế hoạch) có chia việc."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự quản mật khẩu",
+     "Looking after my passwords"
+    ],
+    "gist": "Đặt mật khẩu mạnh, không chia sẻ với bạn bè, chỉ ba mẹ được biết.",
+    "mission": "Cùng ba mẹ tạo một mật khẩu mạnh theo công thức và giữ bí mật với người ngoài."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Lỡ bấm vào đường link lạ",
+     "Clicked a strange link"
+    ],
+    "gist": "Dừng lại, không nhập thông tin gì và báo ba mẹ ngay để xử lý.",
+    "mission": "Cùng ba mẹ tập 3 bước cần làm khi lỡ bấm vào đường link lạ."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Tiêu đề giật gân",
+     "Clickbait headlines"
+    ],
+    "gist": "Nhận ra tiêu đề phóng đại để câu người xem; đọc nội dung và kiểm tra nguồn.",
+    "mission": "Cùng ba mẹ viết lại 2 tiêu đề phóng đại thành tiêu đề đúng sự thật."
+   }
+  ],
+  "31": [
+   {
+    "sk": 6,
+    "t": [
+     "Ảnh của mình, ai được chia sẻ?",
+     "Who can share my photos?"
+    ],
+    "gist": "Hỏi ý trước khi chia sẻ ảnh người khác; mình có quyền không đồng ý.",
+    "mission": "Cùng ba mẹ thoả thuận quy tắc chụp và chia sẻ ảnh trong gia đình."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Cất thiết bị trước giờ ngủ",
+     "Devices away before bed"
+    ],
+    "gist": "Dừng màn hình ít nhất 30 phút trước khi ngủ để ngủ ngon hơn.",
+    "mission": "Ba tối liền cất thiết bị đúng giờ đã hẹn, ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "“Quà miễn phí” trên mạng",
+     "“Free prizes” online"
+    ],
+    "gist": "Lời mời trúng thưởng miễn phí thường là bẫy; không bấm, không nhập thông tin.",
+    "mission": "Cùng ba mẹ xem một ví dụ tin nhắn trúng thưởng và chỉ ra 3 dấu hiệu lừa đảo."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Không nói sau lưng trong nhóm chat",
+     "No talking behind backs in group chats"
+    ],
+    "gist": "Chỉ viết điều mình dám nói trực tiếp và nhẹ nhàng đổi chủ đề khi nhóm nói xấu ai.",
+    "mission": "Cùng ba mẹ tập 2 câu chuyển chủ đề khi nhóm bắt đầu nói xấu một người."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Bực khi hết giờ dùng máy",
+     "Upset when screen time ends"
+    ],
+    "gist": "Chấp nhận giới hạn và chuyển sang một hoạt động dễ chịu khác.",
+    "mission": "Lập danh sách 5 hoạt động không màn hình con thích để chuyển sang khi hết giờ."
+   }
+  ],
+  "32": [
+   {
+    "sk": 2,
+    "t": [
+     "Cùng chơi, cùng dừng",
+     "Playing together, stopping together"
+    ],
+    "gist": "Cả nhóm thoả thuận giờ dừng và nhắc nhau giữ đúng.",
+    "mission": "Cùng người thân đặt giờ dừng cho một hoạt động chung và giữ đúng, ba mẹ xác nhận."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự tìm kiếm thông tin an toàn",
+     "Searching safely by myself"
+    ],
+    "gist": "Dùng từ khoá rõ, chọn trang tin cậy và có ba mẹ ở gần.",
+    "mission": "Tự tìm câu trả lời cho một câu hỏi học tập trong 10 phút khi ba mẹ ngồi cạnh."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Máy trục trặc khi đang làm bài",
+     "A device glitch mid-assignment"
+    ],
+    "gist": "Lưu bài thường xuyên, thử khởi động lại và nhờ người lớn khi cần.",
+    "mission": "Cùng ba mẹ tập lưu bài và tạo một bản sao dự phòng."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Người nổi tiếng nói thì đúng?",
+     "True because someone famous said it?"
+    ],
+    "gist": "Đánh giá một ý kiến bằng bằng chứng, không bằng độ nổi tiếng của người nói.",
+    "mission": "Cùng ba mẹ xem xét một lời khuyên của người nổi tiếng: có bằng chứng gì không?"
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Bắt nạt qua mạng",
+     "Cyberbullying"
+    ],
+    "gist": "Không đáp trả, lưu lại bằng chứng, chặn và báo người lớn.",
+    "mission": "Cùng ba mẹ tập 3 bước “lưu – chặn – báo”."
+   }
+  ],
+  "33": [
+   {
+    "sk": 7,
+    "t": [
+     "Lập kế hoạch cho một dự án",
+     "Planning a project"
+    ],
+    "gist": "Chia dự án thành các mốc, mỗi mốc có hạn hoàn thành.",
+    "mission": "Chọn một dự án nhỏ (làm thiệp, trồng cây) và viết 3 mốc kèm ngày, ba mẹ xem."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Dự trù kinh phí dự án",
+     "Budgeting a project"
+    ],
+    "gist": "Liệt kê vật liệu, ước tính chi phí và tận dụng đồ có sẵn.",
+    "mission": "Lập bảng vật liệu cho dự án, đánh dấu đồ có sẵn và ước tính phần cần mua."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Trình bày ý tưởng thuyết phục",
+     "Pitching an idea"
+    ],
+    "gist": "Nêu vấn đề, ý tưởng, lợi ích và lắng nghe câu hỏi.",
+    "mission": "Trình bày một ý tưởng cho gia đình trong 2 phút và trả lời 2 câu hỏi."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi sản phẩm không như mong đợi",
+     "When my project doesn't turn out"
+    ],
+    "gist": "Thất vọng là bình thường; hãy nhìn phần đã làm được và điều học được.",
+    "mission": "Kể về một sản phẩm chưa ưng ý, nêu 2 điều làm được và 1 điều sẽ thử khác."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Giữ nhịp cả nhóm đến đích",
+     "Keeping the team going to the finish"
+    ],
+    "gist": "Theo dõi tiến độ chung, động viên và hỗ trợ bạn đang chậm.",
+    "mission": "Lập bảng tiến độ cho một việc chung trong nhà và cập nhật 3 ngày."
+   }
+  ],
+  "34": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự học một kỹ năng mới",
+     "Teaching myself a new skill"
+    ],
+    "gist": "Chọn hướng dẫn phù hợp, luyện đều mỗi ngày và ghi lại tiến bộ.",
+    "mission": "Chọn một kỹ năng nhỏ (gấp giấy, thắt nút), luyện 15 phút và cho ba mẹ xem."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Thiếu vật liệu, tìm cách thay thế",
+     "Improvising with what I have"
+    ],
+    "gist": "Nghĩ ra vật liệu thay thế an toàn từ đồ có sẵn.",
+    "mission": "Làm một món đồ nhỏ từ đồ cũ trong nhà, ba mẹ xác nhận vật liệu an toàn."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Thử nghiệm để biết cách nào tốt hơn",
+     "Testing which way works better"
+    ],
+    "gist": "Đặt dự đoán, thử công bằng rồi so sánh kết quả.",
+    "mission": "Làm một thí nghiệm nhỏ an toàn (thuyền giấy nào nổi lâu hơn) và ghi kết quả cho ba mẹ xem."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Dùng dụng cụ thủ công an toàn",
+     "Using craft tools safely"
+    ],
+    "gist": "Dùng kéo, keo, dao rọc giấy đúng cách và có người lớn khi cần.",
+    "mission": "Cùng ba mẹ lập quy tắc dùng 3 dụng cụ thủ công và dán vào hộp đồ."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Sở thích mà không bỏ bê việc khác",
+     "Hobbies without neglecting duties"
+    ],
+    "gist": "Dành giờ cố định cho sở thích sau khi xong việc chính.",
+    "mission": "Ghi giờ dành cho sở thích trong 3 ngày và cùng ba mẹ xem có ảnh hưởng việc khác không."
+   }
+  ],
+  "35": [
+   {
+    "sk": 8,
+    "t": [
+     "Tự làm hay mua sẵn?",
+     "Make it or buy it?"
+    ],
+    "gist": "So sánh chi phí, thời gian và niềm vui khi tự làm.",
+    "mission": "Chọn một món (thiệp, đồ trang trí), so sánh tự làm và mua sẵn theo 3 tiêu chí cùng ba mẹ."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Phỏng vấn để lấy ý kiến",
+     "Interviewing to gather opinions"
+    ],
+    "gist": "Chuẩn bị câu hỏi, ghi chép và cảm ơn người trả lời.",
+    "mission": "Phỏng vấn 3 người trong nhà về một chủ đề với 3 câu hỏi chuẩn bị trước."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Chờ kết quả cuộc thi",
+     "Waiting for competition results"
+    ],
+    "gist": "Giữ bình tĩnh khi chờ bằng cách làm việc khác và nghĩ tích cực.",
+    "mission": "Cùng ba mẹ lập danh sách 4 việc giúp con bình tĩnh khi phải chờ đợi."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Ghi nhận công sức từng người",
+     "Recognising each member's work"
+    ],
+    "gist": "Sau khi xong việc chung, nêu cụ thể phần đóng góp của mỗi người.",
+    "mission": "Sau một việc chung, viết một lời cảm ơn cụ thể cho từng người tham gia."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự ghi nhật ký tiến bộ",
+     "Keeping a progress journal"
+    ],
+    "gist": "Mỗi ngày ghi việc đã làm và bước tiếp theo.",
+    "mission": "Ghi nhật ký 3 dòng trong 3 ngày liền, ba mẹ xem."
+   }
+  ],
+  "36": [
+   {
+    "sk": 4,
+    "t": [
+     "Tìm nguyên nhân gốc",
+     "Finding the root cause"
+    ],
+    "gist": "Hỏi “vì sao” nhiều lần để tìm ra nguyên nhân thật của rắc rối.",
+    "mission": "Chọn một rắc rối nhỏ trong nhà và cùng ba mẹ hỏi 3 lần “vì sao” để tìm gốc."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Tự chấm sản phẩm theo tiêu chí",
+     "Assessing my work against criteria"
+    ],
+    "gist": "Đặt tiêu chí trước, tự chấm rồi so với nhận xét của người khác.",
+    "mission": "Đặt 3 tiêu chí cho một sản phẩm, tự chấm, nhờ ba mẹ chấm rồi so sánh."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Quà tặng kèm điều kiện lạ",
+     "Gifts with strange conditions"
+    ],
+    "gist": "Người lớn tốt không đòi trẻ giữ bí mật để đổi quà; hãy từ chối và kể với ba mẹ.",
+    "mission": "Cùng ba mẹ đóng vai một lời mời nhận quà kèm điều kiện lạ và tập từ chối."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Nghỉ ngơi cũng là kế hoạch",
+     "Rest is part of the plan"
+    ],
+    "gist": "Xen những quãng nghỉ ngắn giúp làm việc lâu và tốt hơn.",
+    "mission": "Học 2 hiệp 10 phút có nghỉ 3 phút ở giữa, kể với ba mẹ thấy khác gì khi không nghỉ."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Những thứ tiền không mua được",
+     "Things money can't buy"
+    ],
+    "gist": "Thời gian, sức khoẻ, tình thân quý hơn đồ vật.",
+    "mission": "Viết 5 điều quý giá không mua được và dành 15 phút chơi hoặc trò chuyện với một người thân."
+   }
+  ],
+  "37": [
+   {
+    "sk": 0,
+    "t": [
+     "Chào hỏi hàng xóm",
+     "Greeting neighbours"
+    ],
+    "gist": "Chào khi gặp, nhớ tên và hỏi thăm ngắn gọn.",
+    "mission": "Chào và hỏi thăm một người hàng xóm khi đi cùng ba mẹ."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Đồng cảm với người gặp khó khăn",
+     "Empathy for people in hardship"
+    ],
+    "gist": "Đặt mình vào vị trí người khác và làm một việc tử tế.",
+    "mission": "Cùng ba mẹ nghĩ về cảm giác của một người đang gặp khó và một việc nhỏ có thể làm."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng làm sạch khu phố",
+     "Cleaning up the neighbourhood"
+    ],
+    "gist": "Tham gia việc chung, nhận phần của mình và làm đến cùng.",
+    "mission": "Cùng ba mẹ đeo găng tay nhặt rác 15 phút quanh nhà."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự dùng thư viện",
+     "Using the library on my own"
+    ],
+    "gist": "Tự tìm sách, mượn trả đúng hạn và giữ trật tự.",
+    "mission": "Cùng ba mẹ đến thư viện hoặc tủ sách của lớp, tự tìm và mượn một cuốn sách."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Thấy người cần giúp đỡ",
+     "Seeing someone who needs help"
+    ],
+    "gist": "Giúp trong khả năng an toàn của mình và gọi người lớn khi việc vượt sức.",
+    "mission": "Cùng ba mẹ bàn 3 tình huống: việc con giúp được và khi nào cần gọi người lớn."
+   }
+  ],
+  "38": [
+   {
+    "sk": 5,
+    "t": [
+     "Một vấn đề, nhiều góc nhìn",
+     "One issue, many viewpoints"
+    ],
+    "gist": "Nghĩ về một vấn đề chung từ vị trí của nhiều người khác nhau.",
+    "mission": "Chọn một vấn đề ở khu nhà (rác, chỗ để xe), viết suy nghĩ của 3 người khác nhau và đọc cho ba mẹ."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Số điện thoại khẩn cấp",
+     "Emergency numbers"
+    ],
+    "gist": "Biết 113, 114, 115, nói địa chỉ rõ ràng và chỉ gọi khi thật cần.",
+    "mission": "Cùng ba mẹ học thuộc 3 số khẩn cấp và tập nói địa chỉ nhà."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Dành thời gian giúp người khác",
+     "Making time to help others"
+    ],
+    "gist": "Sắp xếp lịch để có thời gian làm việc tốt mà không bỏ việc của mình.",
+    "mission": "Lên lịch 15 phút trong tuần để giúp một người thân hoặc hàng xóm, có ba mẹ cùng."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Quyên góp đúng chỗ",
+     "Donating wisely"
+    ],
+    "gist": "Tìm hiểu nơi nhận đáng tin và chọn đồ phù hợp với người cần.",
+    "mission": "Cùng ba mẹ chọn 3 món đồ còn tốt và tìm hiểu một nơi quyên góp đáng tin."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Giải thích cho người khác hiểu",
+     "Explaining so others understand"
+    ],
+    "gist": "Dùng ví dụ, chia bước và hỏi lại xem người nghe đã hiểu chưa.",
+    "mission": "Hướng dẫn một người lớn trong nhà làm một việc con giỏi theo từng bước."
+   }
+  ],
+  "39": [
+   {
+    "sk": 1,
+    "t": [
+     "Biết ơn những điều nhỏ",
+     "Gratitude for small things"
+    ],
+    "gist": "Để ý những điều tốt nhỏ mỗi ngày giúp lòng vui và bình an.",
+    "mission": "Mỗi tối viết 3 điều biết ơn trong 3 ngày liền, ba mẹ xem."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Làm việc với người khác tuổi",
+     "Working with older and younger people"
+    ],
+    "gist": "Điều chỉnh cách làm để mọi lứa tuổi đều tham gia được.",
+    "mission": "Làm một việc chung với ông bà hoặc em nhỏ, con điều chỉnh để ai cũng làm được."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự lo khi ba mẹ bận",
+     "Managing when my parents are busy"
+    ],
+    "gist": "Tự làm việc của mình và biết khi nào cần gọi ba mẹ.",
+    "mission": "Một buổi chiều tự hoàn thành danh sách việc mà không cần nhắc, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Đề xuất giải pháp cho vấn đề chung",
+     "Proposing a fix for a shared problem"
+    ],
+    "gist": "Mô tả vấn đề, đưa 2–3 giải pháp và chọn cách khả thi nhất.",
+    "mission": "Viết đề xuất 3 câu cho một vấn đề nhỏ ở nhà hoặc khu nhà và trình bày với ba mẹ."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Ai được lợi, ai cần quan tâm?",
+     "Who gains, who needs care?"
+    ],
+    "gist": "Trước khi quyết định, nghĩ đến tác động lên mọi người liên quan.",
+    "mission": "Cùng ba mẹ xem lại một quyết định gần đây của gia đình: ai được lợi, ai cần được quan tâm thêm."
+   }
+  ],
+  "40": [
+   {
+    "sk": 6,
+    "t": [
+     "Phòng cháy và thoát hiểm",
+     "Fire safety and escape"
+    ],
+    "gist": "Biết lối thoát, cúi thấp, không dùng thang máy và gọi 114.",
+    "mission": "Cùng ba mẹ vẽ sơ đồ thoát hiểm trong nhà và đi thử một lần."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Chờ đợi không sốt ruột",
+     "Waiting without fretting"
+    ],
+    "gist": "Dùng thời gian chờ (xếp hàng, phòng khám) cho một việc nhỏ có ích.",
+    "mission": "Chuẩn bị một “túi chờ đợi” (sách, sổ vẽ) và dùng trong lần chờ tới, ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Giữ gìn của công",
+     "Caring for public property"
+    ],
+    "gist": "Của công do mọi người cùng góp; giữ gìn là tiết kiệm cho cả cộng đồng.",
+    "mission": "Cùng ba mẹ chỉ ra 3 đồ dùng chung ở công viên hoặc khu nhà và cách giữ gìn từng món."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Xếp hàng và nhường lượt",
+     "Queueing and offering my turn"
+    ],
+    "gist": "Kiên nhẫn xếp hàng, lịch sự nhường người già, em nhỏ, người cần giúp.",
+    "mission": "Lần tới ở nơi công cộng, con tự xếp hàng và nhường lượt một lần bằng lời mời lịch sự."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Bình tĩnh nơi đông người",
+     "Staying calm in crowds"
+    ],
+    "gist": "Nhận ra khó chịu khi ồn ào, chen lấn; thở chậm và cùng người lớn tìm chỗ thoáng.",
+    "mission": "Cùng ba mẹ tập 2 cách giữ bình tĩnh dùng khi ở nơi đông người."
+   }
+  ],
+  "41": [
+   {
+    "sk": 2,
+    "t": [
+     "Cả nhà phân loại rác",
+     "Sorting waste as a family"
+    ],
+    "gist": "Thống nhất quy tắc chung và nhắc nhau phân loại mỗi ngày.",
+    "mission": "Cùng cả nhà làm 3 túi phân loại rác có dán nhãn và dùng thử một ngày."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự chăm một chậu cây",
+     "Caring for my own plant"
+    ],
+    "gist": "Tưới, nhổ cỏ, theo dõi cây theo lịch do mình đặt.",
+    "mission": "Nhận chăm một chậu cây trong tuần và ghi lịch tưới, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Bớt đồ nhựa dùng một lần",
+     "Cutting single-use plastic"
+    ],
+    "gist": "Tìm thứ thay thế cho những đồ nhựa dùng một lần hay gặp.",
+    "mission": "Liệt kê 3 đồ nhựa dùng một lần trong nhà và đề xuất cách thay thế với ba mẹ."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Chữ “xanh” trên bao bì có thật?",
+     "Is “green” on the label true?"
+    ],
+    "gist": "Kiểm tra lời giới thiệu thân thiện môi trường bằng thông tin cụ thể.",
+    "mission": "Cùng ba mẹ đọc bao bì 2 sản phẩm trong nhà và tìm thông tin chứng minh lời giới thiệu."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "An toàn khi mưa bão, ngập nước",
+     "Staying safe in storms and floods"
+    ],
+    "gist": "Ở trong nhà, tránh chỗ ngập và dây điện, làm theo hướng dẫn của người lớn.",
+    "mission": "Cùng ba mẹ chuẩn bị một túi đồ khẩn cấp nhỏ và nói 3 quy tắc khi mưa bão."
+   }
+  ],
+  "42": [
+   {
+    "sk": 7,
+    "t": [
+     "Thói quen xanh mỗi ngày",
+     "A daily green routine"
+    ],
+    "gist": "Gắn việc tiết kiệm vào lịch hằng ngày để thành thói quen.",
+    "mission": "Chọn 2 việc xanh (tắt đèn, mang bình nước) làm mỗi ngày trong 5 ngày và đánh dấu, ba mẹ xác nhận."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Bớt bỏ thừa đồ ăn, bớt tốn tiền",
+     "Less food waste, less money wasted"
+    ],
+    "gist": "Lấy vừa đủ, ăn hết và tận dụng đồ ăn còn lại giúp gia đình tiết kiệm.",
+    "mission": "Một tuần lấy thức ăn vừa đủ và ghi lại số bữa không bỏ thừa."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nhắc người khác lịch sự",
+     "Reminding others politely"
+    ],
+    "gist": "Nhắc nhẹ nhàng, không chỉ trích và tự mình làm gương.",
+    "mission": "Tập 3 câu nhắc lịch sự với ba mẹ (bỏ rác đúng chỗ, tắt đèn) và dùng một câu trong tuần."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Lo lắng khi nghe tin thiên tai",
+     "Worried by news of disasters"
+    ],
+    "gist": "Nói ra nỗi lo, hỏi người lớn và tập trung vào việc mình làm được.",
+    "mission": "Cùng ba mẹ trò chuyện về một nỗi lo và tìm một việc nhỏ có ích con có thể làm."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Dự án xanh của lớp",
+     "A class green project"
+    ],
+    "gist": "Cùng lên ý tưởng, chia việc theo thế mạnh và đo kết quả.",
+    "mission": "Viết đề xuất một dự án xanh nhỏ cho lớp, ghi rõ ai làm gì, cho ba mẹ góp ý."
+   }
+  ],
+  "43": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự mang bình nước, hộp cơm",
+     "Bringing my own bottle and lunchbox"
+    ],
+    "gist": "Tự chuẩn bị và rửa sạch đồ dùng nhiều lần mỗi ngày.",
+    "mission": "Ba ngày liền tự chuẩn bị và rửa bình nước của mình, ba mẹ xác nhận."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Đồ chơi nhiều quá, làm sao đây?",
+     "Too many toys, what now?"
+    ],
+    "gist": "Phân loại thành giữ lại, tặng đi và tái chế.",
+    "mission": "Cùng ba mẹ phân loại một hộp đồ chơi thành 3 nhóm giữ – tặng – tái chế."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Việc nhỏ của mình có ích không?",
+     "Does my small action matter?"
+    ],
+    "gist": "Tính thử tác động khi nhiều người cùng làm một việc nhỏ.",
+    "mission": "Cùng ba mẹ tính: nếu cả lớp mỗi ngày bớt một chai nhựa thì một tháng bớt bao nhiêu."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "An toàn với điện trong nhà",
+     "Electrical safety at home"
+    ],
+    "gist": "Không chạm ổ điện khi tay ướt, rút phích đúng cách, báo ngay khi thấy dây hở.",
+    "mission": "Cùng ba mẹ kiểm tra ổ cắm trong phòng và nhắc lại 4 quy tắc an toàn điện."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Cam kết 21 ngày",
+     "A 21-day commitment"
+    ],
+    "gist": "Giữ một thói quen nhỏ đủ lâu để nó trở thành tự nhiên.",
+    "mission": "Làm bảng 21 ngày cho một thói quen, đánh dấu ngày đầu và nhờ ba mẹ ký xác nhận."
+   }
+  ],
+  "44": [
+   {
+    "sk": 8,
+    "t": [
+     "Mua ít, dùng lâu",
+     "Buy less, use longer"
+    ],
+    "gist": "Trước khi mua, hỏi: có thật cần, có dùng lâu, có thể dùng lại không.",
+    "mission": "Chọn một món muốn mua, trả lời 3 câu hỏi và chờ 3 ngày rồi mới quyết cùng ba mẹ."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Thuyết phục cả nhà sống xanh",
+     "Persuading my family to go green"
+    ],
+    "gist": "Dùng số liệu, ví dụ và một đề xuất cụ thể, dễ làm.",
+    "mission": "Trình bày 2 phút về một thay đổi xanh và mời cả nhà cùng thử trong một tuần."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Kiên nhẫn khi kết quả đến chậm",
+     "Patience when results come slowly"
+    ],
+    "gist": "Thay đổi cần thời gian; ghi lại tiến bộ nhỏ để giữ động lực.",
+    "mission": "Xem lại bảng thói quen và kể với ba mẹ một tiến bộ nhỏ con đã có."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng nhận lỗi của nhóm",
+     "Owning a team mistake"
+    ],
+    "gist": "Cả nhóm cùng nhận lỗi, không đổ cho một người và cùng sửa.",
+    "mission": "Nhớ lại một lỗi chung trong nhà, cùng người thân nói “chúng ta” và một cách sửa."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự đặt nội quy cho mình",
+     "Setting my own rules"
+    ],
+    "gist": "Tự đặt và giữ vài quy tắc để tự quản lý bản thân.",
+    "mission": "Viết 3 quy tắc cho bản thân, nhờ ba mẹ ký xác nhận và thử giữ một tuần."
+   }
+  ],
+  "45": [
+   {
+    "sk": 4,
+    "t": [
+     "Luôn có kế hoạch dự phòng",
+     "Always having a plan B"
+    ],
+    "gist": "Nghĩ trước điều có thể trục trặc và chuẩn bị phương án thay thế.",
+    "mission": "Với một việc sắp tới, viết kế hoạch A và kế hoạch B rồi cho ba mẹ xem."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Tự ra một quyết định quan trọng",
+     "Making a big decision"
+    ],
+    "gist": "Liệt kê ưu – nhược, hỏi ý kiến người tin cậy, rồi tự chọn và chịu trách nhiệm.",
+    "mission": "Dùng bảng ưu – nhược cho một lựa chọn thật (câu lạc bộ, sở thích) và chia sẻ với ba mẹ."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chăm sóc cơ thể tuổi lớn",
+     "Caring for my growing body"
+    ],
+    "gist": "Cơ thể thay đổi khi lớn là bình thường; giữ vệ sinh và hỏi ba mẹ, bác sĩ khi thắc mắc.",
+    "mission": "Cùng ba mẹ lập bảng vệ sinh cá nhân hằng ngày và ghi tên 2 người lớn tin cậy để hỏi."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Lịch học cấp hai sẽ khác",
+     "Middle-school schedules are different"
+    ],
+    "gist": "Làm quen với nhiều môn, nhiều thầy cô và tự quản sổ lịch của mình.",
+    "mission": "Tự lập sổ lịch cho tuần tới gồm bài tập và hoạt động, ba mẹ xem."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tự quản tiền tiêu vặt cả tháng",
+     "Managing a monthly allowance"
+    ],
+    "gist": "Chia tiền theo tuần, ghi chép chi tiêu và điều chỉnh khi cần.",
+    "mission": "Lập bảng chi tiêu một tháng mẫu với số tiền ba mẹ đặt."
+   }
+  ],
+  "46": [
+   {
+    "sk": 0,
+    "t": [
+     "Giới thiệu bản thân",
+     "Introducing myself"
+    ],
+    "gist": "Giới thiệu ngắn gọn tên, sở thích và điều mình muốn học, tự tin và thân thiện.",
+    "mission": "Tập giới thiệu bản thân trong 1 phút trước cả nhà."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Thay đổi lớn làm mình lo",
+     "Big changes make me anxious"
+    ],
+    "gist": "Gọi tên nỗi lo và tìm những điều mình kiểm soát được.",
+    "mission": "Viết 2 cột “điều con lo” và “điều con có thể làm” về một thay đổi sắp tới, chia sẻ với ba mẹ."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Làm việc với bạn chưa thân",
+     "Working with people I'm not close to"
+    ],
+    "gist": "Tôn trọng, tập trung vào việc chung và tìm điểm mạnh của bạn.",
+    "mission": "Kể với ba mẹ một điểm mạnh của một bạn con ít chơi cùng."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự lo khi bị mệt nhẹ",
+     "Looking after myself when unwell"
+    ],
+    "gist": "Nhận ra mình mệt, báo người lớn, nghỉ ngơi, uống nước; thuốc chỉ do người lớn đưa.",
+    "mission": "Cùng ba mẹ làm thẻ “khi con thấy mệt” với 4 bước và dán ở chỗ dễ thấy."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Khi mình mắc lỗi lớn",
+     "When I make a big mistake"
+    ],
+    "gist": "Nhận lỗi, khắc phục từng bước và rút kinh nghiệm.",
+    "mission": "Cùng ba mẹ kể một lỗi con từng mắc và các bước con đã hoặc sẽ sửa."
+   }
+  ],
+  "47": [
+   {
+    "sk": 5,
+    "t": [
+     "Đặt câu hỏi hay",
+     "Asking good questions"
+    ],
+    "gist": "Hỏi “vì sao” và “nếu… thì sao” để hiểu sâu thay vì chỉ ghi nhớ.",
+    "mission": "Đặt 5 câu hỏi “vì sao” về một chủ đề con thích và cùng ba mẹ tìm lời giải cho một câu."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "An toàn khi có điện thoại riêng",
+     "Staying safe with my own phone"
+    ],
+    "gist": "Thoả thuận với ba mẹ, chỉ lưu số người quen và báo ngay khi có điều lạ.",
+    "mission": "Cùng ba mẹ viết bản thoả thuận dùng điện thoại gồm 5 điều."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Biết nói “không” để giữ thời gian",
+     "Saying no to protect my time"
+    ],
+    "gist": "Từ chối lịch sự khi đã có quá nhiều việc.",
+    "mission": "Xem lịch tuần, chọn một việc có thể bớt và tập cách từ chối lịch sự với ba mẹ."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Để dành cho tương lai xa",
+     "Saving for the long term"
+    ],
+    "gist": "Giữ một phần tiền lâu dài cho mục tiêu lớn như việc học.",
+    "mission": "Cùng ba mẹ đặt một mục tiêu để dành dài hạn và tính mỗi tuần cần để bao nhiêu."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Chia sẻ điều mình đã học",
+     "Sharing what I've learned"
+    ],
+    "gist": "Kể lại kỹ năng mới học kèm ví dụ thật để người khác cũng hiểu.",
+    "mission": "Kể cho cả nhà 3 kỹ năng con đã tiến bộ, mỗi kỹ năng một ví dụ."
+   }
+  ],
+  "48": [
+   {
+    "sk": 1,
+    "t": [
+     "Tự hào về chính mình",
+     "Being proud of myself"
+    ],
+    "gist": "Ghi nhận nỗ lực của mình, không chỉ nhìn vào kết quả.",
+    "mission": "Viết một lá thư ngắn khen bản thân về một nỗ lực trong năm và đọc cho ba mẹ nghe."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Truyền kinh nghiệm cho em nhỏ",
+     "Passing tips to younger kids"
+    ],
+    "gist": "Hướng dẫn kiên nhẫn và chia sẻ điều mình biết.",
+    "mission": "Hướng dẫn một em nhỏ hoặc người thân một kỹ năng con giỏi trong 10 phút, ba mẹ xác nhận."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Kế hoạch tự lập cho chặng mới",
+     "My independence plan for what's next"
+    ],
+    "gist": "Đặt mục tiêu tự lập mới và bước bắt đầu cho từng mục tiêu.",
+    "mission": "Viết 3 mục tiêu tự lập cho thời gian tới kèm bước đầu tiên và dán lên bàn học."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Ghép đủ các bước giải quyết vấn đề",
+     "Putting all the problem-solving steps together"
+    ],
+    "gist": "Xác định vấn đề – nghĩ cách – chọn – làm – xem lại.",
+    "mission": "Áp dụng 5 bước cho một vấn đề thật trong nhà và trình bày với ba mẹ."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đổi ý khi có bằng chứng mới",
+     "Changing my mind with new evidence"
+    ],
+    "gist": "Người suy nghĩ giỏi dám đổi ý khi có thông tin tốt hơn.",
+    "mission": "Chọn một ý kiến cũ của con, tìm thêm thông tin cùng ba mẹ và quyết định giữ hay đổi."
+   }
+  ]
+ }
+}

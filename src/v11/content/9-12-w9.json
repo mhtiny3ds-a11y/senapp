@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Đồ theo phong trào: có nên mua?",
+   "Trendy stuff: should I buy it?"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cả lớp đang rộ lên phong trào sưu tầm thẻ hình nhân vật, mỗi gói 15.000 đồng. Bạn Bảo đã mua hai mươi gói và rủ An “sưu tầm cho đủ bộ”.",
+   "The whole class is crazy about collecting character cards at 15,000₫ a pack. Bảo has bought twenty packs and urges An to “collect the full set”."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Dùng hết tiền tiêu vặt mua thẻ cho bằng bạn",
+    "Spend all your pocket money to keep up",
+    0,
+    "Phong trào thường qua nhanh, còn tiền tiêu hết thì không quay lại. Thử nghĩ kỹ trước khi mua.",
+    "Trends fade fast, but spent money doesn’t come back. Think it through first."
+   ],
+   [
+    "Tự hỏi: mình thích thật hay chỉ vì các bạn có? Nếu thích, đặt giới hạn như một gói mỗi tuần từ tiền tiêu vặt",
+    "Ask: do I really like it or just because others do? If you do, set a limit like one pack a week from pocket money",
+    1,
+    "Biết vì sao mình muốn mua giúp con tiêu tiền khôn ngoan. Đặt giới hạn thì vẫn vui mà không cháy túi.",
+    "Knowing why you want something helps you spend wisely. A limit keeps it fun without emptying your pocket."
+   ],
+   [
+    "Đổi đồ dùng học tập lấy thẻ của bạn",
+    "Swap your school things for cards",
+    0,
+    "Đổi đồ học lấy thẻ thì con thiếu đồ dùng và ba mẹ phải mua lại. Hãy giữ đồ cần thiết.",
+    "Swapping school things leaves you short and your parents paying again. Keep what you need."
+   ]
+  ],
+  "qq": [
+   "Trước khi mua một món đồ theo phong trào, nên tự hỏi…",
+   "Before buying something trendy, ask yourself…"
+  ],
+  "qo": [
+   [
+    "Có màu mới chưa?",
+    "Does it come in a new colour?"
+   ],
+   [
+    "Mình thật sự thích hay chỉ vì bạn bè có?",
+    "Do I really like it, or is it because friends have it?"
+   ],
+   [
+    "Ai có nhiều nhất lớp?",
+    "Who has the most in class?"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em của An khóc đòi mua con quay đồ chơi đang được nhiều bạn thích vì các bạn trong lớp em ai cũng có. Mẹ nhờ An nói chuyện với em.",
+     "An’s little brother is crying for the spinning-top toy everyone in his class has. Mum asks An to talk to him."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi em thích điều gì ở con quay, rồi gợi ý em để dành vài tuần và rủ em chơi đồ chơi cũ cùng mình",
+      "Ask what he likes about it, suggest saving for a few weeks, and play with his old toys together",
+      1,
+      "Giúp em hiểu mong muốn của mình và chờ đợi một chút là bài học tiêu tiền đầu tiên.",
+      "Helping him understand his wish and wait a little is a first money lesson."
+     ],
+     [
+      "Bảo em: “Ai cũng có thì mình cũng phải có”",
+      "Tell him: “If everyone has one, you need one too”",
+      0,
+      "Câu này dạy em mua theo người khác. Giúp em nghĩ xem mình thích gì thật sẽ tốt hơn.",
+      "That teaches him to buy because others do. Help him think about what he really likes."
+     ],
+     [
+      "Chê con quay là đồ trẻ con",
+      "Mock the toy as babyish",
+      0,
+      "Chê làm em buồn hơn. Lắng nghe em trước rồi mới cùng nghĩ cách.",
+      "Mocking upsets him more. Listen first, then think it through together."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà sách cùng ba, An thấy kệ bút gel thơm mà cả lớp đang dùng, giá 25.000 đồng một chiếc. Hộp bút của An đã có năm cây bút gel còn tốt.",
+     "At the stationery shop with Dad, An sees the scented gel pens the whole class is using, 25,000₫ each. An’s pencil case already has five good gel pens."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua ba cây cho đủ màu",
+      "Buy three for all the colours",
+      0,
+      "Bút cũ vẫn tốt nên đây là thứ muốn, không phải thứ cần. Mua nhiều chỉ vì phong trào dễ phí tiền.",
+      "Your pens still work, so this is a want. Buying lots for a trend wastes money."
+     ],
+     [
+      "Nài ba mua vì sợ bị các bạn chê",
+      "Beg Dad because you’re afraid of being teased",
+      0,
+      "Bạn bè quý con vì con là chính mình, không phải vì cây bút. Nếu bị trêu, hãy kể với ba mẹ.",
+      "Friends like you for you, not your pen. If anyone teases, tell your parents."
+     ],
+     [
+      "Dùng bút đang có, nếu vẫn thích thì ghi vào danh sách để dành và hỏi lại mình sau hai tuần",
+      "Use the pens you have; if you still want one, add it to your saving list and ask yourself again in two weeks",
+      1,
+      "Chờ hai tuần giúp mình biết là thích thật hay chỉ hứng lên nhất thời.",
+      "Waiting two weeks shows whether it’s a real want or a passing urge."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Không đồng ý mà vẫn lễ phép",
+   "Disagreeing politely"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba quyết định cuối tuần cả nhà sẽ dọn kho, nhưng An đã hẹn đi sinh nhật bạn ở nhà văn hoá phường từ trước. An thấy bực vì ba không hỏi ý mình.",
+   "Dad has decided the family will clear out the storeroom this weekend, but An already said yes to a friend’s party at the community hall. An is annoyed Dad didn’t ask."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chờ lúc ba rảnh, nói: “Con đã nhận lời sinh nhật bạn chiều thứ Bảy. Con xin dọn kho sáng thứ Bảy hoặc Chủ nhật được không ạ?”",
+    "Wait till Dad’s free and say: “I’ve said yes to a party on Saturday afternoon. Could I help clear out on Saturday morning or Sunday instead?”",
+    1,
+    "Không đồng ý lễ phép là nói rõ lý do và đưa ra cách khác. Ba sẽ dễ đồng ý khi thấy con vẫn muốn giúp.",
+    "Polite disagreement means giving your reason and an alternative. Dad will find it easier to agree when he sees you still want to help."
+   ],
+   [
+    "Nói to: “Ba chẳng bao giờ nghĩ cho con!”",
+    "Shout: “You never think about me!”",
+    0,
+    "Nói to và trách móc làm ba khó lắng nghe. Bình tĩnh nói rõ sẽ hiệu quả hơn.",
+    "Shouting and blaming make it hard for Dad to listen. Calm and clear works better."
+   ],
+   [
+    "Im lặng làm theo nhưng trong lòng ấm ức",
+    "Go along silently but feel resentful",
+    0,
+    "Không nói ra thì ba không biết con có hẹn. Con có quyền nêu ý kiến một cách lễ phép.",
+    "If you don’t speak, Dad won’t know about the party. You can share your view politely."
+   ]
+  ],
+  "qq": [
+   "Khi không đồng ý với người lớn, cách tốt là…",
+   "When you disagree with an adult, the best way is…"
+  ],
+  "qo": [
+   [
+    "Bình tĩnh nêu lý do và đề nghị cách khác",
+    "Calmly give your reason and suggest an alternative"
+   ],
+   [
+    "Cãi đến khi thắng",
+    "Argue until you win"
+   ],
+   [
+    "Không bao giờ nói ra",
+    "Never say anything"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho cả lớp bình chọn đi tham quan sở thú hay bảo tàng. Đa số muốn đi bảo tàng, nhưng An nghĩ sở thú hợp với bài Khoa học về động vật đang học hơn.",
+     "The teacher lets the class vote between the zoo and a museum. Most want the museum, but An thinks the zoo fits the science topic on animals they’re studying."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Bảo tàng chán lắm”",
+      "Say “The museum is boring”",
+      0,
+      "Chê lựa chọn của bạn làm các bạn khó chịu. Hãy nói lý do mình thích lựa chọn của mình.",
+      "Knocking others’ choice annoys them. Say why you like yours instead."
+     ],
+     [
+      "Không nói gì nhưng về nhà kêu ca",
+      "Say nothing and complain at home",
+      0,
+      "Ý kiến của con có thể giúp lớp suy nghĩ thêm. Nói ra đúng lúc là quyền của con.",
+      "Your view might help the class think. Speaking up at the right time is your right."
+     ],
+     [
+      "Giơ tay xin nói: “Em nghĩ sở thú giúp lớp mình hiểu thêm bài đang học, nhưng em sẽ theo ý chung ạ”",
+      "Put a hand up: “I think the zoo would help with our topic, but I’ll go with what the class decides”",
+      1,
+      "Nêu ý kiến khác với lý do rõ ràng và tôn trọng kết quả chung là cách không đồng ý văn minh.",
+      "Giving a different view with a reason, and respecting the result, is polite disagreement."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ bóng đá thiếu nhi, thầy xếp An làm thủ môn suốt ba buổi. An muốn được thử chơi ở vị trí tiền đạo.",
+     "At the kids’ football club, the coach has put An in goal for three sessions running. An would like a turn as a striker."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tự chạy lên hàng tiền đạo trong trận tập",
+      "Just run up front during the practice match",
+      0,
+      "Tự ý đổi vị trí làm khung thành bị bỏ trống và cả đội rối. Hãy nói chuyện với thầy trước.",
+      "Switching on your own leaves the goal empty and confuses the team. Talk to the coach first."
+     ],
+     [
+      "Hỏi thầy sau buổi tập: “Thầy ơi, em muốn được thử chơi tiền đạo. Em cần tập thêm gì ạ?”",
+      "Ask the coach after training: “I’d love a go as a striker. What should I practise?”",
+      1,
+      "Hỏi tiêu chí thay vì cãi giúp con biết mình cần cố gắng gì. Thầy sẽ quý thái độ đó.",
+      "Asking what’s needed rather than arguing shows you what to work on. Coaches value that."
+     ],
+     [
+      "Phụng phịu tập qua loa",
+      "Sulk and do the drills half-heartedly",
+      0,
+      "Tập qua loa thì thầy khó thấy con cố gắng. Nói chuyện lễ phép sẽ giúp hơn.",
+      "Half-hearted training hides your effort. A polite chat helps more."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi thấy ghen tị với bạn",
+   "When I feel jealous of a friend"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở câu lạc bộ bơi, Mai được lên nhóm nâng cao còn An vẫn ở nhóm cũ. Cả buổi An thấy khó chịu, không muốn nói chuyện với Mai.",
+   "At swimming club, Mai moves up to the advanced group while An stays put. All session An feels upset and doesn’t want to talk to Mai."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Thừa nhận với mình “Mình đang ghen tị”, chúc mừng Mai, rồi hỏi Mai đã luyện tập thế nào",
+    "Admit to yourself “I’m feeling jealous”, congratulate Mai, then ask how she practised",
+    1,
+    "Ghen tị là cảm xúc bình thường. Gọi tên nó và biến nó thành động lực học hỏi giúp con tiến bộ.",
+    "Jealousy is a normal feeling. Naming it and turning it into motivation helps you grow."
+   ],
+   [
+    "Nói với các bạn là Mai được thầy thiên vị",
+    "Tell the others the coach favours Mai",
+    0,
+    "Nói vậy làm Mai buồn oan và con cũng không thấy dễ chịu hơn. Có cách tốt hơn để xử lý cảm giác này.",
+    "That hurts Mai unfairly and won’t make you feel better. There’s a better way."
+   ],
+   [
+    "Tránh mặt Mai cho đến khi hết buồn",
+    "Avoid Mai until you feel better",
+    0,
+    "Tránh bạn có thể làm tình bạn xa cách. Nói chuyện sẽ giúp cảm giác qua nhanh hơn.",
+    "Avoiding her can distance the friendship. Talking helps the feeling pass sooner."
+   ]
+  ],
+  "qq": [
+   "Khi thấy ghen tị, cách tốt là…",
+   "When you feel jealous, a good step is…"
+  ],
+  "qo": [
+   [
+    "Nói xấu người kia",
+    "Say mean things about them"
+   ],
+   [
+    "Giả vờ không quan tâm",
+    "Pretend you don’t care"
+   ],
+   [
+    "Gọi tên cảm xúc và tìm điều mình học được",
+    "Name the feeling and find what you can learn"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em của An được ông bà khen vẽ đẹp và treo tranh lên tường phòng khách. An thấy chạnh lòng vì tranh của mình thì không được treo.",
+     "Grandma and Grandpa praise An’s little sister’s drawing and hang it in the living room. An feels a pang because An’s picture wasn’t hung."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói tranh của em xấu",
+      "Say her drawing is ugly",
+      0,
+      "Chê em làm em buồn mà con cũng không vui hơn. Nói ra cảm xúc của mình sẽ tốt hơn.",
+      "Criticising her hurts her and doesn’t help you. Sharing your feeling is better."
+     ],
+     [
+      "Xé tranh của mình vì không ai thích",
+      "Tear up your own picture",
+      0,
+      "Một lần không được treo không có nghĩa là tranh của con không đẹp. Hãy nói chuyện với mẹ.",
+      "Not being hung once doesn’t mean your art isn’t good. Talk to Mum."
+     ],
+     [
+      "Khen em, rồi nói nhỏ với mẹ: “Con hơi buồn vì muốn tranh mình cũng được treo”",
+      "Praise her, then quietly tell Mum: “I’m a bit sad — I wanted my picture up too”",
+      1,
+      "Vui cho em và vẫn nói thật cảm xúc của mình là cách xử lý trưởng thành. Mẹ sẽ hiểu con.",
+      "Being happy for her while being honest about your feelings is grown-up. Mum will understand."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bạn Huy được chọn làm lớp trưởng, An cũng muốn lắm nhưng không được chọn. Các bạn đang vây quanh chúc mừng Huy.",
+     "Huy is chosen as class monitor. An wanted it badly but wasn’t picked. Everyone is crowding round to congratulate Huy."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Quay đi chỗ khác, không chúc mừng",
+      "Turn away and don’t congratulate him",
+      0,
+      "Buồn là bình thường, nhưng một lời chúc mừng giúp tình bạn vẫn tốt đẹp.",
+      "Feeling sad is fine, but congratulating him keeps the friendship strong."
+     ],
+     [
+      "Chúc mừng Huy, rồi hỏi cô có việc nào khác trong lớp mình có thể đảm nhận",
+      "Congratulate Huy, then ask the teacher if there’s another class job you could take on",
+      1,
+      "Chúc mừng bạn và tìm cách khác để đóng góp giúp con biến nỗi buồn thành điều tích cực.",
+      "Congratulating him and finding another way to help turns disappointment into something positive."
+     ],
+     [
+      "Mong Huy làm không tốt",
+      "Hope Huy does a bad job",
+      0,
+      "Mong bạn thất bại không làm con vui hơn. Có nhiều cách để con đóng góp cho lớp.",
+      "Wishing him to fail won’t make you happier. There are many ways to help the class."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Giúp bạn mới hoà nhập vào nhóm",
+   "Helping a new classmate join in"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giữa học kỳ, lớp An có bạn Vy chuyển đến. Đã một tuần, giờ ra chơi Vy vẫn ngồi một mình, còn nhóm của An mải chơi đá cầu.",
+   "Mid-term, Vy joins An’s class. A week later she still sits alone at break while An’s group plays shuttlecock."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Để Vy tự làm quen, chắc Vy thích ngồi một mình",
+    "Let her make friends herself — maybe she likes being alone",
+    0,
+    "Có thể Vy đang ngại chứ không phải thích một mình. Một lời mời có thể thay đổi cả tuần của bạn.",
+    "Vy may be shy rather than wanting to be alone. One invitation could change her week."
+   ],
+   [
+    "Đến hỏi Vy có muốn chơi cùng không, giới thiệu Vy với cả nhóm và giải thích luật chơi",
+    "Ask Vy to join, introduce her to the group and explain the rules",
+    1,
+    "Một nhóm tốt là nhóm biết mở cửa cho người mới. Giải thích luật giúp bạn tự tin tham gia.",
+    "A good team opens its doors to newcomers. Explaining the rules helps her join in confidently."
+   ],
+   [
+    "Rủ Vy chơi nhưng giao cho Vy việc nhặt cầu suốt",
+    "Invite her but make her fetch the shuttlecock every time",
+    0,
+    "Cho bạn tham gia cho có thì bạn vẫn thấy lạc lõng. Hãy để bạn chơi như mọi người.",
+    "Including someone in name only still leaves them out. Let her play like everyone else."
+   ]
+  ],
+  "qq": [
+   "Nhóm làm việc tốt khi…",
+   "A team works well when…"
+  ],
+  "qo": [
+   [
+    "Ai cũng được chào đón và có phần tham gia",
+    "Everyone is welcomed and gets a part"
+   ],
+   [
+    "Chỉ có những bạn thân với nhau",
+    "It’s only close friends"
+   ],
+   [
+    "Bạn mới phải tự cố gắng",
+    "New people sort themselves out"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Con của cô bạn mẹ đến nhà chơi cả buổi chiều. Bạn ấy nhỏ hơn An hai tuổi và có vẻ ngại khi An đang chơi xếp hình cùng em.",
+     "Mum’s friend’s child comes over for the afternoon. She’s two years younger and looks shy while An builds blocks with An’s brother."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chơi tiếp với em, kệ bạn",
+      "Keep playing with your brother and ignore her",
+      0,
+      "Khách đến nhà mà bị bỏ rơi sẽ thấy rất buồn. Mời bạn một câu thôi là đủ.",
+      "A guest left out feels miserable. One invitation is all it takes."
+     ],
+     [
+      "Bảo bạn ngồi xem cho biết cách",
+      "Tell her to watch and learn",
+      0,
+      "Chỉ ngồi xem thì bạn vẫn đứng ngoài. Cùng làm sẽ vui hơn.",
+      "Just watching keeps her on the outside. Doing it together is more fun."
+     ],
+     [
+      "Mời bạn cùng xây, hỏi bạn muốn làm phần nào của toà lâu đài",
+      "Invite her to build and ask which part of the castle she’d like to make",
+      1,
+      "Hỏi bạn muốn làm gì giúp bạn thấy mình được chào đón và có phần riêng.",
+      "Asking what she’d like to do makes her feel welcome with a part of her own."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi chung cư, có một bạn mới chuyển đến, ba của bạn ngồi ở ghế đá gần đó. Nhóm của An đang chơi trốn tìm và đã đủ người.",
+     "In the apartment playground, a child who’s just moved in is watching, with her dad on a nearby bench. An’s group is playing hide-and-seek and already has enough players."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chào bạn, hỏi tên và mời bạn vào chơi ván tới",
+      "Say hello, ask her name and invite her for the next round",
+      1,
+      "Một lời chào và lời mời giúp bạn mới thấy khu phố thân thiện. Nhóm cũng có thêm bạn.",
+      "A hello and an invitation make the neighbourhood feel friendly, and your group gains a friend."
+     ],
+     [
+      "Nói “Đủ người rồi” và chơi tiếp",
+      "Say “We’re full” and carry on",
+      0,
+      "Trốn tìm có thêm một người vẫn chơi được. Từ chối dễ làm bạn mới thấy bị gạt ra ngoài.",
+      "Hide-and-seek works with one more. Refusing makes a newcomer feel shut out."
+     ],
+     [
+      "Bàn tán về bạn mới với nhóm",
+      "Whisper about her with the group",
+      0,
+      "Bàn tán làm bạn mới thấy ngại và buồn. Một lời chào sẽ tốt hơn nhiều.",
+      "Whispering makes her feel awkward and sad. A hello is far better."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Khi kế hoạch hỏng vào phút chót",
+   "When plans fall apart at the last minute"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An định in tấm thiệp tự thiết kế để tặng mẹ ngày sinh nhật vào sáng mai, nhưng tối nay máy in ở nhà bị hỏng. An hoảng lên và muốn bỏ ý định.",
+   "An planned to print a home-designed card for Mum’s birthday tomorrow morning, but tonight the home printer breaks. An panics and wants to give up."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bình tĩnh nghĩ phương án khác: tự vẽ tay tấm thiệp theo mẫu đã thiết kế, nhờ ba mua giấy màu nếu cần",
+    "Calmly find another way: hand-draw the card from your design, and ask Dad for coloured paper if needed",
+    1,
+    "Khi kế hoạch hỏng, giữ mục tiêu và đổi cách làm. Thiệp vẽ tay còn có khi ý nghĩa hơn.",
+    "When a plan breaks, keep the goal and change the method. A hand-drawn card may mean even more."
+   ],
+   [
+    "Thôi không tặng thiệp nữa",
+    "Give up on the card",
+    0,
+    "Một con đường bị chặn thì vẫn còn đường khác. Thử nghĩ phương án dự phòng trước khi bỏ cuộc.",
+    "One blocked road doesn’t mean no road. Look for a plan B before giving up."
+   ],
+   [
+    "Thức khuya sửa máy in một mình",
+    "Stay up late trying to fix the printer alone",
+    0,
+    "Tự sửa đồ điện khi không có người lớn là không an toàn. Hãy chọn cách khác an toàn hơn.",
+    "Fixing electrical things without an adult isn’t safe. Pick a safer option."
+   ]
+  ],
+  "qq": [
+   "Khi kế hoạch bị hỏng, điều quan trọng là…",
+   "When a plan falls apart, the key is…"
+  ],
+  "qo": [
+   [
+    "Bỏ luôn mục tiêu",
+    "Drop the goal"
+   ],
+   [
+    "Tìm người để trách",
+    "Find someone to blame"
+   ],
+   [
+    "Giữ mục tiêu, tìm cách làm khác",
+    "Keep the goal and find another way"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Sáng nay nhóm An diễn kịch trước lớp, nhưng bạn đóng vai chính bị ốm phải nghỉ học. Còn 30 phút nữa là đến giờ diễn.",
+     "An’s group performs a play this morning, but the lead actor is off sick. There are 30 minutes to go."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xin cô hoãn mà không đề xuất gì",
+      "Ask the teacher to postpone with no other ideas",
+      0,
+      "Hoãn là một cách, nhưng hãy thử nghĩ phương án khác trước khi xin hoãn.",
+      "Postponing is one option, but try other ideas first."
+     ],
+     [
+      "Cùng nhóm bàn: một bạn thuộc lời nhận thay vai chính, cầm kịch bản nếu cần, rồi báo cô kế hoạch mới",
+      "Discuss with the group: someone who knows the lines takes over, holding the script if needed, then tell the teacher the new plan",
+      1,
+      "Bình tĩnh tìm phương án dự phòng giúp nhóm vẫn hoàn thành. Cô sẽ quý tinh thần đó.",
+      "Calmly finding a plan B lets the group still perform. The teacher will appreciate it."
+     ],
+     [
+      "Trách bạn ốm làm hỏng việc",
+      "Blame the sick classmate",
+      0,
+      "Bạn ốm không phải lỗi của bạn ấy. Tập trung tìm cách giải quyết sẽ hiệu quả hơn.",
+      "Being ill isn’t their fault. Focus on solving the problem."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà định đi xe buýt đến thư viện thành phố, nhưng chuyến xe quen đã đổi lộ trình. Ba hỏi An có ý gì không.",
+     "The family plans to take the bus to the city library, but their usual route has changed. Dad asks An for ideas."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đề nghị về nhà cho xong",
+      "Suggest going home",
+      0,
+      "Về nhà là cách nhanh nhất nhưng chưa chắc là tốt nhất. Thử nghĩ thêm vài cách.",
+      "Going home is quickest but maybe not best. Think of a few more ideas."
+     ],
+     [
+      "Cằn nhằn vì xe buýt đổi tuyến",
+      "Grumble about the route change",
+      0,
+      "Cằn nhằn không làm xe quay lại tuyến cũ. Nghĩ cách mới sẽ giúp cả nhà hơn.",
+      "Grumbling won’t bring the old route back. New ideas help more."
+     ],
+     [
+      "Gợi ý xem bảng lộ trình ở trạm, hỏi nhân viên tuyến xe khác, hoặc đi một thư viện gần hơn",
+      "Suggest checking the route map at the stop, asking staff about another bus, or going to a nearer library",
+      1,
+      "Đưa ra vài phương án giúp cả nhà chọn được cách tốt nhất mà vẫn giữ được mục tiêu.",
+      "Offering options helps the family pick the best one and still reach the goal."
+     ]
+    ]
+   }
+  }
+ }
+]

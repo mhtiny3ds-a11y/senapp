@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Tự làm hay mua sẵn?",
+   "Make it or buy it?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Sắp sinh nhật bà, An cùng mẹ vào nhà sách. Một tấm thiệp in sẵn giá 25 nghìn, còn giấy màu để tự làm chỉ 10 nghìn nhưng mất một buổi chiều.",
+   "Grandma’s birthday is coming, and An is at the bookshop with Mum. A printed card costs 25,000 dong; coloured paper to make one costs 10,000 dong but takes an afternoon."
+  ],
+  "cq": [
+   "An nên chọn thế nào?",
+   "How should An decide?"
+  ],
+  "co": [
+   [
+    "Mua thiệp đẹp nhất cho nhanh",
+    "Buy the nicest card to save time",
+    0,
+    "Nhanh là một điều đáng cân nhắc, nhưng con chưa so tiền và ý nghĩa với bà.",
+    "Speed matters, but you haven’t weighed the cost or what it means to Grandma."
+   ],
+   [
+    "Chọn cái rẻ nhất, không cần nghĩ",
+    "Pick the cheapest without thinking",
+    0,
+    "Rẻ chưa chắc hợp. Nếu không có thời gian làm thì giấy màu cũng thành lãng phí.",
+    "Cheap isn’t always right. Without time to make it, the paper is wasted too."
+   ],
+   [
+    "So ba điều: tiền, thời gian và niềm vui, ý nghĩa khi tự làm, rồi mới chọn",
+    "Compare three things: money, time, and the fun and meaning of making it, then choose",
+    1,
+    "Không có đáp án đúng cho mọi lúc. So đủ ba điều giúp con chọn cách hợp nhất lần này.",
+    "There’s no answer for every time. Weighing all three helps you pick what fits best now."
+   ]
+  ],
+  "qq": [
+   "Khi quyết định tự làm hay mua sẵn, nên so sánh…",
+   "When deciding to make or buy, compare…"
+  ],
+  "qo": [
+   [
+    "Chỉ giá tiền",
+    "Only the price"
+   ],
+   [
+    "Chi phí, thời gian và niềm vui, ý nghĩa",
+    "Cost, time, and the fun or meaning"
+   ],
+   [
+    "Bạn bè đã chọn gì",
+    "What your friends chose"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An muốn có một giá để bút cho bàn học. Mẹ bảo con có thể tự làm từ lõi giấy cũ hoặc để dành tiền tiêu vặt mua.",
+     "An wants a pen holder for her desk. Mum says she can make one from old cardboard tubes or save pocket money to buy one."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua luôn vì đồ mua lúc nào cũng tốt hơn",
+      "Buy one, because bought things are always better",
+      0,
+      "Đồ tự làm đôi khi bền và hợp ý hơn. So sánh trước rồi hãy quyết.",
+      "Homemade can be sturdier and more “you”. Compare before deciding."
+     ],
+     [
+      "Nghĩ xem cái nào đáp ứng nhu cầu, tốn bao nhiêu thời gian, và mình có thích làm không",
+      "Think about which meets the need, how much time it takes, and whether she’d enjoy making it",
+      1,
+      "Tự làm không chỉ để tiết kiệm. Niềm vui và thời gian cũng là “chi phí” cần tính.",
+      "Making things isn’t only about saving money. Fun and time are “costs” too."
+     ],
+     [
+      "Tự làm vì không tốn tiền, dù chẳng có thời gian",
+      "Make it because it’s free, even with no time",
+      0,
+      "Không tốn tiền nhưng nếu tuần này rất bận thì con có thể làm dở dang. Thời gian cũng cần tính.",
+      "It’s free, but if this week is packed you might not finish. Time counts too."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An trang trí cho ngày hội đọc sách. Cô hỏi nên mua dây trang trí hay cả lớp tự cắt giấy làm.",
+     "An’s class is decorating for reading day. The teacher asks whether to buy decorations or make paper ones together."
+    ],
+    "q": [
+     "An nên góp ý thế nào?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cả lớp so chi phí, thời gian còn lại trước ngày hội và niềm vui khi cùng làm",
+      "Have the class compare cost, time left before the event, and the fun of making them together",
+      1,
+      "Quyết định chung nên dựa trên tiêu chí rõ ràng để cả lớp cùng đồng ý.",
+      "Group decisions work best on clear criteria the whole class can agree on."
+     ],
+     [
+      "Mua cho đẹp, không cần bàn",
+      "Buy them because they look better, no need to discuss",
+      0,
+      "Đồ mua có thể đẹp, nhưng tự làm có khi tiết kiệm và vui hơn. Bàn qua tiêu chí đã nhé.",
+      "Bought ones may look nice, but homemade can be cheaper and more fun. Check the criteria."
+     ],
+     [
+      "Bên nào nhiều bạn thích hơn thì chọn",
+      "Choose whatever most people like",
+      0,
+      "Biểu quyết cũng tốt, nhưng nên so tiền và thời gian trước để cả lớp chọn sáng suốt.",
+      "Voting is fine, but comparing cost and time first helps everyone choose wisely."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "So sánh tự làm và mua sẵn",
+    "Compare making and buying"
+   ],
+   "s": [
+    "Con chọn một món (thiệp, đồ trang trí, giá để bút), cùng ba mẹ so sánh tự làm và mua sẵn theo 3 tiêu chí: tiền, thời gian, niềm vui. Con nói lựa chọn của mình và lý do.",
+    "Pick one item (a card, a decoration, a pen holder) and compare making it with buying it, with your parent, on 3 criteria: money, time, enjoyment. Say what you’d choose and why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ bảng 3 tiêu chí và điền cùng nhau.",
+     "Your parent draws a 3-criteria table and fills it in with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự điền bảng rồi trình bày.",
+     "With one reminder, you fill in the table yourself and present it."
+    ],
+    [
+     "Con tự chọn món, tự điền bảng, nói lựa chọn và kể nếu đổi hoàn cảnh thì con có chọn khác không.",
+     "You choose the item, fill in the table, give your choice and say whether you’d choose differently in another situation."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con thực hiện lựa chọn đó trong tuần",
+    "Your parent helps you carry out your choice this week"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Phỏng vấn để lấy ý kiến",
+   "Interviewing to gather opinions"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô giao bài: hỏi ý kiến các bạn xem lớp thích hoạt động nào cho buổi dã ngoại. An định cứ đi hỏi đại, nhớ được gì thì ghi.",
+   "The teacher asks An to find out which activities the class wants for the field trip. An plans to just ask around and write down whatever she remembers."
+  ],
+  "cq": [
+   "An nên chuẩn bị thế nào?",
+   "How should An prepare?"
+  ],
+  "co": [
+   [
+    "Viết sẵn 3 câu hỏi ngắn, ghi chép câu trả lời và cảm ơn từng bạn",
+    "Write 3 short questions in advance, note the answers and thank each person",
+    1,
+    "Câu hỏi chuẩn bị trước giúp ai cũng được hỏi giống nhau, ghi chép giúp con không quên.",
+    "Prepared questions mean everyone gets asked the same thing, and notes stop you forgetting."
+   ],
+   [
+    "Chỉ hỏi mấy bạn thân cho nhanh",
+    "Only ask close friends to save time",
+    0,
+    "Bạn thân thường nghĩ giống mình. Hỏi nhiều bạn khác nhau mới ra ý kiến của cả lớp.",
+    "Friends often think like you. Asking different people gives the whole class’s view."
+   ],
+   [
+    "Hỏi “Cậu thích đi bảo tàng đúng không?”",
+    "Ask, “You’d like the museum, right?”",
+    0,
+    "Câu hỏi gợi sẵn đáp án làm bạn khó nói thật. Hỏi mở như “Cậu thích hoạt động nào?” sẽ tốt hơn.",
+    "A question that suggests the answer makes honesty hard. An open question like “Which activity would you like?” is better."
+   ]
+  ],
+  "qq": [
+   "Một cuộc phỏng vấn tốt cần…",
+   "A good interview needs…"
+  ],
+  "qo": [
+   [
+    "Hỏi thật nhiều, thật nhanh",
+    "Lots of questions, asked fast"
+   ],
+   [
+    "Câu hỏi chuẩn bị trước, ghi chép và lời cảm ơn",
+    "Prepared questions, notes and a thank-you"
+   ],
+   [
+    "Gợi ý sẵn câu trả lời mình muốn",
+    "Hints towards the answer you want"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An phỏng vấn ông về trò chơi hồi nhỏ cho bài tập. Ông kể say sưa, rất dài, An sợ không kịp ghi.",
+     "An is interviewing Grandad about childhood games for homework. He talks happily and at length, and An worries she can’t keep up."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ngắt lời ông để hỏi câu tiếp theo",
+      "Interrupt to get to the next question",
+      0,
+      "Ngắt lời làm ông mất hứng. Chờ ông dừng rồi hãy hỏi tiếp.",
+      "Interrupting takes the fun out of it for him. Wait for a pause, then ask."
+     ],
+     [
+      "Thôi không ghi, nhớ được bao nhiêu thì nhớ",
+      "Stop writing and just remember what you can",
+      0,
+      "Không ghi thì dễ quên chi tiết hay. Vài chữ ngắn gọn là đủ để nhớ lại.",
+      "Without notes the best details slip away. A few short words are enough."
+     ],
+     [
+      "Lắng nghe, ghi ý chính, xin ông nhắc lại chỗ quan trọng và cảm ơn ông cuối buổi",
+      "Listen, jot the key points, ask him to repeat important bits and thank him at the end",
+      1,
+      "Ghi ý chính chứ không cần ghi từng chữ. Hỏi lại chứng tỏ con đang nghe kỹ.",
+      "Note the main ideas, not every word. Asking again shows you’re really listening."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố cùng mẹ, An muốn hỏi cô thủ thư vài câu về nghề của cô cho bài tập.",
+     "At the local library with Mum, An wants to ask the librarian a few questions about her job for homework."
+    ],
+    "q": [
+     "An nên bắt đầu thế nào?",
+     "How should An begin?"
+    ],
+    "o": [
+     [
+      "Hỏi ngay khi cô đang bận làm việc",
+      "Start asking while she’s busy",
+      0,
+      "Người đang bận khó trả lời kỹ. Chờ lúc cô rảnh và xin phép sẽ lịch sự hơn.",
+      "Busy people can’t answer properly. Wait until she’s free and ask permission."
+     ],
+     [
+      "Cùng mẹ đến chào, giới thiệu mình, xin phép hỏi 3 câu ngắn đã chuẩn bị",
+      "Go with Mum, say hello, introduce herself and ask permission for 3 short prepared questions",
+      1,
+      "Xin phép trước là tôn trọng thời gian của người được hỏi. Câu hỏi ngắn giúp cô dễ trả lời.",
+      "Asking first respects their time, and short questions are easy to answer."
+     ],
+     [
+      "Nhờ mẹ hỏi hộ",
+      "Ask Mum to do the asking",
+      0,
+      "Mẹ ở bên cạnh là tốt, nhưng con tự hỏi mới là bài tập của con.",
+      "Having Mum beside you is great, but asking yourself is your homework."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Phóng viên nhỏ trong nhà",
+    "Little reporter at home"
+   ],
+   "s": [
+    "Con chọn một chủ đề (món ăn yêu thích, trò chơi hồi nhỏ…), viết 3 câu hỏi, rồi phỏng vấn 3 người trong nhà. Ghi câu trả lời và đọc kết quả cho cả nhà nghe.",
+    "Choose a topic (favourite food, childhood games…), write 3 questions and interview 3 people at home. Note their answers and read the results to the family."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con soạn câu hỏi và ngồi cạnh khi con phỏng vấn.",
+     "Your parent helps write the questions and sits with you during the interviews."
+    ],
+    [
+     "Ba mẹ duyệt câu hỏi, con tự đi phỏng vấn và ghi chép.",
+     "Your parent checks the questions; you carry out the interviews and take notes."
+    ],
+    [
+     "Con tự soạn câu hỏi, phỏng vấn đủ 3 người, cảm ơn từng người và tóm tắt điều bất ngờ nhất.",
+     "You write the questions, interview all 3, thank each one and sum up the most surprising answer."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nghe con đọc “bản tin gia đình” sau bữa tối",
+    "The family listens to your “family news report” after dinner"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Chờ kết quả cuộc thi",
+   "Waiting for competition results"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "An gửi tranh dự thi vẽ của trường, hai tuần nữa mới có kết quả. Ngày nào An cũng hỏi cô, học không tập trung và tối khó ngủ.",
+   "An entered the school art competition, and results take two weeks. She asks the teacher every day, can’t focus and finds it hard to sleep."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi cô mỗi ngày cho yên tâm",
+    "Ask the teacher every day to feel reassured",
+    0,
+    "Hỏi nhiều không làm kết quả đến sớm hơn, lại khiến con nghĩ mãi về nó.",
+    "Asking doesn’t make results come sooner; it just keeps you thinking about it."
+   ],
+   [
+    "Làm việc khác mình thích, nhắc mình đã cố hết sức và kết quả nào cũng học được điều hay",
+    "Do other things she enjoys and remind herself she did her best and every result teaches something",
+    1,
+    "Mình không đổi được kết quả, nhưng chọn được cách dùng thời gian chờ. Bận việc vui thì lòng nhẹ hơn.",
+    "You can’t change the result, but you can choose how to spend the wait. Busy and happy feels lighter."
+   ],
+   [
+    "Tự nhủ chắc mình trượt rồi cho đỡ hồi hộp",
+    "Tell herself she’s probably lost, to calm down",
+    0,
+    "Đoán điều tệ làm con buồn sớm vô cớ. Hãy nghĩ: mình đã học được gì khi vẽ bức tranh này?",
+    "Expecting the worst makes you sad for no reason. Think instead: what did I learn making it?"
+   ]
+  ],
+  "qq": [
+   "Khi phải chờ kết quả, cách giữ bình tĩnh là…",
+   "When waiting for results, the way to stay calm is…"
+  ],
+  "qo": [
+   [
+    "Nghĩ mãi về kết quả",
+    "Keep thinking about the result"
+   ],
+   [
+    "Đoán trước điều tệ nhất",
+    "Expect the worst"
+   ],
+   [
+    "Làm việc khác và nghĩ đến điều mình đã học được",
+    "Do other things and think about what you learned"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "An thi kể chuyện cấp quận, sáng mai mới biết kết quả. Tối nay An đi tới đi lui, ăn không nổi cơm.",
+     "An was in the district storytelling contest, and results come tomorrow morning. Tonight she paces about and can’t eat dinner."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Kể với mẹ cảm giác của mình, thở chậm vài lần rồi cùng cả nhà chơi một ván cờ",
+      "Tell Mum how she feels, take some slow breaths, then play a board game with the family",
+      1,
+      "Nói ra cảm xúc và làm một việc vui cùng nhau giúp đầu óc bớt quay quanh kết quả.",
+      "Naming feelings and doing something fun together stops your mind circling the result."
+     ],
+     [
+      "Ngồi một mình nghĩ lại từng lỗi lúc thi",
+      "Sit alone replaying every mistake",
+      0,
+      "Nghĩ mãi về lỗi làm con lo hơn. Lúc khác bình tĩnh rồi hãy rút kinh nghiệm.",
+      "Replaying mistakes adds worry. Review calmly another time."
+     ],
+     [
+      "Thức khuya chờ, biết đâu có tin sớm",
+      "Stay up late in case news comes early",
+      0,
+      "Thiếu ngủ làm con mệt và dễ cáu. Ngủ ngon thì sáng mai đón tin nào cũng nhẹ nhàng hơn.",
+      "Losing sleep makes you tired and grumpy. Sleep well and any news is easier tomorrow."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở nhà thi đấu, An vừa bơi xong lượt thi và phải chờ ban tổ chức đọc kết quả. Ba ngồi cạnh trên khán đài.",
+     "At the pool, An has just swum her race and must wait for the results. Dad is beside her in the stands."
+    ],
+    "q": [
+     "An nên làm gì trong lúc chờ?",
+     "What should An do while waiting?"
+    ],
+    "o": [
+     [
+      "Chạy ra bàn trọng tài hỏi liên tục",
+      "Keep running to the judges’ table to ask",
+      0,
+      "Ban tổ chức cần thời gian làm việc. Ngồi chờ cùng ba là cách lịch sự và an toàn.",
+      "The officials need time to work. Waiting with Dad is polite and safe."
+     ],
+     [
+      "Cúi đầu im lặng, không nói với ai",
+      "Hang her head and talk to no one",
+      0,
+      "Giữ hết lo lắng trong lòng làm thời gian chờ dài hơn. Chia sẻ với ba sẽ nhẹ hơn.",
+      "Keeping worry inside makes waiting longer. Sharing with Dad helps."
+     ],
+     [
+      "Uống nước, nói chuyện với ba và cổ vũ các bạn đang thi",
+      "Drink some water, chat with Dad and cheer on the others",
+      1,
+      "Hướng sự chú ý sang việc khác giúp tim đập chậm lại. Cổ vũ bạn cũng làm con vui hơn.",
+      "Shifting your attention calms your heart, and cheering others lifts your mood too."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bốn cách giúp con bình tĩnh khi chờ",
+    "Four ways to stay calm while waiting"
+   ],
+   "s": [
+    "Con cùng ba mẹ lập danh sách 4 việc giúp con bình tĩnh khi phải chờ đợi điều gì đó (như đọc sách, thở chậm, kể với ba mẹ), viết ra giấy và dán ở bàn học.",
+    "With your parent, make a list of 4 things that help you stay calm while waiting for something (like reading, slow breathing, talking to your parent), write it down and stick it by your desk."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý và cùng con viết danh sách.",
+     "Your parent offers ideas and writes the list with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ 4 việc rồi đọc cho ba mẹ nghe.",
+     "With one reminder, you think of 4 things and read them to your parent."
+    ],
+    [
+     "Con tự viết danh sách, lần chờ đợi tiếp theo dùng thử một cách và kể lại có hiệu quả không.",
+     "You write the list, try one idea next time you’re waiting and report whether it worked."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ hồi hộp chờ kết quả hồi nhỏ",
+    "Your parent tells you about nervously waiting for results as a child"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Ghi nhận công sức từng người",
+   "Recognising each member’s work"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cả nhà vừa sắp xếp lại tủ sách. Lúc ăn tối, An kể: “Con dọn hết tủ sách đấy!” trong khi em lau bụi, ba bê thùng nặng, mẹ phân loại sách.",
+   "The family has just reorganised the bookcase. At dinner An says, “I tidied the whole bookcase!” while her brother dusted, Dad carried heavy boxes and Mum sorted the books."
+  ],
+  "cq": [
+   "An nên nói thế nào?",
+   "What should An say?"
+  ],
+  "co": [
+   [
+    "Không cần nói gì, ai cũng biết rồi",
+    "Say nothing, everyone knows anyway",
+    0,
+    "Một lời ghi nhận nhỏ làm mọi người vui và muốn cùng làm lần sau.",
+    "A small word of thanks makes people happy to help again next time."
+   ],
+   [
+    "“Cả nhà giỏi quá!” rồi thôi",
+    "“Well done, everyone!” and leave it there",
+    0,
+    "Khen chung cũng tốt, nhưng khen cụ thể từng người thì ấm lòng hơn nhiều.",
+    "General praise is nice, but specific thanks to each person means much more."
+   ],
+   [
+    "“Nhờ em lau bụi, ba bê thùng, mẹ chia sách mà tủ mới gọn thế này”",
+    "“It’s tidy thanks to my brother dusting, Dad carrying boxes and Mum sorting books”",
+    1,
+    "Nói cụ thể việc từng người làm giúp ai cũng thấy công sức mình được nhìn thấy.",
+    "Naming what each person did shows everyone their effort was noticed."
+   ]
+  ],
+  "qq": [
+   "Cách ghi nhận công sức tốt nhất là…",
+   "The best way to recognise people’s work is…"
+  ],
+  "qo": [
+   [
+    "Nói cụ thể từng người đã làm gì",
+    "Say specifically what each person did"
+   ],
+   [
+    "Chỉ khen người làm nhiều nhất",
+    "Only praise the person who did most"
+   ],
+   [
+    "Nói chung chung “cảm ơn mọi người”",
+    "Just say “thanks, everyone”"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm An thuyết trình được cô khen. Vì An là người đứng nói nên cô tưởng An làm hết.",
+     "An’s group presentation gets praise. Because An did the speaking, the teacher assumes she did everything."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhận lời khen một mình cho vui",
+      "Keep the praise to herself",
+      0,
+      "Nhận hết công sẽ làm các bạn buồn. Kể tên từng bạn thì niềm vui được chia đều.",
+      "Taking all the credit hurts the others. Naming everyone shares the joy."
+     ],
+     [
+      "Cảm ơn cô và nói rõ: Linh tìm tài liệu, Nam vẽ tranh, Vy làm bảng",
+      "Thank the teacher and explain: Linh found the information, Nam drew the pictures, Vy made the chart",
+      1,
+      "Ghi nhận đúng người đúng việc là công bằng, và nhóm sẽ càng gắn bó hơn.",
+      "Giving credit where it’s due is fair and brings the group closer."
+     ],
+     [
+      "Im lặng vì ngại sửa lời cô",
+      "Stay quiet because correcting the teacher feels awkward",
+      0,
+      "Nói lễ phép “Thưa cô, các bạn cũng…” không hề vô lễ, còn giúp cô hiểu đúng.",
+      "Politely saying “Miss, the others also…” isn’t rude, and helps her understand."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An và mẹ cùng các nhà hàng xóm dọn sân chung khu nhà. Xong việc, mọi người đứng nghỉ, ai cũng mệt.",
+     "An and Mum join the neighbours to clean the shared yard. Afterwards everyone rests, tired out."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cảm ơn cụ thể: bác bảo vệ cho mượn chổi, cô nhà bên quét lá, các bạn nhỏ nhặt giấy vụn",
+      "Thank people specifically: the caretaker for lending brooms, the neighbour for sweeping leaves, the kids for picking up paper",
+      1,
+      "Lời cảm ơn có tên và việc cụ thể làm việc chung trở nên ấm áp hơn.",
+      "Thanks with names and details make shared work feel warmer."
+     ],
+     [
+      "Về nhà luôn, không cần nói gì",
+      "Go straight home without a word",
+      0,
+      "Ai cũng mệt, nên một lời cảm ơn càng có ý nghĩa.",
+      "Everyone is tired, which makes a thank-you mean even more."
+     ],
+     [
+      "Chỉ khen người làm nhiều nhất",
+      "Only praise whoever did the most",
+      0,
+      "Mỗi người góp một phần khác nhau. Ghi nhận ai cũng được nhắc đến thì công bằng hơn.",
+      "Everyone gave something different. Mentioning all of them is fairer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lời cảm ơn cụ thể cho từng người",
+    "A specific thank-you for each person"
+   ],
+   "s": [
+    "Sau một việc chung của gia đình (nấu bữa tối, dọn nhà…), con viết cho mỗi người tham gia một lời cảm ơn ngắn nói rõ người đó đã làm gì, rồi trao tận tay.",
+    "After a shared family job (making dinner, tidying up…), write each helper a short thank-you saying exactly what they did, and hand it to them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nhớ lại ai làm gì, con viết theo.",
+     "Your parent helps you remember who did what, and you write it down."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết và trao lời cảm ơn.",
+     "With one reminder, you write and hand out the thank-yous."
+    ],
+    [
+     "Con tự để ý trong lúc làm, viết đủ cho mọi người và đọc to trong bữa tối.",
+     "You notice during the job, write one for everyone and read them out at dinner."
+    ]
+   ],
+   "rw": [
+    "Cả nhà viết lại cho con một lời cảm ơn cụ thể",
+    "The family writes you a specific thank-you in return"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự ghi nhật ký tiến bộ",
+   "Keeping a progress journal"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An đang tập nhảy dây. Có hôm An thấy chẳng tiến bộ gì, vì không nhớ hôm qua mình nhảy được bao nhiêu cái.",
+   "An is practising skipping. Some days she feels she’s not improving, because she can’t remember how many skips she did yesterday."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mỗi tối ghi 3 dòng: hôm nay làm gì, được bao nhiêu, mai thử gì",
+    "Write 3 lines each evening: what she did, how many, what to try tomorrow",
+    1,
+    "Nhật ký giúp con nhìn thấy tiến bộ nhỏ mà trí nhớ hay bỏ qua, và biết bước tiếp theo.",
+    "A journal shows small progress memory misses, and tells you the next step."
+   ],
+   [
+    "Nhớ trong đầu là đủ",
+    "Just remember it",
+    0,
+    "Trí nhớ dễ quên con số. Ghi ra vài chữ là thấy rõ mình đi được bao xa.",
+    "Memory forgets numbers. A few written words show how far you’ve come."
+   ],
+   [
+    "Chỉ ghi những hôm nhảy giỏi",
+    "Only write down the good days",
+    0,
+    "Ngày chưa tốt cũng cho con biết cần thử gì. Ghi đều thì nhật ký mới có ích.",
+    "Bad days tell you what to try next. Regular entries make a journal useful."
+   ]
+  ],
+  "qq": [
+   "Nhật ký tiến bộ nên ghi…",
+   "A progress journal should record…"
+  ],
+  "qo": [
+   [
+    "Chỉ những ngày thành công",
+    "Only the successful days"
+   ],
+   [
+    "Lời khen của người khác",
+    "Other people’s compliments"
+   ],
+   [
+    "Việc đã làm hôm nay và bước tiếp theo",
+    "What you did today and your next step"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "An học từ vựng tiếng Anh mỗi ngày nhưng sắp kiểm tra mà không biết từ nào đã thuộc, từ nào còn quên.",
+     "An learns English words every day, but with a test coming she doesn’t know which ones she’s got and which she keeps forgetting."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Học lại tất cả từ đầu",
+      "Start all the words over again",
+      0,
+      "Học lại hết tốn thời gian với từ đã thuộc. Ghi chép giúp con tập trung vào từ khó.",
+      "Relearning everything wastes time on known words. Notes help you focus on hard ones."
+     ],
+     [
+      "Hỏi bạn xem bạn thuộc bao nhiêu từ",
+      "Ask a friend how many they know",
+      0,
+      "Mỗi người học khác nhau. So với chính mình hôm qua mới thấy tiến bộ thật.",
+      "Everyone learns differently. Comparing with yourself yesterday shows real progress."
+     ],
+     [
+      "Ghi mỗi ngày số từ đã thuộc và những từ còn khó để ôn lại",
+      "Note each day how many words she knows and which are still hard, to review them",
+      1,
+      "Biết rõ mình đang ở đâu thì ôn đúng chỗ cần, đỡ mất thời gian.",
+      "Knowing where you are means revising the right things and saving time."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An tập sút bóng vào khung thành nhỏ ở sân bóng với ba. Hôm nay An chán vì thấy “vẫn trượt hoài”.",
+     "An practises shooting at a small goal on the pitch with Dad. Today she’s fed up because she “keeps missing”."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ tập vì thấy mình kém",
+      "Give up because she feels bad at it",
+      0,
+      "Cảm giác chưa chắc đúng. Ghi lại vài buổi rồi hãy đánh giá.",
+      "Feelings can be wrong. Track a few sessions before judging."
+     ],
+     [
+      "Cùng ba ghi số quả trúng trong 10 lần sút mỗi buổi để so",
+      "Record with Dad how many of 10 shots go in each session to compare",
+      1,
+      "Con số cho thấy sự thật: có khi con đã tiến bộ mà chỉ cảm giác là chưa.",
+      "Numbers show the truth: you may be improving even if it doesn’t feel like it."
+     ],
+     [
+      "Sút thật nhiều mà không đếm",
+      "Shoot loads without counting",
+      0,
+      "Tập nhiều là tốt, nhưng không đếm thì khó biết cách nào hiệu quả.",
+      "Lots of practice is good, but without counting you can’t tell what works."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nhật ký ba dòng, ba ngày liền",
+    "Three lines, three days"
+   ],
+   "s": [
+    "Trong 3 ngày liền, mỗi tối con ghi 3 dòng về một việc con đang tập: hôm nay làm gì, được đến đâu, ngày mai thử gì. Hết 3 ngày, cho ba mẹ xem.",
+    "For 3 days in a row, write 3 lines each evening about something you’re practising: what you did, how far you got, what to try tomorrow. Show your parent after 3 days."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cạnh và gợi ý từng dòng mỗi tối.",
+     "Your parent sits with you and helps with each line every evening."
+    ],
+    [
+     "Ba mẹ nhắc một lần mỗi tối, con tự viết.",
+     "Your parent reminds you once each evening; you write it yourself."
+    ],
+    [
+     "Con tự nhớ ghi đủ 3 tối và chỉ cho ba mẹ một tiến bộ nhỏ con thấy được.",
+     "You remember all 3 evenings and point out one small improvement you spotted."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ tặng con một lời khen viết vào trang cuối nhật ký",
+    "Your parent writes a compliment on the last page of your journal"
+   ]
+  }
+ }
+]

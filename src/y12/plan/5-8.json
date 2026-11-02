@@ -1,0 +1,1959 @@
+{
+ "chang": [
+  {
+   "n": 1,
+   "theme": "Bin và cảm xúc, thói quen của mình",
+   "weeks": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "n": 2,
+   "theme": "Bin tự làm, tự thử",
+   "weeks": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "n": 3,
+   "theme": "Yêu thương và thấu hiểu trong gia đình",
+   "weeks": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "n": 4,
+   "theme": "Việc nhà – con cũng góp phần",
+   "weeks": [
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "n": 5,
+   "theme": "Ông bà, họ hàng và khách đến nhà",
+   "weeks": [
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "n": 6,
+   "theme": "Lớp học của em",
+   "weeks": [
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "n": 7,
+   "theme": "Học cùng nhau, chơi cùng nhau",
+   "weeks": [
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "n": 8,
+   "theme": "Tình bạn và chơi đẹp",
+   "weeks": [
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "n": 9,
+   "theme": "Hàng xóm và khu phố",
+   "weeks": [
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "n": 10,
+   "theme": "Ra ngoài: chợ, đường phố và nơi công cộng",
+   "weeks": [
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "n": 11,
+   "theme": "Thiên nhiên, con vật và môi trường chung",
+   "weeks": [
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "n": 12,
+   "theme": "Bin lớn lên: tự tin và sẵn sàng",
+   "weeks": [
+    45,
+    46,
+    47,
+    48
+   ]
+  }
+ ],
+ "weeks": {
+  "10": [
+   {
+    "sk": 0,
+    "t": [
+     "Kể chuyện ở trường cho cả nhà",
+     "Telling my family about my day"
+    ],
+    "gist": "Kể theo thứ tự “đầu tiên – sau đó – cuối cùng” giúp người nghe dễ hiểu.",
+    "mission": "Trong bữa tối, con kể ba việc ở trường theo đúng thứ tự xảy ra; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi con thấy buồn",
+     "When I feel sad"
+    ],
+    "gist": "Buồn là bình thường; gọi tên nỗi buồn và tìm cách tự an ủi hoặc nhờ người thân.",
+    "mission": "Con vẽ “hộp an ủi” gồm ba việc giúp con vui lên và thử một việc; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng cả nhà dọn mâm cơm",
+     "Setting the table together"
+    ],
+    "gist": "Làm cùng nhau trôi chảy hơn khi mỗi người nói rõ mình đang làm phần nào.",
+    "mission": "Con cùng một người trong nhà dọn mâm cơm, tự thống nhất ai lấy bát, ai lấy đũa; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự đánh răng rửa mặt",
+     "Brushing my teeth by myself"
+    ],
+    "gist": "Tự làm đủ các bước vệ sinh buổi sáng và tối mà không cần nhắc.",
+    "mission": "Con tự đánh răng đủ hai phút theo đồng hồ cát hoặc bài hát buổi tối; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Hai người muốn hai thứ",
+     "When two people want different things"
+    ],
+    "gist": "Khi mỗi người muốn một việc, có thể làm lần lượt, kết hợp hoặc chọn công bằng.",
+    "mission": "Con cùng một người thân chọn cách công bằng (oẳn tù tì, lần lượt) cho một việc trong ngày; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "11": [
+   {
+    "sk": 5,
+    "t": [
+     "Hỏi vì sao có quy tắc",
+     "Asking why rules exist"
+    ],
+    "gist": "Mỗi quy tắc trong nhà đều có lý do; con được hỏi lễ phép để hiểu.",
+    "mission": "Con hỏi ba mẹ lý do của hai quy tắc trong nhà và kể lại bằng lời của mình; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Bếp nóng, ổ điện nguy hiểm",
+     "Hot stoves and power sockets"
+    ],
+    "gist": "Nhận ra những chỗ nguy hiểm trong nhà và tránh xa chúng.",
+    "mission": "Con cùng ba mẹ đi quanh nhà, chỉ ra ba chỗ nguy hiểm và dán hình cảnh báo; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Giờ đi ngủ đúng hẹn",
+     "Bedtime on time"
+    ],
+    "gist": "Làm các việc trước giờ ngủ theo thứ tự để lên giường đúng giờ, ngủ đủ giấc.",
+    "mission": "Con tự làm ba việc trước giờ ngủ (vệ sinh, soạn đồ, cất đồ chơi) và lên giường đúng giờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tiền của nhà mình từ đâu ra?",
+     "Where our family's money comes from"
+    ],
+    "gist": "Ba mẹ làm việc vất vả mới có tiền, nên cả nhà dùng tiền cẩn thận.",
+    "mission": "Con hỏi ba mẹ về công việc của ba mẹ rồi vẽ một bức tranh về công việc đó; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi han khi người thân mệt",
+     "Checking on a tired family member"
+    ],
+    "gist": "Nhận ra người thân đang mệt và hỏi han nhẹ nhàng, đúng lúc.",
+    "mission": "Khi ba hoặc mẹ đi làm về, con hỏi thăm một câu và mời một cốc nước; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "12": [
+   {
+    "sk": 1,
+    "t": [
+     "Khi con thấy tủi thân ở nhà",
+     "When I feel left out at home"
+    ],
+    "gist": "Thấy tủi thân hay ghen tị là bình thường; nói ra với ba mẹ thay vì làm ầm ĩ.",
+    "mission": "Con nói với ba mẹ một lần thấy tủi bằng câu “Con thấy… khi…” và cùng hẹn một giờ chơi riêng; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Trò chơi gia đình có luật",
+     "Family games with clear rules"
+    ],
+    "gist": "Cả nhà thống nhất luật trước khi chơi và ai cũng giữ luật thì trò chơi mới vui.",
+    "mission": "Con chủ trì một trò chơi 10 phút với cả nhà, nói rõ luật trước khi bắt đầu; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự soạn cặp theo thời khoá biểu",
+     "Packing my school bag"
+    ],
+    "gist": "Tự nhìn thời khoá biểu để soạn đủ sách vở từ tối hôm trước.",
+    "mission": "Tối nay con tự soạn cặp theo thời khoá biểu, ba mẹ kiểm tra lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Cất đồ chơi cho vừa chỗ",
+     "Fitting toys back in their place"
+    ],
+    "gist": "Phân loại đồ theo nhóm giúp cất gọn và dễ tìm lại.",
+    "mission": "Con chia đồ chơi thành ba nhóm và cất vào ba hộp có dán nhãn; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đoán rồi thử để biết",
+     "Guess, then check"
+    ],
+    "gist": "Điều mình đoán chưa chắc đã đúng; thử tận mắt mới biết thật.",
+    "mission": "Con đoán năm đồ vật nổi hay chìm, rồi thả vào chậu nước cùng ba mẹ để kiểm tra; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "13": [
+   {
+    "sk": 6,
+    "t": [
+     "Thuộc số điện thoại của ba mẹ",
+     "Knowing my parents' phone number"
+    ],
+    "gist": "Thuộc số điện thoại ba mẹ và địa chỉ nhà để dùng khi cần giúp.",
+    "mission": "Con đọc thuộc số điện thoại của ba hoặc mẹ và địa chỉ nhà, viết lên thẻ để trong cặp; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Việc này mất mấy phút?",
+     "How long does it take?"
+    ],
+    "gist": "Biết một việc mất bao lâu giúp con sắp xếp thời gian hợp lý.",
+    "mission": "Con đoán rồi bấm giờ việc gấp quần áo của mình, so sánh với lúc đoán; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tiết kiệm điện nước trong nhà",
+     "Saving water and power at home"
+    ],
+    "gist": "Tắt đèn, khoá vòi khi không dùng giúp nhà mình bớt tốn tiền.",
+    "mission": "Con làm “người gác điện nước” trong một buổi, tắt ba đèn hoặc vòi nước không dùng; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi xem mình giúp được gì",
+     "Offering to help"
+    ],
+    "gist": "Chủ động hỏi “Con giúp gì được ạ?” và lắng nghe việc được giao.",
+    "mission": "Con hỏi ba mẹ “Con giúp gì được ạ?” và làm xong việc được giao; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị nhắc nhở",
+     "When I'm corrected"
+    ],
+    "gist": "Bị nhắc không có nghĩa là bị ghét; bình tĩnh nghe và sửa thay vì dỗi.",
+    "mission": "Lần tới khi được nhắc, con hít sâu, nói “Dạ, con sửa ạ” và làm ngay; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "14": [
+   {
+    "sk": 2,
+    "t": [
+     "Cùng nhau gấp quần áo",
+     "Folding laundry together"
+    ],
+    "gist": "Chia việc kiểu dây chuyền giúp cả nhà làm nhanh và vui hơn.",
+    "mission": "Con cùng một người thân gấp một rổ quần áo, mỗi người phụ trách một loại đồ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự cất quần áo vào tủ",
+     "Putting my clothes away"
+    ],
+    "gist": "Tự xếp quần áo sạch vào đúng ngăn để sáng ra dễ tìm.",
+    "mission": "Con tự xếp quần áo sạch của mình vào đúng ngăn tủ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Khi đồ để trên cao",
+     "When something is out of reach"
+    ],
+    "gist": "Nghĩ vài cách rồi chọn cách an toàn nhất, không leo trèo một mình.",
+    "mission": "Con kể ba cách lấy đồ trên cao và cùng ba mẹ chọn cách an toàn nhất; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Trông sạch đã chắc là sạch?",
+     "Clean or just looks clean?"
+    ],
+    "gist": "Thứ trông sạch vẫn có thể còn vi khuẩn; cần làm đúng cách mới yên tâm.",
+    "mission": "Con rửa tay đủ sáu bước với xà phòng trước bữa ăn, ba mẹ quan sát; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Dao kéo và đồ sắc nhọn",
+     "Knives and sharp things"
+    ],
+    "gist": "Không nghịch dao; dùng kéo đúng cách và đưa kéo bằng phần cán.",
+    "mission": "Con tập đưa kéo cho ba mẹ đúng cách (cầm phần lưỡi, đưa phần cán) ba lần; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "15": [
+   {
+    "sk": 7,
+    "t": [
+     "Bảng việc nhà của con",
+     "My chore chart"
+    ],
+    "gist": "Bảng việc giúp con nhớ việc của mình và tự đánh dấu khi xong.",
+    "mission": "Con cùng ba mẹ làm bảng ba việc nhà cho tuần và tự đánh dấu việc hôm nay; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Dùng đồ cho bền",
+     "Making things last"
+    ],
+    "gist": "Giữ gìn đồ dùng để dùng được lâu cũng là tiết kiệm.",
+    "mission": "Con chọn một món đồ của mình, lau sạch, cất đúng chỗ và kể cách giữ nó bền; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nói “con nghĩ khác” lễ phép",
+     "Disagreeing politely"
+    ],
+    "gist": "Con được nói ý khác với người lớn, bằng giọng nhẹ nhàng và có lý do.",
+    "mission": "Con tập nói “Con nghĩ khác ạ, vì…” trong một chuyện nhỏ ở nhà; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Mệt quá nên dễ cáu",
+     "Tired and grumpy"
+    ],
+    "gist": "Khi mệt, con dễ cáu hơn; nghỉ ngơi một chút giúp con dịu lại.",
+    "mission": "Khi thấy mệt, con chọn một cách nghỉ (uống nước, nằm 5 phút) rồi kể lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng cất đồ đi chợ về",
+     "Unpacking groceries together"
+    ],
+    "gist": "Mỗi người nhận một loại đồ để cất, cả nhà xong việc nhanh.",
+    "mission": "Con cùng ba mẹ cất đồ đi chợ về: đồ lạnh vào tủ lạnh, đồ khô lên kệ; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "16": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự tắm và lau người",
+     "Bathing on my own"
+    ],
+    "gist": "Tự tắm sạch các bước, chỉ nhờ ba mẹ phần khó.",
+    "mission": "Con tự tắm, ba mẹ chỉ chỉnh nước ấm và kiểm tra lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Lỡ làm vỡ cốc",
+     "When a cup breaks"
+    ],
+    "gist": "Đứng yên, gọi người lớn, không tự nhặt mảnh vỡ; rồi nghĩ cách tránh lần sau.",
+    "mission": "Con cùng ba mẹ diễn tập các bước khi cốc vỡ và chọn chỗ để cốc an toàn hơn; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đếm thử để biết thật",
+     "Count to find out"
+    ],
+    "gist": "Thay vì đoán “ai làm nhiều hơn”, hãy đếm để biết thật.",
+    "mission": "Con đếm số việc nhà mỗi người làm trong một ngày và vẽ bảng so sánh; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "An toàn trong nhà tắm",
+     "Bathroom safety"
+    ],
+    "gist": "Sàn ướt dễ trơn; không chạy nhảy và đi dép trong nhà tắm.",
+    "mission": "Con chỉ ra hai chỗ trơn trong nhà tắm và để dép, thảm đúng chỗ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Việc nào làm trước?",
+     "Which chore comes first?"
+    ],
+    "gist": "Việc gấp làm trước, việc chưa gấp làm sau.",
+    "mission": "Con xếp thứ tự ba việc tối nay và làm theo đúng thứ tự đó; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "17": [
+   {
+    "sk": 8,
+    "t": [
+     "Đồ cũ còn tốt cho người khác",
+     "Passing on what I've outgrown"
+    ],
+    "gist": "Đồ mình không dùng nữa nhưng còn tốt vẫn có ích cho người khác.",
+    "mission": "Con chọn hai món đồ còn tốt mình không dùng nữa để tặng em nhỏ, ba mẹ duyệt; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Mời khách uống nước",
+     "Offering a guest a drink"
+    ],
+    "gist": "Mời nước bằng hai tay và câu mời đầy đủ là cách đón khách lễ phép.",
+    "mission": "Con tập mời nước ba mẹ bằng hai tay với câu “Con mời … uống nước ạ”; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Ngại khi gặp họ hàng",
+     "Feeling shy with relatives"
+    ],
+    "gist": "Ngại là bình thường; một câu chào ngắn là đủ để bắt đầu.",
+    "mission": "Con chọn sẵn một câu để nói với một người họ hàng và nói khi gặp; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Chơi cùng em nhỏ tuổi hơn",
+     "Playing with younger kids"
+    ],
+    "gist": "Đổi trò chơi cho dễ hơn để em nhỏ cũng chơi được.",
+    "mission": "Con nghĩ cách chơi đơn giản và chơi cùng một em nhỏ hoặc ba mẹ đóng vai em 10 phút; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự rót nước, tự lấy đồ ăn",
+     "Serving myself"
+    ],
+    "gist": "Tự rót nước không đổ và lấy thức ăn vừa đủ ăn.",
+    "mission": "Con tự rót nửa cốc nước không đổ và tự lấy thức ăn vừa đủ trong bữa tối; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "18": [
+   {
+    "sk": 4,
+    "t": [
+     "Khi ông bà nghe không rõ",
+     "When grandparents can't hear well"
+    ],
+    "gist": "Nói chậm, rõ, nhìn mặt người nghe giúp ông bà hiểu con hơn.",
+    "mission": "Con nói chuyện với ông bà (trực tiếp hoặc gọi điện), nói chậm rõ và kể một chuyện; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Ngày xưa và bây giờ",
+     "Then and now"
+    ],
+    "gist": "So sánh để thấy cuộc sống thay đổi, cái cũ và cái mới đều có điểm hay.",
+    "mission": "Con hỏi ông bà hoặc ba mẹ một trò chơi ngày xưa và so với trò chơi bây giờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chào theo cách con thoải mái",
+     "Greeting my way"
+    ],
+    "gist": "Con có thể chào bằng lời, vẫy tay hay đập tay thay cho ôm hôn nếu không thoải mái.",
+    "mission": "Con và ba mẹ thống nhất ba cách chào lễ phép mà con thấy thoải mái; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Hẹn giờ gọi cho ông bà",
+     "A set time to call grandparents"
+    ],
+    "gist": "Chọn giờ hẹn, đặt lời nhắc và gọi đúng giờ là giữ lời với người thân.",
+    "mission": "Con chọn một giờ, nhờ ba mẹ đặt lời nhắc và gọi cho ông bà đúng giờ đó; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Nhận biết các tờ tiền",
+     "Knowing banknotes"
+    ],
+    "gist": "Mỗi tờ tiền có một giá trị khác nhau, nhìn số để biết.",
+    "mission": "Con xếp các tờ tiền ba mẹ đưa xem theo thứ tự từ nhỏ đến lớn rồi trả lại ba mẹ; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "19": [
+   {
+    "sk": 0,
+    "t": [
+     "Nghe điện thoại lịch sự",
+     "Answering the phone politely"
+    ],
+    "gist": "Nghe máy: chào, hỏi ai gọi, rồi mời người lớn.",
+    "mission": "Con tập nghe máy với ba mẹ: chào, hỏi “Ai gọi ạ?” và mời người lớn nghe; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi nhớ người ở xa",
+     "Missing someone far away"
+    ],
+    "gist": "Nhớ ai đó là vì thương; gửi lời nhắn giúp con thấy gần hơn.",
+    "mission": "Con vẽ một bức tranh hoặc thu một lời nhắn gửi người thân ở xa; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng giữ yên lặng khi người khác nghỉ",
+     "Keeping quiet together"
+    ],
+    "gist": "Cả nhà cùng giữ một quy tắc thì mọi người đều dễ chịu.",
+    "mission": "Con rủ người nhà chơi trò yên lặng 15 phút khi có người đang nghỉ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự gấp chăn buổi sáng",
+     "Making my bed"
+    ],
+    "gist": "Tự gấp chăn, xếp gối mỗi sáng để góc ngủ gọn gàng.",
+    "mission": "Con tự gấp chăn và xếp gối mỗi sáng trong ba ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Khách sắp đến mà nhà còn bừa",
+     "Guests coming, house messy"
+    ],
+    "gist": "Ít thời gian thì dọn chỗ quan trọng nhất trước.",
+    "mission": "Con dọn phòng khách trong 10 phút, tự chọn ba chỗ quan trọng nhất để làm trước; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "20": [
+   {
+    "sk": 5,
+    "t": [
+     "Sở thích khác nhau, không ai sai",
+     "Different tastes, no one wrong"
+    ],
+    "gist": "Mỗi người thích một kiểu; khác mình không có nghĩa là sai.",
+    "mission": "Con hỏi ba người trong nhà món ăn yêu thích và nói mỗi người khác nhau thế nào; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Mật khẩu gia đình",
+     "Our family password"
+    ],
+    "gist": "Một từ chỉ cả nhà biết giúp con nhận ra người được ba mẹ nhờ đón thật.",
+    "mission": "Con cùng ba mẹ đặt mật khẩu gia đình và tập hỏi mật khẩu trong một tình huống đóng vai; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đúng giờ khi đi thăm nhà ai",
+     "Arriving on time for a visit"
+    ],
+    "gist": "Chuẩn bị đồ sớm giúp cả nhà đến đúng giờ hẹn.",
+    "mission": "Lần cả nhà đi thăm ai, con tự chuẩn bị xong đồ của mình trước 10 phút; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Đồ ăn không bỏ phí",
+     "Not wasting food"
+    ],
+    "gist": "Lấy vừa đủ và ăn hết là quý công làm ra thức ăn.",
+    "mission": "Con lấy cơm vừa đủ và ăn hết phần của mình trong bữa tối; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Kể lại chuyện của gia đình",
+     "Retelling a family story"
+    ],
+    "gist": "Nghe kỹ để nhớ và kể lại câu chuyện cho người khác.",
+    "mission": "Con nghe ông bà hoặc ba mẹ kể một kỷ niệm và kể lại cho một người khác trong nhà; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "21": [
+   {
+    "sk": 1,
+    "t": [
+     "Hồi hộp khi lên bảng",
+     "Nervous at the board"
+    ],
+    "gist": "Hồi hộp là bình thường; hít sâu trước khi nói giúp con vững hơn.",
+    "mission": "Con tập đứng trả lời một câu hỏi trước cả nhà, hít sâu trước khi nói; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Khi bạn làm nhóm trưởng",
+     "When a friend leads"
+    ],
+    "gist": "Làm theo người dẫn nhóm và đến lượt mình dẫn thì nói rõ ràng.",
+    "mission": "Con chơi trò “nhóm trưởng” với gia đình, lần lượt làm người dẫn và người theo; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự giữ đồ dùng học tập",
+     "Looking after my school things"
+    ],
+    "gist": "Dán tên và kiểm tra đồ cuối buổi để không bị thất lạc.",
+    "mission": "Con dán tên lên năm món đồ dùng học tập và tự kiểm tra hộp bút tối nay; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Quên mang bút",
+     "Forgot my pencil"
+    ],
+    "gist": "Nghĩ cách: hỏi mượn bạn lịch sự hoặc luôn có bút dự phòng.",
+    "mission": "Con bỏ một bút dự phòng vào cặp và tập câu hỏi mượn bút lịch sự; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Chọn đáp án có lý do",
+     "Answers with reasons"
+    ],
+    "gist": "Nói kèm “vì…” giúp mình và người khác hiểu mình nghĩ gì.",
+    "mission": "Con trả lời ba câu đố của ba mẹ và luôn nói kèm “vì…”; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "22": [
+   {
+    "sk": 6,
+    "t": [
+     "Đường từ nhà đến trường",
+     "My route to school"
+    ],
+    "gist": "Nhớ đường và những chỗ cần cẩn thận trên đường đi học.",
+    "mission": "Trên đường đi học cùng ba mẹ, con chỉ đường một đoạn và nói chỗ cần cẩn thận; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Giờ ra chơi có hạn",
+     "Recess is short"
+    ],
+    "gist": "Đi vệ sinh, uống nước trước rồi mới chơi để vào lớp đúng giờ.",
+    "mission": "Con cùng ba mẹ lập “kế hoạch 15 phút ra chơi” và kể lại hôm sau đã làm thế nào; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Đồ dùng học tập: đủ là được",
+     "Enough school supplies"
+    ],
+    "gist": "Đồ còn dùng được thì tiếp tục dùng, không cần mua mới nhiều.",
+    "mission": "Con kiểm lại bút màu, giữ những cây còn dùng được và chỉ báo ba mẹ cái thật sự hết; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Giơ tay phát biểu",
+     "Raising my hand"
+    ],
+    "gist": "Giơ tay và chờ được gọi tên giúp lớp học trật tự, ai cũng được nói.",
+    "mission": "Con chơi “lớp học gia đình” trong bữa cơm: giơ tay và chờ được gọi mới nói; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bạn không chơi với mình",
+     "When a friend won't play"
+    ],
+    "gist": "Buồn khi bị từ chối là bình thường; con vẫn có thể chọn việc khác vui.",
+    "mission": "Con nghĩ ba việc có thể làm khi bạn từ chối chơi và chọn một việc yêu thích; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "23": [
+   {
+    "sk": 2,
+    "t": [
+     "Cùng trực nhật",
+     "Cleaning duty together"
+    ],
+    "gist": "Trực nhật nhanh hơn khi chia việc và đổi vai cho công bằng.",
+    "mission": "Con và ba mẹ “trực nhật” một góc nhà: người quét, người lau, rồi đổi vai; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự nhớ bài tập về nhà",
+     "Remembering my homework"
+    ],
+    "gist": "Tự biết hôm nay có bài gì và đánh dấu khi làm xong.",
+    "mission": "Con tự kể bài tập về nhà hôm nay và đánh dấu từng bài khi làm xong; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Khi chưa hiểu bài",
+     "When I don't understand"
+    ],
+    "gist": "Đọc lại, xem ví dụ, rồi mới hỏi; hỏi không có gì xấu hổ.",
+    "mission": "Con chọn một bài khó, thử hai cách trước khi hỏi ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Hay vì sao?",
+     "What makes it good?"
+    ],
+    "gist": "Nhận xét bằng điều cụ thể thay vì chỉ nói “đẹp” hay “xấu”.",
+    "mission": "Con nhận xét bức vẽ hoặc món ăn của một người thân bằng hai điều cụ thể; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Bí mật vui và bí mật xấu",
+     "Good secrets and bad secrets"
+    ],
+    "gist": "Bí mật vui (quà bất ngờ) thì giữ; bí mật làm con sợ hay khó chịu thì phải kể với người lớn tin cậy.",
+    "mission": "Con cùng ba mẹ xếp năm tình huống vào hai nhóm: bí mật vui và bí mật phải kể; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "24": [
+   {
+    "sk": 7,
+    "t": [
+     "Mười phút tập trung",
+     "Ten focused minutes"
+    ],
+    "gist": "Tập trung một việc trong một khoảng ngắn giúp làm nhanh và tốt hơn.",
+    "mission": "Con hẹn giờ 10 phút làm bài, không đứng dậy, không làm việc khác; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Đồ của bạn đẹp hơn của mình",
+     "When a friend has nicer things"
+    ],
+    "gist": "Hài lòng và quý những gì mình đang có.",
+    "mission": "Con kể ba điều con thích ở đồ dùng học tập của mình; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nói chuyện với cô giáo",
+     "Talking to my teacher"
+    ],
+    "gist": "Biết báo cô khi cần: xin phép, báo mệt, hỏi bài.",
+    "mission": "Con tập với ba mẹ ba câu nói với cô: xin phép, báo mệt và hỏi bài; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi bị bạn chê",
+     "When someone criticises my work"
+    ],
+    "gist": "Nghe lời chê bình tĩnh, giữ lại điều có ích, không cãi lại.",
+    "mission": "Con tập trả lời “Cảm ơn, tớ sẽ thử” trong trò đóng vai với ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Rủ bạn cùng chơi",
+     "Inviting others to join"
+    ],
+    "gist": "Mời người đang đứng ngoài vào chơi giúp cả nhóm vui hơn.",
+    "mission": "Hôm nay con rủ thêm một người cùng chơi trò của mình; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "25": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự đọc sách mười phút",
+     "Reading on my own"
+    ],
+    "gist": "Tự chọn sách và đọc một mình mỗi ngày một chút.",
+    "mission": "Con tự chọn sách, đọc 10 phút và kể lại một điều con thích; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Hai bạn, một chỗ ngồi",
+     "Two friends, one seat"
+    ],
+    "gist": "Khi hai người cùng muốn một thứ, tìm cách chia lượt công bằng.",
+    "mission": "Con nghĩ ba cách chia lượt và thử một cách với người nhà cho một chỗ ngồi hoặc món đồ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Chuyện nào cũng có hai phía",
+     "Every story has two sides"
+    ],
+    "gist": "Nghe cả hai bên kể trước khi nghĩ ai đúng ai sai.",
+    "mission": "Con nghe hai người trong nhà kể cùng một việc và chỉ ra điểm khác nhau; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chơi an toàn ở sân trường",
+     "Safe play in the schoolyard"
+    ],
+    "gist": "Không chơi ở chỗ cấm, không xô đẩy, chạy nhảy đúng chỗ.",
+    "mission": "Con vẽ sơ đồ sân trường, đánh dấu chỗ chơi an toàn và chỗ không nên chơi; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Thời gian biểu sau giờ học",
+     "My after-school timetable"
+    ],
+    "gist": "Có thời gian biểu, con biết lúc nào học, lúc nào chơi, lúc nào nghỉ.",
+    "mission": "Con cùng ba mẹ vẽ thời gian biểu từ lúc về nhà đến lúc đi ngủ; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "26": [
+   {
+    "sk": 8,
+    "t": [
+     "Để dành cho một món đồ",
+     "Saving up for one thing"
+    ],
+    "gist": "Muốn có món đồ mình thích thì để dành dần dần, kiên nhẫn chờ.",
+    "mission": "Con vẽ món đồ muốn có và làm bảng dán sao theo dõi việc để dành, ba mẹ cùng xem; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi lại khi chưa nghe rõ",
+     "Asking again when I didn't catch it"
+    ],
+    "gist": "Chưa nghe rõ thì hỏi lại lễ phép, không đoán bừa.",
+    "mission": "Chơi trò truyền tin, con tập nói “Con chưa nghe rõ, nói lại giúp con được không ạ?”; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Vui cùng bạn khi bạn giỏi",
+     "Happy for a friend's success"
+    ],
+    "gist": "Chúc mừng người khác làm tốt khiến cả hai cùng vui.",
+    "mission": "Con chúc mừng một người thân hoặc bạn về một điều họ làm tốt; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng vẽ một bức tranh chung",
+     "One picture, many hands"
+    ],
+    "gist": "Thống nhất trước ai vẽ phần nào thì tranh chung mới đẹp.",
+    "mission": "Con cùng ba mẹ vẽ một bức tranh, bàn trước mỗi người vẽ một phần; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự đi giày, buộc dây",
+     "Shoes and laces"
+    ],
+    "gist": "Tự đi giày đúng chân và tập buộc dây không cần giúp.",
+    "mission": "Con tập tự đi giày đúng chân và buộc dây (hoặc dán quai) ba lần; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "27": [
+   {
+    "sk": 4,
+    "t": [
+     "Thiếu đồ thì dùng đồ thay thế",
+     "Making do with what we have"
+    ],
+    "gist": "Thiếu đồ, hãy nhìn quanh xem thứ gì dùng thay được.",
+    "mission": "Con làm một món đồ thủ công chỉ từ đồ tái chế có sẵn trong nhà; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Chuyện chưa chắc, không kể tiếp",
+     "Not passing on rumours"
+    ],
+    "gist": "Chuyện chưa biết thật thì không kể lại, vì có thể làm người khác buồn.",
+    "mission": "Con chơi trò truyền tin với gia đình và xem câu nói bị thay đổi thế nào; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Khi bị trêu chọc quá đáng",
+     "When teasing goes too far"
+    ],
+    "gist": "Nói “Dừng lại”, đi chỗ khác và báo thầy cô hoặc ba mẹ.",
+    "mission": "Con tập ba bước với ba mẹ: nói “Dừng lại”, rời đi, báo người lớn; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Giờ xem màn hình",
+     "Screen time limits"
+    ],
+    "gist": "Thống nhất thời gian xem và tự tắt đúng giờ.",
+    "mission": "Con cùng ba mẹ thống nhất giờ xem hôm nay và tự tắt đúng giờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Niềm vui không tốn tiền",
+     "Free things that matter"
+    ],
+    "gist": "Nhiều niềm vui không cần tiền: chơi ngoài trời, đọc sách, vẽ.",
+    "mission": "Con liệt kê năm niềm vui không tốn tiền và làm một việc trong đó; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "28": [
+   {
+    "sk": 0,
+    "t": [
+     "Giới thiệu bản thân",
+     "Introducing myself"
+    ],
+    "gist": "Nói tên, tuổi, sở thích ngắn gọn và rõ ràng.",
+    "mission": "Con tập giới thiệu bản thân trong 30 giây trước cả nhà; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Xấu hổ khi làm sai trước mọi người",
+     "Embarrassed in front of others"
+    ],
+    "gist": "Ai cũng có lúc làm sai; con có thể cười nhẹ, hít thở và làm lại.",
+    "mission": "Con kể một lần thấy xấu hổ và cùng ba mẹ nghĩ một câu nói giúp mình bình tĩnh; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Hỏi ý từng người",
+     "Every voice in the group"
+    ],
+    "gist": "Hỏi ý mọi người trước khi quyết định chung.",
+    "mission": "Con hỏi ý từng người trong nhà để chọn món tráng miệng hoặc trò chơi tối nay; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự chuẩn bị bữa sáng nguội",
+     "Making a simple breakfast"
+    ],
+    "gist": "Tự làm bữa sáng đơn giản không cần bếp, có ba mẹ bên cạnh.",
+    "mission": "Con tự chuẩn bị bữa sáng nguội (bánh mì, sữa, trái cây đã gọt) có ba mẹ bên cạnh; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Nghĩ nhiều cách rồi chọn",
+     "Many ideas, then choose"
+    ],
+    "gist": "Nghĩ ra thật nhiều cách trước, rồi mới chọn cách tốt nhất.",
+    "mission": "Con nghĩ năm cách dùng một chiếc hộp giấy cũ và làm thử một cách; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "29": [
+   {
+    "sk": 5,
+    "t": [
+     "Thắng có phải là giỏi nhất?",
+     "Does winning mean best?"
+    ],
+    "gist": "Thắng một trận chưa chắc là giỏi nhất; cố gắng và chơi đẹp cũng đáng khen.",
+    "mission": "Sau một trò chơi, con kể ba điều đáng khen dù ai thắng ai thua; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Đi đâu cũng hỏi trước",
+     "Asking first before going anywhere"
+    ],
+    "gist": "Muốn đi đâu, kể cả với bạn, con luôn xin phép ba mẹ trước.",
+    "mission": "Con và ba mẹ đặt quy tắc “hỏi trước khi đi” và tập hai tình huống đóng vai; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Giữ lời hẹn",
+     "Keeping a promise"
+    ],
+    "gist": "Đã hẹn thì làm đúng giờ để người khác tin mình.",
+    "mission": "Con hẹn làm một việc nhỏ với người thân và làm đúng giờ đã hẹn; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Bạn có nên mình cũng muốn",
+     "Wanting it because a friend has it"
+    ],
+    "gist": "Thấy bạn có không có nghĩa là mình cần; hỏi lại mình trước khi xin mua.",
+    "mission": "Con chọn một món đang muốn và cùng ba mẹ trả lời “Mình có thật cần không?”; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Khen bạn cho cụ thể",
+     "Giving a specific compliment"
+    ],
+    "gist": "Lời khen cụ thể làm người nghe vui và tin hơn.",
+    "mission": "Con khen hai người bằng một điều cụ thể họ đã làm; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "30": [
+   {
+    "sk": 1,
+    "t": [
+     "Khi bạn thân chơi với bạn khác",
+     "When my best friend plays with others"
+    ],
+    "gist": "Bạn có thêm bạn không có nghĩa là bỏ mình; mình có thể chơi chung.",
+    "mission": "Con vẽ vòng tròn bạn bè và nghĩ cách rủ cả nhóm chơi chung; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Thua cùng đội, không trách nhau",
+     "Losing as a team without blame"
+    ],
+    "gist": "Đội thua thì cả đội cùng chịu, động viên nhau thay vì trách.",
+    "mission": "Chơi một trò đồng đội với gia đình, sau đó mỗi người nói một điều tốt của đồng đội; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Mặc đồ hợp thời tiết",
+     "Dressing for the weather"
+    ],
+    "gist": "Tự xem trời để chọn quần áo phù hợp.",
+    "mission": "Con xem trời và tự chọn bộ đồ cho ngày mai, ba mẹ xem lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Hai bạn giận nhau, mình ở giữa",
+     "Stuck between two friends"
+    ],
+    "gist": "Không cần chọn bên; có thể nói mình chơi với cả hai và gợi ý làm lành.",
+    "mission": "Con đóng vai với ba mẹ, nói “Tớ chơi với cả hai” và gợi ý một cách làm lành; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đổ lỗi hay tìm nguyên nhân?",
+     "Blame or find the cause"
+    ],
+    "gist": "Tìm xem vì sao việc chưa tốt giúp sửa được, đổ lỗi thì không.",
+    "mission": "Con chọn một việc chưa tốt hôm nay và tìm nguyên nhân thật, không đổ lỗi cho ai; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "31": [
+   {
+    "sk": 6,
+    "t": [
+     "Đùa quá tay thì nói dừng",
+     "Rough play: saying stop"
+    ],
+    "gist": "Khi trò đùa làm con đau hay sợ, con nói “dừng” và người khác phải dừng.",
+    "mission": "Con và ba mẹ thống nhất một tín hiệu “dừng” khi chơi đùa và tập dùng nó; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đang vui mà phải về",
+     "Leaving when the fun isn't over"
+    ],
+    "gist": "Nghe lời nhắc trước 5 phút để chuẩn bị dừng chơi.",
+    "mission": "Lần chơi tới, con nhận lời nhắc 5 phút và tự dừng đúng giờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Ghi lại tiền nhà tiêu",
+     "Writing down what we spend"
+    ],
+    "gist": "Ghi lại giúp biết tiền đã đi đâu.",
+    "mission": "Con cùng ba mẹ ghi lại ba khoản tiền nhà tiêu hôm nay bằng chữ hoặc hình vẽ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Rủ bạn chơi lại sau khi giận",
+     "Inviting a friend back after a fight"
+    ],
+    "gist": "Sau khi giận, một lời rủ chơi lại giúp hai bạn làm lành.",
+    "mission": "Con tập hai câu mở lời làm lành trong trò đóng vai với ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi con quá phấn khích",
+     "When I'm too excited"
+    ],
+    "gist": "Vui quá cũng cần dịu lại để không làm phiền hay làm đau người khác.",
+    "mission": "Khi đang quá hào hứng, con tập đếm đến 5 và thở chậm, ba mẹ quan sát; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "32": [
+   {
+    "sk": 2,
+    "t": [
+     "Chia đội công bằng",
+     "Picking fair teams"
+    ],
+    "gist": "Chia đội sao cho hai bên ngang sức thì trò chơi mới vui.",
+    "mission": "Con chia đội cho một trò chơi gia đình sao cho cân bằng và giải thích vì sao; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Giữ lời hứa với chính mình",
+     "Keeping a promise to myself"
+    ],
+    "gist": "Tự hứa một việc nhỏ và làm đủ giúp con tin vào mình.",
+    "mission": "Con tự hứa một việc nhỏ (đọc một trang sách) và làm đủ ba ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Trò chơi chán thì đổi luật",
+     "Bored of the game? Change it"
+    ],
+    "gist": "Thêm hay đổi một luật nhỏ có thể làm trò cũ vui trở lại.",
+    "mission": "Con nghĩ thêm một luật mới cho một trò chơi quen và chơi thử với gia đình; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Sự thật hay ý kiến?",
+     "Fact or opinion?"
+    ],
+    "gist": "Sự thật kiểm tra được; ý kiến là điều mỗi người nghĩ.",
+    "mission": "Con cùng ba mẹ xếp sáu câu vào hai nhóm: sự thật và ý kiến; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Thông tin riêng của con",
+     "Keeping personal info private"
+    ],
+    "gist": "Tên trường, địa chỉ, số điện thoại không nói với người lạ hay trên mạng.",
+    "mission": "Con cùng ba mẹ liệt kê thông tin riêng và những người được phép biết; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "33": [
+   {
+    "sk": 7,
+    "t": [
+     "Đi dạo cuối tuần có kế hoạch",
+     "Planning a weekend walk"
+    ],
+    "gist": "Biết đi đâu, mấy giờ, mang gì thì buổi đi chơi suôn sẻ.",
+    "mission": "Con cùng ba mẹ lập kế hoạch một buổi đi dạo: đi đâu, mấy giờ, mang gì; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Danh sách đi chợ",
+     "The shopping list"
+    ],
+    "gist": "Mua theo danh sách giúp không quên đồ cần và không mua thừa.",
+    "mission": "Con cùng ba mẹ viết danh sách đi chợ và đánh dấu từng món khi mua; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Chào hàng xóm",
+     "Greeting neighbours"
+    ],
+    "gist": "Một lời chào hàng xóm làm khu phố thân thiện hơn.",
+    "mission": "Con chào một người hàng xóm khi đi cùng ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi tiếng ồn làm con khó chịu",
+     "When noise bothers me"
+    ],
+    "gist": "Biết mình khó chịu và chọn cách dễ chịu hơn thay vì cáu gắt.",
+    "mission": "Khi thấy ồn, con chọn một cách (bịt tai, ra chỗ yên) và nói với ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng dọn sạch lối đi chung",
+     "Cleaning the shared path"
+    ],
+    "gist": "Cùng nhau giữ chỗ chung sạch đẹp là việc của mọi người.",
+    "mission": "Con cùng ba mẹ đeo găng nhặt rác trước cửa nhà trong 10 phút; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "34": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự giữ vệ sinh khi ra ngoài",
+     "Staying clean when out"
+    ],
+    "gist": "Về nhà sau khi chơi ngoài thì tự rửa tay, thay đồ, cất giày.",
+    "mission": "Sau khi chơi ngoài, con tự rửa tay, thay đồ và để giày đúng chỗ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Đồ chơi rơi sang nhà hàng xóm",
+     "Ball over the neighbour's fence"
+    ],
+    "gist": "Không trèo; nhờ ba mẹ cùng gõ cửa xin lại lễ phép.",
+    "mission": "Con đóng vai cùng ba mẹ các bước xin lại đồ bị rơi sang nhà người khác; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Quan sát kỹ khu phố",
+     "Looking closely at my street"
+    ],
+    "gist": "Nhìn kỹ sẽ thấy nhiều điều mới mà trước giờ mình bỏ qua.",
+    "mission": "Đi dạo cùng ba mẹ, con tìm ba điều mới chưa từng để ý và kể lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Chó mèo lạ",
+     "Unfamiliar dogs and cats"
+    ],
+    "gist": "Không chạy, không sờ chó mèo lạ; hỏi chủ trước khi vuốt.",
+    "mission": "Con cùng ba mẹ tập đứng yên khi gặp chó lạ và câu hỏi xin phép chủ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Thời gian chờ có ích",
+     "Making use of waiting time"
+    ],
+    "gist": "Mang theo sách, giấy vẽ thì lúc chờ đợi không còn chán.",
+    "mission": "Con chuẩn bị “túi chờ đợi” (sách, giấy vẽ) cho lần đi khám hay đi chờ tiếp theo; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "35": [
+   {
+    "sk": 8,
+    "t": [
+     "Tiền để đổi lấy đồ",
+     "Money buys things"
+    ],
+    "gist": "Ở cửa hàng, phải trả tiền mới được mang đồ về.",
+    "mission": "Con chơi trò “cửa hàng” ở nhà với tiền giấy tự làm, con đóng vai người mua; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nhờ cô bán hàng giúp",
+     "Asking a shop assistant"
+    ],
+    "gist": "Hỏi người làm ở cửa hàng rõ ràng, lễ phép khi cần tìm đồ.",
+    "mission": "Đi cùng ba mẹ, con hỏi nhân viên cửa hàng chỗ để một món hàng; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi kế hoạch bị huỷ",
+     "When plans get cancelled"
+    ],
+    "gist": "Thất vọng là bình thường; nghĩ một “kế hoạch B” giúp con vui lại.",
+    "mission": "Con nghĩ một “kế hoạch B” cho một buổi đi chơi bị huỷ vì trời mưa; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Chơi chung ở sân chơi",
+     "Sharing the playground"
+    ],
+    "gist": "Xếp lượt cầu trượt, xích đu để ai cũng được chơi.",
+    "mission": "Ở sân chơi, con nhường lượt và rủ một bạn cùng chơi, ba mẹ quan sát; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự đổ rác đúng chỗ",
+     "Taking out the rubbish"
+    ],
+    "gist": "Tự mang rác bỏ đúng thùng, không vứt bừa.",
+    "mission": "Con tự mang túi rác nhỏ bỏ vào đúng thùng, ba mẹ đi cùng; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "36": [
+   {
+    "sk": 4,
+    "t": [
+     "Đường bị chắn, đi lối nào?",
+     "Path blocked? Find another way"
+    ],
+    "gist": "Một đường không đi được thì còn đường khác.",
+    "mission": "Con cùng ba mẹ tìm hai lối đi khác nhau từ nhà đến một chỗ quen; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Biển báo nói gì?",
+     "What signs tell us"
+    ],
+    "gist": "Hình vẽ trên biển báo cho ta biết điều cần làm.",
+    "mission": "Con cùng ba mẹ tìm và đoán ý nghĩa ba biển báo hoặc ký hiệu quanh khu phố; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Qua đường an toàn",
+     "Crossing the road safely"
+    ],
+    "gist": "Nắm tay người lớn, dừng lại, nhìn trái phải rồi mới qua.",
+    "mission": "Con cùng ba mẹ tập qua đường ở vạch kẻ: dừng, nhìn, nắm tay; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Xem giờ trên đồng hồ",
+     "Reading the clock"
+    ],
+    "gist": "Biết xem giờ giúp con tự biết lúc nào làm việc gì.",
+    "mission": "Con đọc giờ trên đồng hồ kim ba lần trong ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Sửa đồ trước khi mua mới",
+     "Fix it before buying new"
+    ],
+    "gist": "Đồ hỏng nhẹ có thể sửa lại, vừa tiết kiệm vừa vui.",
+    "mission": "Con cùng ba mẹ sửa một món đồ (dán sách rách, khâu khuy); ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "37": [
+   {
+    "sk": 0,
+    "t": [
+     "Giọng nhỏ ở nơi công cộng",
+     "Indoor voice in public"
+    ],
+    "gist": "Chọn giọng vừa đủ nghe cho từng nơi để không làm phiền người khác.",
+    "mission": "Con tập ba mức giọng (thì thầm, vừa, to) và chọn đúng giọng cho ba nơi khác nhau; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Bình tĩnh khi bị va vào",
+     "Staying calm when bumped"
+    ],
+    "gist": "Bị va vào chưa chắc là ai cố ý; hỏi han trước, đừng nổi giận.",
+    "mission": "Con tập với ba mẹ phản ứng bình tĩnh khi bị va: hỏi “Bạn có sao không?”; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Đi theo nhóm, không rời nhóm",
+     "Sticking together on a trip"
+    ],
+    "gist": "Khi cả nhà ra ngoài, mọi người để ý nhau và không ai tách nhóm.",
+    "mission": "Trên đường đi dạo, con chơi trò “điểm danh” cả nhà mỗi khi đến chỗ mới; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự mang đồ khi ra ngoài",
+     "Carrying my own things"
+    ],
+    "gist": "Tự chuẩn bị và giữ đồ của mình khi đi chơi.",
+    "mission": "Con tự chuẩn bị ba lô nhỏ (nước, khăn, mũ) cho lần ra ngoài tiếp theo; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Nhặt được đồ của người khác",
+     "Finding something someone dropped"
+    ],
+    "gist": "Đồ nhặt được thì đưa người lớn để tìm cách trả lại, không giữ làm của mình.",
+    "mission": "Con cùng ba mẹ đóng vai nhặt được một món đồ và nói các bước trả lại; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "38": [
+   {
+    "sk": 5,
+    "t": [
+     "Vì sao kẹo để ngang tầm mắt?",
+     "Why sweets sit at eye level"
+    ],
+    "gist": "Cửa hàng xếp đồ ở chỗ dễ thấy để mời mình mua.",
+    "mission": "Đi siêu thị cùng ba mẹ, con tìm ba món để ở chỗ dễ thấy và nói vì sao; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Thang máy, thang cuốn an toàn",
+     "Lifts and escalators"
+    ],
+    "gist": "Đứng yên, nắm tay vịn, không chơi đùa ở thang.",
+    "mission": "Con nói ba quy tắc khi đi thang cuốn và làm đúng khi đi cùng ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đi đường mất bao lâu?",
+     "How long is the trip?"
+    ],
+    "gist": "Biết đường đi mất bao lâu thì biết lúc nào nên xuất phát.",
+    "mission": "Con đoán rồi đo thời gian đi từ nhà đến trường hoặc chợ cùng ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tiền mặt và thẻ",
+     "Cash and cards"
+    ],
+    "gist": "Trả bằng thẻ hay điện thoại cũng là tiêu tiền thật.",
+    "mission": "Con cùng ba mẹ xem một hoá đơn và nói tiền đã trả cho những gì; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Gọi món lịch sự",
+     "Ordering politely"
+    ],
+    "gist": "Nói rõ món mình muốn, dùng “ạ” và cảm ơn người phục vụ.",
+    "mission": "Con tự gọi món của mình khi ăn ngoài cùng ba mẹ, hoặc đóng vai ở nhà; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "39": [
+   {
+    "sk": 1,
+    "t": [
+     "Nơi đông người làm con lo",
+     "Crowds make me nervous"
+    ],
+    "gist": "Có điểm hẹn và câu nói giúp bình tĩnh thì con bớt lo ở chỗ đông.",
+    "mission": "Con cùng ba mẹ chọn một “điểm hẹn” và một câu nói giúp bình tĩnh trước khi đến nơi đông; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng xếp hàng ngay ngắn",
+     "Lining up together"
+    ],
+    "gist": "Mọi người cùng xếp hàng thì ai cũng đến lượt, không chen lấn.",
+    "mission": "Con tổ chức cả nhà chơi trò “lên tàu” xếp hàng theo thứ tự; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Đi vệ sinh nơi công cộng",
+     "Using a public toilet"
+    ],
+    "gist": "Biết tự làm các bước và luôn có người lớn đứng chờ gần cửa.",
+    "mission": "Trước khi ra ngoài, con nói các bước tự làm và nơi ba mẹ sẽ đứng chờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Đồ mới mua bị lỗi",
+     "When something we bought is faulty"
+    ],
+    "gist": "Giữ hoá đơn và nhờ ba mẹ đổi lại thay vì vứt đi hay khóc.",
+    "mission": "Con cùng ba mẹ kiểm tra một món mới mua và nói nếu hỏng thì làm gì; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Hình trên hộp và đồ thật",
+     "Box picture vs real thing"
+    ],
+    "gist": "Hình trên bao bì thường đẹp hơn đồ thật; nhìn kỹ để so sánh.",
+    "mission": "Con so sánh hình trên bao bì một món ăn với món thật và nêu điểm khác; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "40": [
+   {
+    "sk": 6,
+    "t": [
+     "Đội mũ bảo hiểm",
+     "Wearing a helmet"
+    ],
+    "gist": "Ngồi xe máy hay đi xe đạp đều phải đội mũ và cài quai đúng cách.",
+    "mission": "Con tự đội và cài quai mũ bảo hiểm đúng cách ba lần, ba mẹ kiểm tra; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đi chơi về vẫn đúng nếp",
+     "Back from fun, still on track"
+    ],
+    "gist": "Đi chơi về vẫn làm đủ các việc thường ngày.",
+    "mission": "Sau một buổi đi chơi, con tự làm lại ba việc cố định: tắm, soạn cặp, ngủ đúng giờ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Vé và phí khi đi chơi",
+     "Tickets and fees"
+    ],
+    "gist": "Đi chơi cũng tốn tiền vé, gửi xe; biết trước để chuẩn bị.",
+    "mission": "Con cùng ba mẹ xem giá vé một nơi vui chơi và đếm xem cả nhà cần bao nhiêu; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Hỏi cô thủ thư",
+     "Asking the librarian"
+    ],
+    "gist": "Nói rõ mình cần gì với người làm ở nơi công cộng.",
+    "mission": "Ở thư viện (hoặc đóng vai ở nhà), con tự hỏi để mượn một cuốn sách; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi không được mua thứ mình thích",
+     "When the answer is no"
+    ],
+    "gist": "Buồn khi bị từ chối là bình thường; con có thể nói ra và tự dỗ mình.",
+    "mission": "Con tập câu “Con buồn nhưng con hiểu” và chọn một cách tự an ủi; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "41": [
+   {
+    "sk": 2,
+    "t": [
+     "Cả nhà cùng phân loại rác",
+     "Sorting rubbish together"
+    ],
+    "gist": "Mỗi người nhớ một loại rác thì cả nhà phân loại đúng.",
+    "mission": "Con cùng gia đình làm hai hoặc ba thùng phân loại rác và chia nhau theo dõi trong ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Bình nước của riêng con",
+     "My own water bottle"
+    ],
+    "gist": "Tự rửa, đổ nước và mang bình nước của mình.",
+    "mission": "Con tự rửa bình, đổ nước và nhớ mang bình đi học; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Cây héo, tìm vì sao",
+     "Why is the plant wilting?"
+    ],
+    "gist": "Kiểm tra từng thứ cây cần để tìm ra nguyên nhân.",
+    "mission": "Con kiểm tra ba thứ (nước, nắng, đất) cho một chậu cây và thử sửa một điều; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Để ý thời tiết",
+     "Noticing the weather"
+    ],
+    "gist": "Quan sát và ghi lại giúp con thấy trời thay đổi thế nào.",
+    "mission": "Con ghi thời tiết ba ngày bằng hình vẽ và nói con thấy gì; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Trời giông, sấm sét",
+     "Thunderstorm safety"
+    ],
+    "gist": "Khi trời giông thì vào nhà, tránh xa cây to và chỗ nước.",
+    "mission": "Con nói ba việc cần làm khi trời giông và chỉ chỗ trú an toàn trong nhà; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "42": [
+   {
+    "sk": 7,
+    "t": [
+     "Một thói quen nhỏ mỗi ngày",
+     "One small habit, every day"
+    ],
+    "gist": "Làm một việc vào cùng giờ mỗi ngày giúp nó thành thói quen.",
+    "mission": "Con chọn một việc làm cùng giờ mỗi ngày (tưới cây, cho cá ăn) và đánh dấu năm ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Đồ cũ thành đồ dùng mới",
+     "Reusing old things"
+    ],
+    "gist": "Tái sử dụng đồ cũ giúp nhà đỡ tốn tiền và đỡ rác.",
+    "mission": "Con biến một chai hoặc hộp sạch thành đồ dùng (ống bút, chậu cây); ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Tả con vật con thích",
+     "Describing my favourite animal"
+    ],
+    "gist": "Tả rõ hình dáng, tiếng kêu, thức ăn để người nghe hình dung được.",
+    "mission": "Con tả một con vật để ba mẹ đoán xem đó là con gì; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Khi thấy con vật bị đau",
+     "When a small animal is hurt"
+    ],
+    "gist": "Thương con vật nhưng không tự chạm vào; báo người lớn để giúp.",
+    "mission": "Con cùng ba mẹ nói về cảm xúc và các bước nên làm khi thấy con vật bị thương; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng trồng một chậu cây",
+     "Planting together"
+    ],
+    "gist": "Mỗi người một việc thì trồng cây nhanh và vui.",
+    "mission": "Con cùng ba mẹ gieo hạt đậu vào chậu, mỗi người phụ trách một bước; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "43": [
+   {
+    "sk": 3,
+    "t": [
+     "Tự lo khi trời nắng",
+     "Looking after myself in the heat"
+    ],
+    "gist": "Tự đội mũ, mang nước và nghỉ trong bóng mát khi trời nắng.",
+    "mission": "Con tự chuẩn bị mũ và nước trước khi ra ngoài trời nắng; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Bớt dùng túi ni lông",
+     "Fewer plastic bags"
+    ],
+    "gist": "Tìm cách dùng ít túi ni lông hơn khi đi mua đồ.",
+    "mission": "Con chuẩn bị túi vải cho lần đi chợ cùng ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Vật sống hay không sống?",
+     "Living or not living?"
+    ],
+    "gist": "Vật sống thì lớn lên, cần ăn uống; quan sát để phân biệt.",
+    "mission": "Con xếp mười thứ quanh nhà vào hai nhóm: sống và không sống, rồi giải thích; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Quả lạ, nấm lạ không ăn",
+     "Don't eat unknown plants"
+    ],
+    "gist": "Không ăn quả, lá, nấm lạ ngoài vườn; luôn hỏi người lớn trước.",
+    "mission": "Con cùng ba mẹ chơi trò “ăn được hay phải hỏi trước” với tranh ảnh; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Hạt giống cần thời gian",
+     "Seeds need time"
+    ],
+    "gist": "Có việc cần chờ nhiều ngày; theo dõi đều để thấy tiến bộ.",
+    "mission": "Con đánh dấu lịch mỗi ngày theo dõi chậu đậu và đếm bao nhiêu ngày thì nảy mầm; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "44": [
+   {
+    "sk": 8,
+    "t": [
+     "Chọn đồ bền dùng lâu",
+     "Choosing things that last"
+    ],
+    "gist": "Đồ bền dùng được lâu nên có khi đáng tiền hơn đồ rẻ mau hỏng.",
+    "mission": "Con so sánh hai món đồ trong nhà và nói món nào dùng được lâu hơn, vì sao; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Nhắc người khác nhẹ nhàng",
+     "Reminding others kindly"
+    ],
+    "gist": "Nhắc bằng giọng nhẹ và lời đề nghị thì người nghe dễ làm theo.",
+    "mission": "Con tập nhắc một người trong nhà (tắt đèn, bỏ rác đúng chỗ) bằng câu nhẹ nhàng; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Bình yên giữa thiên nhiên",
+     "Feeling calm in nature"
+    ],
+    "gist": "Ngồi yên lắng nghe thiên nhiên giúp lòng dịu lại.",
+    "mission": "Con ngồi yên 5 phút ở ban công hoặc công viên cùng ba mẹ và kể ba âm thanh nghe được; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng làm áp phích",
+     "A poster together"
+    ],
+    "gist": "Cùng bàn ý tưởng, chia phần vẽ và viết để làm một áp phích chung.",
+    "mission": "Con cùng gia đình làm áp phích “Tiết kiệm nước” dán ở chỗ rửa tay; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự giặt khăn nhỏ",
+     "Washing a small towel"
+    ],
+    "gist": "Tự giặt tay đồ nhỏ của mình và phơi lên.",
+    "mission": "Con tự giặt tay khăn mặt hoặc đôi tất và phơi lên dây; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "45": [
+   {
+    "sk": 4,
+    "t": [
+     "Dừng – nghĩ – thử",
+     "Stop, think, try"
+    ],
+    "gist": "Gặp rắc rối thì dừng lại, nghĩ cách, rồi thử từng bước.",
+    "mission": "Con dùng ba bước dừng – nghĩ – thử cho một rắc rối trong ngày và kể lại; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Mình biết điều này từ đâu?",
+     "How do I know that?"
+    ],
+    "gist": "Biết thông tin từ đâu giúp con xem nó có đáng tin không.",
+    "mission": "Con nói ba điều mình biết và cho biết biết từ đâu (sách, thầy cô, tự thấy); ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Bàn tay tin cậy",
+     "My trusted grown-ups"
+    ],
+    "gist": "Mỗi con nên có ít nhất năm người lớn tin cậy để tìm đến khi cần.",
+    "mission": "Con vẽ “bàn tay tin cậy”, mỗi ngón ghi tên một người lớn con có thể tìm đến; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Đọc lịch tuần",
+     "Reading the week's calendar"
+    ],
+    "gist": "Nhìn lịch để biết trước những việc đặc biệt trong tuần.",
+    "mission": "Con đánh dấu các việc đặc biệt trong tuần lên lịch và đọc lại cho ba mẹ; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Giúp người mà không cần tiền",
+     "Helping without money"
+    ],
+    "gist": "Thời gian, công sức và sự quan tâm cũng là món quà quý.",
+    "mission": "Con nghĩ ba cách giúp người khác không cần tiền và làm một cách; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "46": [
+   {
+    "sk": 0,
+    "t": [
+     "Nói ý kiến của mình",
+     "Speaking up with my idea"
+    ],
+    "gist": "Nêu ý kiến rõ ràng, có lý do và vẫn lắng nghe người khác.",
+    "mission": "Con nêu một ý kiến cho kế hoạch cuối tuần của gia đình, kèm lý do; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 1,
+    "t": [
+     "Tự hào về chính mình",
+     "Being proud of myself"
+    ],
+    "gist": "Nhìn lại những việc mình đã làm được để tự khen mình.",
+    "mission": "Con kể ba việc đã làm được gần đây và tự nói một lời khen cho mình; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Mỗi người một thế mạnh",
+     "Everyone has a strength"
+    ],
+    "gist": "Biết thế mạnh của từng người để giao việc phù hợp.",
+    "mission": "Con nói thế mạnh của mỗi người trong nhà và giao việc phù hợp cho một trò chơi; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự làm một việc từ đầu đến cuối",
+     "One job start to finish"
+    ],
+    "gist": "Tự chuẩn bị, làm và dọn dẹp xong xuôi một việc nhỏ.",
+    "mission": "Con tự pha một cốc nước cam từ quả ba mẹ đã cắt sẵn, rồi tự dọn sạch chỗ làm; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Sai bước nào, sửa bước đó",
+     "Fix one step at a time"
+    ],
+    "gist": "Xem lại từng bước để tìm đúng chỗ sai rồi sửa.",
+    "mission": "Con làm lại một món thủ công hoặc bài tập chưa đúng, tìm ra bước sai và sửa; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "47": [
+   {
+    "sk": 5,
+    "t": [
+     "Nếu… thì sao?",
+     "What if…?"
+    ],
+    "gist": "Nghĩ trước điều có thể xảy ra giúp con chọn việc nên làm.",
+    "mission": "Con trả lời ba câu “Nếu… thì sao?” của ba mẹ về việc hằng ngày; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 6,
+    "t": [
+     "Số điện thoại khẩn cấp",
+     "Emergency numbers"
+    ],
+    "gist": "Biết 113, 114, 115 dùng khi nào và chỉ gọi khi thật sự cần.",
+    "mission": "Con cùng ba mẹ học ba số khẩn cấp và đóng vai gọi (không gọi thật); ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 7,
+    "t": [
+     "Xong trước hạn",
+     "Finishing before the deadline"
+    ],
+    "gist": "Bắt đầu sớm thì xong trước hạn mà không vội vàng.",
+    "mission": "Con nhận một việc có hạn (dọn đồ chơi trước 8 giờ tối) và làm xong sớm; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 8,
+    "t": [
+     "Tự chọn cách dùng một khoản nhỏ",
+     "Deciding on a small sum"
+    ],
+    "gist": "Có một khoản nhỏ thì cân nhắc, chọn thứ quan trọng nhất.",
+    "mission": "Ba mẹ đưa một khoản tiền giấy đồ chơi, con chọn mua gì trong danh sách và giải thích; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 0,
+    "t": [
+     "Kể chuyện cho em nhỏ",
+     "Telling a story to a little one"
+    ],
+    "gist": "Kể có mở đầu, diễn biến, kết thúc và đổi giọng cho hấp dẫn.",
+    "mission": "Con kể một câu chuyện ngắn cho em nhỏ hoặc ba mẹ, có đủ ba phần; ba mẹ xác nhận khi con làm xong."
+   }
+  ],
+  "48": [
+   {
+    "sk": 1,
+    "t": [
+     "Bình tĩnh khi có thay đổi",
+     "Calm with changes"
+    ],
+    "gist": "Thay đổi có thể làm con lo; nói ra và tìm một điều đáng mong chờ.",
+    "mission": "Con nói về một thay đổi sắp tới và một điều con mong chờ ở thay đổi đó; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 2,
+    "t": [
+     "Cùng hoàn thành một dự án",
+     "Finishing a project together"
+    ],
+    "gist": "Mỗi người góp một phần và cùng nhau làm đến cuối.",
+    "mission": "Con cùng gia đình làm một trang “sổ kỷ niệm”, mỗi người góp một phần; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 3,
+    "t": [
+     "Tự làm chủ nếp sinh hoạt",
+     "My own routine, no reminders"
+    ],
+    "gist": "Tự nhớ và làm các việc hằng ngày mà không cần ai nhắc.",
+    "mission": "Con tự làm năm việc buổi tối mà không cần nhắc, ba mẹ đếm giúp; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 4,
+    "t": [
+     "Giúp bạn gỡ rối",
+     "Helping a friend solve a problem"
+    ],
+    "gist": "Lắng nghe bạn kể rồi cùng nghĩ cách, không làm thay.",
+    "mission": "Ba mẹ kể một rắc rối giả định của một bạn, con lắng nghe và gợi ý hai cách; ba mẹ xác nhận khi con làm xong."
+   },
+   {
+    "sk": 5,
+    "t": [
+     "Đúng, sai hay chưa chắc?",
+     "True, false, or not sure"
+    ],
+    "gist": "Có điều đúng, có điều sai, và có điều cần kiểm tra thêm mới biết.",
+    "mission": "Con xếp sáu câu vào ba nhóm đúng – sai – chưa chắc và nói cách kiểm tra; ba mẹ xác nhận khi con làm xong."
+   }
+  ]
+ }
+}

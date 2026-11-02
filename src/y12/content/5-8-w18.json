@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Khi ông bà nghe không rõ",
+   "When Grandpa can’t hear well"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin kể chuyện ở trường cho ông nghe. Bin nói nhanh quá, ông cứ hỏi lại: “Gì cơ cháu?”",
+   "Bin is telling Grandpa about school. Bin talks too fast, and Grandpa keeps asking, “What was that?”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nói to hơn và nhanh hơn nữa",
+    "Talk louder and even faster",
+    0,
+    "Nói nhanh thì càng khó nghe. Con thử nói chậm lại, từng câu một nhé.",
+    "Faster is harder to follow. Try slowing down, one sentence at a time."
+   ],
+   [
+    "Ngồi trước mặt ông, nhìn ông và nói chậm, rõ từng câu",
+    "Sit facing Grandpa, look at him and speak slowly and clearly",
+    1,
+    "Khi nhìn thấy mặt con, ông nghe và hiểu dễ hơn nhiều. Nói chậm là cách thương ông đấy.",
+    "Seeing your face helps Grandpa hear and understand. Speaking slowly is a kind way to care for him."
+   ],
+   [
+    "Thôi, không kể nữa",
+    "Give up and stop telling",
+    0,
+    "Ông rất muốn nghe chuyện của con. Đổi cách nói một chút là ông nghe được rồi.",
+    "Grandpa really wants to hear your story. A small change in how you speak will help."
+   ]
+  ],
+  "qq": [
+   "Muốn người khác nghe rõ, con nên…",
+   "To help someone hear you, you should…"
+  ],
+  "qo": [
+   [
+    "Nhìn mặt người nghe, nói chậm và rõ",
+    "Face them and speak slowly and clearly"
+   ],
+   [
+    "Nói thật nhanh",
+    "Talk really fast"
+   ],
+   [
+    "Nói vọng từ phòng khác",
+    "Call out from another room"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bin đọc bài trước lớp. Bạn ngồi bàn cuối nói: “Tớ không nghe thấy!”",
+     "Bin is reading aloud to the class. A friend at the back says, “I can’t hear you!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đọc thật nhanh cho xong",
+      "Rush to finish",
+      0,
+      "Đọc nhanh thì các bạn càng khó nghe. Con cứ bình tĩnh đọc chậm nhé.",
+      "Rushing makes it even harder to hear. Take your time and read slowly."
+     ],
+     [
+      "Cáu: “Tại cậu không chú ý!”",
+      "Snap, “You weren’t paying attention!”",
+      0,
+      "Bạn đang nói thật là bạn chưa nghe thấy. Đọc rõ hơn là giúp được bạn.",
+      "Your friend honestly couldn’t hear. Reading more clearly is the way to help."
+     ],
+     [
+      "Ngẩng đầu lên, đọc chậm và rõ hơn",
+      "Lift your head and read more slowly and clearly",
+      1,
+      "Ngẩng đầu thì tiếng đi xa hơn, đọc chậm thì cả lớp theo kịp.",
+      "Lifting your head sends your voice further, and reading slowly lets everyone follow."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chung cư ồn ào, bà Tư hàng xóm hỏi tên Bin. Bin trả lời nhưng bà nghe không rõ. Mẹ đứng ngay cạnh.",
+     "In the noisy courtyard, Mrs Tư from next door asks Bin’s name. Bin answers, but she can’t hear. Mum is right beside him."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bước lại gần, nhìn bà và nói chậm, rõ tên mình",
+      "Step a little closer, look at her and say your name slowly",
+      1,
+      "Chỗ ồn thì đứng gần và nói rõ giúp người nghe hiểu ngay.",
+      "In a noisy place, standing closer and speaking clearly helps straight away."
+     ],
+     [
+      "Hét thật to tên mình",
+      "Shout your name really loudly",
+      0,
+      "Hét to làm người nghe giật mình. Đứng gần hơn và nói rõ là đủ.",
+      "Shouting can startle people. Moving closer and speaking clearly is enough."
+     ],
+     [
+      "Chạy đi chơi tiếp",
+      "Run off to play",
+      0,
+      "Bà đang muốn làm quen với con. Con nói lại rõ ràng, bà sẽ vui lắm.",
+      "She wants to get to know you. Say it again clearly and she’ll be pleased."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kể chuyện chậm và rõ cho ông bà",
+    "Tell Grandma or Grandpa a story slowly and clearly"
+   ],
+   "s": [
+    "Hôm nay con kể cho ông bà một chuyện vui (gặp trực tiếp hoặc gọi điện cùng ba mẹ), nói chậm, rõ và nhìn vào ông bà.",
+    "Today tell Grandma or Grandpa a happy story (in person or on a call with Mum or Dad), speaking slowly and clearly while looking at them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ ngồi cạnh, nói mẫu một câu thật chậm, con kể theo.",
+     "Mum or Dad sits with you and says one slow sentence first; you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể một chuyện ngắn, nói chậm và rõ.",
+     "Mum or Dad reminds you once, then you tell a short story slowly and clearly."
+    ],
+    [
+     "Con tự nhớ kể trọn một chuyện; khi ông bà hỏi lại, con nói lại chậm hơn.",
+     "You remember by yourself and tell a whole story; if they ask again, you say it more slowly."
+    ]
+   ],
+   "rw": [
+    "Được chọn truyện ba mẹ đọc tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Ngày xưa và bây giờ",
+   "Then and now"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà kể ngày xưa bà chơi ô ăn quan, nhảy dây. Bin nói: “Trò ngày xưa chán lắm!”",
+   "Grandma says she used to play mancala and skipping. Bin says, “Old games are boring!”"
+  ],
+  "cq": [
+   "Bin có thể nghĩ khác thế nào?",
+   "How else could Bin think about it?"
+  ],
+  "co": [
+   [
+    "Trò mới bao giờ cũng hay hơn",
+    "New games are always better",
+    0,
+    "Mới chưa chắc đã hay hơn. Con thử so sánh xem mỗi trò vui ở đâu nhé.",
+    "New isn’t always better. Try comparing what makes each one fun."
+   ],
+   [
+    "Thôi không nói chuyện với bà nữa",
+    "Stop talking to Grandma about it",
+    0,
+    "Bà đang chia sẻ kỷ niệm với con. Hỏi thêm sẽ giúp con biết nhiều điều thú vị.",
+    "Grandma is sharing a memory. Asking more helps you learn interesting things."
+   ],
+   [
+    "Nhờ bà chỉ cách chơi, chơi thử rồi xem trò đó hay ở chỗ nào",
+    "Ask Grandma to teach it, try it, and see what’s fun about it",
+    1,
+    "Chưa thử thì chưa biết. Cái cũ và cái mới đều có điểm hay riêng.",
+    "You can’t know until you try. Old and new things each have their own good points."
+   ]
+  ],
+  "qq": [
+   "So sánh ngày xưa và bây giờ, con thấy…",
+   "Comparing then and now, you find…"
+  ],
+  "qo": [
+   [
+    "Chỉ cái mới là tốt",
+    "Only new things are good"
+   ],
+   [
+    "Chỉ cái cũ là tốt",
+    "Only old things are good"
+   ],
+   [
+    "Cái cũ và cái mới đều có điểm hay",
+    "Old and new both have good points"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho lớp xem ảnh lớp học ngày xưa có bảng đen, phấn trắng. Bạn Nam nói: “Ngày xưa học chán quá!”",
+     "The teacher shows an old photo of a classroom with a blackboard and chalk. Nam says, “School was so boring back then!”"
+    ],
+    "q": [
+     "Bin nghĩ sao?",
+     "What could Bin think?"
+    ],
+    "o": [
+     [
+      "Tìm xem cái gì khác, cái gì vẫn giống, như vẫn có cô và các bạn",
+      "Look for what’s different and what’s the same, like still having a teacher and friends",
+      1,
+      "So sánh cả điểm giống và khác giúp mình hiểu cuộc sống thay đổi thế nào.",
+      "Comparing what’s the same and what’s different shows how life has changed."
+     ],
+     [
+      "Gật đầu theo Nam ngay",
+      "Agree with Nam straight away",
+      0,
+      "Mình chưa nhìn kỹ đã vội đồng ý. Con thử tìm điểm hay của lớp học ngày xưa xem.",
+      "That’s agreeing before looking closely. Try finding something good about the old classroom."
+     ],
+     [
+      "Cười chê bức ảnh cũ",
+      "Laugh at the old photo",
+      0,
+      "Ngày xưa có cái hay riêng. Tò mò hỏi thêm sẽ vui hơn là chê.",
+      "The past had its own good things. Being curious is more fun than laughing."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dạo phố cùng ba, Bin thấy một hiệu sửa đồng hồ cũ nằm cạnh một cửa hàng đồ điện mới.",
+     "On a walk with Dad, Bin sees an old watch-repair stall next to a new electronics shop."
+    ],
+    "q": [
+     "Bin nên nghĩ gì?",
+     "What could Bin think?"
+    ],
+    "o": [
+     [
+      "Đồ cũ thì vứt đi cho nhanh",
+      "Old things should just be thrown away",
+      0,
+      "Nhiều đồ cũ sửa lại vẫn dùng tốt. Con hỏi ba thêm nhé.",
+      "Lots of old things work well once fixed. Ask Dad about it."
+     ],
+     [
+      "Hỏi ba: “Sao người ta vẫn sửa đồ cũ hả ba?” rồi nghe ba giải thích",
+      "Ask Dad, “Why do people still fix old things?” and listen",
+      1,
+      "Hỏi “vì sao” giúp con thấy cái cũ vẫn có ích, cái mới cũng có điểm hay.",
+      "Asking “why” shows you that old things are still useful and new things have good points too."
+     ],
+     [
+      "Đồ cũ bao giờ cũng tốt hơn đồ mới",
+      "Old things are always better than new",
+      0,
+      "Mỗi thứ có điểm hay riêng, không phải lúc nào cái cũ cũng hơn.",
+      "Each has its own strengths; old isn’t always better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hỏi về một trò chơi ngày xưa",
+    "Ask about an old-time game"
+   ],
+   "s": [
+    "Con hỏi ông bà hoặc ba mẹ một trò chơi hồi nhỏ, cùng chơi thử, rồi nói một điểm giống và một điểm khác với trò con chơi bây giờ.",
+    "Ask Grandma, Grandpa, Mum or Dad about a game from their childhood, try it together, then say one thing that’s the same and one that’s different from your games now."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể một trò chơi ngày xưa và cùng con chơi thử.",
+     "Mum or Dad tells you about an old game and plays it with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự hỏi và nói được một điểm giống, một điểm khác.",
+     "Mum or Dad reminds you once; you ask and name one same and one different thing."
+    ],
+    [
+     "Con tự đi hỏi, chơi thử và kể lại cho cả nhà trò nào con thấy hay, vì sao.",
+     "You ask by yourself, try it, and tell the family which game you liked and why."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi trò ngày xưa con vừa học vào cuối tuần",
+    "The whole family plays the old game at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Chào theo cách con thoải mái",
+   "Greeting my way"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở buổi họp mặt họ hàng, một bác lâu ngày mới gặp muốn véo má Bin. Bin thấy không thích. Mẹ đứng cạnh.",
+   "At a family get-together, an uncle Bin hasn’t seen for ages wants to pinch his cheek. Bin doesn’t like it. Mum is next to him."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Khóc và chạy đi",
+    "Cry and run off",
+    0,
+    "Con không có lỗi gì cả. Thử nói ra cách chào con thích, mẹ ở ngay cạnh con.",
+    "You’ve done nothing wrong. Try saying how you’d like to greet; Mum is right there."
+   ],
+   [
+    "Đứng yên cho bác véo dù thấy khó chịu",
+    "Stand still and let him, though you dislike it",
+    0,
+    "Con được nói ra điều mình không thích, một cách lễ phép.",
+    "You’re allowed to say what you don’t like, politely."
+   ],
+   [
+    "Khoanh tay chào bác thật to, rồi nói: “Con xin chào bằng vẫy tay ạ”",
+    "Greet him clearly with folded arms and say, “Can I wave hello instead?”",
+    1,
+    "Lễ phép mà vẫn giữ được điều con thoải mái. Nếu ai vẫn làm điều con không thích, con nói với ba mẹ nhé.",
+    "Polite and still comfortable. If someone keeps doing something you don’t like, tell Mum or Dad."
+   ]
+  ],
+  "qq": [
+   "Khi chưa muốn ôm hôn, con có thể…",
+   "If you don’t want a hug or kiss, you can…"
+  ],
+  "qo": [
+   [
+    "Không chào ai cả",
+    "Not greet anyone"
+   ],
+   [
+    "Chào bằng lời, vẫy tay hoặc đập tay",
+    "Say hello, wave or high-five"
+   ],
+   [
+    "Cố chịu cho xong",
+    "Just put up with it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cô Út sang chơi, dang tay: “Thơm cô một cái nào!” Bin thấy ngại, nép sau lưng mẹ.",
+     "Auntie Út comes over and opens her arms: “Give me a kiss!” Bin feels shy and hides behind Mum."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Khoanh tay chào “Con chào cô ạ”, rồi vẫy tay hoặc đập tay với cô",
+      "Fold your arms and say “Hello, Auntie”, then wave or give a high five",
+      1,
+      "Con vẫn lễ phép mà không phải ôm hôn khi chưa thoải mái. Có nhiều cách chào đẹp.",
+      "You can be polite without a kiss if you’re not comfortable. There are lots of nice ways to say hello."
+     ],
+     [
+      "Thơm cô dù trong lòng không muốn",
+      "Kiss her even though you don’t want to",
+      0,
+      "Cơ thể con là của con. Con có thể chọn cách chào khác mà vẫn lễ phép.",
+      "Your body belongs to you. You can choose another polite way to greet."
+     ],
+     [
+      "Chạy vào phòng, không chào",
+      "Run to your room without saying hello",
+      0,
+      "Chào hỏi vẫn cần, chỉ là con được chọn cách chào. Thử vẫy tay nhé.",
+      "Greeting still matters; you just get to choose how. Try a wave."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bạn Huy rất thích ôm. Sáng nay Huy chạy tới ôm chầm lấy Bin, Bin thấy khó chịu.",
+     "Huy loves hugs. This morning he runs up and hugs Bin tight, and Bin doesn’t like it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đẩy Huy ra thật mạnh",
+      "Push Huy away hard",
+      0,
+      "Đẩy mạnh có thể làm bạn đau. Con dùng lời nói trước nhé.",
+      "A hard push could hurt. Use your words first."
+     ],
+     [
+      "Nói nhẹ nhàng: “Tớ thích đập tay hơn!” rồi giơ tay ra",
+      "Say kindly, “I prefer high fives!” and hold up your hand",
+      1,
+      "Nói rõ điều mình thích giúp bạn hiểu mà vẫn vui vẻ với nhau.",
+      "Saying what you prefer helps your friend understand, and you stay friends."
+     ],
+     [
+      "Im lặng chịu đựng",
+      "Say nothing and put up with it",
+      0,
+      "Cảm giác của con quan trọng. Nói ra nhẹ nhàng, bạn sẽ hiểu.",
+      "Your feelings matter. Say it kindly and your friend will understand."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chọn ba cách chào con thấy thoải mái",
+    "Pick three comfy ways to say hello"
+   ],
+   "s": [
+    "Con cùng ba mẹ chọn ba cách chào lễ phép mà con thấy thoải mái (khoanh tay chào, vẫy tay, đập tay…) và tập mỗi cách một lần.",
+    "With Mum or Dad, choose three polite ways to say hello that feel right to you (folded arms, waving, high fives…) and practise each one."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý các cách chào, con chọn ba cách và tập cùng ba mẹ.",
+     "Mum or Dad suggests ways to greet; you pick three and practise together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ ra ba cách chào và làm thử.",
+     "Mum or Dad reminds you once; you think of three ways and try them."
+    ],
+    [
+     "Con tự nhớ ba cách chào và dùng một cách khi có khách đến nhà.",
+     "You remember your three ways and use one when a visitor comes."
+    ]
+   ],
+   "rw": [
+    "Dán một ngôi sao lên bảng gia đình",
+    "A star on the family chart"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Hẹn giờ gọi cho ông bà",
+   "A set time to call Grandma"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin hẹn chơi với Na ở sân chung cư lúc 4 giờ chiều, mẹ hai bạn đi cùng. Bin đang vẽ rất say sưa.",
+   "Bin has arranged to play with Na in the courtyard at 4pm, with both mums. Bin is busy drawing."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nhờ mẹ đặt chuông lúc 3 giờ 45 để kịp chuẩn bị",
+    "Ask Mum to set an alarm for 3:45 to get ready",
+    1,
+    "Chuông báo sớm giúp con xếp đồ và đến đúng giờ, Na không phải chờ.",
+    "An early alarm gives you time to get ready, so Na doesn’t wait."
+   ],
+   [
+    "Vẽ tiếp, ra muộn một chút cũng được",
+    "Keep drawing, being a bit late is fine",
+    0,
+    "Na và mẹ bạn sẽ phải chờ. Giữ đúng hẹn là tôn trọng bạn.",
+    "Na and her mum will have to wait. Being on time shows respect."
+   ],
+   [
+    "Không cần nhớ, khi nào Na gọi thì ra",
+    "Don’t bother, go when Na calls",
+    0,
+    "Hẹn rồi thì mình tự nhớ. Một chiếc chuông nhắc sẽ giúp con.",
+    "Once you’ve agreed a time, it’s yours to remember. An alarm helps."
+   ]
+  ],
+  "qq": [
+   "Để không quên giờ hẹn, con nên…",
+   "To remember a set time, you should…"
+  ],
+  "qo": [
+   [
+    "Đợi người khác nhắc",
+    "Wait for someone to remind you"
+   ],
+   [
+    "Đặt lời nhắc trước giờ hẹn",
+    "Set a reminder before it"
+   ],
+   [
+    "Hẹn thật nhiều lần",
+    "Make lots of plans"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin hứa tối thứ Bảy gọi cho bà lúc 7 giờ. Đến giờ, Bin mải xếp hình nên quên mất, bà ngồi chờ.",
+     "Bin promised to call Grandma at 7 on Saturday evening. At 7, Bin is busy with a puzzle and forgets; Grandma is waiting."
+    ],
+    "q": [
+     "Lần sau Bin nên làm gì?",
+     "What should Bin do next time?"
+    ],
+    "o": [
+     [
+      "Cố nhớ trong đầu",
+      "Just try to remember",
+      0,
+      "Khi đang vui, mình dễ quên lắm. Một lời nhắc sẽ giúp con.",
+      "When you’re having fun it’s easy to forget. A reminder helps."
+     ],
+     [
+      "Nhờ ba mẹ đặt lời nhắc trước giờ hẹn 5 phút",
+      "Ask Mum or Dad to set a reminder five minutes before",
+      1,
+      "Lời nhắc giúp con nhớ đúng giờ. Gọi đúng hẹn là giữ lời với người thân.",
+      "A reminder helps you remember. Calling on time keeps your promise."
+     ],
+     [
+      "Lúc nào rảnh thì gọi",
+      "Call whenever you’re free",
+      0,
+      "Bà đã chờ theo giờ hẹn. Gọi đúng giờ để bà khỏi lo nhé.",
+      "Grandma waits for the set time. Call on time so she doesn’t worry."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô dặn: “Thứ Năm, cả lớp mang một chiếc lá cây đến lớp.” Hôm nay mới thứ Hai.",
+     "The teacher says, “On Thursday, everyone bring a leaf to class.” Today is only Monday."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Còn lâu, để đến thứ Năm tính",
+      "That’s ages away, think about it on Thursday",
+      0,
+      "Sáng thứ Năm vội lắm, dễ quên. Con ghi lại từ hôm nay nhé.",
+      "Thursday morning will be busy. Write it down today."
+     ],
+     [
+      "Nhờ bạn nhớ hộ",
+      "Ask a friend to remember for you",
+      0,
+      "Việc của mình thì mình tự nhớ, ghi lịch là cách dễ nhất.",
+      "It’s your job to remember; a calendar is the easiest way."
+     ],
+     [
+      "Về nhờ mẹ ghi vào lịch, tối thứ Tư nhặt lá cùng ba mẹ rồi bỏ vào cặp",
+      "Ask Mum to write it on the calendar, pick a leaf with your parents on Wednesday evening and pack it",
+      1,
+      "Ghi lại và chuẩn bị trước một ngày giúp con không bị quên.",
+      "Writing it down and getting ready the day before means you won’t forget."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Gọi cho ông bà đúng giờ hẹn",
+    "Call Grandma and Grandpa right on time"
+   ],
+   "s": [
+    "Con chọn một giờ, nhờ ba mẹ đặt lời nhắc, rồi gọi cho ông bà đúng giờ đó cùng ba mẹ.",
+    "Choose a time, ask Mum or Dad to set a reminder, then call your grandparents with them right on time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn giờ, đặt lời nhắc và ngồi cạnh khi con gọi.",
+     "Mum or Dad helps you pick a time, sets the reminder and sits with you for the call."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn giờ và nhắc ba mẹ đặt lời nhắc.",
+     "Mum or Dad reminds you once; you choose the time and ask them to set the reminder."
+    ],
+    [
+     "Con tự nhớ giờ hẹn, khi chuông reo thì tự nhờ ba mẹ gọi ngay.",
+     "You remember the time and, when the alarm rings, ask to call straight away."
+    ]
+   ],
+   "rw": [
+    "Ông bà hoặc ba mẹ kể một chuyện hồi nhỏ",
+    "Grandma, Grandpa, Mum or Dad tells a story from when they were little"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Nhận biết các tờ tiền",
+   "Knowing banknotes"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ Toán, cô cho chơi xếp tiền giấy đồ chơi. Bạn Tí nói: “Hai tờ năm nghìn nhiều hơn một tờ hai mươi nghìn!”",
+   "In maths, the class sorts toy banknotes. Tí says, “Two five-thousand notes are more than one twenty-thousand note!”"
+  ],
+  "cq": [
+   "Bin nên nói gì?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "“Mình cùng đếm nhé: năm nghìn với năm nghìn là mười nghìn, vẫn ít hơn hai mươi nghìn”",
+    "“Let’s count: five and five thousand make ten thousand, still less than twenty”",
+    1,
+    "Nhiều tờ chưa chắc nhiều tiền. Nhìn số và cộng lại mới biết.",
+    "More notes doesn’t always mean more money. Look at the numbers and add them."
+   ],
+   [
+    "Đồng ý, vì hai tờ nhiều hơn một tờ",
+    "Agree, because two is more than one",
+    0,
+    "Phải nhìn con số trên tờ tiền, không phải đếm số tờ.",
+    "Look at the numbers on the notes, not how many notes there are."
+   ],
+   [
+    "Không quan tâm",
+    "Not bother",
+    0,
+    "Cùng bạn đếm lại vừa vui vừa giúp cả hai hiểu bài.",
+    "Counting together is fun and helps you both learn."
+   ]
+  ],
+  "qq": [
+   "Muốn biết giá trị tờ tiền, con nhìn…",
+   "To know a note’s value, look at…"
+  ],
+  "qo": [
+   [
+    "Con số in trên tờ tiền",
+    "The number printed on it"
+   ],
+   [
+    "Màu sắc của tờ tiền",
+    "Its colour"
+   ],
+   [
+    "Tờ tiền mới hay cũ",
+    "Whether it’s new or old"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ cho Bin xem ba tờ tiền. Bin chỉ tờ có màu đẹp nhất và nói: “Tờ này nhiều tiền nhất!”",
+     "Mum shows Bin three banknotes. Bin points to the most colourful one: “This one is worth the most!”"
+    ],
+    "q": [
+     "Làm sao biết tờ nào giá trị hơn?",
+     "How can Bin tell which is worth more?"
+    ],
+    "o": [
+     [
+      "Chọn tờ có màu đẹp nhất",
+      "Pick the prettiest colour",
+      0,
+      "Màu sắc không cho biết giá trị. Con nhìn con số trên tờ tiền nhé.",
+      "Colour doesn’t show the value. Look at the number."
+     ],
+     [
+      "Chọn tờ mới nhất",
+      "Pick the newest one",
+      0,
+      "Tờ cũ hay mới đều có giá trị như nhau nếu cùng con số.",
+      "Old or new, notes with the same number are worth the same."
+     ],
+     [
+      "Nhìn con số in trên tờ tiền",
+      "Look at the number printed on it",
+      1,
+      "Mỗi tờ tiền có một con số cho biết giá trị. Số lớn hơn là nhiều tiền hơn.",
+      "Each note has a number showing its value. The bigger number is worth more."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ cùng mẹ, Bin thấy mẹ đưa cô bán hàng một tờ tiền và được trả lại mấy tờ nhỏ hơn.",
+     "At the market with Mum, Bin sees her hand over one note and get a few smaller ones back."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nghĩ mẹ được cho thêm tiền",
+      "Think Mum was given extra money",
+      0,
+      "Đó là tiền thừa mẹ được trả lại. Con hỏi mẹ để hiểu rõ nhé.",
+      "That’s Mum’s change. Ask her to explain."
+     ],
+     [
+      "Hỏi mẹ: “Sao mẹ đưa một tờ mà được trả lại mấy tờ?” và nghe mẹ giải thích",
+      "Ask, “Why did you get several notes back for one?” and listen to Mum explain",
+      1,
+      "Hỏi người lớn giúp con hiểu tiền thừa và giá trị các tờ tiền.",
+      "Asking a grown-up helps you understand change and what notes are worth."
+     ],
+     [
+      "Đòi mẹ cho cầm hết tiền",
+      "Ask to hold all the money",
+      0,
+      "Tiền cần được giữ cẩn thận trong ví của mẹ. Con hỏi mẹ cách tính nhé.",
+      "Money needs to stay safe in Mum’s purse. Ask her how it works instead."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Xếp tờ tiền từ nhỏ đến lớn",
+    "Line up banknotes from smallest to biggest"
+   ],
+   "s": [
+    "Con xếp các tờ tiền ba mẹ đưa xem theo thứ tự từ nhỏ đến lớn, đọc giá trị từng tờ, rồi trả lại để ba mẹ cất.",
+    "Line up the notes Mum or Dad shows you from smallest to biggest value, read each value, then hand them back to be put away."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đọc mẫu con số trên từng tờ, con xếp theo.",
+     "Mum or Dad reads the number on each note; you put them in order."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc số và xếp đúng thứ tự.",
+     "Mum or Dad reminds you once; you read the numbers and order them."
+    ],
+    [
+     "Con tự xếp, đọc to từng giá trị và nói tờ nào lớn nhất, tờ nào nhỏ nhất.",
+     "You order them yourself, read each value aloud and say which is biggest and smallest."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi cả nhà chơi tối nay",
+    "You choose tonight’s family game"
+   ]
+  }
+ }
+]

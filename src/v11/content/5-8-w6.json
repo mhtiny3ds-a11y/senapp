@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Giúp bạn trong nhóm",
+   "Helping a teammate"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Bin thi xếp chữ. Bạn Vy làm chậm và sắp khóc vì sợ cả nhóm thua.",
+   "Bin’s group is racing to arrange letter cards. Vy is slower and close to tears, worried the group will lose."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi cạnh Vy, chỉ cho bạn cách tìm chữ",
+    "Sit by Vy and show her how to find the letters",
+    1,
+    "Giúp bạn tự làm được, không làm thay, thì cả nhóm cùng tiến lên.",
+    "Helping her do it — not doing it for her — moves the whole group forward."
+   ],
+   [
+    "Nói: “Cậu chậm quá!”",
+    "Say: “You’re so slow!”",
+    0,
+    "Câu đó làm bạn buồn hơn và càng chậm. Một lời động viên sẽ giúp nhiều hơn.",
+    "That makes her sadder and slower. Encouragement helps more."
+   ],
+   [
+    "Giành lấy phần của Vy làm hộ",
+    "Grab Vy’s part and do it yourself",
+    0,
+    "Làm hộ thì nhanh nhưng Vy không học được gì và thấy buồn. Chỉ bạn cách làm nhé.",
+    "Quicker, but Vy learns nothing and feels sad. Show her how instead."
+   ]
+  ],
+  "qq": [
+   "Giúp bạn trong nhóm nghĩa là…",
+   "Helping a teammate means…"
+  ],
+  "qo": [
+   [
+    "Chỉ cách để bạn tự làm được",
+    "Showing them how so they can do it"
+   ],
+   [
+    "Làm hết phần của bạn",
+    "Doing their part for them"
+   ],
+   [
+    "Chê để bạn cố hơn",
+    "Criticising so they try harder"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em trai Bin đang tập gấp quần áo nhưng gấp mãi không gọn. Em bắt đầu cáu.",
+     "Bin’s little brother is learning to fold clothes but can’t get them neat. He’s getting cross."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cười em vụng",
+      "Laugh at him",
+      0,
+      "Bị cười làm em ngại không muốn thử nữa. Mình chỉ em nhẹ nhàng nhé.",
+      "Laughing makes him not want to try. Show him gently."
+     ],
+     [
+      "Gấp hết hộ em cho nhanh",
+      "Fold it all for him",
+      0,
+      "Gấp hộ thì em không học được. Lần sau em vẫn cần người giúp.",
+      "He won’t learn that way and will need help next time too."
+     ],
+     [
+      "Gấp mẫu một chiếc thật chậm, rồi để em gấp chiếc tiếp theo",
+      "Fold one slowly as an example, then let him do the next",
+      1,
+      "Làm mẫu rồi để em tự thử, em sẽ học được và thấy tự hào.",
+      "Showing once, then letting him try, helps him learn and feel proud."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, các bạn chơi ném vòng. Bạn Bảo ném mãi không trúng, định bỏ về.",
+     "At the neighbourhood playground, the kids play ring toss. Bảo keeps missing and wants to go home."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ném hộ bạn",
+      "Throw for him",
+      0,
+      "Ném hộ thì bạn không thấy vui khi trúng. Chỉ cách để bạn tự làm nhé.",
+      "Throwing for him steals his win. Show him how instead."
+     ],
+     [
+      "Kệ bạn, mình chơi tiếp",
+      "Ignore him and keep playing",
+      0,
+      "Bạn bỏ về thì nhóm thiếu một người. Một chút giúp đỡ có thể giữ bạn lại.",
+      "If he leaves, the group is one short. A little help could keep him."
+     ],
+     [
+      "Chỉ bạn đứng gần hơn một chút và cổ vũ “Cố lên!”",
+      "Show him to stand a bit closer and cheer “You can do it!”",
+      1,
+      "Một mẹo nhỏ và lời cổ vũ giúp bạn tự ném trúng. Cả nhóm cùng vui.",
+      "A small tip and a cheer help him hit it himself. Everyone has fun."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự dọn bát sau bữa ăn",
+   "Clearing my own bowl"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ăn cơm xong, Bin đứng dậy đi xem hoạt hình, để bát đũa lại trên bàn.",
+   "After dinner, Bin gets up to watch cartoons and leaves the bowl and chopsticks on the table."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Để mẹ dọn vì mẹ quen rồi",
+    "Let Mum clear up — she always does",
+    0,
+    "Mẹ cũng mệt sau một ngày dài. Con tự dọn bát của mình là giúp mẹ rồi.",
+    "Mum’s tired too. Clearing your own bowl is a real help."
+   ],
+   [
+    "Mang bát đũa của mình vào bồn rửa rồi mới đi chơi",
+    "Take your bowl and chopsticks to the sink, then go and play",
+    1,
+    "Tự lo phần của mình sau bữa ăn là việc nhỏ mà cả nhà đều vui.",
+    "Looking after your own dishes is a small job that makes everyone happy."
+   ],
+   [
+    "Đẩy bát vào giữa bàn",
+    "Push the bowl to the middle of the table",
+    0,
+    "Đẩy vào giữa bàn vẫn chưa xong việc. Mang vào bồn rửa chỉ mất một chút thôi.",
+    "Pushing it aside isn’t clearing. Taking it to the sink takes a moment."
+   ]
+  ],
+  "qq": [
+   "Ăn xong, con có thể tự…",
+   "After eating, you can…"
+  ],
+  "qo": [
+   [
+    "Chờ người khác dọn",
+    "Wait for someone else to clear"
+   ],
+   [
+    "Mang bát của mình đi cất",
+    "Take your own bowl away"
+   ],
+   [
+    "Để bát trên bàn cả tối",
+    "Leave it on the table all evening"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ăn bán trú xong, các bạn tự mang khay về chỗ cô. Khay của Bin còn ít cơm rơi vãi.",
+     "After school lunch, everyone returns their tray. Bin’s tray has a few spilt grains of rice."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nhờ bạn mang hộ",
+      "Ask a friend to take it",
+      0,
+      "Bạn cũng có khay của bạn. Con tự làm được mà.",
+      "Your friend has their own tray. You can do it."
+     ],
+     [
+      "Gom cơm rơi vào khay, mang khay về đúng chỗ",
+      "Gather the spilt rice onto the tray and return it properly",
+      1,
+      "Tự dọn chỗ ăn của mình giúp cô và các bạn trực nhật đỡ vất vả.",
+      "Tidying your own spot helps the teacher and the helpers."
+     ],
+     [
+      "Để khay lại, chạy ra chơi",
+      "Leave the tray and run out to play",
+      0,
+      "Khay bỏ lại thì người khác phải dọn thay. Chỉ mất một phút thôi con.",
+      "Someone else would have to clear it. It only takes a minute."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi ăn ở quán cùng ba mẹ, Bin ăn bánh xong, giấy gói rơi dưới ghế.",
+     "Eating out with Mum and Dad, Bin finishes a snack and the wrapper falls under the chair."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Kệ, cô phục vụ sẽ quét",
+      "Leave it — the staff will sweep",
+      0,
+      "Cô phục vụ rất bận. Tự nhặt rác của mình là lịch sự nơi công cộng.",
+      "The staff are busy. Picking up your own rubbish is good manners."
+     ],
+     [
+      "Đá giấy vào sâu dưới bàn",
+      "Kick it further under the table",
+      0,
+      "Giấu đi thì rác vẫn còn đó. Nhặt lên bỏ thùng rác nhé.",
+      "Hiding it doesn’t get rid of it. Pick it up and bin it."
+     ],
+     [
+      "Nhặt giấy lên, bỏ vào thùng rác",
+      "Pick it up and put it in the bin",
+      1,
+      "Tự dọn phần của mình ở mọi nơi là tự lập và lịch sự.",
+      "Clearing up after yourself anywhere is independent and polite."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Đồ chơi bị hỏng",
+   "My toy broke"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bánh xe ô tô đồ chơi của Bin bị rời ra. Bin buồn và định vứt luôn chiếc xe.",
+   "A wheel has come off Bin’s toy car. Bin is sad and wants to throw the car away."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Vứt đi, đòi mua xe mới",
+    "Throw it away and ask for a new one",
+    0,
+    "Nhiều đồ hỏng vẫn sửa được. Thử xem trước khi bỏ nhé.",
+    "Lots of broken things can be fixed. Check before giving up."
+   ],
+   [
+    "Nhìn kỹ chỗ hỏng, thử lắp lại, khó quá thì nhờ ba",
+    "Look closely, try to fit it back, and ask Dad if it’s too hard",
+    1,
+    "Xem kỹ, thử sửa, rồi nhờ người lớn khi cần. Đó là cách giải quyết vấn đề.",
+    "Look, try, then ask a grown-up if needed. That’s problem solving."
+   ],
+   [
+    "Cố ấn mạnh bánh xe vào",
+    "Force the wheel back on hard",
+    0,
+    "Ấn mạnh có thể làm gãy thêm. Nhìn kỹ xem bánh xe lắp thế nào trước.",
+    "Forcing it could break more. Look closely at how it fits first."
+   ]
+  ],
+  "qq": [
+   "Khi đồ bị hỏng, việc đầu tiên nên làm là…",
+   "When something breaks, first…"
+  ],
+  "qo": [
+   [
+    "Xem kỹ chỗ hỏng",
+    "Look closely at what’s wrong"
+   ],
+   [
+    "Vứt ngay",
+    "Throw it away"
+   ],
+   [
+    "Giấu đi",
+    "Hide it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thủ công, quai chiếc giỏ giấy Bin làm bị rách ra.",
+     "In craft class, the handle of Bin’s paper basket tears off."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lấy giỏ của bạn",
+      "Take a friend’s basket",
+      0,
+      "Giỏ của bạn là công sức của bạn. Mình sửa giỏ của mình nhé.",
+      "That’s your friend’s hard work. Fix your own."
+     ],
+     [
+      "Vò giỏ lại, bỏ không làm nữa",
+      "Scrunch it up and give up",
+      0,
+      "Bỏ thì mất hết công sức. Một chút hồ dán có thể cứu chiếc giỏ.",
+      "Giving up loses all your work. A little glue might save it."
+     ],
+     [
+      "Xem chỗ rách, dùng hồ dán lại hoặc hỏi cô cách sửa",
+      "Look at the tear, glue it back or ask the teacher how to fix it",
+      1,
+      "Thử sửa trước rồi hỏi cô khi cần. Giỏ của con vẫn có thể hoàn thành.",
+      "Try fixing first, then ask. Your basket can still be finished."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng mẹ, dây diều của Bin bị rối thành một cục.",
+     "At the park with Mum, Bin’s kite string gets into a big tangle."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi xuống gỡ từ từ từng chỗ, rối quá thì nhờ mẹ",
+      "Sit down and untangle bit by bit, asking Mum if it’s too knotty",
+      1,
+      "Gỡ từng chút một và nhờ giúp khi cần là cách giải quyết khéo léo.",
+      "Bit by bit, with help when needed, is a clever fix."
+     ],
+     [
+      "Giật thật mạnh cho bung ra",
+      "Yank it hard",
+      0,
+      "Giật mạnh làm nút càng chặt. Gỡ từ từ lại nhanh hơn.",
+      "Yanking tightens the knot. Slowly is faster."
+     ],
+     [
+      "Bỏ diều lại, chơi trò khác",
+      "Leave the kite and play something else",
+      0,
+      "Diều vẫn còn tốt, chỉ dây bị rối thôi. Thử gỡ xem nhé.",
+      "The kite is fine — only the string is tangled. Have a go."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đừng đoán qua vẻ bề ngoài",
+   "Don’t judge by looks"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà mua về một quả na vỏ sần sùi. Bin bĩu môi: “Quả này trông xấu, chắc không ngon.”",
+   "Grandma brings home a lumpy, bumpy custard apple. Bin pulls a face: “It looks ugly — it can’t taste nice.”"
+  ],
+  "cq": [
+   "Bin nên nghĩ thế nào?",
+   "How should Bin think about it?"
+  ],
+  "co": [
+   [
+    "Thử một miếng rồi mới nói ngon hay không",
+    "Try a bite before deciding",
+    1,
+    "Muốn biết thật thì phải thử hoặc tìm hiểu, đừng chỉ nhìn bề ngoài.",
+    "To really know, try it or find out — don’t just go by looks."
+   ],
+   [
+    "Nói với bà: “Bà mua quả xấu quá”",
+    "Tell Grandma: “You bought an ugly one”",
+    0,
+    "Câu đó làm bà buồn mà chưa chắc đúng. Thử trước rồi hãy nói nhé.",
+    "That could hurt Grandma’s feelings, and it may not be true. Taste first."
+   ],
+   [
+    "Không ăn vì trông xấu",
+    "Refuse it because it looks ugly",
+    0,
+    "Vỏ sần chưa chắc ruột dở. Thử một miếng mới biết được.",
+    "A bumpy skin doesn’t mean bad fruit. Try a bite to find out."
+   ]
+  ],
+  "qq": [
+   "Muốn biết một thứ có tốt không, con nên…",
+   "To know if something is good, you should…"
+  ],
+  "qo": [
+   [
+    "Nhìn bề ngoài là đủ",
+    "Just look at it"
+   ],
+   [
+    "Thử hoặc tìm hiểu thêm",
+    "Try it or find out more"
+   ],
+   [
+    "Nghe một bạn nói",
+    "Go by what one friend says"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho chọn truyện đọc: một quyển bìa cũ, một quyển bìa mới bóng loáng. Cả lớp đều muốn quyển mới.",
+     "The teacher offers two storybooks: one with an old cover, one shiny and new. Everyone wants the new one."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tranh quyển mới cho bằng được",
+      "Fight to get the new one",
+      0,
+      "Tranh nhau làm mất vui, mà chưa chắc quyển mới đã hay hơn.",
+      "Fighting spoils the fun, and the new one might not be better."
+     ],
+     [
+      "Lật xem vài trang của cả hai quyển rồi mới chọn",
+      "Flip through a few pages of both before choosing",
+      1,
+      "Bìa đẹp chưa chắc truyện hay. Xem bên trong mới biết.",
+      "A nice cover doesn’t mean a good story. Look inside to find out."
+     ],
+     [
+      "Chê quyển cũ là chán",
+      "Say the old one is boring",
+      0,
+      "Chưa đọc thì chưa biết chán hay không. Thử đọc vài trang nhé.",
+      "You can’t know until you read it. Try a few pages."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng ba, Bin thấy một chú chó to lông xù đi cùng chủ. Bin nghĩ: “Chó to chắc dữ lắm.”",
+     "At the park with Dad, Bin sees a big shaggy dog with its owner. Bin thinks: “Big dogs must be fierce.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi ba: “Chó to có dữ không ạ?” và chỉ lại gần khi chủ cho phép, có ba đi cùng",
+      "Ask Dad “Are big dogs fierce?” and only go near if the owner says yes, with Dad",
+      1,
+      "Không đoán qua vẻ ngoài mà hỏi người biết rõ. Hỏi chủ trước giúp con an toàn.",
+      "Don’t guess from looks — ask someone who knows. Asking the owner keeps you safe."
+     ],
+     [
+      "Hét lên và bỏ chạy",
+      "Scream and run",
+      0,
+      "Hét và chạy có thể làm chú chó giật mình. Đứng cạnh ba và bình tĩnh nhé.",
+      "Screaming and running can startle a dog. Stay calm by Dad."
+     ],
+     [
+      "Chạy tới ôm chú chó",
+      "Run up and hug it",
+      0,
+      "Chó to hay nhỏ, mình đều chưa biết tính nó. Phải hỏi chủ trước và có ba đi cùng.",
+      "Big or small, you don’t know this dog. Ask the owner first, with Dad beside you."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Thuốc không phải là kẹo",
+   "Medicine isn’t sweets"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin thấy trên bàn có mấy viên thuốc màu hồng, trông giống kẹo. Ba mẹ đang ở phòng bên.",
+   "Bin finds some pink pills on the table that look like sweets. Mum and Dad are in the next room."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nếm thử một viên xem có ngọt không",
+    "Taste one to see if it’s sweet",
+    0,
+    "Thuốc trông như kẹo nhưng có thể làm con ốm. Không bao giờ tự nếm nhé.",
+    "Pills can look like sweets but make you ill. Never taste them yourself."
+   ],
+   [
+    "Không chạm vào, gọi ba mẹ đến cất",
+    "Don’t touch, and call Mum or Dad to put them away",
+    1,
+    "Thuốc chỉ được uống khi người lớn đưa. Gọi ba mẹ để cả nhà được an toàn.",
+    "Medicine is only taken when a grown-up gives it. Calling them keeps everyone safe."
+   ],
+   [
+    "Cầm cho em bé chơi",
+    "Give them to the baby to play with",
+    0,
+    "Em bé có thể cho vào miệng. Không cầm, chỉ gọi ba mẹ thôi.",
+    "The baby might put them in their mouth. Don’t touch — just call a grown-up."
+   ]
+  ],
+  "qq": [
+   "Thuốc chỉ được uống khi…",
+   "Medicine is only taken when…"
+  ],
+  "qo": [
+   [
+    "Người lớn tin cậy đưa cho",
+    "A trusted grown-up gives it"
+   ],
+   [
+    "Thấy ngon",
+    "It looks tasty"
+   ],
+   [
+    "Bạn rủ",
+    "A friend says so"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, bạn Nam lấy ra một lọ nhỏ trông như lọ thuốc: “Kẹo của mẹ tớ đấy, ăn thử không?”",
+     "At school, Nam takes out a little bottle that looks like medicine: “My mum’s sweets — want one?”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ăn thử một viên cho vui",
+      "Try one for fun",
+      0,
+      "Chưa biết là gì thì không ăn. Đó có thể là thuốc của người lớn.",
+      "If you don’t know what it is, don’t eat it. It might be grown-up medicine."
+     ],
+     [
+      "Lấy một viên giấu vào cặp mình",
+      "Hide one in your own bag",
+      0,
+      "Giữ đồ lạ trong cặp không an toàn. Báo cô để cô xem giúp nhé.",
+      "Keeping unknown things isn’t safe. Tell the teacher so she can check."
+     ],
+     [
+      "Nói “Tớ không ăn đâu”, rồi báo cô giáo",
+      "Say “No thanks,” then tell the teacher",
+      1,
+      "Từ chối và báo cô giúp cả con và bạn Nam được an toàn.",
+      "Saying no and telling the teacher keeps both you and Nam safe."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên cùng mẹ, Bin thấy một vỉ thuốc trên ghế đá.",
+     "At the park with Mum, Bin spots a strip of pills on a bench."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không chạm vào, gọi mẹ đến",
+      "Don’t touch it, and call Mum over",
+      1,
+      "Gặp thuốc lạ ở bất cứ đâu, con đừng chạm mà gọi người lớn ngay.",
+      "Wherever you find unknown medicine, don’t touch it — fetch a grown-up."
+     ],
+     [
+      "Cầm về nhà chơi",
+      "Take it home to play with",
+      0,
+      "Thuốc không phải đồ chơi. Mẹ sẽ biết cách xử lý.",
+      "Medicine isn’t a toy. Mum will know what to do."
+     ],
+     [
+      "Bóc một viên ra xem",
+      "Pop one out to look",
+      0,
+      "Thuốc lạ thì không nên chạm vào. Để nguyên và gọi mẹ nhé.",
+      "Don’t handle unknown medicine. Leave it and call Mum."
+     ]
+    ]
+   }
+  }
+ }
+]

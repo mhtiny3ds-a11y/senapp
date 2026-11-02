@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi bạn thân chơi với bạn khác",
+   "When my best friend plays with others"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, Na nhảy dây với Mai mà không rủ Bin. Bin buồn, nghĩ Na hết thân với mình rồi.",
+   "At break, Na skips with Mai and doesn’t ask Bin. Bin feels sad and thinks Na isn’t his friend any more."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Giận Na, không nói chuyện nữa",
+    "Get cross and stop talking to Na",
+    0,
+    "Na chơi với Mai không có nghĩa là bỏ con. Giận thì cả hai cùng buồn.",
+    "Na playing with Mai doesn’t mean she’s dropped you. Sulking makes you both sad."
+   ],
+   [
+    "Đến hỏi: “Cho tớ chơi cùng với!”",
+    "Go and ask, “Can I play too?”",
+    1,
+    "Bạn có thêm bạn thì mình có thêm bạn chơi. Rủ chơi chung là cách hay nhất.",
+    "When your friend has more friends, so do you. Joining in is best."
+   ],
+   [
+    "Bảo Mai: “Na là bạn của tớ”",
+    "Tell Mai, “Na is my friend”",
+    0,
+    "Bạn bè không phải của riêng ai. Mình chơi chung thì vui hơn.",
+    "Friends don’t belong to anyone. Playing together is more fun."
+   ]
+  ],
+  "qq": [
+   "Bạn thân chơi với bạn khác nghĩa là…",
+   "A best friend playing with others means…"
+  ],
+  "qo": [
+   [
+    "Bạn có thêm bạn, mình vẫn có thể chơi chung",
+    "They have more friends, and you can play together"
+   ],
+   [
+    "Bạn hết thân với mình",
+    "They don’t like you any more"
+   ],
+   [
+    "Mình phải giận bạn",
+    "You should be cross"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ đến chơi, chỉ ngồi chơi với em Bông. Bin thấy mình bị bỏ rơi.",
+     "Bin’s cousin comes over and only plays with little Bông. Bin feels left out."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đến rủ: “Ba anh em mình cùng chơi nhé?”",
+      "Go over: “Shall we all three play together?”",
+      1,
+      "Chơi chung ba người thì ai cũng vui. Con đã biến nỗi buồn thành lời rủ chơi.",
+      "Three can play together and everyone’s happy. You turned sadness into an invitation."
+     ],
+     [
+      "Giận, ngồi một góc",
+      "Sulk in a corner",
+      0,
+      "Buồn là bình thường, nhưng ngồi một mình thì càng buồn. Thử rủ chơi chung nhé.",
+      "Feeling sad is normal, but sitting alone makes it worse. Try joining in."
+     ],
+     [
+      "Mách mẹ là anh không chơi với con",
+      "Tell Mum your cousin won’t play with you",
+      0,
+      "Mẹ sẵn lòng nghe, nhưng con tự rủ chơi trước xem, có khi được ngay.",
+      "Mum will listen, but try asking to join first — it might just work."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng mẹ, Na gặp một bạn mới và cùng chơi cầu trượt. Bin đứng nhìn, thấy tủi.",
+     "At the park with Mum, Na meets a new child and they play on the slide. Bin watches, feeling hurt."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi mẹ về nhà",
+      "Ask Mum to go home",
+      0,
+      "Về thì mất cả buổi chơi. Thử lại gần làm quen bạn mới nhé.",
+      "Going home wastes the fun. Try going over and meeting the new friend."
+     ],
+     [
+      "Lại gần chào: “Tớ là Bin, cho tớ trượt cùng nhé!”",
+      "Go over: “I’m Bin, can I slide too?”",
+      1,
+      "Thêm một bạn mới là thêm niềm vui. Con dũng cảm lắm!",
+      "One more friend means more fun. That was brave!"
+     ],
+     [
+      "Đứng xa nhìn mãi",
+      "Keep watching from far away",
+      0,
+      "Đứng xa thì các bạn không biết con muốn chơi. Thử lên tiếng nhé.",
+      "From far away they won’t know you want to play. Speak up."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Vòng tròn bạn bè",
+    "My friendship circle"
+   ],
+   "s": [
+    "Con vẽ một vòng tròn bạn bè gồm tên các bạn con hay chơi, rồi cùng ba mẹ nghĩ một câu rủ cả nhóm chơi chung (ví dụ: “Mình cùng chơi nhé!”).",
+    "Draw a friendship circle with the names of friends you play with, then think of a line with Mum or Dad to invite the whole group (like “Let’s all play!”)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giúp con viết tên, con vẽ và nói câu rủ chơi theo ba mẹ.",
+     "Mum or Dad helps write the names; you draw and copy the invitation."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ và tự nghĩ câu rủ chơi.",
+     "After one reminder, you draw it and think of the line yourself."
+    ],
+    [
+     "Con tự vẽ, nghĩ câu rủ chơi và tập nói thật vui vẻ.",
+     "You draw it, make up the invitation and practise saying it cheerfully."
+    ]
+   ],
+   "rw": [
+    "Một buổi dã ngoại nhỏ ngay trong nhà",
+    "A mini indoor picnic"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Thua cùng đội, không trách nhau",
+   "Losing as a team without blame"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở sân bóng khu phố, có ba mẹ xem, đội nhí của Bin thua. Bin đá hỏng một quả.",
+   "At the local pitch, with parents watching, Bin’s kids’ team loses. Bin missed a shot."
+  ],
+  "cq": [
+   "Đồng đội nên làm gì?",
+   "What should the team do?"
+  ],
+  "co": [
+   [
+    "Mỗi bạn nói một điều tốt của đồng đội, rồi hẹn tập thêm",
+    "Each says one good thing about a teammate, then plan more practice",
+    1,
+    "Động viên nhau giúp cả đội vui và muốn chơi tiếp. Thua cũng là một bài học.",
+    "Encouraging each other keeps everyone keen. Losing is a lesson too."
+   ],
+   [
+    "Trách Bin đá hỏng",
+    "Blame Bin for missing",
+    0,
+    "Một quả hỏng không làm cả đội thua. Ai cũng có lúc đá hỏng.",
+    "One miss doesn’t lose a whole game. Everyone misses sometimes."
+   ],
+   [
+    "Ai về nhà nấy, không nói gì",
+    "Everyone goes home without a word",
+    0,
+    "Im lặng thì ai cũng mang nỗi buồn về. Một lời động viên giúp nhiều lắm.",
+    "Silence sends everyone home sad. A kind word helps a lot."
+   ]
+  ],
+  "qq": [
+   "Đội thua thì…",
+   "When your team loses…"
+  ],
+  "qo": [
+   [
+    "Tìm ai có lỗi",
+    "Find who’s to blame"
+   ],
+   [
+    "Cả đội cùng động viên nhau",
+    "Everyone encourages each other"
+   ],
+   [
+    "Không chơi với đội nữa",
+    "Quit the team"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chơi đố vui chia hai đội. Đội Bin và ba thua vì ba trả lời sai câu cuối.",
+     "The family plays a quiz in two teams. Bin and Dad’s team loses because Dad got the last answer wrong."
+    ],
+    "q": [
+     "Bin nên nói gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Tại ba đấy!”",
+      "“It’s your fault, Dad!”",
+      0,
+      "Cả đội cùng chơi thì cùng thắng, cùng thua. Trách nhau làm mất vui.",
+      "A team wins and loses together. Blaming spoils the fun."
+     ],
+     [
+      "“Không sao ba ơi, mình chơi vui mà. Ván sau cố tiếp!”",
+      "“Never mind, Dad, it was fun. We’ll try again next round!”",
+      1,
+      "Động viên đồng đội khi thua là con đang là đồng đội tuyệt vời.",
+      "Cheering up your teammate after losing makes you a brilliant teammate."
+     ],
+     [
+      "Không chơi nữa",
+      "Refuse to play any more",
+      0,
+      "Thua một ván thôi mà. Chơi tiếp, biết đâu ván sau thắng.",
+      "It’s only one round. Keep playing — you might win next time."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Đội Bin thua kéo co vì Huy trượt chân. Tí quay sang trách Huy.",
+     "Bin’s team loses tug-of-war because Huy slipped. Tí turns and blames Huy."
+    ],
+    "q": [
+     "Bin nên nói gì?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Đúng, tại Huy đấy!”",
+      "“Yes, it’s Huy’s fault!”",
+      0,
+      "Huy đã rất buồn rồi. Cả đội cùng kéo thì cả đội cùng thua.",
+      "Huy feels bad already. The whole team pulled, so the whole team lost."
+     ],
+     [
+      "Bỏ về lớp",
+      "Walk off to the classroom",
+      0,
+      "Đội đang cần nhau. Ở lại động viên các bạn nhé.",
+      "The team needs each other now. Stay and cheer them up."
+     ],
+     [
+      "“Cả đội đã cố gắng. Lần sau mình đứng chắc chân hơn nhé!”",
+      "“We all tried. Next time let’s plant our feet better!”",
+      1,
+      "Thay vì trách, con giúp cả đội nghĩ cách lần sau. Huy sẽ thấy nhẹ lòng.",
+      "Instead of blaming, you helped the team plan for next time. Huy will feel better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một điều tốt của đồng đội",
+    "One good thing about my teammate"
+   ],
+   "s": [
+    "Cả nhà chơi một trò đồng đội (ví dụ: chuyền bóng, đố vui chia đội). Chơi xong, dù thắng hay thua, mỗi người nói một điều tốt của đồng đội mình.",
+    "Play a team game as a family (passing a ball, a team quiz). Afterwards, win or lose, everyone says one good thing about a teammate."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu trước, con nói theo.",
+     "Mum or Dad goes first and you follow."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói điều tốt.",
+     "After one reminder, you say the good thing yourself."
+    ],
+    [
+     "Con tự nói điều tốt của từng đồng đội và nói một câu động viên khi đội thua.",
+     "You praise each teammate and say an encouraging line if you lost."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ chơi bóng ở sân",
+    "Play ball outside with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Mặc đồ hợp thời tiết",
+   "Dressing for the weather"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nay trời lạnh, gió thổi mạnh. Bin muốn mặc chiếc áo cộc tay yêu thích đi học.",
+   "This morning it’s cold and windy. Bin wants to wear his favourite short-sleeved top to school."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Mặc áo cộc tay vì thích",
+    "Wear the short sleeves because he loves it",
+    0,
+    "Áo đẹp nhưng trời lạnh dễ ốm. Mặc thêm áo khoác bên ngoài là được.",
+    "It’s a lovely top, but cold weather can make you ill. Add a jacket over it."
+   ],
+   [
+    "Nhìn ra cửa sổ, thấy gió lạnh thì mặc thêm áo khoác",
+    "Look outside, see it’s windy and cold, and add a jacket",
+    1,
+    "Xem trời trước rồi mới chọn đồ: con tự lo cho mình giỏi lắm!",
+    "Checking the weather before dressing — you’re taking great care of yourself!"
+   ],
+   [
+    "Để mẹ chọn hết cho",
+    "Let Mum choose everything",
+    0,
+    "Con đủ lớn để tự xem trời và chọn đồ. Chưa chắc thì hỏi mẹ nhé.",
+    "You’re old enough to check and choose. Ask Mum if you’re unsure."
+   ]
+  ],
+  "qq": [
+   "Chọn quần áo, con nên xem gì trước?",
+   "Before choosing clothes, what should you check?"
+  ],
+  "qo": [
+   [
+    "Bạn mặc gì",
+    "What friends wear"
+   ],
+   [
+    "Áo nào mới nhất",
+    "Which top is newest"
+   ],
+   [
+    "Thời tiết hôm đó",
+    "The weather that day"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tan học trời mưa nhỏ. Mẹ chưa đến đón. Trong cặp Bin có áo mưa.",
+     "It’s drizzling at home time. Mum hasn’t arrived. Bin has a raincoat in his bag."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tự lấy áo mưa mặc vào, đứng chờ mẹ dưới mái hiên cùng cô",
+      "Put on the raincoat and wait for Mum under the shelter with the teacher",
+      1,
+      "Tự lo áo mưa và chờ đúng chỗ cùng cô: vừa khô ráo vừa an toàn.",
+      "Raincoat on and waiting in the right place with the teacher — dry and safe."
+     ],
+     [
+      "Chạy ra sân dầm mưa chơi",
+      "Run out and play in the rain",
+      0,
+      "Ướt hết thì dễ cảm lạnh. Mặc áo mưa và chờ mẹ nhé.",
+      "Getting soaked can give you a cold. Raincoat on and wait for Mum."
+     ],
+     [
+      "Để áo mưa trong cặp, đứng chờ ướt",
+      "Leave it in the bag and wait getting wet",
+      0,
+      "Áo mưa có trong cặp là để dùng lúc này đấy. Lấy ra mặc nhé.",
+      "That raincoat is there for just this moment. Put it on!"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Buổi trưa nắng to, Bin đi công viên cùng ba. Bin chỉ muốn mặc áo ba lỗ, không đội mũ.",
+     "It’s a hot, sunny midday and Bin is off to the park with Dad. He wants a vest top and no hat."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không đội mũ cho mát",
+      "Skip the hat to stay cool",
+      0,
+      "Nắng to dễ làm con mệt, đau đầu. Mũ giúp che nắng đấy.",
+      "Strong sun can make you tired and achy. A hat gives shade."
+     ],
+     [
+      "Mặc áo dày cho chắc",
+      "Wear a thick jumper to be safe",
+      0,
+      "Áo dày khi trời nóng làm con ra nhiều mồ hôi. Chọn áo mỏng thoáng mát nhé.",
+      "A thick jumper in the heat makes you sweaty. Choose something light."
+     ],
+     [
+      "Đội mũ, mặc áo mỏng có tay và mang chai nước",
+      "Wear a hat, a light top with sleeves and take water",
+      1,
+      "Mũ, áo mỏng và nước: con đã chọn đồ rất hợp với trời nắng.",
+      "Hat, light top and water — perfect choices for a sunny day."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự chọn đồ cho ngày mai",
+    "Choose tomorrow’s outfit"
+   ],
+   "s": [
+    "Buổi tối, con cùng ba mẹ xem trời ngày mai (nhìn trời hoặc nghe dự báo), rồi tự chọn và xếp sẵn bộ đồ. Ba mẹ xem lại.",
+    "In the evening, check tomorrow’s weather with Mum or Dad (look outside or hear the forecast), then choose and lay out your clothes. They check it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói thời tiết, cùng con chọn từng món.",
+     "Mum or Dad tells you the weather and you choose each item together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn đồ.",
+     "After one reminder, you choose the clothes yourself."
+    ],
+    [
+     "Con tự hỏi thời tiết, tự chọn đồ và giải thích vì sao chọn như vậy.",
+     "You ask about the weather, choose and explain your choices."
+    ]
+   ],
+   "rw": [
+    "Được chọn bài hát trên đường đi học",
+    "Pick the song on the way to school"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Hai bạn giận nhau, mình ở giữa",
+   "Stuck between two friends"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na và Mai giận nhau. Na bảo: “Bin chỉ được chơi với tớ thôi, không chơi với Mai!”",
+   "Na and Mai have fallen out. Na says, “Bin, you can only play with me, not Mai!”"
+  ],
+  "cq": [
+   "Bin nên nói gì?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "“Ừ, tớ chỉ chơi với cậu”",
+    "“OK, I’ll only play with you”",
+    0,
+    "Như vậy Mai sẽ rất buồn. Con không cần chọn bên đâu.",
+    "Mai would feel very sad. You don’t have to choose."
+   ],
+   [
+    "“Tớ chơi với cả hai. Hay ba đứa mình cùng chơi nhé?”",
+    "“I play with both of you. Shall we all three play?”",
+    1,
+    "Con giữ được cả hai bạn và gợi ý cách làm lành. Thật tử tế!",
+    "You keep both friends and suggest a way to make up. So kind!"
+   ],
+   [
+    "Không chơi với ai nữa",
+    "Stop playing with both",
+    0,
+    "Tránh cả hai thì con lại buồn. Con có thể chơi với cả hai mà.",
+    "Avoiding both makes you sad too. You can play with both."
+   ]
+  ],
+  "qq": [
+   "Hai bạn giận nhau, con có thể…",
+   "When two friends fall out, you can…"
+  ],
+  "qo": [
+   [
+    "Chọn một bên",
+    "Pick a side"
+   ],
+   [
+    "Kể chuyện cho cả lớp",
+    "Tell the whole class"
+   ],
+   [
+    "Chơi với cả hai và gợi ý làm lành",
+    "Play with both and suggest making up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh Bảo và em Bông cãi nhau vì cái gối ôm. Ai cũng gọi Bin về phe mình.",
+     "Big brother Bảo and little Bông argue over a cuddly pillow. Each wants Bin on their side."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng về phe em vì em nhỏ",
+      "Side with Bông because she’s little",
+      0,
+      "Chọn bên làm người kia buồn thêm. Con có thể giúp cả hai.",
+      "Taking sides upsets the other one. You can help both."
+     ],
+     [
+      "Bỏ đi chỗ khác",
+      "Walk away",
+      0,
+      "Tránh đi cũng được, nhưng con có thể gợi ý một cách để hai người làm lành.",
+      "Walking off is OK, but you could suggest a way to make up."
+     ],
+     [
+      "“Em thương cả hai. Hay mỗi người ôm gối mười phút nhé?”",
+      "“I love you both. How about ten minutes each with the pillow?”",
+      1,
+      "Không chọn bên mà gợi ý cách làm lành: con là người giữ hoà khí đấy!",
+      "No sides, just a fair idea — you’re a real peacemaker!"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi, mẹ ngồi gần đó. Huy và Nam cãi nhau về lượt đu, bắt Bin nói ai đúng.",
+     "At the playground, with Mum nearby, Huy and Nam argue about turns on the swing and want Bin to say who’s right."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Gợi ý: “Mình đếm đến hai mươi rồi đổi lượt nhé!”; nếu hai bạn vẫn to tiếng thì gọi mẹ",
+      "Suggest, “Let’s count to twenty and swap!”; if they keep shouting, get Mum",
+      1,
+      "Gợi ý cách công bằng mà không chọn bên. Cãi to quá thì nhờ người lớn là đúng.",
+      "A fair idea without taking sides. If it gets loud, asking a grown-up is right."
+     ],
+     [
+      "Chọn Huy vì Huy là bạn thân",
+      "Pick Huy because he’s your best friend",
+      0,
+      "Chọn bạn thân chưa chắc công bằng. Thử gợi ý cách chia lượt nhé.",
+      "Choosing your best friend may not be fair. Suggest taking turns."
+     ],
+     [
+      "Cổ vũ hai bạn cãi tiếp",
+      "Egg them on",
+      0,
+      "Cổ vũ làm hai bạn giận hơn. Giúp bạn bình tĩnh thì tốt hơn.",
+      "That makes them angrier. Helping them calm down is better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "“Tớ chơi với cả hai”",
+    "“I play with both of you”"
+   ],
+   "s": [
+    "Con đóng vai với ba mẹ: ba mẹ là hai bạn đang giận nhau. Con nói “Tớ chơi với cả hai” và gợi ý một cách làm lành (chia lượt, chơi chung, xin lỗi nhau).",
+    "Role-play with Mum and Dad as two friends who’ve fallen out. Say “I play with both of you” and suggest a way to make up (take turns, play together, say sorry)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý câu nói và cách làm lành, con nói theo.",
+     "Mum or Dad suggests the words and the idea; you repeat them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói và tự gợi ý một cách.",
+     "After one reminder, you say it and suggest an idea yourself."
+    ],
+    [
+     "Con tự nói, tự gợi ý hai cách làm lành và giải thích cách nào hay hơn.",
+     "You say it, suggest two ways and explain which is better."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi trốn tìm trong nhà",
+    "A family game of hide-and-seek indoors"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đổ lỗi hay tìm nguyên nhân?",
+   "Blame or find the cause"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, diều của Bin cứ rơi xuống. Bin trách: “Tại ba chọn diều xấu!”",
+   "At the park, Bin’s kite keeps falling. He grumbles, “Dad chose a bad kite!”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cùng ba xem: mình chạy xuôi gió, nên quay lại chạy ngược gió thử",
+    "Check with Dad: he ran with the wind; try running into it",
+    1,
+    "Tìm nguyên nhân giúp sửa được ngay. Diều bay rồi đấy!",
+    "Finding the cause lets you fix it straight away. Up it goes!"
+   ],
+   [
+    "Giận, không chơi nữa",
+    "Get cross and stop",
+    0,
+    "Thử tìm vì sao diều rơi, có khi chỉ cần đổi hướng chạy.",
+    "Try to work out why it falls — maybe just change direction."
+   ],
+   [
+    "Trách ba mãi",
+    "Keep blaming Dad",
+    0,
+    "Trách không làm diều bay lên. Cùng ba tìm lý do nhé.",
+    "Blaming won’t lift the kite. Find the reason with Dad."
+   ]
+  ],
+  "qq": [
+   "Khi việc chưa tốt, tìm nguyên nhân giúp con…",
+   "When something goes wrong, finding the cause helps you…"
+  ],
+  "qo": [
+   [
+    "Biết cách sửa lần sau",
+    "Know how to fix it next time"
+   ],
+   [
+    "Biết ai phải bị mắng",
+    "Know who to tell off"
+   ],
+   [
+    "Quên chuyện đó đi",
+    "Forget about it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cây đậu Bin trồng trong cốc bị héo. Bin nói ngay: “Tại em Bông nghịch!”",
+     "The bean plant Bin grew in a cup has wilted. He says straight away, “Bông must have messed with it!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mắng em",
+      "Tell Bông off",
+      0,
+      "Chưa biết vì sao mà đã trách thì em buồn oan. Mình tìm nguyên nhân trước nhé.",
+      "Blaming before knowing could be unfair. Let’s find the cause first."
+     ],
+     [
+      "Bỏ cây đi, trồng cây khác",
+      "Throw it away and grow another",
+      0,
+      "Không biết vì sao héo thì cây mới cũng dễ héo. Tìm lý do trước đã.",
+      "Without knowing why, the new one may wilt too. Find the reason first."
+     ],
+     [
+      "Cùng mẹ xem đất: khô quá vì mấy hôm quên tưới",
+      "Check the soil with Mum: it’s dry because he forgot to water",
+      1,
+      "Tìm ra nguyên nhân thì biết cách sửa: tưới đều mỗi ngày. Giỏi lắm!",
+      "Finding the cause shows the fix: water it every day. Well done!"
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Tranh màu nước của Bin bị lem. Bin trách bạn ngồi cạnh đã chạm vào bàn.",
+     "Bin’s watercolour painting has smudged. He blames the child next to him for bumping the desk."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nghĩ lại: mình gập tranh khi màu còn ướt",
+      "Think back: he folded it while the paint was wet",
+      1,
+      "Tìm đúng nguyên nhân thì lần sau con biết chờ màu khô. Không ai phải buồn oan.",
+      "Now you know to wait for it to dry next time — and no one gets blamed unfairly."
+     ],
+     [
+      "Bắt bạn xin lỗi",
+      "Make the child apologise",
+      0,
+      "Có thể bạn không làm gì cả. Xem lại xem tranh lem vì đâu nhé.",
+      "They might not have done anything. Check what really caused it."
+     ],
+     [
+      "Xé tranh đi",
+      "Rip up the painting",
+      0,
+      "Tranh lem vẫn sửa được một chút. Tìm nguyên nhân để lần sau đẹp hơn.",
+      "A smudge can be fixed a bit. Find the cause to do better next time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thám tử tìm nguyên nhân",
+    "Cause detective"
+   ],
+   "s": [
+    "Con chọn một việc chưa tốt hôm nay (đổ nước, quên đồ, đồ chơi hỏng…). Cùng ba mẹ hỏi “Vì sao?” để tìm nguyên nhân thật, không trách ai, và nói cách sửa lần sau.",
+    "Choose one thing that went wrong today (a spill, something forgotten, a broken toy). Ask “Why?” with Mum or Dad to find the real cause, without blaming anyone, and say how to fix it next time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hỏi “Vì sao?” từng bước, con trả lời.",
+     "Mum or Dad asks “Why?” step by step and you answer."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm nguyên nhân.",
+     "After one reminder, you find the cause yourself."
+    ],
+    [
+     "Con tự tìm nguyên nhân, tự nghĩ cách sửa và làm thử ngay.",
+     "You find the cause, think of a fix and try it."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ làm diều giấy",
+    "Make a paper kite with Mum or Dad"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Nếu… thì sao?",
+   "What if…?"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin ngồi vẽ tranh, đặt cốc nước sát mép bàn ngay cạnh khuỷu tay.",
+   "Bin is drawing, with a cup of water right on the edge of the table by his elbow."
+  ],
+  "cq": [
+   "Bin nên nghĩ gì?",
+   "What should Bin think?"
+  ],
+  "co": [
+   [
+    "Kệ, chắc không sao đâu",
+    "Never mind, it’ll be fine",
+    0,
+    "Có khi không sao, nhưng nếu đổ thì ướt hết tranh. Nghĩ trước một chút nhé.",
+    "Maybe, but if it spills the drawing gets soaked. Think ahead."
+   ],
+   [
+    "“Nếu tay mình chạm vào thì sao?”, rồi đặt cốc vào giữa bàn",
+    "“What if my arm knocks it?” then move it to the middle",
+    1,
+    "Nghĩ trước điều có thể xảy ra giúp con chọn cách tránh rắc rối.",
+    "Thinking ahead about what could happen helps you avoid trouble."
+   ],
+   [
+    "Cầm cốc trong tay khi vẽ",
+    "Hold the cup while drawing",
+    0,
+    "Vừa cầm cốc vừa vẽ thì khó vẽ và dễ đổ hơn. Đặt vào chỗ an toàn nhé.",
+    "Holding it while drawing is awkward and spills more easily. Put it somewhere safe."
+   ]
+  ],
+  "qq": [
+   "Hỏi “Nếu… thì sao?” giúp con điều gì?",
+   "Asking “What if…?” helps you…"
+  ],
+  "qo": [
+   [
+    "Sợ hãi mọi thứ",
+    "Be scared of everything"
+   ],
+   [
+    "Nghĩ trước điều có thể xảy ra để chọn việc nên làm",
+    "Think ahead and choose what to do"
+   ],
+   [
+    "Không cần làm gì",
+    "Do nothing"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Na muốn để cặp ở lối đi giữa lớp cho tiện lấy đồ.",
+     "Na wants to leave her bag in the aisle so it’s easy to reach."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Nghĩ: “Nếu bạn vấp phải thì sao?”, rồi treo cặp lên móc",
+      "Think, “What if someone trips?” then hang it on her hook",
+      1,
+      "Nghĩ trước giúp con giữ an toàn cho cả bạn bè.",
+      "Thinking ahead keeps your friends safe too."
+     ],
+     [
+      "Để luôn ở lối đi cho nhanh",
+      "Leave it in the aisle anyway",
+      0,
+      "Tiện cho mình nhưng bạn có thể vấp ngã. Hỏi “Nếu… thì sao?” nhé.",
+      "Handy for you, but someone might trip. Ask “What if…?”"
+     ],
+     [
+      "Đặt cặp lên bàn bạn bên cạnh",
+      "Put it on the next desk",
+      0,
+      "Bàn bạn sẽ chật mất. Treo lên móc là gọn nhất.",
+      "That crowds your friend. The hook is neatest."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Sáng nay trời nhiều mây đen. Bin chuẩn bị đi công viên với ba.",
+     "There are dark clouds this morning. Bin is getting ready to go to the park with Dad."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nghĩ: “Nếu trời mưa thì sao?”, rồi mang áo mưa theo",
+      "Think, “What if it rains?” and pack a raincoat",
+      1,
+      "Chuẩn bị trước thì dù mưa hay nắng con vẫn đi chơi vui.",
+      "Being ready means you enjoy the trip rain or shine."
+     ],
+     [
+      "Không mang gì, chắc không mưa",
+      "Take nothing, it probably won’t rain",
+      0,
+      "Mây đen là dấu hiệu có thể mưa. Mang áo mưa chẳng mất gì mà.",
+      "Dark clouds can mean rain. A raincoat costs nothing to bring."
+     ],
+     [
+      "Thôi không đi nữa",
+      "Give up on going",
+      0,
+      "Không cần bỏ cuộc chơi đâu. Chuẩn bị áo mưa là đi được.",
+      "No need to cancel. Pack a raincoat and go."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba câu Nếu… thì sao?",
+    "Three What-ifs"
+   ],
+   "s": [
+    "Ba mẹ hỏi con ba câu “Nếu… thì sao?” về việc hằng ngày (nếu quên mũ, nếu trời mưa…), con trả lời và nói mình sẽ làm gì.",
+    "Mum or Dad asks three “What if…?” questions about daily life (forgetting a hat, rain…), and you say what you’d do."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hỏi và gợi ý câu trả lời cùng con.",
+     "Mum or Dad asks and helps you find answers."
+    ],
+    [
+     "Ba mẹ hỏi ba câu, con tự trả lời.",
+     "Mum or Dad asks three questions and you answer yourself."
+    ],
+    [
+     "Con tự trả lời ba câu và tự đặt thêm một câu “Nếu… thì sao?” cho ba mẹ.",
+     "You answer all three and make up one “What if…?” for Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ trả lời một câu “Nếu… thì sao?” thật vui do con nghĩ ra",
+    "Mum or Dad answers a silly “What if…?” you invent"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Số điện thoại khẩn cấp",
+   "Emergency numbers"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba dạy Bin số 114 gọi cứu hỏa. Bin tò mò muốn bấm gọi thử xem có ai nghe máy không.",
+   "Dad teaches Bin that 114 is the fire service. Bin is curious and wants to ring it to see if someone answers."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Gọi thử một lần cho biết",
+    "Ring once just to see",
+    0,
+    "Một cuộc gọi thử có thể chiếm máy của người đang cần giúp. Đóng vai thôi nhé.",
+    "A test call could block someone who really needs help. Just role-play."
+   ],
+   [
+    "Không gọi thử, chỉ đóng vai với ba bằng điện thoại đồ chơi",
+    "Don’t ring it; just role-play with Dad using a toy phone",
+    1,
+    "Số khẩn cấp để dành cho lúc thật sự cần. Gọi thử làm người cần giúp phải chờ.",
+    "Emergency numbers are for real emergencies. Test calls make people in need wait."
+   ],
+   [
+    "Rủ bạn gọi giúp",
+    "Get a friend to ring it",
+    0,
+    "Ai gọi thử cũng làm bận đường dây khẩn cấp. Chỉ tập bằng đồ chơi nhé.",
+    "Anyone testing it ties up the line. Practise with toys only."
+   ]
+  ],
+  "qq": [
+   "113, 114, 115 là những số gì?",
+   "What are 113, 114 and 115?"
+  ],
+  "qo": [
+   [
+    "113 công an, 114 cứu hỏa, 115 cấp cứu",
+    "113 police, 114 fire, 115 ambulance"
+   ],
+   [
+    "Ba số gọi để hỏi bài",
+    "Numbers for homework help"
+   ],
+   [
+    "Số để gọi chơi",
+    "Numbers to ring for fun"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô hỏi: “Khi có người bị thương cần xe cấp cứu, ta gọi số nào?”",
+     "The teacher asks, “If someone is hurt and needs an ambulance, which number do we call?”"
+    ],
+    "q": [
+     "Na trả lời thế nào?",
+     "What should Na answer?"
+    ],
+    "o": [
+     [
+      "“Số 113 ạ.”",
+      "“113.”",
+      0,
+      "113 là công an. Cấp cứu là 115, con nhớ nhé.",
+      "113 is the police. The ambulance is 115."
+     ],
+     [
+      "“Số của bạn thân ạ.”",
+      "“My best friend’s number.”",
+      0,
+      "Bạn thân không đưa xe cấp cứu đến được. Gọi 115 và báo người lớn nhé.",
+      "A friend can’t send an ambulance. Call 115 and tell a grown-up."
+     ],
+     [
+      "“Số 115 ạ, và báo ngay người lớn ở gần.”",
+      "“115, and tell the nearest grown-up straight away.”",
+      1,
+      "Biết đúng số và tìm người lớn ngay là cách giúp nhanh nhất.",
+      "Knowing the right number and finding a grown-up is the quickest help."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi bộ cùng mẹ, Bin thấy khói đen bốc ra từ cửa sổ một căn nhà xa xa.",
+     "Walking with Mum, Bin sees black smoke coming from a window of a house in the distance."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy lại gần xem",
+      "Run closer to look",
+      0,
+      "Lại gần khói rất nguy hiểm. Ở cạnh mẹ và báo ngay nhé.",
+      "Going near smoke is dangerous. Stay by Mum and tell her."
+     ],
+     [
+      "Im lặng vì nghĩ chắc có người gọi rồi",
+      "Say nothing; someone has probably called",
+      0,
+      "Có thể chưa ai gọi. Báo mẹ ngay là việc đúng.",
+      "Maybe nobody has. Telling Mum is the right thing."
+     ],
+     [
+      "Nói ngay với mẹ để mẹ gọi 114, rồi đứng xa cùng mẹ",
+      "Tell Mum straight away so she can call 114, and stay back with her",
+      1,
+      "Báo người lớn ngay và đứng xa là cách giúp mà vẫn an toàn.",
+      "Telling a grown-up and staying back helps while keeping you safe."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đóng vai gọi khẩn cấp",
+    "Emergency call role-play"
+   ],
+   "s": [
+    "Con cùng ba mẹ học ba số 113, 114, 115 và đóng vai gọi bằng điện thoại đồ chơi, nói rõ tên và địa chỉ nhà (không gọi thật).",
+    "Learn 113, 114 and 115 with Mum or Dad and role-play a call on a toy phone, saying your name and address clearly (never a real call)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ đóng vai người nghe máy và nhắc con từng câu.",
+     "Mum or Dad plays the operator and prompts each line."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói số và đóng vai.",
+     "Mum or Dad reminds you once, then you say the number and role-play."
+    ],
+    [
+     "Con tự nói đúng ba số, khi nào dùng số nào và đóng vai trọn cuộc gọi.",
+     "You say all three numbers, when to use each and play the whole call."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể con nghe một câu chuyện về những người giúp đỡ cộng đồng",
+    "Mum or Dad tells you a story about people who help the community"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Xong trước hạn",
+   "Finishing before the deadline"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ dặn dọn đồ chơi trước 8 giờ tối. Bin chơi đến gần 8 giờ mới dọn, vội đến rơi vãi khắp nơi.",
+   "Mum says tidy the toys before 8pm. Bin plays until nearly 8 and tidies in such a rush that things go everywhere."
+  ],
+  "cq": [
+   "Lần sau Bin nên làm gì?",
+   "What should Bin do next time?"
+  ],
+  "co": [
+   [
+    "Bắt đầu dọn lúc 7 giờ rưỡi, xong sớm và còn giờ đọc truyện",
+    "Start at half past seven, finish early and have time for a story",
+    1,
+    "Bắt đầu sớm thì làm thong thả, xong trước hạn lại còn thời gian vui.",
+    "Starting early means no rush, and you finish with time to spare."
+   ],
+   [
+    "Nhét hết vào gầm giường",
+    "Shove everything under the bed",
+    0,
+    "Nhét vội thì mai tìm đồ rất khó. Bắt đầu sớm hơn để dọn gọn nhé.",
+    "Shoving makes things hard to find tomorrow. Start earlier and tidy properly."
+   ],
+   [
+    "Xin mẹ để mai dọn",
+    "Ask to do it tomorrow",
+    0,
+    "Để mai thì việc dồn lại. Bắt đầu sớm hơn một chút là kịp mà.",
+    "Tomorrow means it piles up. Start a bit earlier and you’ll make it."
+   ]
+  ],
+  "qq": [
+   "Muốn xong trước hạn mà không vội, con làm gì?",
+   "To finish before a deadline without rushing…"
+  ],
+  "qo": [
+   [
+    "Đợi sát giờ mới làm",
+    "Wait until the last minute"
+   ],
+   [
+    "Bắt đầu sớm",
+    "Start early"
+   ],
+   [
+    "Làm thật vội",
+    "Rush it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô dặn thứ Sáu nộp tranh vẽ con vật. Hôm nay mới là thứ Hai.",
+     "The teacher wants an animal drawing by Friday. Today is only Monday."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Mỗi ngày vẽ một ít, xong từ thứ Năm",
+      "Draw a bit each day and finish by Thursday",
+      1,
+      "Chia nhỏ và bắt đầu sớm thì tranh đẹp mà không vội.",
+      "Small steps started early mean a lovely drawing with no rush."
+     ],
+     [
+      "Để tối thứ Năm vẽ một lần",
+      "Do it all on Thursday night",
+      0,
+      "Dồn vào một tối thì dễ vội và mệt. Bắt đầu từ hôm nay nhé.",
+      "One night means rushing and tiredness. Start today."
+     ],
+     [
+      "Quên rồi nhờ mẹ vẽ hộ",
+      "Forget, then ask Mum to draw it",
+      0,
+      "Tranh của con thì con vẽ sẽ vui hơn. Bắt đầu sớm là kịp.",
+      "Your drawing is more fun done by you. Start early."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà hẹn 9 giờ sáng đi thăm vườn rau của chú. Bin hay chậm khi thay đồ.",
+     "The family is leaving at 9am to visit an uncle’s vegetable garden. Bin is often slow getting dressed."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngủ thêm rồi mặc vội",
+      "Sleep in, then dress in a hurry",
+      0,
+      "Mặc vội dễ quên đồ. Chuẩn bị từ tối sẽ thong thả hơn.",
+      "Rushing means forgetting things. Prepare the night before."
+     ],
+     [
+      "Để mọi người chờ",
+      "Let everyone wait",
+      0,
+      "Cả nhà chờ thì muộn giờ hẹn với chú. Chuẩn bị sớm nhé.",
+      "Making everyone wait makes you late for your uncle. Get ready early."
+     ],
+     [
+      "Chuẩn bị quần áo từ tối hôm trước, sáng ra sẵn sàng sớm",
+      "Lay out clothes the night before and be ready early",
+      1,
+      "Chuẩn bị trước giúp con sẵn sàng đúng giờ mà không cuống.",
+      "Getting ready ahead means you’re on time without panic."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Xong trước giờ hẹn",
+    "Done before time"
+   ],
+   "s": [
+    "Con nhận một việc có hạn (ví dụ dọn đồ chơi trước 8 giờ tối), tự chọn giờ bắt đầu sớm và làm xong trước hạn.",
+    "Take on a job with a deadline (like tidying toys before 8pm), choose an early start time and finish before the deadline."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn giờ bắt đầu và làm cùng.",
+     "Mum or Dad picks the start time with you and helps."
+    ],
+    [
+     "Ba mẹ nhắc một lần lúc bắt đầu, con tự làm xong.",
+     "Mum or Dad reminds you once at the start, then you finish."
+    ],
+    [
+     "Con tự nhìn đồng hồ, bắt đầu sớm và báo ba mẹ khi xong.",
+     "You watch the clock, start early and tell Mum or Dad when done."
+    ]
+   ],
+   "rw": [
+    "Thêm mười phút đọc truyện trước giờ ngủ",
+    "Ten extra minutes of bedtime reading"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Tự chọn cách dùng một khoản nhỏ",
+   "Deciding on a small sum"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà cho Bin một ít tiền tiêu vặt. Bin muốn mua kẹo, xe đồ chơi và bút chì mới, nhưng chỉ đủ một món.",
+   "Grandma gives Bin a little pocket money. He wants sweets, a toy car and a new pencil, but there’s only enough for one."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Mua món nhìn thấy đầu tiên",
+    "Buy the first thing he sees",
+    0,
+    "Mua vội rồi có khi tiếc. Dừng lại nghĩ một chút nhé.",
+    "Buying in a hurry can lead to regret. Pause and think."
+   ],
+   [
+    "Xin bà thêm tiền để mua cả ba",
+    "Ask Grandma for more to buy all three",
+    0,
+    "Không phải lúc nào cũng mua được hết. Biết chọn là một kỹ năng hay.",
+    "You can’t always have everything. Choosing is a great skill."
+   ],
+   [
+    "Nghĩ xem món nào quan trọng nhất, như bút chì cho việc học, rồi chọn",
+    "Think which matters most, like a pencil for school, then choose",
+    1,
+    "Khoản tiền nhỏ thì cân nhắc kỹ và chọn thứ quan trọng nhất với con.",
+    "With a small sum, think carefully and choose what matters most to you."
+   ]
+  ],
+  "qq": [
+   "Có một khoản nhỏ, con làm gì?",
+   "With a small amount of money, you…"
+  ],
+  "qo": [
+   [
+    "Mua ngay thứ đầu tiên thấy",
+    "Buy the first thing you see"
+   ],
+   [
+    "Mua thật nhiều món rẻ",
+    "Buy lots of cheap things"
+   ],
+   [
+    "Cân nhắc và chọn thứ quan trọng nhất",
+    "Think it over and choose what matters most"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trường có hội sách cũ. Na mang theo ít tiền tiêu vặt ba mẹ cho để mua một cuốn.",
+     "School has a second-hand book fair. Na has a little pocket money from her parents to buy one book."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Mua ngay cuốn đầu tiên",
+      "Buy the very first book",
+      0,
+      "Có thể còn cuốn con thích hơn ở bàn sau. Xem hết đã nhé.",
+      "There may be a better one further on. Look first."
+     ],
+     [
+      "Xem hết các bàn sách, rồi chọn cuốn mình thích nhất",
+      "Look at all the tables, then pick the one she likes most",
+      1,
+      "Xem hết rồi mới chọn giúp con dùng khoản tiền nhỏ cho đáng nhất.",
+      "Looking at everything first helps you spend a small sum wisely."
+     ],
+     [
+      "Mua đồ chơi bán gần đó dù không cần",
+      "Buy a nearby toy she doesn’t need",
+      0,
+      "Con đến để mua sách mà. Giữ đúng điều mình đã chọn nhé.",
+      "You came for a book. Stick to your plan."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi nhà sách với ba, Bin được chọn một món nhỏ. Bin thích cả hộp màu và cuốn truyện.",
+     "At the bookshop with Dad, Bin can choose one small thing. He likes both a set of paints and a storybook."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Khóc đòi cả hai",
+      "Cry for both",
+      0,
+      "Chỉ được một món thì cần chọn. Nghĩ xem con dùng món nào nhiều hơn nhé.",
+      "Only one is allowed, so choose. Think which you’d use more."
+     ],
+     [
+      "So sánh: món nào dùng được nhiều và lâu hơn, rồi chọn một",
+      "Compare which he’ll use more and longer, then choose one",
+      1,
+      "So sánh rồi chọn giúp con hài lòng với quyết định của mình.",
+      "Comparing then choosing helps you feel happy with your decision."
+     ],
+     [
+      "Chọn đại cho nhanh",
+      "Pick randomly to be quick",
+      0,
+      "Chọn vội có khi về lại tiếc. Dành một phút suy nghĩ nhé.",
+      "A rushed choice can bring regret. Take a minute to think."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tiền giấy đồ chơi",
+    "Play money choices"
+   ],
+   "s": [
+    "Ba mẹ đưa con tiền giấy đồ chơi và một danh sách món (sách, bút màu, bóng…), con chọn món quan trọng nhất và giải thích vì sao.",
+    "Mum or Dad gives you play money and a list of items (a book, crayons, a ball…); choose the most important one and explain why."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xem từng món và hỏi gợi ý.",
+     "Mum or Dad looks at each item with you and asks guiding questions."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn và nói lý do.",
+     "Mum or Dad reminds you once, then you choose and give a reason."
+    ],
+    [
+     "Con tự so sánh các món, chọn một và nói vì sao không chọn món còn lại.",
+     "You compare them, choose one and say why not the others."
+    ]
+   ],
+   "rw": [
+    "Con được chọn món canh cho bữa tối",
+    "You choose the soup for dinner"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Kể chuyện cho em nhỏ",
+   "Telling a story to a little one"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin kể chuyện cho em nghe nhưng kể lộn xộn, chưa có kết thúc. Em hỏi mãi: “Rồi sao nữa?”",
+   "Bin tells his little sibling a story, but it’s jumbled with no ending. The little one keeps asking, “Then what?”"
+  ],
+  "cq": [
+   "Bin nên kể thế nào?",
+   "How should Bin tell it?"
+  ],
+  "co": [
+   [
+    "Kể thật nhanh cho xong",
+    "Rush through it",
+    0,
+    "Kể nhanh quá em không kịp hiểu. Kể chậm và đủ ba phần nhé.",
+    "Too fast and it’s hard to follow. Slow down and include all three parts."
+   ],
+   [
+    "Kể có mở đầu, chuyện xảy ra, kết thúc và đổi giọng từng nhân vật",
+    "Give it a beginning, a middle and an end, with voices for each character",
+    1,
+    "Đủ ba phần thì em dễ theo dõi, đổi giọng thì câu chuyện thêm hấp dẫn.",
+    "Three parts make it easy to follow, and voices make it exciting."
+   ],
+   [
+    "Bỏ dở vì em hỏi nhiều",
+    "Stop because of the questions",
+    0,
+    "Em hỏi là vì em muốn nghe tiếp đấy! Thêm phần kết thúc nhé.",
+    "Questions mean they want more! Add an ending."
+   ]
+  ],
+  "qq": [
+   "Một câu chuyện có mấy phần?",
+   "A story has which parts?"
+  ],
+  "qo": [
+   [
+    "Chỉ cần phần kết",
+    "Just an ending"
+   ],
+   [
+    "Mở đầu, diễn biến, kết thúc",
+    "Beginning, middle, end"
+   ],
+   [
+    "Không cần phần nào",
+    "No parts at all"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Đến lượt Na kể trước lớp về một buổi đi chơi cùng gia đình.",
+     "It’s Na’s turn to tell the class about a family day out."
+    ],
+    "q": [
+     "Na nên kể thế nào?",
+     "How should Na tell it?"
+    ],
+    "o": [
+     [
+      "Dùng “Đầu tiên… Sau đó… Cuối cùng…”",
+      "Use “First… Then… Finally…”",
+      1,
+      "Những từ nối giúp các bạn biết chuyện đi đến đâu.",
+      "Linking words help listeners follow the story."
+     ],
+     [
+      "Chỉ kể đoạn cuối",
+      "Only tell the end",
+      0,
+      "Thiếu mở đầu thì các bạn chưa biết chuyện gì xảy ra. Kể từ đầu nhé.",
+      "Without the start, nobody knows what happened. Begin at the beginning."
+     ],
+     [
+      "Kể thì thầm, nhìn xuống đất",
+      "Whisper, looking at the floor",
+      0,
+      "Các bạn muốn nghe lắm đấy. Ngẩng lên và nói to rõ nhé.",
+      "Your friends want to hear. Look up and speak clearly."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện khu phố, cô thủ thư mời các bạn lớn kể chuyện cho các em nhỏ. Mẹ ngồi cạnh Bin.",
+     "At the local library, the librarian invites older children to tell stories to little ones. Mum sits beside Bin."
+    ],
+    "q": [
+     "Bin nên kể thế nào?",
+     "How should Bin tell it?"
+    ],
+    "o": [
+     [
+      "Kể chậm, nhìn các em và đổi giọng cho nhân vật",
+      "Tell it slowly, look at the children and do the voices",
+      1,
+      "Nhìn người nghe và đổi giọng giúp các em say mê theo câu chuyện.",
+      "Looking at listeners and doing voices keeps them hooked."
+     ],
+     [
+      "Đọc nhỏ, cúi mặt vào sách",
+      "Read quietly with his face in the book",
+      0,
+      "Các em khó nghe và khó theo. Ngẩng lên nhìn các em nhé.",
+      "Little ones can’t hear or follow. Look up at them."
+     ],
+     [
+      "Kể thật dài, không dừng",
+      "Go on and on without stopping",
+      0,
+      "Em nhỏ mau mệt. Câu chuyện ngắn đủ ba phần là vừa nhất.",
+      "Little ones tire quickly. A short story with three parts is best."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kể chuyện đủ ba phần",
+    "A story in three parts"
+   ],
+   "s": [
+    "Con kể một câu chuyện ngắn cho em nhỏ hoặc ba mẹ, có mở đầu, diễn biến, kết thúc và đổi giọng ít nhất một nhân vật.",
+    "Tell a short story to a little one or Mum or Dad, with a beginning, middle and end, and a special voice for at least one character."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý từng phần, con kể theo.",
+     "Mum or Dad prompts each part and you tell it."
+    ],
+    [
+     "Ba mẹ nhắc ba phần một lần, con tự kể.",
+     "Mum or Dad reminds you of the three parts once, then you tell it."
+    ],
+    [
+     "Con tự kể trọn câu chuyện, đổi giọng nhân vật và hỏi người nghe thích đoạn nào.",
+     "You tell the whole story with voices and ask which bit they liked."
+    ]
+   ],
+   "rw": [
+    "Con được kể chuyện trong bữa tối và cả nhà vỗ tay",
+    "You tell your story at dinner and everyone claps"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Mua ít, dùng lâu",
+   "Buy less, use longer"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi nhà sách với mẹ, An thấy một bộ bút màu mới in hình rất đẹp. Ở nhà An đã có bộ bút màu còn tốt, chỉ thiếu một màu xanh lá.",
+   "At the bookshop with Mum, An spots a new set of colouring pens with a lovely design. At home An already has a good set, just missing the green."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mua bộ mới vì hình đẹp hơn",
+    "Buy the new set because it looks nicer",
+    0,
+    "Hình đẹp làm mình thích lúc đầu, nhưng bộ cũ vẫn dùng tốt. Mua thêm là dư.",
+    "A nice design is exciting at first, but the old set still works. Buying more is extra."
+   ],
+   [
+    "Mua bộ mới, bộ cũ cho bạn",
+    "Buy the new set and give the old one away",
+    0,
+    "Cho đồ là tốt, nhưng mua chỉ để đổi kiểu thì tốn tiền không cần thiết.",
+    "Giving is kind, but buying just for a new look costs money you don’t need to spend."
+   ],
+   [
+    "Tự hỏi: mình có thật cần không, có dùng lâu không, có dùng lại được đồ cũ không; rồi chỉ mua một cây xanh lá",
+    "Ask: do I really need it, will I use it long, can I reuse what I have? Then buy just one green pen",
+    1,
+    "Ba câu hỏi giúp mình mua đúng thứ còn thiếu, đồ cũ vẫn được dùng tiếp.",
+    "Three questions help you buy only what’s missing and keep using what you have."
+   ]
+  ],
+  "qq": [
+   "Trước khi mua, nên tự hỏi gì?",
+   "Before buying, ask yourself…"
+  ],
+  "qo": [
+   [
+    "Bạn bè có món này chưa?",
+    "Do my friends have one?"
+   ],
+   [
+    "Món này có đang giảm giá không?",
+    "Is it on sale?"
+   ],
+   [
+    "Mình có thật cần, có dùng lâu, có dùng lại đồ cũ được không?",
+    "Do I need it, will I use it long, can I reuse what I have?"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Dép đi trong nhà của An bị bung quai. An muốn xin mẹ mua đôi mới màu khác cho vui.",
+     "The strap on An’s house slippers has come loose. An wants to ask Mum for a new pair in a different colour for fun."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhờ ba xem có khâu hoặc dán lại được không trước khi mua mới",
+      "Ask Dad if it can be stitched or glued before buying new",
+      1,
+      "Sửa được thì dùng tiếp, vừa tiết kiệm vừa bớt rác.",
+      "If it can be fixed, keep using it: it saves money and rubbish."
+     ],
+     [
+      "Vứt luôn và xin đôi mới",
+      "Bin them and ask for a new pair",
+      0,
+      "Có khi chỉ cần vài mũi khâu là dùng được thêm lâu. Thử sửa trước nhé.",
+      "A few stitches might make them last much longer. Try fixing first."
+     ],
+     [
+      "Xin mua hai đôi để dự phòng",
+      "Ask for two pairs as spares",
+      0,
+      "Mua dự phòng khi chưa cần thường để đó không dùng. Mua khi thật cần thôi.",
+      "Spares bought before they’re needed often sit unused. Buy when you really need to."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Mai rủ An đổi cặp sách mới giống nhau cho đẹp, dù cặp của An vẫn còn chắc chắn.",
+     "Mai suggests they both get matching new school bags, even though An’s bag is still sturdy."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An reply?"
+    ],
+    "o": [
+     [
+      "Đồng ý ngay cho bạn vui",
+      "Agree right away to please her",
+      0,
+      "Muốn bạn vui là đáng quý, nhưng mua khi không cần là tốn tiền của ba mẹ.",
+      "Wanting to please her is sweet, but buying what you don’t need spends your parents’ money."
+     ],
+     [
+      "“Cặp tớ còn tốt nên tớ dùng tiếp. Hay mình làm móc khoá giống nhau từ vải vụn?”",
+      "“My bag is still good so I’ll keep it. How about we make matching keyrings from scraps?”",
+      1,
+      "Từ chối nhẹ nhàng và gợi ý cách khác giúp giữ tình bạn mà vẫn mua ít.",
+      "A kind no plus another idea keeps the friendship and avoids buying."
+     ],
+     [
+      "Nói dối là ba mẹ không cho",
+      "Fib that your parents said no",
+      0,
+      "Nói thật lý do của mình sẽ được bạn tôn trọng hơn.",
+      "Telling your real reason earns more respect."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba câu hỏi và ba ngày chờ",
+    "Three questions, three days’ wait"
+   ],
+   "s": [
+    "Con chọn một món đang muốn mua, viết câu trả lời cho 3 câu hỏi (có thật cần? có dùng lâu? có dùng lại đồ cũ được?), chờ 3 ngày rồi cùng ba mẹ quyết định.",
+    "Pick something you want to buy, write answers to 3 questions (Do I need it? Will I use it long? Can I reuse what I have?), wait 3 days, then decide with your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con trả lời từng câu và đánh dấu ngày chờ trên lịch.",
+     "Your parent answers each question with you and marks the waiting days."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết và tự đếm ngày chờ.",
+     "With one reminder, you write the answers and count the days yourself."
+    ],
+    [
+     "Con tự làm, sau 3 ngày nói rõ con vẫn muốn hay đổi ý và vì sao.",
+     "You do it all and, after 3 days, explain whether you still want it and why."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng làm một món đồ thủ công từ đồ cũ",
+    "The family makes a craft from old things together"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Thuyết phục cả nhà sống xanh",
+   "Persuading my family to go green"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An muốn cả nhà tắt hẳn ổ cắm tivi, quạt khi không dùng. Lần trước An chỉ nói: “Nhà mình phí điện quá!” và chẳng ai thay đổi gì.",
+   "An wants the family to switch off the TV and fan at the wall when not in use. Last time An just said, “We waste so much electricity!” and nothing changed."
+  ],
+  "cq": [
+   "Lần này An nên nói thế nào?",
+   "How should An say it this time?"
+  ],
+  "co": [
+   [
+    "Chuẩn bị ngắn gọn: một con số trên hoá đơn điện, một ví dụ dễ hiểu và một đề xuất cụ thể “cả nhà thử một tuần”",
+    "Prepare briefly: one number from the electricity bill, a clear example and a concrete “let’s try for a week”",
+    1,
+    "Số liệu cho thấy lý do, ví dụ giúp dễ hiểu, đề xuất nhỏ giúp mọi người dễ đồng ý.",
+    "Numbers show why, examples make it clear, and a small ask is easy to agree to."
+   ],
+   [
+    "Nói to hơn và nhắc nhiều lần hơn",
+    "Say it louder and more often",
+    0,
+    "Nói to và nhắc mãi dễ làm mọi người khó chịu. Một lời đề xuất rõ ràng hiệu quả hơn.",
+    "Loud, repeated nagging annoys people. A clear proposal works better."
+   ],
+   [
+    "Tự đi rút hết phích mà không nói với ai",
+    "Unplug everything without telling anyone",
+    0,
+    "Làm mà không bàn trước có thể làm người khác bất ngờ, khó chịu. Hãy rủ cả nhà cùng làm.",
+    "Doing it without discussing can surprise and annoy people. Invite everyone in."
+   ]
+  ],
+  "qq": [
+   "Muốn thuyết phục người khác, cần gì?",
+   "To persuade people, you need…"
+  ],
+  "qo": [
+   [
+    "Số liệu, ví dụ và một đề xuất cụ thể",
+    "Facts, an example and a concrete suggestion"
+   ],
+   [
+    "Nói to và nhiều lần",
+    "Saying it loudly and often"
+   ],
+   [
+    "Bắt mọi người phải làm theo",
+    "Making everyone do it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho mỗi bạn hai phút trình bày một ý tưởng giúp lớp xanh hơn. An muốn lớp dùng mặt sau giấy nháp.",
+     "Each pupil gets two minutes to pitch an idea for a greener class. An wants everyone to use the back of scrap paper."
+    ],
+    "q": [
+     "An nên trình bày thế nào?",
+     "How should An present it?"
+    ],
+    "o": [
+     [
+      "Nói “dùng giấy hai mặt đi” rồi về chỗ",
+      "Say “use both sides” and sit down",
+      0,
+      "Ý tốt nhưng quá ngắn thì khó thuyết phục. Thêm lý do và cách làm nhé.",
+      "A good idea that’s too brief won’t persuade. Add a reason and a plan."
+     ],
+     [
+      "Kể thật nhiều chuyện về môi trường cho dài",
+      "Talk at length about the environment to fill the time",
+      0,
+      "Dài quá thì các bạn khó nhớ. Ngắn gọn, rõ ràng sẽ thuyết phục hơn.",
+      "Too long is hard to remember. Short and clear persuades better."
+     ],
+     [
+      "Cho xem chồng giấy một mặt lớp bỏ đi trong một tuần, đề xuất đặt hộp “giấy còn một mặt” cạnh bàn cô",
+      "Show a week’s pile of one-sided paper and propose a “one side left” box by the teacher’s desk",
+      1,
+      "Thứ nhìn thấy được và một việc dễ làm khiến cả lớp muốn thử ngay.",
+      "Something people can see and an easy step makes the class want to try."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhà An hay đi xe máy ra chợ gần nhà dù chỉ cách vài trăm mét. An muốn rủ ba đi bộ.",
+     "An’s family usually rides the motorbike to the market, even though it’s only a few hundred metres away. An wants Dad to walk instead."
+    ],
+    "q": [
+     "An nên nói thế nào?",
+     "How should An put it?"
+    ],
+    "o": [
+     [
+      "“Ba lười đi bộ quá!”",
+      "“Dad, you’re too lazy to walk!”",
+      0,
+      "Chê người khác làm họ không muốn nghe. Hãy nói về lợi ích và rủ cùng làm.",
+      "Criticising makes people stop listening. Talk about benefits and invite them."
+     ],
+     [
+      "“Ba ơi, chợ gần nên mình đi bộ được ạ, vừa bớt khói xe vừa được nói chuyện. Thứ Bảy này mình thử nhé?”",
+      "“Dad, the market’s close enough to walk, less fumes and more time to chat. Shall we try this Saturday?”",
+      1,
+      "Lý do rõ, lợi ích cho cả hai và một lần thử cụ thể rất dễ được đồng ý.",
+      "A clear reason, shared benefits and one concrete try are easy to say yes to."
+     ],
+     [
+      "Không nói, vì ba sẽ không nghe",
+      "Say nothing, Dad won’t listen",
+      0,
+      "Con chưa thử nói khéo thì chưa biết đâu. Một đề xuất nhỏ đáng thử lắm.",
+      "You won’t know until you try a well-put suggestion. It’s worth a go."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai phút thuyết trình xanh",
+    "My two-minute green pitch"
+   ],
+   "s": [
+    "Con chuẩn bị và trình bày 2 phút trước cả nhà về một thay đổi xanh (có một con số, một ví dụ, một đề xuất), rồi mời cả nhà cùng thử trong một tuần.",
+    "Prepare and give a 2-minute talk to the family about one green change (with a number, an example and a suggestion), then invite everyone to try it for a week."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con tìm con số và tập nói trước một lần.",
+     "Your parent helps find the number and you rehearse together once."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và trình bày.",
+     "With one reminder, you prepare and present it yourself."
+    ],
+    [
+     "Con tự làm, trả lời câu hỏi của cả nhà và cuối tuần báo lại kết quả.",
+     "You do it all, answer the family’s questions and report back at the end of the week."
+    ]
+   ],
+   "rw": [
+    "Cả nhà vỗ tay và con được chọn món tráng miệng trái cây cho bữa tối",
+    "A round of applause and you choose the fruit for dessert"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Kiên nhẫn khi kết quả đến chậm",
+   "Patience when results come slowly"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp An gieo hạt đậu trong cốc giấy. Một tuần rồi, cốc của bạn bên cạnh đã nhú mầm, cốc của An vẫn chỉ là đất. An bực mình muốn đổ đi gieo lại.",
+   "An’s class planted beans in paper cups. After a week, the cup next door has sprouted but An’s is still just soil. An is fed up and wants to tip it out and start again."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đổ đi gieo lại ngay",
+    "Tip it out and replant right away",
+    0,
+    "Gieo lại thì phải chờ từ đầu. Có khi hạt chỉ cần thêm vài ngày nữa thôi.",
+    "Replanting means starting the wait again. The seed might just need a few more days."
+   ],
+   [
+    "Hít thở, hỏi cô cách chăm, ghi lại mỗi ngày đất ẩm thế nào và chờ thêm",
+    "Take a breath, ask the teacher how to care for it, note the soil each day and wait a bit longer",
+    1,
+    "Mọi thứ lớn theo tốc độ riêng. Ghi lại từng ngày giúp mình thấy thay đổi nhỏ và bớt sốt ruột.",
+    "Everything grows at its own pace. A daily note shows small changes and eases impatience."
+   ],
+   [
+    "Tưới thật nhiều nước cho nhanh lên",
+    "Water it loads to speed it up",
+    0,
+    "Nóng vội tưới nhiều có thể làm hạt úng. Kiên nhẫn chăm đúng cách sẽ tốt hơn.",
+    "Rushing with too much water can drown the seed. Patient, proper care works better."
+   ]
+  ],
+  "qq": [
+   "Khi kết quả đến chậm, điều gì giúp mình giữ động lực?",
+   "When results are slow, what keeps you going?"
+  ],
+  "qo": [
+   [
+    "So sánh với bạn",
+    "Comparing with others"
+   ],
+   [
+    "Ghi lại tiến bộ nhỏ mỗi ngày",
+    "Noting small daily progress"
+   ],
+   [
+    "Đổi sang việc khác ngay",
+    "Switching to something else at once"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An tập đàn bài mới đã hai tuần mà vẫn vấp ở đoạn giữa. An muốn bỏ.",
+     "An has practised a new piano piece for two weeks and still stumbles in the middle. An wants to quit."
+    ],
+    "q": [
+     "An có thể làm gì?",
+     "What could An do?"
+    ],
+    "o": [
+     [
+      "Bỏ bài này, chọn bài dễ hơn",
+      "Drop it and pick an easier piece",
+      0,
+      "Đổi bài thì mất công sức hai tuần. Thử tập riêng đoạn khó đã nhé.",
+      "Switching wastes two weeks of work. Try practising just the hard part first."
+     ],
+     [
+      "Tập riêng đoạn khó thật chậm, nghe lại bản ghi tuần trước để thấy mình đã tiến bộ",
+      "Practise just the tricky bit slowly and listen to last week’s recording to hear the progress",
+      1,
+      "Nghe lại bản cũ giúp mình thấy tiến bộ mà mình không để ý. Đó là động lực tốt.",
+      "Hearing an old recording reveals progress you didn’t notice. That’s great motivation."
+     ],
+     [
+      "Tập liền ba tiếng một lúc",
+      "Practise for three hours straight",
+      0,
+      "Tập quá lâu dễ mệt và chán hơn. Ngắn mà đều hiệu quả hơn.",
+      "Very long sessions are tiring. Short and regular works better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Tháng này cả nhà An thử bớt rác nhựa. Đi chợ với mẹ, An thấy túi nhựa vẫn còn nhiều và nghĩ: “Chẳng có tác dụng gì.”",
+     "This month An’s family is cutting plastic. At the market with Mum, An still sees lots of plastic bags and thinks, “It’s not working.”"
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An think about it?"
+    ],
+    "o": [
+     [
+      "“Thôi bỏ đi, chẳng ích gì”",
+      "“Forget it, it’s pointless”",
+      0,
+      "Thay đổi cần thời gian. Bỏ sớm thì không bao giờ thấy được kết quả.",
+      "Change takes time. Quit early and you never see results."
+     ],
+     [
+      "“Nhà mình mới làm được một tuần”, rồi về đếm số túi tuần này so với tuần trước",
+      "“We’ve only done one week,” then count this week’s bags against last week’s",
+      1,
+      "So với chính mình hôm qua giúp thấy tiến bộ thật, dù còn nhỏ.",
+      "Comparing with your own past shows real progress, however small."
+     ],
+     [
+      "Trách mẹ vẫn lấy túi nhựa",
+      "Blame Mum for still taking bags",
+      0,
+      "Trách nhau làm cả nhà nản. Cùng xem lại và động viên nhau sẽ tốt hơn.",
+      "Blame makes everyone lose heart. Review and encourage each other instead."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm một tiến bộ nhỏ",
+    "Spot a small step forward"
+   ],
+   "s": [
+    "Con xem lại bảng thói quen (hoặc một việc con đang tập) và kể với ba mẹ một tiến bộ nhỏ con đã có, dù rất nhỏ, kèm một câu con tự động viên mình.",
+    "Look back at your habit chart (or something you’re practising) and tell your parent about one small improvement, however tiny, plus one encouraging thing you say to yourself."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xem bảng và giúp con tìm tiến bộ.",
+     "Your parent looks at the chart with you and helps spot progress."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm và kể.",
+     "With one reminder, you find it and tell them."
+    ],
+    [
+     "Con tự ghi tiến bộ vào bảng, kể lại và đặt bước nhỏ tiếp theo.",
+     "You write the progress on your chart, share it and set the next small step."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ phải kiên nhẫn rất lâu mới làm được",
+    "Your parent tells you about a time they needed lots of patience"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng nhận lỗi của nhóm",
+   "Owning a team mistake"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở lớp vẽ của nhà văn hoá, nhóm An bốn bạn cùng pha màu. Lúc dọn, cả nhóm làm đổ hộp nước màu ra sàn. Cô hỏi ai làm, các bạn chỉ vào Bảo vì bạn đứng gần nhất.",
+   "At the community centre art class, An’s group of four mix paints together. Tidying up, they knock a pot of paint water over. The teacher asks who did it and everyone points at Bảo, who was nearest."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Im lặng cho xong chuyện",
+    "Keep quiet to get it over with",
+    0,
+    "Im lặng để một bạn chịu thay thì không công bằng. Cả nhóm cùng làm thì cùng nhận.",
+    "Letting one friend take the blame isn’t fair. A team mistake belongs to everyone."
+   ],
+   [
+    "Nói: “Bảo đứng gần nên chắc là Bảo”",
+    "Say, “Bảo was nearest, so it must be him”",
+    0,
+    "Đổ cho một người làm bạn buồn và cả nhóm mất đoàn kết.",
+    "Blaming one person hurts them and splits the team."
+   ],
+   [
+    "Nói: “Thưa cô, cả nhóm em cùng dọn nên chúng em cùng làm đổ ạ”, rồi cả nhóm lấy giẻ lau",
+    "Say, “Our whole group was tidying, so we all knocked it over,” and grab cloths together",
+    1,
+    "Nói “chúng em” và cùng sửa giúp nhóm gắn bó và được tin tưởng hơn.",
+    "Saying “we” and fixing it together builds trust and team spirit."
+   ]
+  ],
+  "qq": [
+   "Khi cả nhóm cùng mắc lỗi, nên làm gì?",
+   "When a whole team makes a mistake…"
+  ],
+  "qo": [
+   [
+    "Tìm một người để nhận",
+    "Find one person to blame"
+   ],
+   [
+    "Ai cũng im lặng",
+    "Everyone stays quiet"
+   ],
+   [
+    "Cùng nhận lỗi và cùng sửa",
+    "Own it together and fix it together"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà cùng làm bánh, ai cũng góp tay. Bánh bị cháy vì không ai để ý giờ nướng. Em Tí khóc vì nghĩ tại mình.",
+     "The family bakes together, everyone helping. The cake burns because nobody watched the timer. Little Tí cries, thinking it’s his fault."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Đúng rồi, tại em mải chơi”",
+      "“Yes, it’s your fault for playing”",
+      0,
+      "Cả nhà cùng làm thì cùng chịu. Đổ cho em làm em buồn thêm.",
+      "The whole family did it, so it’s shared. Blaming him makes it worse."
+     ],
+     [
+      "“Cả nhà mình cùng quên mà. Lần sau mình đặt đồng hồ hẹn giờ nhé”",
+      "“We all forgot. Next time let’s set a timer”",
+      1,
+      "Nói “mình” giúp em bớt sợ, và một cách sửa cụ thể giúp lần sau tốt hơn.",
+      "Saying “we” calms him, and a concrete fix helps next time."
+     ],
+     [
+      "Không nói gì, để ba mẹ dỗ em",
+      "Say nothing and let your parents comfort him",
+      0,
+      "Một câu nói của con cũng giúp em nhẹ lòng nhiều đấy.",
+      "A few words from you could really comfort him."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Nhóm An nộp bài thuyết trình bị thiếu trang cuối vì không ai kiểm tra lại. Cô hỏi nhóm trưởng là An.",
+     "An’s group handed in a presentation missing the last page because nobody checked it. The teacher asks An, the group leader."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“Thưa cô, nhóm em chưa kiểm tra kỹ. Chúng em xin nộp bổ sung trong hôm nay ạ”",
+      "“We didn’t check carefully. We’d like to hand in the missing page today”",
+      1,
+      "Nhận lỗi chung và đưa ra cách sửa ngay thể hiện tinh thần trách nhiệm của cả nhóm.",
+      "Owning it together with a fix shows the whole team is responsible."
+     ],
+     [
+      "“Tại bạn Huy in thiếu ạ”",
+      "“Huy didn’t print it all”",
+      0,
+      "Cả nhóm cùng chưa kiểm tra, không chỉ một bạn. Nói “chúng em” công bằng hơn.",
+      "Nobody checked, not just one person. Saying “we” is fairer."
+     ],
+     [
+      "“Em không biết ạ”",
+      "“I don’t know”",
+      0,
+      "Né tránh thì cô khó giúp nhóm. Nói thật và đề xuất cách sửa sẽ tốt hơn.",
+      "Dodging makes it hard to help. Honesty plus a fix is better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nói “chúng ta” và cùng sửa",
+    "Say “we” and fix it together"
+   ],
+   "s": [
+    "Con nhớ lại một lỗi chung trong nhà (như cả nhà quên tưới cây, để bếp bừa), cùng một người thân nói câu bắt đầu bằng “Chúng ta…” và cùng làm một việc sửa.",
+    "Think of a shared mistake at home (like everyone forgetting to water the plants), say a sentence starting with “We…” with a family member, and fix it together."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý lỗi và nói mẫu, con nói theo rồi cùng sửa.",
+     "Your parent suggests the mistake and models the line; you repeat it and fix it together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn lỗi, tự nói và rủ người thân cùng sửa.",
+     "With one reminder, you choose the mistake, say it and invite someone to fix it."
+    ],
+    [
+     "Con tự nhận ra một lỗi chung, nói “chúng ta”, cùng sửa và đề xuất cách tránh lần sau.",
+     "You spot a shared mistake, say “we”, fix it together and suggest how to avoid it next time."
+    ]
+   ],
+   "rw": [
+    "Con được chọn câu chuyện ba mẹ đọc tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự đặt nội quy cho mình",
+   "Setting my own rules"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ hay phải nhắc An: “Làm bài đi con”, “Cất máy tính bảng đi con”, “Đi ngủ thôi”. An thấy khó chịu vì bị nhắc suốt, mẹ thì mệt vì phải nhắc.",
+   "Mum is always reminding An, “Do your homework,” “Put the tablet away,” “Bedtime.” An hates being nagged and Mum is tired of nagging."
+  ],
+  "cq": [
+   "An có thể làm gì?",
+   "What could An do?"
+  ],
+  "co": [
+   [
+    "Tự viết 3 quy tắc cho mình, ví dụ “làm bài xong mới dùng máy tính bảng”, nhờ mẹ xem và ký, dán ở bàn học",
+    "Write 3 rules for yourself, like “homework before tablet,” ask Mum to check and sign, and stick them on your desk",
+    1,
+    "Quy tắc mình tự đặt thì mình dễ giữ hơn, và mẹ không phải nhắc nhiều.",
+    "Rules you set yourself are easier to keep, and Mum nags less."
+   ],
+   [
+    "Xin mẹ đừng nhắc nữa",
+    "Ask Mum to stop reminding",
+    0,
+    "Mẹ nhắc vì muốn con làm tốt. Nếu con tự có quy tắc, mẹ sẽ yên tâm bớt nhắc.",
+    "Mum reminds because she cares. With your own rules, she can relax."
+   ],
+   [
+    "Đặt thật nhiều quy tắc cho chắc",
+    "Set loads of rules to be safe",
+    0,
+    "Nhiều quá thì khó nhớ, khó giữ. Bắt đầu với vài quy tắc quan trọng nhất.",
+    "Too many are hard to remember. Start with a few that matter most."
+   ]
+  ],
+  "qq": [
+   "Nội quy tự đặt nên thế nào?",
+   "Your own rules should be…"
+  ],
+  "qo": [
+   [
+    "Ít, rõ ràng và mình giữ được",
+    "Few, clear and doable"
+   ],
+   [
+    "Càng nhiều càng tốt",
+    "As many as possible"
+   ],
+   [
+    "Chỉ cần nghĩ trong đầu",
+    "Just kept in your head"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ tự học ở lớp, An hay nói chuyện với bạn bên cạnh nên làm bài chậm.",
+     "During independent study, An keeps chatting with the neighbour and works slowly."
+    ],
+    "q": [
+     "An có thể tự đặt quy tắc gì?",
+     "What rule could An set?"
+    ],
+    "o": [
+     [
+      "Đổi chỗ ngồi mà không hỏi cô",
+      "Move seats without asking",
+      0,
+      "Đổi chỗ cần cô đồng ý. Thử một quy tắc cho chính mình trước nhé.",
+      "Moving needs the teacher’s okay. Try a rule for yourself first."
+     ],
+     [
+      "Đợi cô nhắc mới thôi nói chuyện",
+      "Wait for the teacher to say stop",
+      0,
+      "Chờ người khác nhắc thì mình chưa tự quản được. Mình có thể tự đặt giới hạn.",
+      "Waiting to be told means you’re not managing yourself yet."
+     ],
+     [
+      "“Làm xong một bài mới nói chuyện, và chỉ nói nhỏ”, rồi rủ bạn cùng giữ",
+      "“Finish one task before chatting, and only whisper,” and invite the friend to join in",
+      1,
+      "Một quy tắc rõ, dễ làm và có bạn cùng giữ giúp mình tự quản tốt hơn.",
+      "A clear, simple rule shared with a friend helps you manage yourself."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cuối tuần An hay sang nhà Nam chơi ngay trong xóm, nhưng lần nào cũng về muộn và quên nhắn ba mẹ.",
+     "At weekends An often visits Nam just down the road, but always comes home late and forgets to tell Mum and Dad."
+    ],
+    "q": [
+     "An nên đặt quy tắc gì?",
+     "What rule should An set?"
+    ],
+    "o": [
+     [
+      "Cùng ba mẹ thống nhất giờ về, báo trước khi đi và nhờ mẹ Nam nhắn khi sắp về",
+      "Agree a home time with your parents, tell them before going, and ask Nam’s mum to message when you’re leaving",
+      1,
+      "Quy tắc rõ về giờ về và báo tin giúp ba mẹ yên tâm, con được tự do hơn.",
+      "Clear rules about time and checking in reassure parents and give you more freedom."
+     ],
+     [
+      "Chơi đến khi chán thì về",
+      "Play until bored, then come home",
+      0,
+      "Không có giờ cụ thể thì ba mẹ lo. Một giờ hẹn rõ sẽ tốt cho cả nhà.",
+      "No set time worries your parents. A clear time is better for everyone."
+     ],
+     [
+      "Nói ba mẹ đừng lo, con tự biết",
+      "Tell them not to worry, you’ve got it",
+      0,
+      "Tự biết là tốt, nhưng ba mẹ cần biết con ở đâu và khi nào về.",
+      "Being sensible is great, but parents need to know where you are and when you’ll be back."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba quy tắc của con",
+    "My three rules"
+   ],
+   "s": [
+    "Con viết 3 quy tắc cho bản thân (ngắn, rõ, làm được), nhờ ba mẹ ký xác nhận và thử giữ một tuần. Cuối tuần kể lại quy tắc nào dễ, quy tắc nào khó.",
+    "Write 3 rules for yourself (short, clear, doable), ask your parent to sign them and try keeping them for a week. At the end, say which was easy and which was hard."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn và viết 3 quy tắc.",
+     "Your parent helps you choose and write the 3 rules."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết rồi nhờ ba mẹ ký.",
+     "With one reminder, you write them and ask for a signature."
+    ],
+    [
+     "Con tự viết, tự giữ cả tuần và đề xuất sửa một quy tắc nếu cần.",
+     "You write them, keep them all week and suggest changing one if needed."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dành một buổi chiều làm điều con muốn cùng con",
+    "Your parent spends an afternoon doing something you choose"
+   ]
+  }
+ }
+]

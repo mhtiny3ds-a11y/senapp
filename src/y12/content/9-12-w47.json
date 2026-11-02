@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Đặt câu hỏi hay",
+   "Asking good questions"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ Khoa học, cô dạy rằng lá cây chuyển màu vàng vào mùa thu. Cả lớp chép vào vở để học thuộc. An cũng chép, nhưng vẫn thấy chưa hiểu lắm.",
+   "In science, the teacher explains that leaves turn yellow in autumn. The class copies it down to learn by heart. An copies it too but doesn’t really understand."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hỏi cô: “Vì sao lá lại đổi màu ạ? Nếu cây ở nơi nóng quanh năm thì sao ạ?”",
+    "Ask, “Why do leaves change colour? What if a tree lives somewhere hot all year?”",
+    1,
+    "Hỏi “vì sao” và “nếu… thì sao” giúp con hiểu sâu, nhớ lâu hơn học thuộc.",
+    "Asking “why” and “what if” builds real understanding that lasts longer than memorising."
+   ],
+   [
+    "Học thuộc là đủ, không cần hiểu",
+    "Learning it by heart is enough",
+    0,
+    "Học thuộc mà không hiểu thì dễ quên. Một câu hỏi hay giúp con nhớ lâu.",
+    "Memorising without understanding fades fast. A good question makes it stick."
+   ],
+   [
+    "Sợ bị cười nên không hỏi",
+    "Don’t ask in case people laugh",
+    0,
+    "Câu hỏi thật lòng không bao giờ đáng cười. Nhiều bạn có khi cũng đang thắc mắc như con.",
+    "A genuine question is never silly. Others may be wondering too."
+   ]
+  ],
+  "qq": [
+   "Câu hỏi nào giúp hiểu sâu hơn?",
+   "Which question builds deeper understanding?"
+  ],
+  "qo": [
+   [
+    "“Cái này có trong bài kiểm tra không?”",
+    "“Is this in the test?”"
+   ],
+   [
+    "“Chép đến đâu rồi?”",
+    "“Where are we up to?”"
+   ],
+   [
+    "“Vì sao lại như vậy, và nếu khác đi thì sao?”",
+    "“Why is it like that, and what if it were different?”"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bà nấu canh, cho muối vào nồi rồi muối tan biến mất. Em Tí hỏi An: “Muối đi đâu rồi?”",
+     "Grandma adds salt to the soup and it disappears. Little Tí asks An, “Where did the salt go?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo em “hỏi linh tinh”",
+      "Tell him it’s a silly question",
+      0,
+      "Câu hỏi của em rất hay. Cùng tìm hiểu sẽ vui hơn gạt đi.",
+      "His question is great. Exploring it together beats brushing it off."
+     ],
+     [
+      "Cùng em hỏi bà, rồi thử hoà muối vào cốc nước, nếm xem nước có mặn không",
+      "Ask Grandma together, then dissolve salt in a glass and taste whether the water is salty",
+      1,
+      "Hỏi tiếp và thử tận mắt giúp cả hai hiểu “vì sao”, không chỉ biết “là gì”.",
+      "Asking more and testing it helps you both understand why, not just what."
+     ],
+     [
+      "Đoán đại một câu trả lời",
+      "Make up an answer",
+      0,
+      "Đoán đại có thể sai. Cùng hỏi người lớn và thử nghiệm sẽ chắc hơn.",
+      "A guess might be wrong. Asking and testing is more reliable."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi bảo tàng cùng ba, An thấy bộ xương khủng long rất to. Bảng ghi tên và chiều dài.",
+     "At the museum with Dad, An sees a huge dinosaur skeleton. The sign shows its name and length."
+    ],
+    "q": [
+     "An có thể làm gì để hiểu hơn?",
+     "What could An do to learn more?"
+    ],
+    "o": [
+     [
+      "Chụp ảnh tấm bảng rồi đi tiếp",
+      "Take a photo of the sign and move on",
+      0,
+      "Chụp ảnh là một cách nhớ, nhưng đặt câu hỏi sẽ giúp con hiểu nhiều hơn.",
+      "A photo helps you remember, but questions help you understand."
+     ],
+     [
+      "Đọc nhanh cho xong",
+      "Skim it quickly",
+      0,
+      "Đọc lướt dễ quên. Dừng lại hỏi một câu sẽ khác hẳn.",
+      "Skimming fades fast. Stopping to ask one question makes a difference."
+     ],
+     [
+      "Hỏi ba hoặc cô hướng dẫn: “Làm sao người ta biết nó dài như thế ạ? Nếu thiếu xương thì sao ạ?”",
+      "Ask Dad or the guide, “How do they know how long it was? What if bones are missing?”",
+      1,
+      "Câu hỏi “làm sao biết” giúp con hiểu cách người ta tìm ra kiến thức.",
+      "“How do they know?” helps you see how knowledge is discovered."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm câu hỏi “vì sao”",
+    "Five “why” questions"
+   ],
+   "s": [
+    "Con đặt 5 câu hỏi “vì sao” hoặc “nếu… thì sao” về một chủ đề con thích, viết ra giấy và cùng ba mẹ tìm lời giải cho một câu (qua sách hoặc hỏi người biết).",
+    "Write 5 “why” or “what if” questions about a topic you love, then find the answer to one with your parent (in a book or by asking someone who knows)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý chủ đề và cùng con viết câu hỏi.",
+     "Your parent suggests a topic and writes the questions with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết 5 câu rồi cùng tìm lời giải.",
+     "With one reminder, you write 5 questions and then look for an answer together."
+    ],
+    [
+     "Con tự viết, tự tìm lời giải cho một câu và giải thích lại cho ba mẹ bằng lời của mình.",
+     "You write them, find one answer yourself and explain it in your own words."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đến thư viện, con được chọn sách mượn",
+    "A family trip to the library; you pick the books"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "An toàn khi có điện thoại riêng",
+   "Staying safe with my own phone"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba mẹ cho An một chiếc điện thoại đơn giản để liên lạc khi đi học. Tối đầu tiên, có số lạ nhắn: “Chúc mừng em trúng thưởng, gửi tên và địa chỉ để nhận quà nhé!”",
+   "Mum and Dad give An a simple phone to keep in touch after school. On the first evening, an unknown number texts, “Congratulations, you’ve won a prize! Send your name and address to claim it!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Trả lời hỏi xem quà gì",
+    "Reply asking what the prize is",
+    0,
+    "Trả lời số lạ cho họ biết số này có người dùng. Không trả lời mới an toàn.",
+    "Replying tells them the number is active. Not replying is safer."
+   ],
+   [
+    "Gửi tên thôi, không gửi địa chỉ",
+    "Send just your name, not your address",
+    0,
+    "Không gửi bất kỳ thông tin nào cho số lạ, kể cả tên. Hãy đưa ba mẹ xem.",
+    "Never send any details to strangers, not even your name. Show your parents."
+   ],
+   [
+    "Không trả lời, không bấm vào gì, đưa ngay cho ba mẹ xem",
+    "Don’t reply or tap anything, and show Mum or Dad straight away",
+    1,
+    "Tin nhắn lạ hứa quà thường là lừa. Báo ngay ba mẹ là cách bảo vệ mình tốt nhất.",
+    "Strange messages promising prizes are usually tricks. Telling your parents is the best protection."
+   ]
+  ],
+  "qq": [
+   "Khi có số lạ nhắn tin hoặc gọi, con nên làm gì?",
+   "If an unknown number messages or calls, you should…"
+  ],
+  "qo": [
+   [
+    "Không trả lời và báo ba mẹ",
+    "Not reply and tell your parents"
+   ],
+   [
+    "Trả lời lịch sự",
+    "Reply politely"
+   ],
+   [
+    "Gửi thông tin nếu họ hứa tặng quà",
+    "Send details if they promise a gift"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, Nam xin số điện thoại của An để cho vào nhóm chat lớp. Một bạn lớp khác An không quen cũng xin số.",
+     "At school, Nam asks for An’s number for the class group chat. A child from another class An doesn’t know also asks for it."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cho cả hai cho vui",
+      "Give it to both, why not",
+      0,
+      "Số điện thoại là thông tin riêng. Chỉ cho người quen và theo thoả thuận với ba mẹ.",
+      "Your number is private. Only share with people you know, as agreed with your parents."
+     ],
+     [
+      "Nói sẽ hỏi ba mẹ trước, và chỉ lưu số người quen theo thoả thuận của nhà mình",
+      "Say you’ll ask your parents first, and only save numbers of people you know as agreed at home",
+      1,
+      "Hỏi ba mẹ trước khi chia sẻ số giúp con giữ an toàn mà vẫn lịch sự.",
+      "Checking with your parents before sharing keeps you safe and polite."
+     ],
+     [
+      "Từ chối gay gắt cả hai",
+      "Snap no at both",
+      0,
+      "Từ chối cũng có thể nhẹ nhàng: “Mình hỏi ba mẹ đã nhé.”",
+      "You can say no kindly: “Let me ask my parents first.”"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Chờ ba đón ở cổng trường, có người lạ nói: “Cho chú mượn điện thoại gọi nhờ một chút.”",
+     "Waiting for Dad at the school gate, a stranger says, “Can I borrow your phone for a quick call?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đưa điện thoại cho người đó",
+      "Hand the phone over",
+      0,
+      "Không đưa đồ của mình cho người lạ. Hãy lùi lại, đứng gần bác bảo vệ hoặc thầy cô.",
+      "Don’t hand your things to strangers. Step back and stay near the guard or a teacher."
+     ],
+     [
+      "Đi theo người đó ra chỗ khác cho dễ gọi",
+      "Walk off with them somewhere quieter",
+      0,
+      "Không bao giờ đi cùng người lạ. Ở lại chỗ đông người, gần người lớn quen.",
+      "Never go anywhere with a stranger. Stay where it’s busy, near grown-ups you know."
+     ],
+     [
+      "Lễ phép nói “Cháu xin lỗi, không được ạ”, đến đứng cạnh bác bảo vệ hoặc cô giáo và kể lại",
+      "Politely say, “Sorry, I can’t,” go and stand by the guard or a teacher and tell them",
+      1,
+      "Từ chối ngắn gọn rồi đến cạnh người lớn tin cậy là cách giữ an toàn.",
+      "A short no, then moving next to a trusted grown-up, keeps you safe."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thoả thuận dùng điện thoại",
+    "Our phone agreement"
+   ],
+   "s": [
+    "Con cùng ba mẹ viết bản thoả thuận dùng điện thoại gồm 5 điều (như chỉ lưu số người quen, không trả lời số lạ, không gửi thông tin riêng, giờ cất máy, có gì lạ báo ngay). Cả hai cùng ký.",
+    "With your parent, write a 5-point phone agreement (like only saving people you know, not answering unknown numbers, not sharing private details, a time to put it away, telling them about anything odd). Both of you sign it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý từng điều, con viết và giải thích lại.",
+     "Your parent suggests each point; you write it and explain it back."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đề xuất 5 điều rồi cùng chỉnh.",
+     "With one reminder, you suggest 5 points and refine them together."
+    ],
+    [
+     "Con tự đề xuất, giải thích vì sao có từng điều và nói con sẽ làm gì nếu gặp tin nhắn lạ.",
+     "You suggest them, explain each one and say what you’d do with a strange message."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con chơi đố vui an toàn, con thắng được chọn bữa tối",
+    "A safety quiz with your parent; win and you choose dinner"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Biết nói “không” để giữ thời gian",
+   "Saying no to protect my time"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Chiều thứ Năm, An đã có buổi tập đàn và bài văn phải nộp hôm sau. Ở sân chung cư, có mẹ Mai ngồi gần đó, Mai rủ An ở lại chơi đến tối và mai lại chơi tiếp.",
+   "On Thursday afternoon An already has piano practice and an essay due the next day. In the apartment courtyard, with Mai’s mum nearby, Mai asks An to stay and play until evening and again tomorrow."
+  ],
+  "cq": [
+   "An nên trả lời thế nào?",
+   "How should An answer?"
+  ],
+  "co": [
+   [
+    "Đồng ý hết cho Mai vui",
+    "Say yes to everything to keep Mai happy",
+    0,
+    "Nhận lời khi đã kín lịch thì việc nào cũng dở dang, lại phải thức khuya.",
+    "Saying yes when you’re full means everything suffers and bedtime slips."
+   ],
+   [
+    "“Hôm nay tớ phải tập đàn và viết văn. Thứ Bảy mình chơi nhé?”",
+    "“Today I’ve got piano and my essay. How about Saturday?”",
+    1,
+    "Từ chối lịch sự kèm lý do và hẹn lúc khác giúp giữ thời gian mà vẫn giữ tình bạn.",
+    "A polite no with a reason and another time protects your time and the friendship."
+   ],
+   [
+    "Không nói gì rồi bỏ về",
+    "Just walk off without a word",
+    0,
+    "Bỏ về im lặng làm bạn buồn. Một lời giải thích ngắn tốt hơn nhiều.",
+    "Leaving silently upsets your friend. A short explanation is much better."
+   ]
+  ],
+  "qq": [
+   "Khi đã quá nhiều việc mà có người rủ thêm, nên làm gì?",
+   "When your schedule is full and someone asks for more…"
+  ],
+  "qo": [
+   [
+    "Luôn đồng ý",
+    "Always say yes"
+   ],
+   [
+    "Từ chối lịch sự và hẹn lúc khác",
+    "Say no politely and suggest another time"
+   ],
+   [
+    "Lờ đi không trả lời",
+    "Ignore them"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An đang ôn bài cho bài kiểm tra ngày mai. Em Tí năn nỉ An chơi trò xếp hình cùng cả tối.",
+     "An is revising for tomorrow’s test. Little Tí begs An to play a puzzle game all evening."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chơi với em cả tối, mai tính sau",
+      "Play all evening and worry tomorrow",
+      0,
+      "Thương em là tốt, nhưng bài kiểm tra cũng quan trọng. Có thể hẹn em lúc khác.",
+      "Being kind to him is lovely, but the test matters too. You can play later."
+     ],
+     [
+      "Quát em đi ra chỗ khác",
+      "Shout at him to go away",
+      0,
+      "Quát làm em buồn. Nói nhẹ nhàng và hẹn giờ chơi sẽ tốt hơn.",
+      "Shouting hurts. A gentle word and a set play time is better."
+     ],
+     [
+      "“Chị/anh ôn xong lúc 8 giờ sẽ chơi với em 15 phút nhé”",
+      "“I’ll finish revising at 8, then play with you for 15 minutes”",
+      1,
+      "Hẹn giờ rõ ràng giúp em yên tâm và con vẫn giữ được thời gian học.",
+      "A clear time reassures him and protects your study time."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô hỏi ai muốn tham gia thêm đội trang trí lớp. An đã ở đội văn nghệ và đội thư viện.",
+     "The teacher asks who wants to join the class decorating team. An is already on the performance team and library team."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giơ tay nhận vì sợ cô không vui",
+      "Volunteer in case the teacher is disappointed",
+      0,
+      "Nhận quá nhiều thì khó làm tốt việc nào. Cô sẽ hiểu nếu con nói rõ.",
+      "Taking on too much means doing none well. The teacher will understand."
+     ],
+     [
+      "Nói với cô: “Em đang ở hai đội rồi ạ, lần sau em xin tham gia ạ”",
+      "Tell the teacher, “I’m on two teams already, I’d like to join next time”",
+      1,
+      "Biết giới hạn của mình và nói rõ là cách quản lý thời gian trưởng thành.",
+      "Knowing your limits and saying so is grown-up time management."
+     ],
+     [
+      "Nhận rồi thỉnh thoảng mới đến",
+      "Join and only turn up sometimes",
+      0,
+      "Nhận mà không làm được thì đội phải chờ. Từ chối từ đầu tốt hơn.",
+      "Signing up and not showing leaves the team waiting. Saying no upfront is better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bớt một việc, tập từ chối",
+    "Drop one thing, practise saying no"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem lịch tuần, chọn một việc có thể bớt hoặc dời, rồi tập với ba mẹ một câu từ chối lịch sự có lý do và hẹn lúc khác.",
+    "Look at your week with your parent, choose one thing to drop or move, then practise a polite no with a reason and another time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu câu từ chối, con nói theo trong vai diễn.",
+     "Your parent models the line; you repeat it in a role-play."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn việc và tự nghĩ câu từ chối.",
+     "With one reminder, you choose the activity and create the line."
+    ],
+    [
+     "Con tự làm, dùng câu từ chối thật một lần trong tuần và kể lại kết quả.",
+     "You do it all, use it for real once this week and report back."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dành 20 phút chơi cầu lông hoặc đá cầu cùng con",
+    "20 minutes of badminton or shuttlecock with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Để dành cho tương lai xa",
+   "Saving for the long term"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mỗi lần có tiền, An để dành cho đồ chơi rồi lại tiêu hết. Mẹ kể hồi nhỏ mẹ để dành mấy năm mới đủ mua chiếc xe đạp đi học. An tò mò: “Để dành lâu thế để làm gì ạ?”",
+   "Whenever An gets money, it’s saved for a toy and soon spent. Mum says as a child she saved for years to buy a bike for school. An wonders, “Why save for so long?”"
+  ],
+  "cq": [
+   "An có thể làm gì?",
+   "What could An do?"
+  ],
+  "co": [
+   [
+    "Cùng mẹ chọn một mục tiêu lớn như bộ sách học hay khoá học bơi, để riêng một phần nhỏ mỗi lần có tiền vào hộp “tương lai”",
+    "Choose a big goal with Mum, like a set of study books or swimming lessons, and put a small part of any money in a “future” box",
+    1,
+    "Để dành một phần đều đặn cho mục tiêu lớn giúp con làm được điều mà tiêu lặt vặt không bao giờ đủ.",
+    "Regularly saving a part for a big goal lets you reach things small spending never could."
+   ],
+   [
+    "Tiêu hết vì tương lai còn xa",
+    "Spend it all, the future is far away",
+    0,
+    "Xa nhưng sẽ đến. Để dành từng chút từ bây giờ thì sau này nhẹ hơn.",
+    "Far, but it will come. A little now makes it easier later."
+   ],
+   [
+    "Để dành toàn bộ, không tiêu đồng nào",
+    "Save every single đồng",
+    0,
+    "Tiết kiệm hết thì khó giữ lâu. Chia phần tiêu, phần để dành sẽ bền hơn.",
+    "Saving everything is hard to keep up. Splitting spend and save lasts longer."
+   ]
+  ],
+  "qq": [
+   "Để dành dài hạn hiệu quả cần gì?",
+   "Long-term saving works best with…"
+  ],
+  "qo": [
+   [
+    "Để dành khi nào còn thừa",
+    "Saving whatever’s left over"
+   ],
+   [
+    "Để tất cả tiền vào một lần",
+    "Putting it all in at once"
+   ],
+   [
+    "Mục tiêu rõ và để riêng một phần đều đặn",
+    "A clear goal and a regular amount set aside"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô kể về việc lập “quỹ lớp” để cuối năm cả lớp đi tham quan. Huy nói: “Lâu quá, góp làm gì.”",
+     "The teacher talks about a class fund for an end-of-year trip. Huy says, “That’s ages away, why bother?”"
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "What should An think?"
+    ],
+    "o": [
+     [
+      "Đồng ý với Huy",
+      "Agree with Huy",
+      0,
+      "Mục tiêu xa cần bắt đầu sớm. Góp từng chút thì đến cuối năm mới đủ.",
+      "Far-off goals need an early start. Small amounts add up by the end of the year."
+     ],
+     [
+      "Cùng tính: mỗi tháng góp một ít theo lời cô và ba mẹ đồng ý, đến cuối năm sẽ đủ cho chuyến đi",
+      "Work it out: a little each month, as agreed with the teacher and parents, will be enough by the end of the year",
+      1,
+      "Chia mục tiêu lớn thành phần nhỏ đều đặn giúp mục tiêu xa trở nên làm được.",
+      "Splitting a big goal into small regular parts makes it achievable."
+     ],
+     [
+      "Đợi gần ngày đi mới góp một lần",
+      "Pay it all just before the trip",
+      0,
+      "Dồn một lần thì khó đủ. Đều đặn từng tháng nhẹ nhàng hơn.",
+      "One big payment is hard to manage. Monthly is gentler."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi nhà sách với mẹ, An thấy bộ từ điển mình ao ước giá 300.000 đồng. Hộp tiết kiệm của An mới có 60.000 đồng, An thấy nản.",
+     "At the bookshop with Mum, An sees the dictionary set they’ve dreamed of, priced at 300,000 đồng. An’s savings box only has 60,000 đồng, and An feels discouraged."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ghi lại giá, về tính mỗi tuần cần để dành thêm bao nhiêu và vẽ thanh tiến độ lên hộp",
+      "Note the price, work out how much to add each week at home and draw a progress bar on the box",
+      1,
+      "Biết rõ còn thiếu bao nhiêu và chia nhỏ theo tuần giúp mục tiêu xa không còn đáng nản.",
+      "Knowing the gap and splitting it by week makes a far goal feel doable."
+     ],
+     [
+      "Thôi bỏ, lâu quá",
+      "Give up, it’ll take forever",
+      0,
+      "Con đã có 60.000 đồng rồi, đó là bước đầu quan trọng. Đừng bỏ giữa chừng nhé.",
+      "You’ve already got 60,000 đồng, a great start. Don’t stop halfway."
+     ],
+     [
+      "Năn nỉ mẹ mua luôn",
+      "Beg Mum to buy it now",
+      0,
+      "Tự để dành cho món mình muốn giúp con biết quý nó hơn khi có được.",
+      "Saving for it yourself makes it more special when you get it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mục tiêu để dành dài hạn",
+    "A long-term savings goal"
+   ],
+   "s": [
+    "Con cùng ba mẹ đặt một mục tiêu để dành dài hạn (như bộ sách, khoá học), ước tính số tiền cần và tính mỗi tuần cần để dành bao nhiêu, rồi viết lên hộp tiết kiệm.",
+    "With your parent, set a long-term savings goal (like a book set or a course), estimate the cost and work out how much to save each week, then write it on your savings box."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn mục tiêu và làm phép tính.",
+     "Your parent helps choose the goal and do the maths."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tính rồi trình bày.",
+     "With one reminder, you work it out and present it."
+    ],
+    [
+     "Con tự tính, vẽ thanh tiến độ trên hộp và tô phần đầu tiên tuần này.",
+     "You work it out, draw a progress bar on the box and colour in the first part this week."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể về món đồ ba mẹ đã để dành rất lâu mới mua được",
+    "Your parent tells you about something they saved a long time for"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Chia sẻ điều mình đã học",
+   "Sharing what I’ve learned"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cuối năm, cô mời mỗi bạn kể một kỹ năng mình tiến bộ nhất. An định nói: “Em giỏi quản lý thời gian hơn ạ” rồi ngồi xuống.",
+   "At the end of the year, the teacher invites everyone to share the skill they’ve improved most. An plans to say, “I’m better at managing time,” and sit down."
+  ],
+  "cq": [
+   "An nên chia sẻ thế nào cho rõ?",
+   "How could An share it more clearly?"
+  ],
+  "co": [
+   [
+    "Kể thật nhiều kỹ năng cho ấn tượng",
+    "List loads of skills to impress",
+    0,
+    "Nhiều quá thì người nghe khó nhớ. Một kỹ năng kèm ví dụ rõ sẽ ấn tượng hơn.",
+    "Too many is hard to remember. One skill with a clear example impresses more."
+   ],
+   [
+    "Chỉ nói một câu là đủ",
+    "One sentence is enough",
+    0,
+    "Một câu thì các bạn chưa hình dung được. Thêm ví dụ thật sẽ dễ hiểu hơn.",
+    "One line doesn’t paint a picture. A real example makes it clear."
+   ],
+   [
+    "Nói kỹ năng, kể một ví dụ thật: “Trước em hay thức khuya, giờ em dùng sổ lịch và làm bài xong trước 9 giờ”",
+    "Name the skill and give a real example: “I used to stay up late; now I use a planner and finish by 9”",
+    1,
+    "Kỹ năng kèm ví dụ trước – sau giúp người khác hiểu và có khi muốn thử theo.",
+    "A skill with a before-and-after example helps others understand and maybe try it."
+   ]
+  ],
+  "qq": [
+   "Chia sẻ điều đã học hiệu quả cần gì?",
+   "Sharing what you’ve learned works best with…"
+  ],
+  "qo": [
+   [
+    "Kỹ năng kèm một ví dụ thật",
+    "The skill plus a real example"
+   ],
+   [
+    "Thật nhiều từ khó",
+    "Lots of big words"
+   ],
+   [
+    "Nói càng ngắn càng tốt",
+    "As few words as possible"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ông hỏi An năm nay ở trường học được gì hay. Ông không quen những từ như “kỹ năng tư duy phản biện”.",
+     "Grandpa asks what An learned this year. He isn’t familiar with phrases like “critical thinking skills”."
+    ],
+    "q": [
+     "An nên kể thế nào?",
+     "How should An explain?"
+    ],
+    "o": [
+     [
+      "Dùng đúng từ trong sách cho chuẩn",
+      "Use the textbook words exactly",
+      0,
+      "Từ khó làm ông khó hiểu. Kể bằng lời đơn giản và ví dụ sẽ gần gũi hơn.",
+      "Hard words confuse Grandpa. Simple words and examples are friendlier."
+     ],
+     [
+      "Kể bằng lời đơn giản: “Giờ cháu biết hỏi ‘có bằng chứng không’ trước khi tin quảng cáo”, rồi kể một lần cháu làm thế",
+      "Use simple words: “Now I ask ‘Where’s the proof?’ before believing adverts,” and describe a time you did",
+      1,
+      "Lời giản dị kèm chuyện thật giúp mọi lứa tuổi đều hiểu.",
+      "Plain words with a real story work for every age."
+     ],
+     [
+      "Nói “nhiều lắm ông ạ” rồi thôi",
+      "Say “Lots, Grandpa” and stop",
+      0,
+      "Ông muốn nghe con kể. Một ví dụ nhỏ cũng làm ông vui lắm.",
+      "Grandpa wants to hear. Even one small example will delight him."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi sinh hoạt hè khu phố, cô phụ trách mời An kể cho các em nhỏ một mẹo giữ an toàn khi đi đường.",
+     "At a neighbourhood summer activity, the leader asks An to tell younger kids one road-safety tip."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói nhanh cho xong vì ngại",
+      "Rush through it out of shyness",
+      0,
+      "Nói nhanh các em khó theo kịp. Chậm rãi và làm mẫu sẽ dễ hiểu hơn.",
+      "Rushing loses young listeners. Slow down and demonstrate."
+     ],
+     [
+      "Nói chậm, làm mẫu “dừng lại – nhìn hai bên – nắm tay người lớn”, rồi cho các em làm theo",
+      "Speak slowly, demonstrate “stop, look both ways, hold a grown-up’s hand”, then let them copy",
+      1,
+      "Làm mẫu và cho người nghe thử giúp kiến thức được nhớ lâu.",
+      "Demonstrating and letting listeners try makes learning stick."
+     ],
+     [
+      "Kể thật nhiều quy tắc một lúc",
+      "Pile on lots of rules at once",
+      0,
+      "Các em nhỏ nhớ tốt nhất một hai điều. Chọn mẹo quan trọng nhất thôi.",
+      "Little ones remember one or two things best. Choose the key tip."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba kỹ năng con đã tiến bộ",
+    "Three skills I’ve improved"
+   ],
+   "s": [
+    "Con kể cho cả nhà 3 kỹ năng con đã tiến bộ trong năm, mỗi kỹ năng kèm một ví dụ thật “trước đây… bây giờ…”.",
+    "Tell the family about 3 skills you’ve improved this year, each with a real “I used to… now I…” example."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nhớ lại và chọn ví dụ.",
+     "Your parent helps you remember and pick examples."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và kể.",
+     "With one reminder, you prepare and share."
+    ],
+    [
+     "Con tự kể đủ 3 kỹ năng, mời mỗi người trong nhà kể lại một kỹ năng của họ.",
+     "You share all 3 and invite each family member to share one of theirs."
+    ]
+   ],
+   "rw": [
+    "Cả nhà xem lại ảnh cũ và kể chuyện về năm qua",
+    "The family looks through old photos and remembers the year"
+   ]
+  }
+ }
+]

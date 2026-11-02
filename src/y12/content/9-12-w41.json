@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Cả nhà phân loại rác",
+   "Sorting waste as a family"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Nhà An vừa thống nhất phân loại rác: giấy, nhựa và rác thức ăn. Mới hai ngày, em đã bỏ lẫn hết vào một túi, ba cũng quên.",
+   "An’s family has just agreed to sort rubbish: paper, plastic and food waste. After two days, her brother is putting everything in one bag and Dad forgets too."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đề nghị cả nhà dán nhãn có hình lên từng túi và nhắc nhau nhẹ nhàng mỗi tối",
+    "Suggest picture labels on each bag and gentle reminders for everyone each evening",
+    1,
+    "Quy tắc chung dễ giữ khi rõ ràng và ai cũng nhắc nhau, không phải một người gánh hết.",
+    "Shared rules stick when they’re clear and everyone reminds each other, not one person doing it all."
+   ],
+   [
+    "Tự phân loại lại hết rồi cáu với cả nhà",
+    "Re-sort everything herself and get cross",
+    0,
+    "Con rất có trách nhiệm, nhưng làm một mình sẽ mệt. Cùng tìm cách để mọi người dễ nhớ hơn.",
+    "Very responsible, but doing it alone is tiring. Find a way to help everyone remember."
+   ],
+   [
+    "Bỏ luôn vì không ai làm",
+    "Give up because nobody does it",
+    0,
+    "Thói quen mới cần thời gian. Nhãn và lời nhắc sẽ giúp cả nhà quen dần.",
+    "New habits take time. Labels and reminders help everyone get used to it."
+   ]
+  ],
+  "qq": [
+   "Để cả nhà giữ được một thói quen chung, cần…",
+   "For a family to keep a shared habit, you need…"
+  ],
+  "qo": [
+   [
+    "Một người làm hộ tất cả",
+    "One person to do it for everyone"
+   ],
+   [
+    "Phạt người quên",
+    "Punishing whoever forgets"
+   ],
+   [
+    "Quy tắc rõ ràng và nhắc nhau mỗi ngày",
+    "Clear rules and reminding each other daily"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp An đặt ba thùng phân loại rác. Huy vứt chai nhựa vào thùng giấy và bảo: “Thùng nào chẳng được.”",
+     "An’s class has three sorting bins. Huy throws a plastic bottle in the paper bin and says, “Any bin will do.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mắng Huy trước lớp",
+      "Tell Huy off in front of everyone",
+      0,
+      "Mắng làm bạn ngượng. Nhắc nhẹ và giải thích sẽ giúp bạn nhớ lâu hơn.",
+      "Scolding embarrasses him. A gentle reminder helps it stick."
+     ],
+     [
+      "Mặc kệ, một chai không sao",
+      "Let it go, one bottle doesn’t matter",
+      0,
+      "Một chai thì nhỏ, nhưng thói quen của cả lớp thì lớn. Một lời nhắc giúp nhiều.",
+      "One bottle is small, but the class habit is big. A reminder helps."
+     ],
+     [
+      "Nhắc Huy thùng đúng và đề xuất cả lớp vẽ hình minh hoạ lên mỗi thùng",
+      "Show Huy the right bin and suggest the class draws pictures on each one",
+      1,
+      "Nhắc nhẹ và làm quy tắc dễ thấy giúp cả lớp cùng giữ thói quen.",
+      "Gentle reminders and visible rules help the whole class keep the habit."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An cùng gia đình đi dã ngoại với nhà Linh. Ăn xong, mọi người định gom hết rác vào một túi to.",
+     "An’s family is picnicking with Linh’s family. After eating, everyone is about to put all the rubbish in one big bag."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Để người lớn lo",
+      "Leave it to the adults",
+      0,
+      "Người lớn sẽ vui khi con góp ý. Con hiểu việc phân loại mà.",
+      "The adults would welcome your idea. You know how to sort."
+     ],
+     [
+      "Phân loại phần của nhà mình thôi",
+      "Only sort her own family’s rubbish",
+      0,
+      "Làm phần mình là tốt, nhưng rủ cả hai nhà cùng làm sẽ dễ và vui hơn.",
+      "Doing your bit is good, but inviting both families is easier and more fun."
+     ],
+     [
+      "Đề nghị chia làm hai túi: vỏ hộp nhựa riêng, thức ăn thừa riêng, và cùng mọi người làm",
+      "Suggest two bags: plastic tubs in one, food scraps in the other, and help everyone do it",
+      1,
+      "Mang thói quen gia đình ra ngoài và mời mọi người cùng làm là cách lan toả việc tốt.",
+      "Taking a family habit outdoors and inviting others to join spreads good practice."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba túi phân loại có nhãn",
+    "Three labelled sorting bags"
+   ],
+   "s": [
+    "Con cùng cả nhà làm 3 túi hoặc hộp phân loại rác (giấy, nhựa, rác thức ăn), vẽ nhãn có hình dán lên, và dùng thử trong một ngày. Tối đó cả nhà xem lại có bỏ đúng không.",
+    "With the family, make 3 sorting bags or boxes (paper, plastic, food waste), draw picture labels for them and try them for a day. That evening, check together whether things went in the right place."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con làm nhãn và nhắc mọi người trong ngày.",
+     "Your parent makes labels with you and reminds everyone during the day."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm nhãn và giới thiệu cho cả nhà.",
+     "With one reminder, you make the labels and explain them to the family."
+    ],
+    [
+     "Con tự làm, giới thiệu, kiểm tra cuối ngày và đề xuất một cách giúp mọi người nhớ hơn.",
+     "You make them, present them, check at the end of the day and suggest a way to remember better."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con tự làm một món đồ chơi từ đồ tái chế",
+    "Your parent helps you make a toy from recycled materials"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự chăm một chậu cây",
+   "Caring for my own plant"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Mỗi tổ trong lớp nhận một chậu cây. Tổ An phân công An tưới thứ Hai, thứ Tư, nhưng tuần này An quên cả hai buổi.",
+   "Each class group has a plant. An’s group gave her Mondays and Wednesdays to water it, but this week she forgot both."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tưới thật nhiều bù cho hai buổi",
+    "Give it loads of water to make up",
+    0,
+    "Tưới dồn dễ làm úng rễ. Tưới đều theo lịch mới tốt cho cây.",
+    "Too much at once can rot roots. Regular watering is what plants need."
+   ],
+   [
+    "Nhận lỗi với tổ, tưới ngay, ghi lịch vào góc vở và đánh dấu mỗi lần tưới",
+    "Own up to the group, water it now, write the schedule in her notebook and tick each time",
+    1,
+    "Lịch ghi ra và đánh dấu giúp con tự nhớ, không cần người khác nhắc.",
+    "A written schedule with ticks helps you remember without reminders."
+   ],
+   [
+    "Nhờ bạn khác tưới thay luôn",
+    "Ask someone else to take over",
+    0,
+    "Việc mình nhận thì mình làm. Một cái lịch nhỏ sẽ giúp con giữ được việc.",
+    "Your job is yours. A small schedule helps you keep it."
+   ]
+  ],
+  "qq": [
+   "Tự chăm cây đều đặn dễ hơn khi…",
+   "Caring for a plant regularly is easier when…"
+  ],
+  "qo": [
+   [
+    "Có lịch do mình đặt và đánh dấu mỗi lần làm",
+    "You have your own schedule and tick each time"
+   ],
+   [
+    "Nhớ ra thì tưới",
+    "You water when you remember"
+   ],
+   [
+    "Tưới thật nhiều một lần",
+    "You give lots of water at once"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ giao An chăm chậu húng quế trên ban công. Tuần đầu An tưới mỗi ngày, tuần sau quên ba ngày liền, lá bắt đầu rũ.",
+     "Mum gave An a basil pot on the balcony. In week one she watered daily; in week two she forgot three days running and the leaves are drooping."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đặt lịch tưới dán cạnh cửa ban công, đánh dấu mỗi lần tưới và xem lá mỗi tuần",
+      "Make a watering chart by the balcony door, tick each time and check the leaves weekly",
+      1,
+      "Lịch do chính con đặt và tự đánh dấu là cách giữ trách nhiệm lâu dài.",
+      "A schedule you set and tick yourself keeps responsibility going."
+     ],
+     [
+      "Nhờ mẹ tưới hộ từ giờ",
+      "Ask Mum to water it from now on",
+      0,
+      "Mẹ giúp thì cây sống, nhưng con mất cơ hội tự chăm. Thử lập lịch trước nhé.",
+      "Mum could keep it alive, but you’d lose the chance to care for it. Try a schedule first."
+     ],
+     [
+      "Chỉ tưới khi thấy lá rũ",
+      "Only water when leaves droop",
+      0,
+      "Đợi lá rũ là cây đã khát lâu rồi. Tưới đều theo lịch cây sẽ khoẻ hơn.",
+      "Drooping means it’s been thirsty a while. Regular watering keeps it healthy."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở vườn chung của khu nhà, An nhận một luống rau nhỏ cùng bà. Cỏ mọc nhanh, An chỉ ra vườn khi nào nhớ.",
+     "In the estate’s shared garden, An and Grandma have a small vegetable patch. Weeds grow fast, and An only goes when she remembers."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cùng bà đặt lịch: chiều thứ Ba và thứ Sáu ra vườn tưới và nhổ cỏ 15 phút",
+      "Set a schedule with Grandma: Tuesday and Friday afternoons for 15 minutes of watering and weeding",
+      1,
+      "Lịch cố định biến việc chăm cây thành thói quen, cây lớn đều và bà cũng đỡ vất vả.",
+      "A fixed schedule turns care into habit, helps the plants grow and eases Grandma’s load."
+     ],
+     [
+      "Để bà làm vì bà giỏi hơn",
+      "Leave it to Grandma, she’s better",
+      0,
+      "Bà giỏi nên bà có thể dạy con. Cùng làm theo lịch con sẽ học được nhiều.",
+      "Grandma’s skill means she can teach you. Working on a schedule teaches a lot."
+     ],
+     [
+      "Nhổ cỏ thật nhiều một lần rồi nghỉ lâu",
+      "Do a huge weeding once then stop for ages",
+      0,
+      "Làm dồn một lần rồi bỏ thì cỏ lại mọc kín. Ít mà đều hiệu quả hơn.",
+      "One big effort then nothing lets weeds return. Little and often works better."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một tuần chăm chậu cây",
+    "A week caring for a plant"
+   ],
+   "s": [
+    "Con nhận chăm một chậu cây trong nhà suốt một tuần: tự kẻ lịch tưới, dán cạnh chậu, đánh dấu mỗi lần tưới và vẽ hoặc ghi lại cây thay đổi thế nào. Cuối tuần ba mẹ xem lịch.",
+    "Look after one plant at home for a week: draw a watering chart, stick it by the pot, tick each watering and draw or note how the plant changes. Your parent checks the chart at the weekend."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ lịch và nhắc con mỗi lần tưới.",
+     "Your parent draws the chart with you and reminds you to water."
+    ],
+    [
+     "Ba mẹ nhắc ngày đầu, các ngày sau con tự tưới và đánh dấu.",
+     "Your parent reminds you on day one; you water and tick on the other days."
+    ],
+    [
+     "Con tự làm đủ cả tuần không cần nhắc và kể một thay đổi nhỏ con thấy ở cây.",
+     "You manage the whole week without reminders and describe one small change you noticed."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con vẽ tranh chậu cây con đã chăm",
+    "Your parent draws a picture of your plant with you"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Bớt đồ nhựa dùng một lần",
+   "Cutting single-use plastic"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi chợ cùng mẹ, mỗi món đều được bỏ vào một túi ni lông riêng. Về nhà, An đếm được 9 chiếc túi chỉ dùng một lần.",
+   "At the market with Mum, every item went into its own plastic bag. At home, An counts 9 bags used just once."
+  ],
+  "cq": [
+   "An có thể đề xuất gì?",
+   "What could An suggest?"
+  ],
+  "co": [
+   [
+    "Vứt hết túi vào thùng rác",
+    "Throw all the bags away",
+    0,
+    "Túi đã có rồi thì dùng lại được, như đựng rác. Lần sau mang giỏ để bớt từ đầu.",
+    "Bags you already have can be reused, like as bin liners. Bring a basket next time."
+   ],
+   [
+    "Ngại nói với người bán nên thôi",
+    "Feel too shy to tell sellers and do nothing",
+    0,
+    "Một câu lễ phép “Không cần túi ạ” rất dễ nói, có mẹ bên cạnh lại càng dễ.",
+    "A polite “No bag, thanks” is easy to say, especially with Mum beside you."
+   ],
+   [
+    "Lần sau cùng mẹ mang giỏ và hộp, lễ phép nói với người bán “Không cần túi ạ”",
+    "Next time bring a basket and boxes with Mum, and politely tell sellers “No bag, thanks”",
+    1,
+    "Một vật dùng nhiều lần thay được rất nhiều túi dùng một lần.",
+    "One reusable item replaces lots of single-use bags."
+   ]
+  ],
+  "qq": [
+   "Cách bớt đồ nhựa dùng một lần là…",
+   "A way to cut single-use plastic is…"
+  ],
+  "qo": [
+   [
+    "Không mua gì nữa",
+    "Stop buying anything"
+   ],
+   [
+    "Tìm thứ thay thế dùng được nhiều lần",
+    "Find reusable alternatives"
+   ],
+   [
+    "Chỉ dùng nhựa vào cuối tuần",
+    "Only use plastic at weekends"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà An mỗi ngày mua vài chai nước nhỏ. Cuối tuần, thùng rác đầy vỏ chai nhựa.",
+     "An’s family buys several small water bottles a day. By the weekend, the bin is full of plastic bottles."
+    ],
+    "q": [
+     "An nên đề xuất gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Mua chai to hơn cho ít vỏ",
+      "Buy bigger bottles for fewer empties",
+      0,
+      "Chai to vẫn dùng một lần. Bình riêng dùng mãi sẽ bớt nhiều hơn.",
+      "Big bottles are still single-use. A refillable one cuts much more."
+     ],
+     [
+      "Mỗi người một bình nước riêng, rót nước đun sôi để nguội ở nhà mang theo",
+      "Each person gets their own bottle filled with cooled boiled water from home",
+      1,
+      "Bình dùng nhiều lần thay cho hàng trăm chai mỗi năm, lại tiết kiệm tiền.",
+      "A reusable bottle replaces hundreds of plastic ones a year and saves money."
+     ],
+     [
+      "Không uống nước nữa cho đỡ rác",
+      "Drink less water to cut rubbish",
+      0,
+      "Uống đủ nước rất quan trọng. Chỉ cần đổi sang bình dùng nhiều lần.",
+      "Drinking enough matters. Just switch to a refillable bottle."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Căng tin trường phát ống hút nhựa cho mỗi hộp sữa. Lớp An mỗi ngày bỏ cả nắm ống hút.",
+     "The school canteen hands out a plastic straw with every milk carton. An’s class throws away handfuls every day."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Lấy hai ống cho chắc",
+      "Take two straws just in case",
+      0,
+      "Lấy thêm chỉ tăng rác. Thử uống không ống hút hoặc mang ống riêng nhé.",
+      "Extra just adds rubbish. Try without, or bring your own."
+     ],
+     [
+      "Cùng lớp đề xuất với cô: bạn nào không cần thì không lấy, hoặc mang ống hút dùng nhiều lần",
+      "Suggest to the teacher with the class: don’t take one unless needed, or bring reusable straws",
+      1,
+      "Bớt từ chỗ không cần thật sự là cách đơn giản nhất. Đề xuất chung thì nhiều bạn cùng làm.",
+      "Cutting what isn’t needed is simplest. A shared proposal gets many on board."
+     ],
+     [
+      "Nghĩ một lớp không thay đổi được gì",
+      "Think one class can’t change anything",
+      0,
+      "Mỗi ngày một nắm, cả năm là cả thùng. Một lớp cũng tạo khác biệt.",
+      "A handful a day is a bin a year. One class makes a difference."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba đồ nhựa, ba cách thay",
+    "Three plastics, three swaps"
+   ],
+   "s": [
+    "Con đi quanh nhà, liệt kê 3 đồ nhựa dùng một lần hay gặp (túi ni lông, chai nước, hộp xốp…) và đề xuất với ba mẹ một cách thay thế cho mỗi thứ. Cả nhà chọn một cách làm thử tuần này.",
+    "Go round the house, list 3 common single-use plastics (bags, bottles, takeaway boxes…) and suggest a swap for each to your parent. The family picks one to try this week."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con tìm và gợi ý cách thay.",
+     "Your parent searches with you and suggests swaps."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm và tự đề xuất.",
+     "With one reminder, you find and suggest them yourself."
+    ],
+    [
+     "Con tự làm, nhắc cả nhà thực hiện cách đã chọn và kể sau một tuần bớt được bao nhiêu.",
+     "You do it, remind the family to follow the chosen swap and report how much was saved after a week."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con trang trí túi vải hoặc bình nước riêng",
+    "Your parent helps you decorate your own cloth bag or water bottle"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Chữ “xanh” trên bao bì có thật?",
+   "Is “green” on the label true?"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở siêu thị cùng ba, An thấy một hộp bút ghi to “Thân thiện môi trường!” với hình lá cây xanh, giá đắt hơn hộp bên cạnh. An muốn mua ngay.",
+   "At the supermarket with Dad, An sees a pencil case box saying “Eco-friendly!” in big letters with green leaves, costing more than the one next to it. She wants it straight away."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Cùng ba đọc kỹ bao bì xem có thông tin cụ thể: làm từ vật liệu tái chế bao nhiêu phần, có dùng lâu được không",
+    "Read the packaging closely with Dad for specifics: how much recycled material, whether it lasts",
+    1,
+    "Lời giới thiệu chung chung chưa đủ. Thông tin cụ thể mới cho biết điều đó có thật hay không.",
+    "Vague claims aren’t enough. Specific facts show whether it’s true."
+   ],
+   [
+    "Tin luôn vì có hình lá cây",
+    "Believe it because of the leaves",
+    0,
+    "Hình ảnh xanh dễ làm mình tin, nhưng hình ảnh không phải bằng chứng.",
+    "Green pictures are persuasive, but pictures aren’t proof."
+   ],
+   [
+    "Không tin bất kỳ lời nào trên bao bì",
+    "Don’t believe anything on packaging",
+    0,
+    "Có sản phẩm thân thiện thật. Kiểm tra thông tin cụ thể sẽ giúp con phân biệt.",
+    "Some products really are greener. Checking specifics helps you tell them apart."
+   ]
+  ],
+  "qq": [
+   "Muốn biết lời “thân thiện môi trường” có thật, con nên…",
+   "To know if an “eco-friendly” claim is true, you should…"
+  ],
+  "qo": [
+   [
+    "Tìm thông tin cụ thể chứng minh lời đó",
+    "Look for specific information that proves it"
+   ],
+   [
+    "Nhìn màu xanh và hình lá cây",
+    "Look for green colours and leaves"
+   ],
+   [
+    "Chọn cái đắt nhất",
+    "Choose the most expensive"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ mua chai nước rửa bát ghi “100% tự nhiên”. An thắc mắc: “Thế nghĩa là gì hả mẹ?”",
+     "Mum bought washing-up liquid labelled “100% natural”. An wonders, “What does that actually mean?”"
+    ],
+    "q": [
+     "An và mẹ nên làm gì?",
+     "What should An and Mum do?"
+    ],
+    "o": [
+     [
+      "Chữ to trên nhãn chắc chắn đúng",
+      "Big words on the label must be true",
+      0,
+      "Chữ to là để thu hút. Phần chữ nhỏ thường nói rõ hơn.",
+      "Big letters are there to attract you. The small print usually says more."
+     ],
+     [
+      "Thôi không cần biết",
+      "Never mind, it doesn’t matter",
+      0,
+      "Tò mò là bước đầu của tư duy phản biện. Cùng mẹ tìm hiểu nhé.",
+      "Curiosity is the start of critical thinking. Look into it with Mum."
+     ],
+     [
+      "Cùng đọc phần thành phần và tìm thông tin rõ ràng chứng minh cho lời ghi trên nhãn",
+      "Read the ingredients together and look for clear facts that back up the label",
+      1,
+      "Câu hỏi của con rất hay. Tìm bằng chứng cụ thể là cách kiểm tra mọi lời quảng cáo.",
+      "Great question. Looking for specific evidence is how to check any claim."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bảo khoe bình nước mới và nói: “Bình này xanh nhất, quảng cáo bảo thế!” Cả nhóm định đi mua giống Bảo.",
+     "Bảo shows off his new bottle: “This is the greenest one, the advert said so!” The group plans to buy the same."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "Mua giống Bảo cho chắc",
+      "Buy the same as Bảo to be safe",
+      0,
+      "Bạn tin quảng cáo chưa chắc là đúng. Kiểm tra thông tin rồi hãy mua.",
+      "A friend trusting an ad doesn’t make it true. Check first."
+     ],
+     [
+      "Chê bình của Bảo là đồ rởm",
+      "Tell Bảo his bottle is rubbish",
+      0,
+      "Chê bạn làm bạn buồn mà chưa có bằng chứng. Cùng tìm hiểu thì vui hơn.",
+      "Mocking upsets him without proof. Finding out together is nicer."
+     ],
+     [
+      "“Quảng cáo nói vậy, nhưng mình xem bình làm từ gì và dùng được bao lâu đã nhé”",
+      "“The advert says so, but let’s check what it’s made of and how long it lasts”",
+      1,
+      "Hỏi “bằng chứng đâu?” giúp cả nhóm chọn sáng suốt. Bình nào dùng lâu cũng là bình xanh.",
+      "Asking “where’s the proof?” helps everyone choose wisely. Any bottle you use for years is green."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thám tử bao bì",
+    "Packaging detective"
+   ],
+   "s": [
+    "Con cùng ba mẹ đọc bao bì 2 sản phẩm trong nhà có lời giới thiệu như “tự nhiên”, “xanh”, “thân thiện”. Tìm xem có thông tin cụ thể nào chứng minh không, rồi nói con tin đến đâu.",
+    "With your parent, read the packaging of 2 products at home with words like “natural”, “green” or “eco”. Look for specific facts that prove it, then say how far you believe it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ chỗ cần đọc và cùng con tìm.",
+     "Your parent shows where to read and searches with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc và tìm thông tin.",
+     "With one reminder, you read and look for facts yourself."
+    ],
+    [
+     "Con tự chọn sản phẩm, tìm bằng chứng và giải thích lời nào có cơ sở, lời nào chung chung.",
+     "You choose the products, find evidence and explain which claims are backed up and which are vague."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con giải một câu đố vui con chọn",
+    "Your parent solves a puzzle of your choice with you"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "An toàn khi mưa bão, ngập nước",
+   "Staying safe in storms and floods"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Đài báo tối nay có bão, mưa rất to. An định chạy ra đầu ngõ xem nước ngập đến đâu cho biết.",
+   "The forecast says a storm is coming tonight with very heavy rain. An wants to run to the end of the lane to see how high the water gets."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Ra xem một chút rồi về",
+    "Pop out to look and come straight back",
+    0,
+    "Nước ngập có thể che hố sâu hoặc dây điện. Xem tin trên đài cùng ba mẹ là đủ.",
+    "Floodwater can hide holes or cables. Watching the news with your parents is enough."
+   ],
+   [
+    "Ở trong nhà, cùng ba mẹ chuẩn bị đèn pin, nước uống và tránh xa ổ điện ướt",
+    "Stay indoors, help Mum and Dad get torches and drinking water ready, and keep away from wet sockets",
+    1,
+    "Khi mưa bão, trong nhà cùng người lớn là nơi an toàn nhất. Chuẩn bị sẵn giúp cả nhà bình tĩnh.",
+    "In a storm, inside with adults is safest. Getting ready helps the family stay calm."
+   ],
+   [
+    "Chờ mưa to rồi ra lội nước chơi",
+    "Wait for the downpour and go splashing",
+    0,
+    "Lội nước lúc bão rất nguy hiểm. Ở trong nhà và tìm trò chơi cùng cả nhà nhé.",
+    "Wading in a storm is dangerous. Stay in and play something with the family."
+   ]
+  ],
+  "qq": [
+   "Khi mưa bão, điều đúng là…",
+   "In a storm, the right thing is…"
+  ],
+  "qo": [
+   [
+    "Ra ngoài xem cho biết",
+    "Go out to have a look"
+   ],
+   [
+    "Lội nước chơi cho vui",
+    "Splash in the water for fun"
+   ],
+   [
+    "Ở trong nhà, tránh chỗ ngập và dây điện, làm theo người lớn",
+    "Stay indoors, avoid floods and cables, and follow adults"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trời mưa lớn, sân trường ngập. Trường cho học sinh về sớm, vài bạn rủ nhau lội nước ra cổng tự về.",
+     "Heavy rain floods the schoolyard. School is letting pupils go early, and some classmates plan to wade to the gate and walk home alone."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ở trong lớp với cô, chờ đến khi ba mẹ đến đón",
+      "Stay in the classroom with the teacher until a parent arrives",
+      1,
+      "Ở nơi khô ráo cùng người lớn tin cậy là an toàn nhất. Ba mẹ biết con ở đâu sẽ đến đón.",
+      "Staying dry with a trusted adult is safest. Your parents know where to find you."
+     ],
+     [
+      "Lội theo các bạn ra cổng",
+      "Wade out with the others",
+      0,
+      "Nước ngập có thể che chỗ trơn hoặc hố. Chờ ba mẹ an toàn hơn nhiều.",
+      "Floodwater hides slippery spots and holes. Waiting is much safer."
+     ],
+     [
+      "Tự đi về một mình cho nhanh",
+      "Walk home alone to be quick",
+      0,
+      "Đường ngập rất khó đoán. Chờ người lớn đến đón nhé.",
+      "Flooded streets are unpredictable. Wait for an adult."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang chơi ở công viên cùng mẹ thì trời đổ mưa giông, sấm chớp. Nhiều người chạy vào trú dưới gốc cây to.",
+     "While playing in the park with Mum, a thunderstorm hits. Lots of people run to shelter under a big tree."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nắm tay mẹ vào trú trong nhà hoặc mái che gần nhất, tránh gốc cây to và cột điện",
+      "Hold Mum’s hand and shelter in the nearest building or covered area, away from big trees and power poles",
+      1,
+      "Khi có sấm chớp, gốc cây to và cột điện không an toàn. Trong nhà cùng mẹ là chỗ tốt nhất.",
+      "In thunder and lightning, big trees and poles aren’t safe. Indoors with Mum is best."
+     ],
+     [
+      "Chạy theo mọi người vào gốc cây",
+      "Follow everyone under the tree",
+      0,
+      "Đông người làm chưa chắc là đúng. Cây cao dễ gặp nguy khi có sét, hãy tìm mái nhà.",
+      "Crowds aren’t always right. Tall trees are risky in lightning; find a building."
+     ],
+     [
+      "Chơi tiếp, mưa chút là tạnh",
+      "Keep playing, it’ll stop soon",
+      0,
+      "Mưa giông có thể kéo dài và nguy hiểm. Vào trú ngay cùng mẹ.",
+      "Thunderstorms can last and be dangerous. Shelter with Mum right away."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Túi đồ khẩn cấp nhỏ",
+    "A small emergency kit"
+   ],
+   "s": [
+    "Con cùng ba mẹ chuẩn bị một túi đồ khẩn cấp nhỏ (đèn pin, nước uống, áo mưa, số điện thoại người thân) và nói được 3 quy tắc an toàn khi mưa bão.",
+    "With your parent, pack a small emergency bag (torch, drinking water, raincoat, family phone numbers) and say 3 safety rules for storms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ và đọc quy tắc để con nói theo.",
+     "Your parent chooses items with you and reads the rules for you to repeat."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự xếp túi và tự nói 3 quy tắc.",
+     "With one reminder, you pack the bag and say the 3 rules yourself."
+    ],
+    [
+     "Con tự lên danh sách, xếp túi, giải thích vì sao mỗi món cần thiết và cất ở chỗ cả nhà biết.",
+     "You write the list, pack it, explain why each item matters and store it where everyone knows."
+    ]
+   ],
+   "rw": [
+    "Cả nhà kể chuyện dưới ánh đèn pin một buổi tối",
+    "A family storytelling evening by torchlight"
+   ]
+  }
+ }
+]

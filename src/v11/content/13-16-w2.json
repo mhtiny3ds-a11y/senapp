@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Lắng nghe khi bạn tâm sự",
+   "Listening when a friend opens up"
+  ],
+  "m": [
+   "11 phút",
+   "11 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, Mai kể với Khoa là dạo này Mai rất mệt vì phải học thêm nhiều. Khoa đang định kể ngay chuyện mình cũng bận không kém.",
+   "At break, Mai tells Khoa she’s been exhausted by all her extra classes. Khoa is about to jump in with how busy Khoa is too."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Kể ngay chuyện của mình để Mai thấy không chỉ Mai vất vả",
+    "Share your own story so Mai knows she’s not alone",
+    0,
+    "Ý tốt, nhưng câu chuyện đã chuyển sang mình mất rồi. Hãy để Mai nói hết trước đã.",
+    "Kind intent, but now the story’s about you. Let Mai finish first."
+   ],
+   [
+    "Hỏi thêm “Mệt nhất là lúc nào?” và nhắc lại điều Mai vừa nói",
+    "Ask “When is it hardest?” and reflect back what Mai said",
+    1,
+    "Hỏi thêm và nhắc lại cho thấy mình thật sự đang nghe. Được lắng nghe, bạn thường thấy nhẹ lòng hơn.",
+    "Asking and reflecting shows you’re really listening. Feeling heard often brings relief."
+   ],
+   [
+    "Đưa lời khuyên ngay: “Cậu bỏ bớt lớp đi”",
+    "Jump to advice: “Just drop a class”",
+    0,
+    "Lời khuyên vội làm bạn thấy mình chưa được nghe. Hỏi trước, khuyên sau — nếu bạn muốn.",
+    "Quick advice can make a friend feel unheard. Ask first, advise later — if they want it."
+   ]
+  ],
+  "qq": [
+   "Lắng nghe chủ động là…",
+   "Active listening means…"
+  ],
+  "qo": [
+   [
+    "Chờ đến lượt mình nói",
+    "Waiting for your turn to talk"
+   ],
+   [
+    "Hỏi thêm và nhắc lại ý người kia",
+    "Asking more and reflecting back"
+   ],
+   [
+    "Đưa lời khuyên thật nhanh",
+    "Giving advice fast"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay mẹ kể với Khoa là hôm nay ở chỗ làm có nhiều việc gấp, mẹ hơi mệt. Khoa đang cầm điện thoại xem dở một đoạn phim.",
+     "Tonight Mum tells Khoa work was hectic and she’s a bit tired. Khoa is halfway through a video on the phone."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Vừa xem vừa “dạ, dạ” cho mẹ yên tâm",
+      "Keep watching and say “mm-hm” now and then",
+      0,
+      "Mẹ sẽ nhận ra mình đang nghe nửa vời. Chỉ cần vài phút tập trung là đủ.",
+      "Mum will notice you’re half there. A few focused minutes is enough."
+     ],
+     [
+      "Bảo mẹ đi nghỉ sớm cho khỏe",
+      "Tell Mum to go and rest",
+      0,
+      "Câu này có ý quan tâm, nhưng khép lại câu chuyện. Hỏi thêm một câu trước rồi mới gợi ý.",
+      "It’s caring, but it closes the conversation. Ask one more question before suggesting."
+     ],
+     [
+      "Đặt điện thoại xuống, nhìn mẹ và hỏi “Việc gì làm mẹ mệt nhất ạ?”",
+      "Put the phone down, look at Mum and ask, “What was the hardest part?”",
+      1,
+      "Đặt điện thoại xuống là cách nói “con đang nghe” mà không cần lời. Câu hỏi mở giúp mẹ kể tiếp.",
+      "Putting the phone down says “I’m listening” without words. An open question helps Mum go on."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên gần nhà, Huy kể với Khoa là nhà Huy sắp chuyển sang quận khác và Huy lo không có bạn mới.",
+     "At the park near home, Huy tells Khoa his family is moving to another district and he’s worried about making new friends."
+    ],
+    "q": [
+     "Khoa nên đáp lại thế nào?",
+     "How should Khoa respond?"
+    ],
+    "o": [
+     [
+      "“Nghe có vẻ hồi hộp thật. Cậu lo nhất điều gì?”",
+      "“That sounds nerve-racking. What worries you most?”",
+      1,
+      "Gọi tên cảm xúc và hỏi thêm giúp bạn nói ra hết nỗi lo. Đó là điều một người bạn tốt làm được.",
+      "Naming the feeling and asking more helps him say it all. That’s what a good friend can do."
+     ],
+     [
+      "“Lo gì, cậu dễ làm quen mà!”",
+      "“Don’t worry, you make friends easily!”",
+      0,
+      "Trấn an vội có thể làm nỗi lo bị gạt đi. Thừa nhận cảm giác của bạn trước đã.",
+      "Quick reassurance can brush the worry aside. Acknowledge the feeling first."
+     ],
+     [
+      "Đổi chủ đề cho Huy đỡ buồn",
+      "Change the subject to cheer Huy up",
+      0,
+      "Né chuyện khó làm Huy thấy chuyện của mình không quan trọng. Ở lại với câu chuyện thêm chút nữa.",
+      "Dodging it tells Huy his worry doesn’t matter. Stay with it a little longer."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Nhận vai trong dự án nhóm",
+   "Choosing roles in a group project"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Khoa có năm bạn làm bài thuyết trình Sinh học về rừng ngập mặn. Ai cũng muốn làm phần thiết kế trang chiếu, không ai muốn tìm tài liệu.",
+   "Khoa’s group of five is making a biology presentation on mangrove forests. Everyone wants to design the slides; nobody wants to do the research."
+  ],
+  "cq": [
+   "Khoa nên đề xuất cách chia vai nào?",
+   "How should Khoa suggest splitting the roles?"
+  ],
+  "co": [
+   [
+    "Bốc thăm cho nhanh",
+    "Draw lots to be quick",
+    0,
+    "Bốc thăm công bằng nhưng bỏ qua thế mạnh của từng người. Có thể dùng sau khi đã bàn bạc.",
+    "Lots are fair but ignore strengths. Use them only after talking."
+   ],
+   [
+    "Khoa nhận hết phần tìm tài liệu cho êm",
+    "Khoa takes all the research to keep the peace",
+    0,
+    "Gánh một mình dễ thành quá tải và bực bội về sau. Việc chung thì cùng gánh.",
+    "Taking it all on alone leads to overload and resentment. Shared work, shared load."
+   ],
+   [
+    "Liệt kê các phần việc, mỗi bạn nói mình mạnh gì, rồi ghép người với việc; việc ít ai muốn thì chia đôi",
+    "List the tasks, each says their strengths, then match people to tasks; split the unpopular one",
+    1,
+    "Biết rõ việc và thế mạnh thì vai trò tự hiện ra. Việc khó được chia đều nên không ai thấy thiệt.",
+    "Know the tasks and strengths and roles appear. Sharing the unpopular job keeps it fair."
+   ]
+  ],
+  "qq": [
+   "Chia vai trong nhóm hiệu quả bắt đầu từ…",
+   "Good role-sharing starts with…"
+  ],
+  "qo": [
+   [
+    "Ai nhanh tay chọn trước",
+    "Whoever picks first"
+   ],
+   [
+    "Ai lớn tuổi nhất",
+    "The oldest member"
+   ],
+   [
+    "Danh sách việc và thế mạnh từng người",
+    "The task list and each person’s strengths"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chuẩn bị đón ông bà lên chơi cuối tuần. Ba nói: “Mỗi người nhận một việc nhé.” Em Bảo chỉ muốn trang trí, còn ai cũng ngại dọn phòng khách.",
+     "The family is getting ready for the grandparents’ weekend visit. Dad says, “Everyone take a job.” Little Bảo only wants to decorate; nobody wants to clean the living room."
+    ],
+    "q": [
+     "Khoa nên góp ý thế nào?",
+     "What should Khoa suggest?"
+    ],
+    "o": [
+     [
+      "Để ba mẹ tự chia",
+      "Let Mum and Dad decide",
+      0,
+      "Ba mẹ chia cũng được, nhưng con bỏ lỡ cơ hội góp ý. Con hiểu việc nhà hơn mình nghĩ đấy.",
+      "They could, but you’d miss a chance to help plan. You know more about the house than you think."
+     ],
+     [
+      "Ghi ra các việc, mỗi người chọn một việc hợp sức, còn phòng khách thì cả nhà dọn chung 20 phút",
+      "List the jobs, each picks one that suits them, and everyone cleans the living room together for 20 minutes",
+      1,
+      "Việc ai cũng ngại sẽ nhẹ hơn khi làm chung. Em nhỏ nhận việc vừa sức, ai cũng có phần.",
+      "A job nobody wants feels lighter together. The little one gets a job their size; everyone’s included."
+     ],
+     [
+      "Bảo em Bảo không được trang trí vì em còn nhỏ",
+      "Tell Bảo he can’t decorate because he’s little",
+      0,
+      "Em sẽ buồn và mất hứng. Hãy giao cho em phần trang trí vừa sức.",
+      "He’ll feel hurt and lose interest. Give him a part of the decorating he can manage."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ đọc sách ở thư viện phường tổ chức buổi giới thiệu sách cho các em nhỏ. Cô thủ thư nhờ nhóm Khoa tự phân công: dẫn chương trình, đọc truyện, xếp ghế, đón khách.",
+     "The ward library’s reading club is hosting a book event for younger children. The librarian asks Khoa’s group to divide the jobs: host, read aloud, set out chairs, welcome guests."
+    ],
+    "q": [
+     "Nhóm nên chia vai thế nào?",
+     "How should the group split the roles?"
+    ],
+    "o": [
+     [
+      "Hỏi mỗi bạn thích và giỏi việc gì, ghép vai, rồi đọc lại phân công cho cô thủ thư",
+      "Ask what each enjoys and does well, match roles, then read the plan back to the librarian",
+      1,
+      "Ghép vai theo thế mạnh và báo lại người lớn phụ trách giúp buổi sự kiện suôn sẻ.",
+      "Matching strengths and checking in with the adult in charge keeps the event smooth."
+     ],
+     [
+      "Ai cũng muốn dẫn chương trình nên tranh luận đến hết giờ",
+      "Everyone wants to host, so the argument runs out the clock",
+      0,
+      "Tranh một vai làm chậm cả nhóm. Hỏi xem ai còn hợp với vai nào khác.",
+      "Fighting over one role stalls everyone. Ask who suits the other roles."
+     ],
+     [
+      "Bạn nói to nhất nhận dẫn, còn lại tự lo",
+      "The loudest takes hosting; the rest sort themselves out",
+      0,
+      "Nói to chưa chắc là hợp vai. Các vai còn lại dễ bị bỏ sót.",
+      "Loud isn’t the same as suited. Other roles get forgotten."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự dậy đúng giờ",
+   "Getting up on my own"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nào mẹ cũng phải gọi ba lần Khoa mới dậy. Khoa muốn tự dậy nhưng tối nào cũng ngủ sau 23h và tắt chuông báo thức trong lúc ngái ngủ.",
+   "Every morning Mum has to call Khoa three times. Khoa wants to get up alone but sleeps after 11pm every night and switches the alarm off half-asleep."
+  ],
+  "cq": [
+   "Khoa nên bắt đầu thay đổi từ đâu?",
+   "Where should Khoa start?"
+  ],
+  "co": [
+   [
+    "Ngủ sớm hơn 30 phút, đặt đồng hồ báo thức xa giường để phải đứng dậy mới tắt được",
+    "Go to bed 30 minutes earlier and put the alarm across the room so you must get up to switch it off",
+    1,
+    "Ngủ đủ thì dễ dậy; phải đứng dậy tắt chuông thì khó ngủ lại. Thay đổi nhỏ, đều đặn sẽ thành thói quen.",
+    "Enough sleep makes waking easier, and walking to the alarm stops you dozing off. Small, steady changes become habits."
+   ],
+   [
+    "Đặt năm chuông báo thức cách nhau 5 phút",
+    "Set five alarms five minutes apart",
+    0,
+    "Nhiều chuông làm giấc ngủ cuối bị cắt vụn và dễ quen tay tắt. Gốc của vấn đề là giờ đi ngủ.",
+    "Lots of alarms chop up your last sleep and you learn to ignore them. The root is bedtime."
+   ],
+   [
+    "Nhờ mẹ gọi to hơn",
+    "Ask Mum to call louder",
+    0,
+    "Như vậy việc dậy vẫn là việc của mẹ. Tự lập là mình tự lo giờ dậy của mình.",
+    "Then getting up is still Mum’s job. Independence means owning your wake-up."
+   ]
+  ],
+  "qq": [
+   "Muốn tự dậy đúng giờ, điều quan trọng nhất là…",
+   "To wake up on your own, the key is…"
+  ],
+  "qo": [
+   [
+    "Đi ngủ đúng giờ",
+    "A regular bedtime"
+   ],
+   [
+    "Chuông thật to",
+    "A very loud alarm"
+   ],
+   [
+    "Có người gọi",
+    "Someone to wake you"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trường của Khoa có buổi tập văn nghệ lúc 6h45 sáng thứ Bảy. Lần trước Khoa đến muộn vì chờ ba nhắc.",
+     "Khoa’s school has a performance rehearsal at 6:45 on Saturday morning. Last time Khoa was late, waiting for Dad’s reminder."
+    ],
+    "q": [
+     "Lần này Khoa nên làm gì?",
+     "What should Khoa do this time?"
+    ],
+    "o": [
+     [
+      "Nhờ ba gọi như lần trước",
+      "Ask Dad to wake you like last time",
+      0,
+      "Lần trước đã muộn vì chờ người nhắc. Hãy thử tự đặt giờ cho mình.",
+      "Last time, waiting for a reminder made you late. Try setting it yourself."
+     ],
+     [
+      "Thức luôn đến sáng cho khỏi ngủ quên",
+      "Stay up all night so you can’t oversleep",
+      0,
+      "Thức trắng làm buổi tập mệt và dễ ốm. Ngủ đủ mới là cách an toàn.",
+      "An all-nighter makes rehearsal exhausting and risks illness. Enough sleep is the safe plan."
+     ],
+     [
+      "Tối thứ Sáu tự đặt báo thức, soạn sẵn đồ và tính giờ ngược từ 6h45",
+      "On Friday night set the alarm, lay out clothes and work back from 6:45",
+      1,
+      "Tính ngược từ giờ hẹn cho mình biết phải dậy lúc nào. Chuẩn bị từ tối làm buổi sáng nhẹ nhàng hơn.",
+      "Working back from the start time tells you when to wake. Preparing the night before lightens the morning."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa hẹn chơi cầu lông cùng chú Tâm hàng xóm lúc 6h sáng Chủ nhật ở sân nhà văn hóa. Tối thứ Bảy, Khoa định xem phim đến khuya.",
+     "Khoa has agreed to play badminton with neighbour Uncle Tâm at 6am on Sunday at the community hall court. On Saturday night Khoa plans a late film."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Xem phim đến khuya, sáng mai tính sau",
+      "Watch late and see how the morning goes",
+      0,
+      "Ngủ muộn thì dễ lỡ hẹn với chú Tâm. Giữ lời hẹn bắt đầu từ tối hôm trước.",
+      "A late night risks missing Uncle Tâm. Keeping a promise starts the night before."
+     ],
+     [
+      "Để phim sang chiều Chủ nhật, ngủ trước 22h và đặt báo thức 5h30",
+      "Save the film for Sunday afternoon, sleep by 10pm and set an alarm for 5:30",
+      1,
+      "Dời việc thích sang lúc khác để giữ lời hẹn. Người khác tin mình hơn khi mình đúng giờ.",
+      "Moving the fun to later keeps your promise. Being on time builds trust."
+     ],
+     [
+      "Nhắn chú Tâm gọi mình dậy",
+      "Text Uncle Tâm to wake you",
+      0,
+      "Chú sẽ phải lo thêm việc của mình. Tự đặt báo thức là phần của mình.",
+      "That gives him your job too. Your alarm is yours to set."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Khi làm mất đồ quan trọng",
+   "When something important goes missing"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi hiệu sách cùng chị gái, Khoa phát hiện túi đựng thẻ học sinh và vé xe buýt tháng không còn trong cặp. Khoa bắt đầu hoảng.",
+   "At the bookshop with an older sister, Khoa realises the pouch holding the student card and monthly bus pass is gone. Panic starts rising."
+  ],
+  "cq": [
+   "Khoa nên làm gì trước?",
+   "What should Khoa do first?"
+  ],
+  "co": [
+   [
+    "Lục tung cặp ngay giữa cửa hàng",
+    "Tip the bag out in the middle of the shop",
+    0,
+    "Hoảng thì dễ bỏ sót. Dừng một chút, thở chậm rồi tìm có thứ tự.",
+    "Panic makes you miss things. Pause, breathe, then search in order."
+   ],
+   [
+    "Coi như mất, về xin ba mẹ làm thẻ mới",
+    "Write it off and ask your parents for new ones",
+    0,
+    "Có thể phải làm lại, nhưng tìm thử trước đã. Nhiều đồ bị mất được tìm thấy ngay trong mười phút đầu.",
+    "You might need new ones, but look first. Lots of lost things turn up in the first ten minutes."
+   ],
+   [
+    "Hít thở, nhớ lại lần cuối thấy túi ở đâu, cùng chị đi lại các chỗ vừa qua và hỏi quầy thu ngân",
+    "Breathe, recall where you last saw it, retrace your steps with your sister and ask at the till",
+    1,
+    "Bình tĩnh, khoanh vùng, rồi nhờ người có trách nhiệm. Đồ đánh rơi thường được nhân viên giữ lại.",
+    "Calm down, narrow it down, then ask the people in charge. Staff often keep dropped items."
+   ]
+  ],
+  "qq": [
+   "Khi mất đồ, bước đầu tiên là…",
+   "When something’s lost, step one is…"
+  ],
+  "qo": [
+   [
+    "Báo ngay cho cả lớp",
+    "Tell everyone at once"
+   ],
+   [
+    "Bình tĩnh và nhớ lại lần cuối nhìn thấy",
+    "Stay calm and recall where you last saw it"
+   ],
+   [
+    "Mua cái mới",
+    "Buy a new one"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng đi học, Khoa không tìm thấy kính đâu, còn 15 phút nữa là xe buýt đến.",
+     "On a school morning Khoa can’t find their glasses, and the bus comes in 15 minutes."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Nghĩ lại tối qua việc cuối cùng mình làm, tìm ở những chỗ đó, rồi nhờ mẹ tìm giúp",
+      "Think what you did last night, check those spots, then ask Mum to help look",
+      1,
+      "Tìm theo dấu việc cuối cùng mình làm nhanh hơn lục khắp nhà. Nhờ giúp sớm cũng là một cách giải quyết.",
+      "Retracing your last actions beats searching everywhere. Asking for help early is problem-solving too."
+     ],
+     [
+      "Đi học không đeo kính",
+      "Go without them",
+      0,
+      "Không có kính thì nhìn bảng khó cả ngày. Thử tìm có hệ thống vài phút trước đã.",
+      "Without glasses the board’s a blur all day. Try a quick, organised search first."
+     ],
+     [
+      "Hỏi cả nhà “Ai lấy kính của con?”",
+      "Ask the family, “Who took my glasses?”",
+      0,
+      "Câu hỏi như đổ lỗi dễ làm mọi người khó chịu. Nhờ tìm giúp thì dễ được giúp hơn.",
+      "Sounding accusing puts people off. Asking for help gets help."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cuối giờ, Khoa phát hiện mất chiếc máy tính cầm tay vừa mượn của Nam. Các bạn đang chuẩn bị ra về.",
+     "At the end of the day Khoa realises the calculator borrowed from Nam is missing. Everyone’s packing up."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Im lặng, mai mua cái khác trả",
+      "Say nothing and buy one tomorrow",
+      0,
+      "Có thể máy chỉ bị cầm nhầm. Nói ra sớm thì còn cơ hội tìm lại.",
+      "Someone may have picked it up by mistake. Speaking now gives you a chance to find it."
+     ],
+     [
+      "Báo ngay với Nam và cô chủ nhiệm, nhờ cả lớp xem có ai cầm nhầm, rồi tìm quanh chỗ ngồi",
+      "Tell Nam and the form teacher straight away, ask if anyone picked it up by mistake, then search around the desk",
+      1,
+      "Nói ngay khi lớp còn đông giúp tìm nhanh hơn. Thành thật với Nam giữ được lòng tin.",
+      "Speaking up while everyone’s still there speeds the search. Honesty with Nam keeps his trust."
+     ],
+     [
+      "Đoán bạn ngồi cạnh lấy và hỏi thẳng",
+      "Guess your deskmate took it and confront them",
+      0,
+      "Đoán khi chưa có bằng chứng dễ làm tổn thương bạn. Hỏi chung cả lớp nhẹ nhàng hơn.",
+      "Guessing without evidence can hurt someone. A gentle question to the whole class is better."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Thắng thói trì hoãn bằng 10 phút",
+   "Beating procrastination with 10 minutes"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khoa có bài luận Ngữ văn nộp thứ Năm. Ba buổi tối liền, Khoa mở vở ra rồi lại dọn bàn, xem điện thoại, ăn vặt, đến giờ ngủ vẫn chưa viết được dòng nào.",
+   "Khoa has a literature essay due Thursday. Three evenings running, Khoa opens the notebook, then tidies the desk, checks the phone, snacks — and by bedtime hasn’t written a line."
+  ],
+  "cq": [
+   "Khoa nên thử cách nào?",
+   "What should Khoa try?"
+  ],
+  "co": [
+   [
+    "Để điện thoại ở phòng khách, hẹn giờ 10 phút và chỉ viết dàn ý",
+    "Leave the phone in the living room, set a 10-minute timer and just write an outline",
+    1,
+    "Bước đầu nhỏ đến mức khó từ chối sẽ phá được thế trì hoãn. Thường sau 10 phút mình muốn làm tiếp.",
+    "A first step too small to refuse breaks the stall. After ten minutes you often keep going."
+   ],
+   [
+    "Chờ đến khi có hứng mới viết",
+    "Wait until you feel inspired",
+    0,
+    "Hứng thường đến sau khi bắt đầu, không phải trước. Chờ hứng dễ thành chờ mãi.",
+    "Motivation usually follows starting, not the other way round. Waiting can mean waiting forever."
+   ],
+   [
+    "Tự hứa tối nay sẽ viết xong cả bài",
+    "Promise to finish the whole essay tonight",
+    0,
+    "Mục tiêu quá lớn làm mình càng ngại bắt đầu. Hãy chia nhỏ ra.",
+    "A huge goal makes starting even harder. Break it down."
+   ]
+  ],
+  "qq": [
+   "Cách hiệu quả để thắng trì hoãn là…",
+   "The best way to beat procrastination is…"
+  ],
+  "qo": [
+   [
+    "Chờ áp lực sát hạn",
+    "Waiting for deadline pressure"
+   ],
+   [
+    "Làm nhiều việc cùng lúc",
+    "Multitasking"
+   ],
+   [
+    "Bắt đầu bằng một bước rất nhỏ",
+    "Starting with a tiny step"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giao bài tập nhóm nộp sau hai tuần. Cả nhóm Khoa đều nói “còn lâu mà”, nay đã qua một tuần vẫn chưa ai làm gì.",
+     "The teacher set a group task due in two weeks. Everyone in Khoa’s group said “loads of time” — a week later, nothing’s been done."
+    ],
+    "q": [
+     "Khoa nên đề xuất gì?",
+     "What should Khoa suggest?"
+    ],
+    "o": [
+     [
+      "Chờ tuần cuối làm một lần cho xong",
+      "Wait for the last week and do it in one go",
+      0,
+      "Dồn đến cuối thì không còn chỗ cho sự cố. Bắt đầu sớm một phần nhỏ an toàn hơn.",
+      "Leaving it to the end leaves no room for problems. Starting a small part early is safer."
+     ],
+     [
+      "Hẹn cả nhóm 15 phút giờ ra chơi mai để chia việc, mỗi người làm phần đầu tiên ngay tối đó",
+      "Book 15 minutes at break tomorrow to split tasks, with everyone doing their first bit that evening",
+      1,
+      "Một cuộc hẹn ngắn có giờ cụ thể biến “còn lâu” thành “bắt đầu”. Việc nhỏ đầu tiên kéo cả nhóm đi.",
+      "A short meeting with a set time turns “loads of time” into “let’s start”. One small first task gets the group moving."
+     ],
+     [
+      "Tự làm hết vì không tin các bạn",
+      "Do it all yourself because you don’t trust them",
+      0,
+      "Làm một mình thì mệt và các bạn mất phần học. Hãy cùng nhau bắt đầu bằng việc nhỏ.",
+      "Doing it alone wears you out and the others miss out. Start small, together."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa đăng ký cuộc thi vẽ tranh của thư viện quận, hạn nộp là thứ Hai. Hôm nay đã thứ Sáu mà bức tranh mới chỉ có trong đầu Khoa.",
+     "Khoa entered the district library’s drawing contest, due Monday. It’s Friday and the picture only exists in Khoa’s head."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Rút tên vì không kịp",
+      "Pull out because there’s no time",
+      0,
+      "Còn ba ngày vẫn đủ nếu bắt đầu ngay hôm nay. Thử một bước nhỏ trước khi bỏ.",
+      "Three days is enough if you start today. Try a small step before giving up."
+     ],
+     [
+      "Để tối Chủ nhật vẽ một mạch",
+      "Do it all on Sunday night",
+      0,
+      "Một buổi tối không đủ cho cả phác, vẽ và tô. Sáng thứ Hai lại còn mệt.",
+      "One evening isn’t enough to sketch, draw and colour — and Monday starts tired."
+     ],
+     [
+      "Phác ngay ba bố cục nhỏ trong 10 phút, chọn một, rồi chia phần tô màu cho thứ Bảy và Chủ nhật",
+      "Sketch three tiny layouts in 10 minutes, pick one, then split the colouring across Saturday and Sunday",
+      1,
+      "Bắt đầu bằng bản phác nhỏ giúp ý tưởng ra khỏi đầu. Chia phần còn lại theo ngày là có đường về đích.",
+      "A quick sketch gets the idea out of your head. Splitting the rest by day maps the route to the finish."
+     ]
+    ]
+   }
+  }
+ }
+]

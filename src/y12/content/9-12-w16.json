@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự quản góc học tập",
+   "Running my own study corner"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Ngăn bàn của An ở lớp chứa đủ thứ: giấy kiểm tra cũ, vỏ bánh, bút hỏng. Cô nhắc cả lớp giữ ngăn bàn sạch sẽ.",
+   "An’s desk drawer at school is full of old tests, wrappers and broken pens. The teacher reminds everyone to keep their drawers clean."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chờ cuối năm dọn một lần",
+    "Wait to clear it at the end of the year",
+    0,
+    "Để lâu càng nhiều rác và dễ mất đồ quan trọng. Dọn ít mà thường xuyên dễ hơn.",
+    "Leaving it means more mess and lost papers. Little and often is easier."
+   ],
+   [
+    "Vứt rác, mang giấy cũ về cho ba mẹ xem, chỉ để lại đồ dùng hằng ngày",
+    "Bin the rubbish, take old papers home for your parents, and keep only daily things",
+    1,
+    "Ngăn bàn chỉ giữ đồ cần dùng thì lấy nhanh và luôn sạch.",
+    "A drawer with only what you need is quick to use and stays clean."
+   ],
+   [
+    "Nhét thêm vào cho vừa",
+    "Squash more in so it fits",
+    0,
+    "Nhồi thêm thì đồ dễ nhàu, rách. Lọc bớt đồ không cần sẽ gọn hơn.",
+    "Squashing crumples and tears things. Clearing out what you don’t need helps."
+   ]
+  ],
+  "qq": [
+   "Góc học tập gọn gàng nhất nhờ điều gì?",
+   "What keeps a study corner tidy?"
+  ],
+  "qo": [
+   [
+    "Dọn thật kỹ mỗi tháng một lần",
+    "A big tidy once a month"
+   ],
+   [
+    "Có thật nhiều hộp đựng",
+    "Lots of boxes"
+   ],
+   [
+    "Mỗi đồ một chỗ cố định và dọn lại mỗi ngày",
+    "A fixed place for everything and a daily tidy"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bàn học của An đầy giấy nháp, vỏ bút và truyện tranh. Tối nào An cũng mất 10 phút tìm thước, sáng nay lại quên vở bài tập vì lẫn trong đống giấy.",
+     "An’s desk is covered in scrap paper, pen lids and comics. Every evening An spends ten minutes hunting for a ruler, and this morning the exercise book got left behind in the pile."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Dọn bàn, mỗi loại đồ một chỗ cố định, tối nào cũng xếp lại 3 phút trước khi ngủ",
+      "Clear the desk, give everything a fixed place, and tidy for three minutes each night",
+      1,
+      "Chỗ cố định và thói quen dọn ngắn mỗi tối giúp bàn luôn gọn và con không mất thời gian tìm đồ.",
+      "Fixed places and a short nightly tidy keep the desk neat and save searching time."
+     ],
+     [
+      "Nhờ mẹ dọn hộ",
+      "Ask Mum to tidy it",
+      0,
+      "Mẹ dọn thì mẹ biết đồ ở đâu, còn con vẫn phải tìm. Tự sắp xếp thì con nhớ chỗ từng món.",
+      "If Mum tidies, she knows where things are, not you. Organise it yourself and you’ll remember."
+     ],
+     [
+      "Dồn hết vào ngăn kéo cho gọn mắt",
+      "Shove everything into the drawer",
+      0,
+      "Mặt bàn gọn nhưng ngăn kéo lộn xộn thì vẫn khó tìm. Mỗi thứ cần một chỗ riêng.",
+      "The desk looks tidy but the drawer’s a mess. Everything needs its own place."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp học vẽ cuối tuần, mỗi bạn có một ngăn tủ riêng. Ngăn của An lẫn lộn màu khô, cọ bẩn, giấy nhàu.",
+     "At weekend art class, everyone has their own locker. An’s is a jumble of dried paints, dirty brushes and crumpled paper."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Để vậy, tuần sau tính",
+      "Leave it till next week",
+      0,
+      "Màu không đậy sẽ khô, cọ bẩn sẽ cứng. Dọn ngay chỉ mất 5 phút.",
+      "Uncapped paint dries and dirty brushes harden. Tidying now takes five minutes."
+     ],
+     [
+      "Nhờ cô dọn giúp",
+      "Ask the teacher to tidy it",
+      0,
+      "Cô có nhiều bạn phải lo. Ngăn của con thì con tự quản nhé.",
+      "The teacher has many pupils. Your locker is yours to manage."
+     ],
+     [
+      "Rửa cọ, đậy nắp màu, xếp giấy phẳng vào một túi trước khi về",
+      "Wash the brushes, cap the paints and keep paper flat in a folder before leaving",
+      1,
+      "Tự quản đồ của mình giúp buổi sau bắt đầu ngay, không mất công tìm hay mua lại.",
+      "Looking after your things means you can start straight away next time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mười lăm phút dọn bàn học",
+    "A 15-minute desk clear-up"
+   ],
+   "s": [
+    "Con dọn bàn học trong 15 phút: vứt giấy không cần, mỗi loại đồ một chỗ, để sẵn đồ cho ngày mai. Nhờ ba mẹ xem bàn trước và sau khi dọn.",
+    "Clear your desk in 15 minutes: bin what you don’t need, give each thing a place, and get tomorrow’s things ready. Ask your parent to see it before and after."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chia đồ thành nhóm và chọn chỗ cho từng nhóm.",
+     "Your parent helps sort things into groups and pick a place for each."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự dọn trong 15 phút.",
+     "With one reminder, you clear it yourself in 15 minutes."
+    ],
+    [
+     "Con tự dọn, dán nhãn cho các ngăn và giữ gọn suốt 3 ngày liền.",
+     "You clear it, label the spaces and keep it neat for three days in a row."
+    ]
+   ],
+   "rw": [
+    "Được chọn một chậu cây nhỏ đặt ở góc học tập",
+    "You choose a small plant for your study corner"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Em nhỏ khóc mãi, mình làm gì?",
+   "When a little one won’t stop crying"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ đang phơi đồ ngoài sân, nhờ An trông em Bảo 4 tuổi một lúc. Bảo bỗng khóc mãi không nín, An dỗ thế nào cũng không được.",
+   "Mum is hanging washing outside and asks An to watch four-year-old Bảo for a bit. Suddenly Bảo starts crying and won’t stop, whatever An tries."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Quát em “Nín ngay!”",
+    "Snap “Stop crying now!”",
+    0,
+    "Quát làm em sợ và khóc to hơn. Nhẹ nhàng tìm nguyên nhân sẽ hiệu quả hơn.",
+    "Snapping frightens him and makes it louder. Gently finding the cause works better."
+   ],
+   [
+    "Bỏ em lại để ra gọi mẹ",
+    "Leave him alone to go and get Mum",
+    0,
+    "Để em một mình có thể nguy hiểm. Bế hoặc dắt em theo, hoặc gọi to cho mẹ nghe.",
+    "Leaving him alone could be unsafe. Bring him along or call loudly for Mum."
+   ],
+   [
+    "Đoán xem em đói, mệt hay sợ, thử ôm em và dỗ nhẹ; nếu vẫn khóc thì dắt em ra gọi mẹ",
+    "Think: is he hungry, tired or scared? Try a cuddle and gentle words; if he keeps crying, take him to Mum",
+    1,
+    "Đoán nguyên nhân, dỗ nhẹ và nhờ người lớn đúng lúc là cách chăm em vừa khéo vừa an toàn.",
+    "Guessing the cause, soothing gently and getting an adult at the right time is caring and safe."
+   ]
+  ],
+  "qq": [
+   "Khi em nhỏ khóc mãi, việc đúng nhất là gì?",
+   "When a little one won’t stop crying, what’s best?"
+  ],
+  "qo": [
+   [
+    "Đoán nguyên nhân, dỗ nhẹ và gọi người lớn",
+    "Guess the cause, soothe gently and call an adult"
+   ],
+   [
+    "Mặc kệ đến khi em tự nín",
+    "Ignore it till they stop"
+   ],
+   [
+    "Cho em ăn kẹo để nín",
+    "Give sweets to stop it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trong buổi tham quan, có một em lớp 1 lạc nhóm đứng khóc gần lớp An. Cô giáo của An đứng cách đó không xa.",
+     "On a school trip, a Year 1 child who has lost their group is crying near An’s class. An’s teacher is close by."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Dắt em đi tìm lớp của em một mình",
+      "Take the child off alone to find their class",
+      0,
+      "Hai bạn nhỏ đi một mình có thể cùng lạc. Báo cô để cô giúp nhé.",
+      "Two children wandering off might both get lost. Tell your teacher instead."
+     ],
+     [
+      "Hỏi nhẹ “Em tên gì, em học lớp nào?”, đứng cạnh em và gọi cô giáo ngay",
+      "Ask gently “What’s your name, which class?”, stay beside them and call your teacher straight away",
+      1,
+      "Trấn an em và báo ngay người lớn là cách giúp em an toàn và nhanh tìm được lớp.",
+      "Comforting them and telling an adult right away keeps them safe and finds their class fast."
+     ],
+     [
+      "Đứng nhìn vì không quen em",
+      "Just watch because you don’t know them",
+      0,
+      "Em đang rất sợ. Một câu hỏi nhẹ và báo cô là giúp em nhiều lắm rồi.",
+      "They’re frightened. A kind word and telling your teacher helps a lot."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở khu vui chơi trong trung tâm thương mại, một em bé ngã và khóc to. Mẹ em đang mải trả tiền ở quầy gần đó, ba An đứng cạnh An.",
+     "At an indoor play area in a shopping centre, a toddler falls and cries loudly. The child’s mum is busy paying at a nearby counter, and An’s dad is beside An."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo ba “Ba ơi, em bé ngã kia ạ” để ba báo mẹ em",
+      "Tell Dad “Dad, that little one fell” so he can let the child’s mum know",
+      1,
+      "Nhìn thấy và báo người lớn đi cùng là cách giúp an toàn nhất.",
+      "Noticing and telling your grown-up is the safest way to help."
+     ],
+     [
+      "Bế em lên chạy đi tìm mẹ em",
+      "Pick the child up and run to find their mum",
+      0,
+      "Bế em bé không quen có thể làm em đau hoặc sợ thêm. Để người lớn xử lý nhé.",
+      "Picking up a child you don’t know might hurt or scare them. Let adults handle it."
+     ],
+     [
+      "Bịt tai vì ồn quá",
+      "Cover your ears because it’s loud",
+      0,
+      "Tiếng khóc là em đang cần giúp. Báo ba một câu là con đã giúp được rồi.",
+      "Crying means the child needs help. One word to Dad is a real help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bốn cách dỗ em nhỏ an toàn",
+    "Four safe ways to comfort a little one"
+   ],
+   "s": [
+    "Con cùng ba mẹ lập danh sách 4 cách dỗ em nhỏ an toàn (như ôm, hát, chỉ đồ chơi, hỏi em đau ở đâu) và ghi thêm lúc nào phải gọi người lớn ngay.",
+    "With your parent, list four safe ways to comfort a little one (like a cuddle, a song, showing a toy, asking where it hurts) and note when to get an adult straight away."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con viết lại danh sách.",
+     "Your parent suggests ideas and you write the list."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ và viết 4 cách.",
+     "With one reminder, you think of and write the four ways."
+    ],
+    [
+     "Con tự lập danh sách, rồi đóng vai dỗ một chú gấu bông khóc cho ba mẹ xem.",
+     "You write the list alone, then role-play comforting a crying teddy for your parent."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ hát cho con nghe bài hát ru hồi con còn bé",
+    "Your parent sings the lullaby they sang when you were a baby"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Đừng so nhà mình với nhà khác",
+   "Not comparing my family with others"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi dạo khu phố với ba, An thấy một nhà có sân vườn rất rộng. An hỏi “Sao nhà mình không có vườn hả ba?”.",
+   "Walking round the neighbourhood with Dad, An sees a house with a huge garden and asks, “Why don’t we have a garden, Dad?”"
+  ],
+  "cq": [
+   "Nghĩ thế nào thì tốt hơn?",
+   "What’s a better way to think?"
+  ],
+  "co": [
+   [
+    "“Nhà mình không có vườn, nhưng ban công có mấy chậu rau con với ba trồng”",
+    "“We don’t have a garden, but we have the pots of herbs Dad and I grow on the balcony”",
+    1,
+    "Thấy điều nhà mình có, dù nhỏ, giúp con vui với cuộc sống của mình.",
+    "Seeing what your family has, however small, helps you enjoy your own life."
+   ],
+   [
+    "“Nhà mình thua nhà người ta”",
+    "“Our home isn’t as good as theirs”",
+    0,
+    "Nhà nào cũng có điều hay riêng. So sánh hơn thua chỉ làm con buồn.",
+    "Every home has its own good things. Comparing just makes you sad."
+   ],
+   [
+    "Hờn dỗi cả buổi đi dạo",
+    "Sulk for the rest of the walk",
+    0,
+    "Hờn dỗi làm mất buổi đi dạo vui với ba. Thử tìm một điều con thích ở nhà mình nhé.",
+    "Sulking spoils your walk with Dad. Try thinking of one thing you love at home."
+   ]
+  ],
+  "qq": [
+   "Khi thấy nhà bạn có điều mình không có, nên nghĩ thế nào?",
+   "When a friend’s family has something yours doesn’t, how should you think?"
+  ],
+  "qo": [
+   [
+    "Nhà mình thua kém",
+    "My family is worse"
+   ],
+   [
+    "Mỗi nhà một khác, nhìn vào điều nhà mình có",
+    "Every family is different; look at what yours has"
+   ],
+   [
+    "Phải đòi bằng được",
+    "I must get it too"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối nay mẹ nấu món trứng đúc thịt quen thuộc. An buột miệng “Nhà Linh toàn ăn món lạ, nhà mình chán quá”. Mẹ khựng lại.",
+     "Tonight Mum makes the usual meat omelette. An blurts out, “Linh’s family always eats new things, ours is boring.” Mum pauses."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ăn tiếp, coi như không có gì",
+      "Keep eating as if nothing happened",
+      0,
+      "Câu nói vừa rồi có thể làm mẹ buồn. Một lời xin lỗi và cảm ơn sẽ làm mẹ vui lại.",
+      "That comment may have hurt Mum. A sorry and thank you will cheer her up."
+     ],
+     [
+      "Nói thêm các món nhà Linh hay ăn",
+      "List more of Linh’s family’s dishes",
+      0,
+      "So sánh tiếp làm mẹ buồn hơn. Thử nhìn vào điều mẹ đã làm cho cả nhà.",
+      "More comparing hurts more. Look at what Mum did for everyone."
+     ],
+     [
+      "Xin lỗi mẹ, cảm ơn mẹ đã nấu, và rủ mẹ cuối tuần cùng thử nấu một món mới",
+      "Say sorry, thank Mum for cooking, and suggest trying a new dish together at the weekend",
+      1,
+      "Biết ơn điều đang có và cùng nhau tạo điều mới vui hơn nhiều so với so sánh.",
+      "Gratitude for what you have, plus making something new together, beats comparing."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ra chơi, Huy kể cuối tuần nhà Huy đi biển, còn Mai khoe nhà mới có phòng riêng cho từng người. An nghĩ nhà mình chẳng có gì đặc biệt và thấy buồn.",
+     "At break, Huy talks about his family’s weekend at the seaside and Mai says her new home has a room for everyone. An thinks An’s family has nothing special and feels down."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "How should An think about it?"
+    ],
+    "o": [
+     [
+      "Về nhà đòi ba mẹ đi biển như nhà Huy",
+      "Go home and demand a seaside trip like Huy’s",
+      0,
+      "Mỗi nhà có kế hoạch riêng. Đòi giống nhà bạn dễ làm ba mẹ buồn mà con cũng chưa chắc vui hơn.",
+      "Every family has its own plans. Demanding the same can upset your parents without making you happier."
+     ],
+     [
+      "Vui cho các bạn, và nhớ đến điều nhà mình có, như tối nào cả nhà cũng ăn cơm cùng nhau",
+      "Be happy for your friends and remember what your family has, like dinner together every night",
+      1,
+      "Mỗi nhà có cách sống riêng. Nhìn vào điều nhà mình có giúp con thấy đủ đầy và biết ơn hơn.",
+      "Every family lives differently. Noticing what yours has helps you feel content and grateful."
+     ],
+     [
+      "Bịa chuyện cho nhà mình nghe oách hơn",
+      "Make up stories so your family sounds better",
+      0,
+      "Không cần bịa đâu. Điều thật của nhà con đã đáng quý rồi.",
+      "No need to make things up. The real things about your family are already precious."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm điều con quý ở gia đình mình",
+    "Five things I treasure about my family"
+   ],
+   "s": [
+    "Con viết 5 điều con quý ở gia đình mình (một thói quen, một món ăn, một kỷ niệm…) và đọc cho ba mẹ nghe.",
+    "Write five things you treasure about your family (a habit, a dish, a memory…) and read them to your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nhớ lại và viết.",
+     "Your parent helps you remember and write them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết 5 điều.",
+     "With one reminder, you write all five yourself."
+    ],
+    [
+     "Con tự viết, trang trí thành một tờ “Nhà mình” và dán lên tường.",
+     "You write and decorate them as a “Our Family” sheet for the wall."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng xem lại ảnh cũ và kể kỷ niệm",
+    "The family looks through old photos and shares memories"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Thuốc không phải là kẹo",
+   "Medicine isn’t candy"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An thấy trên bàn có lọ thuốc nhỏ màu cam của bà, trông giống kẹo. Em Bảo 4 tuổi đang với tay định lấy. Bà đang nghỉ trong phòng.",
+   "An sees Grandma’s little orange pill bottle on the table – the tablets look like sweets. Four-year-old Bảo is reaching for it. Grandma is resting in her room."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Để em cầm chơi một lúc vì lọ đã đóng nắp",
+    "Let him play with it – the lid is on",
+    0,
+    "Nắp lọ có thể mở ra. Thuốc phải để xa tầm tay trẻ nhỏ, kể cả khi đóng nắp.",
+    "Lids can come off. Medicine must be out of children’s reach, even when closed."
+   ],
+   [
+    "Nhẹ nhàng nói “Bảo ơi, thuốc của bà, không phải kẹo đâu”, đưa em ra chỗ khác và báo ngay người lớn",
+    "Gently say “Bảo, that’s Grandma’s medicine, not sweets”, move him away and tell an adult straight away",
+    1,
+    "Thuốc chỉ dùng khi người lớn đưa. Đưa em ra xa và báo người lớn cất thuốc là cách giữ an toàn.",
+    "Medicine is only taken when an adult gives it. Moving Bảo away and getting an adult to put it away keeps him safe."
+   ],
+   [
+    "Tự mở lọ xem bên trong là gì",
+    "Open it to see what’s inside",
+    0,
+    "Thuốc không phải đồ để tò mò. Con không tự mở mà báo người lớn nhé.",
+    "Medicine isn’t for exploring. Don’t open it – tell an adult."
+   ]
+  ],
+  "qq": [
+   "Quy tắc an toàn với thuốc là gì?",
+   "What’s the safety rule for medicine?"
+  ],
+  "qo": [
+   [
+    "Uống khi thấy mệt",
+    "Take some when you feel ill"
+   ],
+   [
+    "Thuốc ngọt thì uống được",
+    "Sweet medicine is fine"
+   ],
+   [
+    "Chỉ dùng khi người lớn đưa, không tự lấy",
+    "Only take it when an adult gives it; never help yourself"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ra chơi, Nam lấy từ cặp ra mấy viên vitamin của mẹ, mời các bạn “ăn như kẹo, ngọt lắm”.",
+     "At break, Nam takes some of his mum’s vitamins from his bag and offers them round: “They taste like sweets!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Từ chối, nói “Thuốc không phải kẹo đâu” và báo cô giáo",
+      "Say no, “Medicine isn’t sweets”, and tell the teacher",
+      1,
+      "Từ chối và báo người lớn giúp cả con và các bạn được an toàn.",
+      "Saying no and telling an adult keeps you and your friends safe."
+     ],
+     [
+      "Lấy một viên ăn thử",
+      "Take one to try",
+      0,
+      "Vitamin cũng là thuốc, chỉ dùng khi người lớn cho. Từ chối là đúng.",
+      "Vitamins are medicine too and only taken when an adult gives them. Saying no is right."
+     ],
+     [
+      "Mặc kệ, việc của Nam",
+      "Ignore it – it’s Nam’s business",
+      0,
+      "Các bạn có thể ăn phải thứ không nên ăn. Báo cô là đang giúp các bạn.",
+      "Others might eat something they shouldn’t. Telling the teacher helps everyone."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, An nhặt được một vỉ thuốc rơi trên ghế đá. Ba An đang ngồi gần đó.",
+     "At the park, An finds a strip of tablets on a bench. Dad is sitting nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ vào túi mang về nhà",
+      "Put it in your pocket and take it home",
+      0,
+      "Thuốc lạ không phải đồ để giữ. Đưa cho người lớn xử lý nhé.",
+      "Unknown medicine isn’t something to keep. Give it to an adult."
+     ],
+     [
+      "Bóc ra xem là thuốc gì",
+      "Pop one out to see what it is",
+      0,
+      "Không chạm vào thuốc lạ. Người lớn sẽ biết cách xử lý an toàn.",
+      "Don’t handle unknown medicine. Adults know how to deal with it safely."
+     ],
+     [
+      "Đưa ngay cho ba để ba xử lý",
+      "Give it to Dad straight away to deal with",
+      1,
+      "Thấy thuốc rơi, đưa ngay cho người lớn để em nhỏ khác không nhặt phải.",
+      "Hand found medicine to an adult so younger children don’t pick it up."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kiểm tra tủ thuốc cùng ba mẹ",
+    "A medicine cupboard check with your parent"
+   ],
+   "s": [
+    "Con cùng ba mẹ kiểm tra xem thuốc trong nhà đã được để ở chỗ cao, xa tầm tay em nhỏ chưa, rồi con nhắc lại 3 quy tắc với thuốc. Chỉ ba mẹ cầm thuốc, con quan sát và nói.",
+    "Check with your parent that medicines at home are stored high up, out of little ones’ reach, then repeat three medicine rules. Only your parent handles the medicine; you watch and talk."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ chỗ để thuốc và cùng con nói 3 quy tắc.",
+     "Your parent shows where medicine is kept and says the rules with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ 3 quy tắc.",
+     "With one reminder, you say all three rules yourself."
+    ],
+    [
+     "Con tự nói 3 quy tắc và giải thích cho ba mẹ con sẽ làm gì nếu thấy em nhỏ cầm thuốc.",
+     "You say the rules and explain what you’d do if you saw a little one holding medicine."
+    ]
+   ],
+   "rw": [
+    "Được làm huy hiệu giấy “Người giữ an toàn” cùng ba mẹ",
+    "Make a paper “Safety Keeper” badge with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Cuối tuần trọn vẹn",
+   "A balanced weekend"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Thứ Sáu, cô dặn cuối tuần đọc một chương sách và nghỉ ngơi thật tốt. Các bạn bàn nhau định để hết đến tối Chủ nhật mới đọc.",
+   "On Friday the teacher says to read a chapter over the weekend and rest well. Classmates plan to leave the reading till Sunday night."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Làm theo các bạn",
+    "Do the same as them",
+    0,
+    "Để đến tối Chủ nhật dễ vội và mệt trước tuần mới. Xếp vào lúc phù hợp sẽ tốt hơn.",
+    "Leaving it till Sunday night means rushing before a new week. Pick a better slot."
+   ],
+   [
+    "Không đọc vì cô bảo nghỉ ngơi",
+    "Skip it because she said to rest",
+    0,
+    "Cô dặn cả hai việc. Đọc một chương không mất nhiều thời gian nếu xếp lịch.",
+    "She asked for both. A chapter doesn’t take long if you plan it."
+   ],
+   [
+    "Đọc vào sáng thứ Bảy khi còn tỉnh táo, phần còn lại để nghỉ và chơi",
+    "Read on Saturday morning while fresh, then rest and play",
+    1,
+    "Làm việc cần tập trung lúc tỉnh táo, rồi nghỉ thật thoải mái là cân bằng.",
+    "Doing focused work when fresh and then resting fully is balance."
+   ]
+  ],
+  "qq": [
+   "Cuối tuần trọn vẹn nên có những gì?",
+   "What should a balanced weekend include?"
+  ],
+  "qo": [
+   [
+    "Nghỉ ngơi, việc nhà, học bài và thời gian bên gia đình",
+    "Rest, chores, study and family time"
+   ],
+   [
+    "Chỉ nghỉ ngơi",
+    "Just rest"
+   ],
+   [
+    "Chỉ học bài",
+    "Just study"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cuối tuần trước, An đọc truyện và chơi suốt thứ Bảy, đến tối Chủ nhật mới nhớ ra bài tập và việc dọn phòng, lại lỡ buổi đi dạo với ông.",
+     "Last weekend An read and played all Saturday, only remembered homework and tidying on Sunday night, and missed a walk with Grandpa."
+    ],
+    "q": [
+     "Cuối tuần này An nên làm gì?",
+     "What should An do this weekend?"
+    ],
+    "o": [
+     [
+      "Học hết cả hai ngày cho chắc",
+      "Study both days to be safe",
+      0,
+      "Học cả cuối tuần thì mệt và thiếu thời gian nghỉ, bên gia đình. Cân bằng mới bền.",
+      "Studying all weekend is tiring and leaves no rest or family time. Balance lasts longer."
+     ],
+     [
+      "Lên kế hoạch có đủ 4 phần: nghỉ ngơi, việc nhà, học bài, thời gian bên gia đình",
+      "Plan four parts: rest, chores, homework and family time",
+      1,
+      "Một cuối tuần cân bằng có đủ các phần, nên con vừa xong việc vừa được nghỉ và vui bên mọi người.",
+      "A balanced weekend has all the parts, so you finish your work and still rest and enjoy family time."
+     ],
+     [
+      "Cứ chơi trước, việc để tối Chủ nhật",
+      "Play first and leave jobs till Sunday night",
+      0,
+      "Lặp lại cách cũ thì tối Chủ nhật lại vội. Xếp trước vài việc sẽ nhẹ nhàng hơn.",
+      "Doing it the same way means another rushed Sunday. Planning a few things helps."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà về quê thăm ông bà hai ngày. An mang theo cả cặp sách nặng, định học suốt để không bị chậm bài.",
+     "The family is visiting the grandparents for two days. An packs a heavy bag of books, planning to study the whole time."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mang phần bài cần làm, học một tiếng mỗi sáng, còn lại ra vườn và trò chuyện với ông bà",
+      "Bring only what you need, study an hour each morning, and spend the rest in the garden and chatting with the grandparents",
+      1,
+      "Đủ việc học và đủ thời gian bên gia đình là một cuối tuần trọn vẹn.",
+      "Enough study and plenty of family time make a full weekend."
+     ],
+     [
+      "Học suốt, không ra vườn với ông",
+      "Study the whole time and skip the garden with Grandpa",
+      0,
+      "Thời gian bên ông bà rất quý. Học một chút mỗi ngày là đủ.",
+      "Time with grandparents is precious. A little study each day is enough."
+     ],
+     [
+      "Bỏ hết sách ở nhà",
+      "Leave all the books at home",
+      0,
+      "Nếu có bài cần làm thì nên mang phần cần thiết, chỉ là không cần học suốt.",
+      "If there’s homework, bring what you need – just don’t study all day."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kế hoạch cuối tuần bốn phần",
+    "A four-part weekend plan"
+   ],
+   "s": [
+    "Con lập kế hoạch cuối tuần có đủ 4 phần: nghỉ ngơi, việc nhà, học bài, thời gian bên gia đình. Tối Chủ nhật con tự chấm cùng ba mẹ xem làm được phần nào.",
+    "Make a weekend plan with four parts: rest, chores, homework and family time. On Sunday evening, score it with your parent to see how it went."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xếp các phần vào từng buổi.",
+     "Your parent helps you fit each part into the days."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lập kế hoạch và tự làm theo.",
+     "With one reminder, you make and follow the plan yourself."
+    ],
+    [
+     "Con tự lập, tự chấm điểm từng phần và nói một điều sẽ thay đổi cho cuối tuần sau.",
+     "You plan and score each part yourself and name one change for next weekend."
+    ]
+   ],
+   "rw": [
+    "Con được chọn nơi cả nhà đi chơi buổi chiều cuối tuần",
+    "You pick where the family goes on a weekend afternoon"
+   ]
+  }
+ }
+]

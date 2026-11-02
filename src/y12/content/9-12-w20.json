@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Tra cứu thông tin cho bài học",
+   "Researching for a school task"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An cần tìm xem loài voi châu Á nặng khoảng bao nhiêu cho bài tập. Trang mạng đầu tiên An mở ghi một con số rất lớn, không ghi ai viết, cũng không có nguồn.",
+   "For homework An needs to find out roughly how heavy Asian elephants are. The first web page An opens gives a huge number, with no author and no source."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chép ngay con số đó cho nhanh",
+    "Copy that number straight away",
+    0,
+    "Trang không rõ nguồn có thể sai. Kiểm tra thêm một nơi nữa mới yên tâm.",
+    "A page with no source might be wrong. Check one more place to be sure."
+   ],
+   [
+    "Hỏi bạn trong nhóm chat lớp rồi lấy câu trả lời đầu tiên",
+    "Ask in the class group chat and use the first answer",
+    0,
+    "Bạn có thể cũng chưa chắc. Sách và trang của các tổ chức uy tín đáng tin hơn.",
+    "Friends might not be sure either. Books and trusted organisations are more reliable."
+   ],
+   [
+    "So với sách khoa học ở nhà hoặc trang của một vườn thú, bảo tàng uy tín, rồi ghi lại nguồn đã dùng",
+    "Check a science book at home or a trusted zoo or museum site, then note the source you used",
+    1,
+    "Hai nguồn đáng tin mà khớp nhau thì thông tin chắc chắn hơn. Ghi nguồn giúp người khác kiểm tra lại được.",
+    "Two trusted sources that agree make information more solid. Noting the source lets others check."
+   ]
+  ],
+  "qq": [
+   "Khi tra cứu, làm sao biết thông tin đáng tin?",
+   "When researching, how do you know information is reliable?"
+  ],
+  "qo": [
+   [
+    "So sánh ít nhất hai nguồn đáng tin",
+    "Compare at least two trusted sources"
+   ],
+   [
+    "Tin trang xuất hiện đầu tiên",
+    "Trust the first result"
+   ],
+   [
+    "Chọn thông tin nghe lạ nhất",
+    "Pick the most surprising fact"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm An làm bài về cây lúa. Huy nói: “Tớ nghe nói cây lúa cao bằng người lớn.” Cả nhóm định ghi luôn vào bài.",
+     "An’s group is doing a project on rice plants. Huy says: “I heard rice grows as tall as a grown-up.” The group is about to write it down."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "“Để mình kiểm tra trong sách giáo khoa và hỏi cô xem có đúng không đã.”",
+      "“Let’s check the textbook and ask the teacher first.”",
+      1,
+      "“Nghe nói” chưa phải là nguồn. Kiểm tra lại giúp bài của nhóm chính xác.",
+      "“I heard” isn’t a source. Checking keeps the group’s work accurate."
+     ],
+     [
+      "“Ừ, ghi luôn cho nhanh.”",
+      "“Fine, just write it.”",
+      0,
+      "Ghi điều chưa chắc có thể làm cả bài sai. Kiểm tra mất ít phút thôi.",
+      "Writing unchecked facts can make the project wrong. Checking takes minutes."
+     ],
+     [
+      "“Cậu nói sai rồi!”",
+      "“You’re wrong!”",
+      0,
+      "Mình cũng chưa chắc mà. Cùng nhau kiểm tra sẽ vui và lịch sự hơn.",
+      "You’re not sure either. Checking together is kinder and more fun."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở bảo tàng cùng ba, An đọc tấm biển ghi một năm khác với điều An đọc ở một cuốn truyện tranh.",
+     "At the museum with Dad, An reads a sign with a different date from the one in a comic book."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tin truyện tranh vì đọc trước",
+      "Believe the comic because you read it first",
+      0,
+      "Đọc trước chưa chắc đã đúng. Truyện tranh có thể thay đổi để kể cho vui.",
+      "First isn’t always right. Comics may change details for fun."
+     ],
+     [
+      "Hỏi cô hướng dẫn ở bảo tàng và về nhà cùng ba xem thêm một cuốn sách nữa",
+      "Ask the museum guide and look in another book with Dad at home",
+      1,
+      "Khi hai nguồn khác nhau, tìm thêm nguồn thứ ba đáng tin để so sánh.",
+      "When two sources disagree, find a third trusted one to compare."
+     ],
+     [
+      "Nghĩ cả hai đều sai rồi thôi",
+      "Decide both are wrong and forget it",
+      0,
+      "Có cách để tìm ra! Hỏi người hiểu biết và xem thêm nguồn khác.",
+      "There’s a way to find out! Ask an expert and check another source."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai nguồn có khớp không?",
+    "Do two sources agree?"
+   ],
+   "s": [
+    "Cùng ba mẹ tra một thông tin (ví dụ chiều cao một loài vật) ở 2 nguồn: một cuốn sách và một trang của tổ chức uy tín. Ghi lại hai nguồn và xem có khớp không.",
+    "With your parent, look up one fact (like an animal’s height) in 2 sources: a book and a trusted organisation’s website. Note both and see if they agree."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn thông tin, tìm hai nguồn và đọc cùng con.",
+     "Your parent helps you pick a fact, find two sources and read them together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tra hai nguồn và ghi tên nguồn.",
+     "With one reminder, you check two sources and write down their names."
+    ],
+    [
+     "Con tự tra, ghi nguồn và giải thích vì sao con tin hai nguồn đó.",
+     "You research, note sources and explain why you trust them."
+    ]
+   ],
+   "rw": [
+    "Con được đặt một câu hỏi “vì sao” để cả nhà cùng tìm hiểu cuối tuần",
+    "You choose a “why” question for the family to explore at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Chơi an toàn ở sân trường",
+   "Playing safely in the schoolyard"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, vài bạn rủ An chơi đuổi bắt quanh bậc thềm cầu thang vì chỗ đó “vui hơn”. Đúng lúc ấy, Linh chạy vấp và ngã, đầu gối bị trầy.",
+   "At break some friends invite An to play tag around the stairs because it’s “more fun”. Just then Linh trips and falls, grazing her knee."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Ở cạnh Linh, nhờ một bạn báo thầy cô ngay, và rủ cả nhóm chuyển ra chỗ sân rộng",
+    "Stay with Linh, send a friend to get a teacher straight away, and move the game to the open yard",
+    1,
+    "Báo người lớn khi bạn ngã là việc quan trọng nhất. Chơi ở chỗ rộng, bằng phẳng giúp mọi người an toàn hơn.",
+    "Getting an adult when someone falls matters most. Open, flat spaces keep everyone safer."
+   ],
+   [
+    "Chạy tiếp vì Linh tự đứng dậy được",
+    "Keep playing because Linh can get up herself",
+    0,
+    "Bạn có thể đau hơn mình nghĩ. Báo thầy cô để bạn được chăm sóc đúng cách.",
+    "She might be more hurt than it looks. Tell a teacher so she’s looked after properly."
+   ],
+   [
+    "Tự đỡ Linh dậy và tự rửa vết thương",
+    "Help Linh up and clean the cut yourself",
+    0,
+    "Muốn giúp bạn là rất tốt, nhưng chăm sóc vết thương là việc của thầy cô hoặc phòng y tế.",
+    "Wanting to help is kind, but treating injuries is a job for teachers or the school nurse."
+   ]
+  ],
+  "qq": [
+   "Khi bạn bị ngã ở trường, việc đầu tiên là gì?",
+   "When someone falls at school, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Chụp ảnh lại",
+    "Take a photo"
+   ],
+   [
+    "Tiếp tục chơi",
+    "Carry on playing"
+   ],
+   [
+    "Báo thầy cô ngay",
+    "Tell a teacher straight away"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở nhà, em An muốn chơi trượt trên tay vịn cầu thang. Em rủ An chơi cùng.",
+     "At home An’s little brother wants to slide down the stair rail and asks An to join in."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Làm mẫu cho em xem",
+      "Show him how",
+      0,
+      "Cầu thang không phải chỗ chơi. Rủ em chơi trò khác an toàn hơn nhé.",
+      "Stairs aren’t for playing. Suggest a safer game."
+     ],
+     [
+      "Nói với em chỗ đó dễ ngã, rủ em chơi trò khác và báo ba mẹ biết",
+      "Tell him it’s easy to fall there, suggest another game and let your parents know",
+      1,
+      "Nhận ra chỗ nguy hiểm và rủ em sang trò an toàn là con đã bảo vệ em rồi.",
+      "Spotting the danger and offering a safer game is a great way to look after him."
+     ],
+     [
+      "Mặc kệ em",
+      "Ignore him",
+      0,
+      "Em còn nhỏ, chưa biết nguy hiểm. Một lời nhắc của anh chị rất có ích.",
+      "He’s little and doesn’t see the danger. Your reminder really helps."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi khu phố, có ba ngồi gần đó, vài bạn lớn đứng trên đỉnh cầu trượt xô đẩy nhau.",
+     "At the neighbourhood playground, with Dad sitting nearby, some older kids are pushing each other at the top of the slide."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Leo lên chơi cùng",
+      "Climb up and join them",
+      0,
+      "Xô đẩy trên cao dễ ngã. Chọn trò khác đến khi chỗ đó an toàn.",
+      "Pushing up high leads to falls. Pick another game until it’s safe."
+     ],
+     [
+      "Hét lên mắng các bạn",
+      "Shout at them",
+      0,
+      "Hét có thể làm mọi việc rối thêm. Nói với ba để ba giúp nhắc nhở.",
+      "Shouting can make things worse. Tell Dad so he can step in."
+     ],
+     [
+      "Chơi chỗ khác và nói với ba để ba nhắc các bạn",
+      "Play somewhere else and tell Dad so he can remind them",
+      1,
+      "Tránh xa chỗ nguy hiểm và báo người lớn là cách đúng nhất.",
+      "Keeping away from danger and telling an adult is the right move."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bản đồ an toàn sân trường",
+    "Schoolyard safety map"
+   ],
+   "s": [
+    "Con vẽ sơ đồ sân trường, đánh dấu 3 chỗ cần cẩn thận (cầu thang, góc khuất, chỗ trơn…) và giải thích cho ba mẹ nên chơi thế nào cho an toàn.",
+    "Draw a map of your schoolyard, mark 3 places to be careful (stairs, hidden corners, slippery spots…) and explain to your parent how to play safely."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con vẽ sơ đồ và bàn xem chỗ nào cần cẩn thận.",
+     "Draw the map with your parent and talk about risky spots."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ và đánh dấu 3 chỗ.",
+     "With one reminder, you draw it and mark 3 spots."
+    ],
+    [
+     "Con tự vẽ, đánh dấu 3 chỗ, kèm cách chơi an toàn và nói con sẽ báo ai khi bạn bị ngã.",
+     "You draw it, mark 3 spots with safe-play tips and say who you’d tell if someone fell."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dán bản đồ của con lên tủ lạnh và khen trước cả nhà",
+    "Your map goes on the fridge and you get praised in front of the family"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Mục tiêu học tập mỗi tuần",
+   "Weekly learning goals"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chủ nhật, An tự nhủ: “Tuần này mình sẽ học giỏi Tiếng Anh.” Đến thứ Bảy, An không nhớ mình đã làm được gì cho mục tiêu đó.",
+   "On Sunday An says: “This week I’ll get good at English.” By Saturday An can’t remember doing anything towards it."
+  ],
+  "cq": [
+   "An nên đặt mục tiêu thế nào?",
+   "How should An set the goal?"
+  ],
+  "co": [
+   [
+    "Đặt mục tiêu thật lớn: thuộc 200 từ mới",
+    "Aim big: learn 200 new words",
+    0,
+    "Mục tiêu quá lớn dễ làm mình nản. Bắt đầu nhỏ để chắc chắn làm được.",
+    "Huge goals are discouraging. Start small so you succeed."
+   ],
+   [
+    "“Con sẽ học 5 từ mới mỗi tối thứ Hai, Tư, Sáu bằng thẻ từ”, rồi thứ Bảy tự kiểm tra",
+    "“I’ll learn 5 new words on Monday, Wednesday and Friday evenings with flashcards,” then test yourself on Saturday",
+    1,
+    "Mục tiêu nhỏ, cụ thể, đo được thì biết rõ phải làm gì và cuối tuần tự kiểm tra được.",
+    "A small, specific, measurable goal tells you exactly what to do and can be checked at the end of the week."
+   ],
+   [
+    "Không đặt mục tiêu, cứ học là được",
+    "Don’t set goals, just study",
+    0,
+    "Không có mục tiêu thì khó biết mình tiến bộ đến đâu.",
+    "Without a goal it’s hard to see your progress."
+   ]
+  ],
+  "qq": [
+   "Mục tiêu tốt có đặc điểm gì?",
+   "A good goal is…"
+  ],
+  "qo": [
+   [
+    "Thật lớn để có động lực",
+    "Huge, for motivation"
+   ],
+   [
+    "Nhỏ, cụ thể và đo được",
+    "Small, specific and measurable"
+   ],
+   [
+    "Chỉ cần nghĩ trong đầu",
+    "Kept in your head"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô yêu cầu mỗi bạn viết mục tiêu tuần vào góc vở. Vy viết: “Em sẽ cố gắng hơn.”",
+     "The teacher asks everyone to write a weekly goal in their book. Vy writes: “I’ll try harder.”"
+    ],
+    "q": [
+     "An có thể gợi ý Vy viết thế nào?",
+     "How could An suggest Vy writes it?"
+    ],
+    "o": [
+     [
+      "“Viết vậy là được rồi.”",
+      "“That’s fine as it is.”",
+      0,
+      "“Cố gắng hơn” khó đo. Thêm việc cụ thể sẽ giúp Vy biết mình đã làm được chưa.",
+      "“Try harder” is hard to measure. A specific action helps Vy check."
+     ],
+     [
+      "“Mục tiêu của cậu chán quá.”",
+      "“Your goal is boring.”",
+      0,
+      "Chê làm bạn buồn. Một gợi ý cụ thể sẽ có ích hơn.",
+      "Criticism hurts. A specific suggestion is more helpful."
+     ],
+     [
+      "“Cậu thử viết rõ: làm việc gì, mấy lần, vào ngày nào nhé.”",
+      "“Try writing what you’ll do, how many times and on which days.”",
+      1,
+      "Gợi ý nhẹ nhàng giúp bạn biến mong muốn thành mục tiêu đo được.",
+      "A gentle tip helps turn a wish into a measurable goal."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An học đàn ở nhà văn hoá. Cô dạy đàn hỏi: “Tuần này con muốn đạt được gì?” An đáp: “Đánh hay hơn ạ.”",
+     "An has keyboard lessons at the community centre. The teacher asks: “What do you want to achieve this week?” An says: “Play better.”"
+    ],
+    "q": [
+     "An nên trả lời lại thế nào?",
+     "How could An answer instead?"
+    ],
+    "o": [
+     [
+      "“Con sẽ tập thuộc đoạn đầu bài mới, mỗi ngày 10 phút, đến buổi sau đánh cho cô nghe.”",
+      "“I’ll learn the first part of the new piece, 10 minutes a day, and play it for you next lesson.”",
+      1,
+      "Có việc cụ thể, thời gian rõ và ngày kiểm tra thì cô và con đều biết con tiến bộ thế nào.",
+      "A specific task, clear time and check-in date lets you both see progress."
+     ],
+     [
+      "“Con chưa biết ạ.”",
+      "“I don’t know.”",
+      0,
+      "Không sao, hãy nghĩ một đoạn nhỏ con muốn đánh được trong tuần.",
+      "That’s OK. Think of one small part you’d like to play this week."
+     ],
+     [
+      "“Con sẽ đánh được cả bài khó nhất.”",
+      "“I’ll play the hardest piece.”",
+      0,
+      "Mục tiêu quá lớn cho một tuần dễ làm con nản. Chọn một bước nhỏ trước.",
+      "Too big for one week can be discouraging. Pick a small step."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mục tiêu dán bàn học",
+    "Desk goal card"
+   ],
+   "s": [
+    "Con viết một mục tiêu học tập cho tuần tới theo mẫu “Con sẽ… vào… bằng cách…” và dán lên bàn học. Cuối tuần cùng ba mẹ tự kiểm tra.",
+    "Write a learning goal for next week using “I will… on… by…” and stick it on your desk. Check it with your parent at the weekend."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn mục tiêu nhỏ và viết theo mẫu.",
+     "Your parent helps you choose a small goal and write it using the pattern."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết mục tiêu và dán lên bàn.",
+     "With one reminder, you write the goal and stick it up."
+    ],
+    [
+     "Con tự viết, tự theo dõi cả tuần và cuối tuần kể mình đạt được đến đâu.",
+     "You write it, track it all week and report how far you got."
+    ]
+   ],
+   "rw": [
+    "Con được chọn nơi cả nhà đi dạo cuối tuần",
+    "You choose where the family walks at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Rẻ mà mau hỏng có thật là rẻ?",
+   "Is cheap really cheap if it breaks?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi mua bình nước cùng mẹ, An thấy một bình nhựa mỏng giá rẻ và một bình chắc chắn đắt gấp ba. Năm ngoái, An đã làm vỡ hai chiếc bình rẻ.",
+   "Shopping for a water bottle with Mum, An sees a thin cheap plastic one and a sturdy one costing three times as much. Last year An broke two cheap bottles."
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "How should An think about it?"
+  ],
+  "co": [
+   [
+    "Luôn chọn cái rẻ nhất",
+    "Always pick the cheapest",
+    0,
+    "Rẻ lúc mua nhưng hỏng nhanh thì phải mua nhiều lần. Hãy tính cả thời gian dùng.",
+    "Cheap to buy but quick to break means buying again. Think about how long it lasts."
+   ],
+   [
+    "Luôn chọn cái đắt nhất vì chắc tốt hơn",
+    "Always pick the priciest because it must be better",
+    0,
+    "Đắt chưa chắc đã bền. Hãy xem chất liệu và mình dùng nó thế nào.",
+    "Pricey isn’t always sturdy. Check the material and how you’ll use it."
+   ],
+   [
+    "Tính xem mỗi bình dùng được bao lâu, rồi cùng mẹ chọn cái tiết kiệm hơn về lâu dài",
+    "Work out how long each will last, then choose with Mum the one that saves more over time",
+    1,
+    "Nếu một bình bền dùng bằng ba bình rẻ, có khi bình bền lại tiết kiệm hơn.",
+    "If one sturdy bottle lasts as long as three cheap ones, it may save more."
+   ]
+  ],
+  "qq": [
+   "Khi so sánh hai món đồ, nên tính thêm điều gì?",
+   "When comparing two items, also think about…"
+  ],
+  "qo": [
+   [
+    "Món nào nhiều màu hơn",
+    "Which is more colourful"
+   ],
+   [
+    "Món nào dùng được lâu hơn",
+    "Which will last longer"
+   ],
+   [
+    "Bạn bè đang dùng món nào",
+    "What your friends use"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An có hai đôi dép: một đôi rẻ đã đứt quai sau một tháng, một đôi ba mua đã đi được cả năm.",
+     "An has two pairs of sandals: a cheap pair whose strap broke after a month, and one Dad bought that has lasted a year."
+    ],
+    "q": [
+     "An rút ra được điều gì?",
+     "What can An learn?"
+    ],
+    "o": [
+     [
+      "Đồ bền dùng lâu có khi tiết kiệm hơn đồ rẻ mau hỏng",
+      "Long-lasting things can save more than cheap ones that break",
+      1,
+      "So sánh giá với số tháng dùng giúp mình hiểu cái nào thật sự rẻ.",
+      "Comparing price with months of use shows what’s truly cheap."
+     ],
+     [
+      "Đồ rẻ lúc nào cũng tốt",
+      "Cheap is always good",
+      0,
+      "Đôi rẻ chỉ dùng một tháng. Tính theo thời gian dùng thì chưa chắc đã rẻ.",
+      "The cheap pair lasted a month. Per month of use, it may not be cheap."
+     ],
+     [
+      "Không cần nghĩ, hỏng thì mua cái mới",
+      "Don’t think, just buy new when it breaks",
+      0,
+      "Mua mới nhiều lần tốn tiền và tạo thêm rác. Chọn kỹ ngay từ đầu sẽ tốt hơn.",
+      "Buying again costs money and creates waste. Choosing carefully helps."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Đầu năm, Nam mua bộ bút màu rẻ, sau hai tuần nhiều cây gãy ngòi. An dùng bộ bút của năm ngoái vẫn còn tốt.",
+     "At the start of the year Nam bought cheap colouring pencils; within two weeks lots had snapped. An’s set from last year is still fine."
+    ],
+    "q": [
+     "An có thể chia sẻ với Nam thế nào?",
+     "How could An share with Nam?"
+    ],
+    "o": [
+     [
+      "“Bút cậu dỏm quá!”",
+      "“Your pencils are rubbish!”",
+      0,
+      "Nói vậy làm bạn buồn. Chia sẻ kinh nghiệm của mình nhẹ nhàng thì hơn.",
+      "That hurts. Share your experience kindly instead."
+     ],
+     [
+      "“Tớ giữ bút trong hộp cứng và chọn loại ngòi chắc, nên dùng được lâu. Lần sau cậu thử xem.”",
+      "“I keep mine in a hard case and chose a sturdy kind, so they last. Maybe try that next time.”",
+      1,
+      "Chia sẻ cách chọn và giữ gìn đồ giúp bạn tiết kiệm mà không làm bạn ngại.",
+      "Sharing how to choose and care for things helps without embarrassing anyone."
+     ],
+     [
+      "Cho Nam mượn hết bút của mình",
+      "Lend Nam all your pencils",
+      0,
+      "Cho bạn mượn một lúc thì tốt, nhưng mình cũng cần bút. Chia sẻ kinh nghiệm sẽ giúp bạn lâu dài.",
+      "Lending for a while is kind, but you need yours too. Sharing tips helps longer."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đồ rẻ hay đồ bền?",
+    "Cheap or long-lasting?"
+   ],
+   "s": [
+    "Cùng ba mẹ so hai món đồ dùng trong nhà (một rẻ, một bền) và ước tính mỗi món dùng được bao lâu. Con nói món nào tiết kiệm hơn về lâu dài.",
+    "With your parent, compare two everyday items (one cheap, one sturdy) and estimate how long each lasts. Say which saves more over time."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chọn hai món và cùng con ước tính thời gian dùng.",
+     "Your parent picks two items and estimates their lifespan with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn hai món và ước tính.",
+     "With one reminder, you choose two items and estimate."
+    ],
+    [
+     "Con tự so sánh, giải thích món nào tiết kiệm hơn và nêu một cách giữ đồ bền lâu.",
+     "You compare, explain which saves more and suggest one way to make things last."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể chuyện món đồ ba mẹ giữ lâu nhất",
+    "Your parent tells the story of the thing they’ve kept the longest"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Viết lời nhắn cho thầy cô",
+   "Writing a note to my teacher"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An bị sốt nhẹ phải nghỉ học, cần nhờ mẹ gửi lời nhắn cho cô hỏi bài tập. An định viết: “Cô ơi hôm nay em nghỉ, bài gì vậy cô.”",
+   "An has a mild fever and is off school, and needs Mum to send a message asking the teacher about homework. An plans to write: “Miss I’m off today what’s the homework.”"
+  ],
+  "cq": [
+   "An nên viết thế nào?",
+   "How should An write it?"
+  ],
+  "co": [
+   [
+    "“Em chào cô ạ. Hôm nay em bị sốt nên xin phép nghỉ. Cô cho em biết bài tập hôm nay với ạ. Em cảm ơn cô.”",
+    "“Good morning, Miss. I have a fever today so I’m off school. Could you tell me today’s homework, please? Thank you.”",
+    1,
+    "Đủ ba phần: lời chào, việc cần và lời cảm ơn. Ngắn gọn, lễ phép, cô đọc là hiểu ngay.",
+    "All three parts: greeting, request and thanks. Short, polite and clear."
+   ],
+   [
+    "Gửi đúng như vậy cho nhanh",
+    "Send it as it is",
+    0,
+    "Lời nhắn thiếu chào hỏi và cảm ơn có thể làm cô thấy chưa lễ phép. Thêm vài chữ là đủ.",
+    "Without a greeting or thanks it can seem rude. A few extra words fix it."
+   ],
+   [
+    "Viết thật dài kể chuyện bị sốt",
+    "Write a long story about the fever",
+    0,
+    "Cô cần thông tin chính. Viết ngắn gọn đủ ý sẽ giúp cô trả lời nhanh.",
+    "The teacher needs the main point. Short and complete helps her reply quickly."
+   ]
+  ],
+  "qq": [
+   "Một lời nhắn gửi thầy cô cần có gì?",
+   "A note to a teacher needs…"
+  ],
+  "qo": [
+   [
+    "Thật nhiều biểu tượng cảm xúc",
+    "Lots of emojis"
+   ],
+   [
+    "Chỉ cần việc mình cần",
+    "Just what you need"
+   ],
+   [
+    "Lời chào, việc cần và lời cảm ơn",
+    "A greeting, the request and thanks"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cuối giờ, An muốn xin cô cho nộp bài vẽ muộn một ngày vì quên màu ở nhà, nhưng cô đang bận.",
+     "At the end of class An wants to ask to hand in an art project a day late after leaving the paints at home, but the teacher is busy."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Không nói gì, mai nộp",
+      "Say nothing and hand it in tomorrow",
+      0,
+      "Cô sẽ không biết lý do. Báo trước bằng lời nhắn ngắn thì tốt hơn.",
+      "She won’t know why. A short note in advance is better."
+     ],
+     [
+      "Viết mẩu giấy nhỏ: “Thưa cô, em quên màu ở nhà, em xin nộp bài vào sáng mai ạ. Em cảm ơn cô.” rồi để lên bàn cô",
+      "Write a little note: “Dear Miss, I left my paints at home; may I hand it in tomorrow morning? Thank you.” and leave it on her desk",
+      1,
+      "Khi cô bận, một mẩu giấy ngắn, lễ phép, đủ ý là cách rất hay.",
+      "When she’s busy, a short, polite, complete note works well."
+     ],
+     [
+      "Chen ngang khi cô đang nói với bạn khác",
+      "Interrupt while she’s talking to someone else",
+      0,
+      "Chen ngang làm gián đoạn. Viết lời nhắn hoặc chờ cô xong rồi nói.",
+      "Interrupting breaks the flow. Write a note or wait until she’s free."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An cần nhờ ba nhắn cho thầy dạy bơi để xin nghỉ buổi thứ Bảy vì nhà có việc.",
+     "An needs Dad to message the swimming coach to say An will miss Saturday’s session for a family event."
+    ],
+    "q": [
+     "An nên nhờ ba nhắn thế nào?",
+     "What should the message say?"
+    ],
+    "o": [
+     [
+      "“Thứ Bảy không đi.”",
+      "“Not coming Saturday.”",
+      0,
+      "Ngắn quá thì thiếu lễ phép. Thêm lời chào và cảm ơn nhé.",
+      "Too short sounds rude. Add a greeting and thanks."
+     ],
+     [
+      "Không cần nhắn, thầy sẽ tự biết",
+      "No need, the coach will work it out",
+      0,
+      "Thầy có thể chờ con. Báo trước là tôn trọng thầy.",
+      "The coach might wait for you. Letting him know is respectful."
+     ],
+     [
+      "“Con chào thầy ạ. Thứ Bảy này nhà con có việc nên con xin nghỉ một buổi. Con cảm ơn thầy.”",
+      "“Hello, coach. We have a family event this Saturday so I’ll miss one session. Thank you.”",
+      1,
+      "Lời chào, lý do ngắn gọn và lời cảm ơn giúp lời nhắn lịch sự và rõ ràng.",
+      "A greeting, a short reason and thanks make it polite and clear."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lời nhắn mẫu ba phần",
+    "A three-part sample note"
+   ],
+   "s": [
+    "Con soạn một lời nhắn mẫu gửi thầy cô (xin phép hoặc hỏi bài) có đủ lời chào, việc cần và lời cảm ơn, rồi nhờ ba mẹ góp ý.",
+    "Draft a sample note to your teacher (asking permission or about homework) with a greeting, the request and thanks, then ask your parent for feedback."
+   ],
+   "lv": [
+    [
+     "Ba mẹ viết mẫu một lời nhắn, con viết một lời nhắn khác theo mẫu.",
+     "Your parent writes an example, then you write your own."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự soạn lời nhắn và đọc cho ba mẹ nghe.",
+     "With one reminder, you draft a note and read it out."
+    ],
+    [
+     "Con tự soạn hai lời nhắn cho hai tình huống, tự kiểm tra đủ ba phần.",
+     "You draft two notes for two situations and check each has all three parts."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ viết lại cho con một lời nhắn cảm ơn nhỏ",
+    "Your parent writes you a little thank-you note in return"
+   ]
+  }
+ }
+]

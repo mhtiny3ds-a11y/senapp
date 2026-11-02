@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Việc nhà hay bài tập: cái nào trước?",
+   "Chores or homework first?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chiều nay An có ba việc: phơi quần áo mẹ dặn trước 5 giờ vì sắp mưa, bài Toán nộp ngày mai và bài đọc nộp thứ Sáu. An định làm bài đọc trước vì thích nhất.",
+   "This afternoon An has three jobs: hang the washing before 5 because rain is coming, maths due tomorrow, and reading due Friday. An wants to do the reading first because it’s the most fun."
+  ],
+  "cq": [
+   "An nên xếp thứ tự thế nào?",
+   "How should An order the jobs?"
+  ],
+  "co": [
+   [
+    "Phơi quần áo trước 5 giờ, rồi làm Toán, bài đọc để sau",
+    "Washing before 5, then maths, reading last",
+    1,
+    "Việc có hạn gần nhất và quan trọng nhất làm trước. Bài đọc còn đến thứ Sáu nên xếp sau.",
+    "The nearest, most important deadline goes first. Reading isn’t due till Friday, so it can wait."
+   ],
+   [
+    "Làm bài đọc trước vì thích nhất",
+    "Reading first because it’s the most fun",
+    0,
+    "Việc thích chưa chắc là việc gấp. Nếu trời mưa, quần áo sẽ ướt hết.",
+    "The fun job isn’t always the urgent one. If it rains, the washing gets soaked."
+   ],
+   [
+    "Làm Toán trước, phơi đồ khi nào xong thì phơi",
+    "Maths first, washing whenever you finish",
+    0,
+    "Toán quan trọng, nhưng phơi đồ có hạn 5 giờ sát hơn và chỉ mất 10 phút.",
+    "Maths matters, but the washing has a closer deadline and only takes ten minutes."
+   ]
+  ],
+  "qq": [
+   "Xếp thứ tự công việc nên dựa vào gì?",
+   "What should you use to order your tasks?"
+  ],
+  "qo": [
+   [
+    "Hạn chót và mức độ quan trọng",
+    "Deadline and importance"
+   ],
+   [
+    "Việc mình thích nhất",
+    "What you like best"
+   ],
+   [
+    "Việc dài nhất",
+    "The longest job"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ tự học, An cần chép bài cô ghi trên bảng trước khi cô xoá, làm bài tập nộp cuối giờ và vẽ trang trí bìa vở.",
+     "In study period, An needs to copy notes from the board before they’re wiped, finish an exercise due at the end of the lesson, and decorate an exercise book cover."
+    ],
+    "q": [
+     "An nên làm gì trước?",
+     "What should An do first?"
+    ],
+    "o": [
+     [
+      "Vẽ bìa vở trước cho vui",
+      "Decorate the cover first for fun",
+      0,
+      "Vẽ bìa lúc nào cũng làm được. Bài trên bảng sắp bị xoá thì phải chép trước.",
+      "The cover can be done any time. Board notes that will be wiped come first."
+     ],
+     [
+      "Làm cả ba việc cùng lúc",
+      "Do all three at once",
+      0,
+      "Làm nhiều việc một lúc dễ sai và chậm. Làm lần lượt theo thứ tự sẽ nhanh hơn.",
+      "Multitasking causes mistakes and slows you down. One at a time is faster."
+     ],
+     [
+      "Chép bài trên bảng trước, rồi làm bài tập, vẽ bìa nếu còn thời gian",
+      "Copy the board first, then the exercise, and decorate if there’s time",
+      1,
+      "Việc sắp hết cơ hội và việc có hạn trong giờ được xếp trước, việc không gấp để sau.",
+      "Jobs that will vanish and jobs due now come first; non-urgent ones come last."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Sáng thứ Bảy, An đi chợ cùng mẹ lúc 7 giờ. An còn muốn tưới cây cho bà hàng xóm nhờ, và đọc truyện mới mượn.",
+     "On Saturday, An goes to the market with Mum at 7. An also promised to water the neighbour’s plants and wants to read a new library book."
+    ],
+    "q": [
+     "An nên xếp thế nào?",
+     "How should An plan the morning?"
+    ],
+    "o": [
+     [
+      "Đọc truyện trước, đi chợ muộn cũng được",
+      "Read first – the market can wait",
+      0,
+      "Mẹ đã hẹn 7 giờ. Đọc truyện là việc linh hoạt, có thể để sau.",
+      "Mum set 7 o’clock. Reading is flexible and can wait."
+     ],
+     [
+      "Đi chợ cùng mẹ lúc 7 giờ, về tưới cây cho bà, rồi đọc truyện",
+      "Market with Mum at 7, water the plants when back, then read",
+      1,
+      "Việc có giờ cố định trước, lời hứa với người khác tiếp theo, việc thích để thưởng cuối.",
+      "Fixed times first, promises next, the fun job last as a reward."
+     ],
+     [
+      "Quên chuyện tưới cây vì không phải cây nhà mình",
+      "Forget the plants – they’re not yours",
+      0,
+      "Đã nhận lời thì đó là việc của con. Xếp nó vào lịch để không quên.",
+      "You agreed, so it’s your job now. Put it in the plan so you don’t forget."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đánh số việc chiều nay",
+    "Number this afternoon’s jobs"
+   ],
+   "s": [
+    "Con liệt kê các việc chiều nay (bài tập, việc nhà, việc riêng), đánh số thứ tự theo hạn chót và mức quan trọng, làm theo đúng thứ tự rồi đưa ba mẹ xem.",
+    "List this afternoon’s jobs (homework, chores, your own things), number them by deadline and importance, do them in that order and show your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con liệt kê và đánh số.",
+     "Your parent helps you list and number them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự liệt kê, đánh số và làm theo.",
+     "With one reminder, you list, number and follow them yourself."
+    ],
+    [
+     "Con tự làm, gạch từng việc khi xong và giải thích với ba mẹ vì sao xếp như vậy.",
+     "You do it alone, tick off each job and explain your order to your parent."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi dân gian cả nhà chơi tối nay",
+    "You choose a traditional game for the family tonight"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Đọc hoá đơn đi chợ",
+   "Reading a shopping receipt"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi siêu thị cùng mẹ, An giữ tờ hoá đơn. An thấy có dòng “Sữa chua x2” nhưng nhớ là mẹ chỉ lấy một lốc.",
+   "At the supermarket with Mum, An holds the receipt and spots a line “Yoghurt x2”, but remembers Mum only took one pack."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Vứt hoá đơn đi vì không quan trọng",
+    "Throw the receipt away – it doesn’t matter",
+    0,
+    "Hoá đơn cho biết tiền đã chi vào đâu. Đọc kỹ giúp phát hiện chỗ nhầm.",
+    "A receipt shows where the money went. Reading it helps catch mistakes."
+   ],
+   [
+    "Chỉ cho mẹ dòng đó, cùng mẹ đếm lại đồ trong túi",
+    "Show Mum the line and count the shopping together",
+    1,
+    "Đọc từng dòng và đối chiếu với đồ đã mua giúp kiểm tra hoá đơn có đúng không.",
+    "Reading line by line and checking against the shopping tells you if it’s right."
+   ],
+   [
+    "Tự ra quầy cãi với nhân viên",
+    "Go and argue with the cashier on your own",
+    0,
+    "Phát hiện nhầm là giỏi rồi. Để mẹ trao đổi lịch sự với nhân viên nhé.",
+    "Spotting it is great. Let Mum talk politely with the staff."
+   ]
+  ],
+  "qq": [
+   "Đọc hoá đơn giúp mình điều gì?",
+   "What does reading a receipt help with?"
+  ],
+  "qo": [
+   [
+    "Để gấp máy bay giấy",
+    "Making paper planes"
+   ],
+   [
+    "Biết tiền đã chi vào đâu và có đúng không",
+    "Seeing where money went and if it’s correct"
+   ],
+   [
+    "Biết cửa hàng mở cửa mấy giờ",
+    "Knowing the opening hours"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ để tờ hoá đơn đi chợ trên bàn. Mẹ bảo “Tuần này nhà mình chi nhiều hơn, không biết vì món gì”.",
+     "Mum leaves the shopping receipt on the table. “We spent more this week and I’m not sure why,” she says."
+    ],
+    "q": [
+     "An có thể giúp gì?",
+     "How can An help?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ đọc từng dòng, tìm món đắt nhất và món mới mua thêm",
+      "Read it line by line with Mum and find the priciest and the extra items",
+      1,
+      "Đọc kỹ hoá đơn giúp cả nhà biết tiền đi đâu và lần sau mua hợp lý hơn.",
+      "Reading it carefully shows where money goes and helps shop smarter next time."
+     ],
+     [
+      "Nói “Chắc do mẹ mua nhiều”",
+      "Say “You probably just bought loads”",
+      0,
+      "Đoán thì chưa chắc đúng. Đọc hoá đơn sẽ cho câu trả lời rõ ràng.",
+      "A guess may be wrong. The receipt gives a clear answer."
+     ],
+     [
+      "Không quan tâm vì là việc của mẹ",
+      "Ignore it – it’s Mum’s job",
+      0,
+      "Tiền chi tiêu là chuyện cả nhà. Giúp mẹ đọc hoá đơn là con đang học quản lý tiền.",
+      "Spending affects everyone. Helping read the receipt teaches you about money."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An mua đồ cho buổi liên hoan, bạn thủ quỹ đưa tờ hoá đơn cho cả lớp xem. Một bạn bảo “Tiêu hết tiền quỹ rồi à?”.",
+     "An’s class bought things for a party, and the class treasurer shows everyone the receipt. Someone says, “Did we spend all the class fund?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đoán chắc bạn thủ quỹ tiêu sai",
+      "Assume the treasurer overspent",
+      0,
+      "Nghi ngờ khi chưa đọc hoá đơn là không công bằng. Cùng kiểm tra trước đã.",
+      "Suspecting before reading the receipt is unfair. Check together first."
+     ],
+     [
+      "Bảo “Thôi kệ, tiêu rồi thì thôi”",
+      "Say “Whatever, it’s spent now”",
+      0,
+      "Biết tiền đã chi vào đâu giúp lớp mua hợp lý hơn lần sau.",
+      "Knowing where it went helps the class spend better next time."
+     ],
+     [
+      "Đề nghị cả lớp cùng đọc từng dòng, cộng lại và so với tiền quỹ",
+      "Suggest the class reads each line, adds them up and compares with the fund",
+      1,
+      "Đọc và cộng hoá đơn công khai giúp mọi người thấy rõ, không ai bị nghi oan.",
+      "Reading and adding it openly makes everything clear and nobody is wrongly blamed."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cùng ba mẹ đọc một hoá đơn",
+    "Read a receipt with your parent"
+   ],
+   "s": [
+    "Con cùng ba mẹ đọc một hoá đơn đi chợ: đọc tên từng món, cộng thử 3 dòng và tìm món đắt nhất.",
+    "Read a shopping receipt with your parent: read each item, add up three lines and find the most expensive item."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ từng dòng và cùng con cộng.",
+     "Your parent points to each line and adds with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đọc, tự cộng 3 dòng.",
+     "With one reminder, you read and add three lines yourself."
+    ],
+    [
+     "Con tự làm, kiểm tra tổng có khớp không và nói một món có thể mua ít hơn lần sau.",
+     "You do it alone, check the total matches and suggest one item to buy less of next time."
+    ]
+   ],
+   "rw": [
+    "Được chọn loại trái cây cho bữa tráng miệng cả tuần",
+    "You choose the fruit for the week’s puddings"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Gọi điện hỏi thăm ông bà",
+   "Calling my grandparents"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô giáo ốm nghỉ một tuần. Lớp cử An gọi điện hỏi thăm cô thay mặt cả lớp, có cô chủ nhiệm khác ngồi cạnh.",
+   "The teacher is off sick for a week. The class chooses An to phone her on everyone’s behalf, with another teacher sitting alongside."
+  ],
+  "cq": [
+   "An nên nói thế nào?",
+   "What should An say?"
+  ],
+  "co": [
+   [
+    "“Cô ơi bao giờ cô đi dạy lại ạ?”",
+    "“Miss, when are you coming back?”",
+    0,
+    "Câu hỏi này dễ làm cô thấy áp lực. Hỏi thăm sức khoẻ trước sẽ ấm áp hơn.",
+    "That can feel like pressure. Asking how she is first is kinder."
+   ],
+   [
+    "Nói nhanh “Lớp chúc cô khoẻ” rồi cúp máy",
+    "Say “Get well soon from the class” and hang up",
+    0,
+    "Lời chúc rất tốt, nhưng chào hỏi trước và chào tạm biệt sẽ lễ phép hơn.",
+    "Good wishes are lovely, but a proper hello and goodbye are more polite."
+   ],
+   [
+    "“Em chào cô ạ, em thay mặt lớp hỏi thăm sức khoẻ cô. Cả lớp vẫn ngoan và mong cô mau khoẻ ạ”",
+    "“Hello Miss, I’m calling for the class to ask how you are. We’re being good and hope you feel better soon”",
+    1,
+    "Chào, hỏi thăm, kể ngắn tin của lớp và chúc cô – cuộc gọi ngắn mà đầy đủ.",
+    "Greeting, asking, short class news and good wishes – brief but complete."
+   ]
+  ],
+  "qq": [
+   "Một cuộc gọi hỏi thăm lễ phép có các phần nào?",
+   "What parts make a polite catch-up call?"
+  ],
+  "qo": [
+   [
+    "Chỉ chào rồi cúp máy",
+    "Just hello and hang up"
+   ],
+   [
+    "Kể chuyện mình thật lâu",
+    "Talk about yourself for ages"
+   ],
+   [
+    "Chào hỏi, hỏi thăm, kể chuyện, chào tạm biệt",
+    "Greet, ask, share, say goodbye"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Lâu rồi An chưa nói chuyện với ông bà ở quê. Mẹ đưa điện thoại: “Con gọi cho ông bà đi”. An cầm máy, không biết nói gì ngoài “Dạ, cháu chào ông bà”.",
+     "An hasn’t spoken to the grandparents in the countryside for a while. Mum hands over the phone: “Give them a call.” An doesn’t know what to say beyond “Hello, Grandma and Grandpa.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chào xong rồi đưa máy lại cho mẹ",
+      "Say hello and hand the phone back",
+      0,
+      "Ông bà rất mong nghe cháu nói. Chuẩn bị sẵn vài câu sẽ giúp con tự tin hơn.",
+      "They’re longing to hear from you. Preparing a few lines helps you feel confident."
+     ],
+     [
+      "Chào hỏi, hỏi thăm sức khoẻ, kể một chuyện vui rồi chào tạm biệt lễ phép",
+      "Greet them, ask how they are, share one happy story and say goodbye politely",
+      1,
+      "Chào – hỏi thăm – kể chuyện – tạm biệt là khung đơn giản giúp cuộc gọi tự nhiên và lễ phép.",
+      "Greet, ask, share, goodbye – a simple frame that keeps the call natural and polite."
+     ],
+     [
+      "Kể một mạch chuyện của mình, không hỏi ông bà",
+      "Talk non-stop about yourself without asking them anything",
+      0,
+      "Ông bà thích nghe chuyện của cháu, nhưng hỏi thăm ông bà nữa thì cuộc gọi ấm áp hơn.",
+      "They love your news, but asking about them makes the call warmer."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi cùng ba ở hội chợ sách, An muốn gọi về khoe ông nội đã mua được cuốn truyện ông từng kể. Xung quanh hơi ồn.",
+     "At a book fair with Dad, An wants to call Grandpa to say they found the book he used to talk about. It’s a bit noisy."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cùng ba ra chỗ yên tĩnh, chào ông, hỏi thăm ông rồi kể chuyện cuốn sách",
+      "Go somewhere quieter with Dad, greet Grandpa, ask how he is, then tell him about the book",
+      1,
+      "Chọn chỗ phù hợp và giữ đủ các bước giúp ông nghe rõ và thấy vui.",
+      "A good spot and all the steps mean Grandpa hears clearly and feels happy."
+     ],
+     [
+      "Hét to vào điện thoại giữa đám đông",
+      "Shout into the phone in the crowd",
+      0,
+      "Nơi ồn ông khó nghe, và hét to làm phiền người khác. Tìm chỗ yên hơn nhé.",
+      "Grandpa won’t hear well and shouting bothers others. Find a quieter spot."
+     ],
+     [
+      "Để về nhà rồi mới kể, chắc ông không quan tâm",
+      "Wait till home – Grandpa probably won’t care",
+      0,
+      "Ông sẽ rất vui khi cháu nhớ đến chuyện ông kể. Đừng ngại gọi nhé.",
+      "Grandpa will be delighted you remembered. Don’t hesitate to call."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm phút gọi điện cho ông bà",
+    "A five-minute call to Grandma and Grandpa"
+   ],
+   "s": [
+    "Con chuẩn bị trước 3 câu hỏi thăm, rồi gọi cho ông bà hoặc một người thân lớn tuổi khoảng 5 phút (ba mẹ bấm số giúp và ngồi gần). Gọi xong kể lại ông bà đã trả lời gì.",
+    "Prepare three questions, then call your grandparents or an older relative for about five minutes (your parent dials and stays nearby). Afterwards, share what they said."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết 3 câu hỏi và ngồi cạnh nhắc khi con quên.",
+     "Your parent helps write the questions and prompts you if you forget."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị câu hỏi và tự nói chuyện.",
+     "With one reminder, you prepare the questions and talk on your own."
+    ],
+    [
+     "Con tự nhớ gọi, đủ các bước chào – hỏi thăm – kể – tạm biệt, rồi kể lại với ba mẹ.",
+     "You remember to call, use all the steps, and report back to your parent."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ viết và trang trí một tấm bưu thiếp gửi ông bà",
+    "Write and decorate a postcard for your grandparents with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi bị ba mẹ la",
+   "When my parents scold me"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An quên dọn đồ chơi ở cầu thang, mẹ suýt trượt chân. Mẹ la lớn: “Mẹ nhắc bao nhiêu lần rồi!”. An thấy mặt nóng bừng, muốn cãi “Con định dọn rồi mà!”.",
+   "An left toys on the stairs and Mum nearly slipped. She raises her voice: “How many times have I told you!” An’s face burns and An wants to snap back, “I was going to!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nghe hết, thở chậm, dọn đồ ngay; lúc mẹ bình tĩnh mới nói “Con xin lỗi, lần sau con dọn ngay khi chơi xong”",
+    "Listen, breathe slowly, tidy up now; once Mum is calm, say “Sorry, next time I’ll tidy straight after playing”",
+    1,
+    "Nghe hết và chờ lúc bình tĩnh giúp con và mẹ hiểu nhau. Ba mẹ la vì lo cho cả nhà.",
+    "Listening and waiting for calm helps you understand each other. Mum raised her voice because she was worried."
+   ],
+   [
+    "Cãi lại ngay cho mẹ biết mình định dọn",
+    "Argue straight away that you meant to tidy up",
+    0,
+    "Lúc cả hai đang nóng, cãi lại dễ thành to tiếng hơn. Đợi một chút rồi nói sẽ tốt hơn.",
+    "When you’re both heated, arguing makes it louder. Wait a moment, then talk."
+   ],
+   [
+    "Đóng sầm cửa phòng",
+    "Slam your bedroom door",
+    0,
+    "Đóng cửa mạnh cho thấy con giận nhưng không giải quyết được gì. Thở chậm sẽ giúp con dịu lại.",
+    "Slamming shows anger but solves nothing. Slow breaths help you cool down."
+   ]
+  ],
+  "qq": [
+   "Khi bị ba mẹ la, nên làm gì?",
+   "When your parents tell you off, what should you do?"
+  ],
+  "qo": [
+   [
+    "Nghe hết, thở chậm, đợi bình tĩnh rồi mới nói",
+    "Listen, breathe, and talk once calm"
+   ],
+   [
+    "Cãi lại ngay",
+    "Argue back immediately"
+   ],
+   [
+    "Bỏ đi chỗ khác",
+    "Walk away"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "An nộp bài muộn, cô nhắc nhở trước lớp. An thấy xấu hổ và muốn giải thích là hôm qua nhà có khách.",
+     "An hands homework in late and the teacher mentions it in front of the class. An feels embarrassed and wants to explain there were guests at home yesterday."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cãi ngay trước lớp",
+      "Argue in front of the class",
+      0,
+      "Nói lúc cả lớp đang nghe dễ thành tranh cãi. Gặp riêng cô sau giờ sẽ nhẹ nhàng hơn.",
+      "Speaking up in front of everyone can turn into an argument. See the teacher afterwards."
+     ],
+     [
+      "Gục đầu xuống bàn cả buổi",
+      "Put your head on the desk all lesson",
+      0,
+      "Xấu hổ là bình thường, nhưng thở chậm vài lần sẽ giúp con học tiếp được.",
+      "Feeling embarrassed is normal, but a few slow breaths will help you carry on."
+     ],
+     [
+      "Lắng nghe, nói “Dạ em xin lỗi cô”, rồi cuối giờ gặp riêng cô giải thích",
+      "Listen, say “Sorry, Miss”, then explain privately after class",
+      1,
+      "Nhận lời nhắc rồi giải thích đúng lúc giúp cô hiểu con và quý sự bình tĩnh của con.",
+      "Accepting the reminder and explaining at the right time helps her understand you."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, An chạy ra gần lòng đường để nhặt quả bóng. Ba gọi giật lại và la to. Mấy bạn xung quanh nhìn, An thấy ngượng.",
+     "At the park, An runs towards the road to get a ball. Dad calls out sharply and tells An off loudly. Other kids look over and An feels embarrassed."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giận ba vì làm mình xấu hổ trước bạn",
+      "Be cross with Dad for embarrassing you",
+      0,
+      "Ba la to vì sợ con gặp nguy hiểm. Hiểu điều đó sẽ giúp con bớt giận.",
+      "Dad shouted because he was scared for you. Knowing that helps the anger fade."
+     ],
+     [
+      "Thở chậm, nghe ba nói, rồi xin lỗi và hứa lần sau nhờ người lớn nhặt bóng gần đường",
+      "Breathe slowly, listen to Dad, then say sorry and promise to ask an adult for balls near the road",
+      1,
+      "Ba la vì lo cho an toàn của con. Nghe hết và hứa cách làm an toàn hơn là cách trưởng thành.",
+      "Dad was worried for your safety. Listening and promising a safer way is mature."
+     ],
+     [
+      "Bỏ về nhà một mình",
+      "Walk home alone",
+      0,
+      "Đi về một mình không an toàn. Ở cạnh ba, thở chậm rồi nói chuyện sau nhé.",
+      "Going home alone isn’t safe. Stay with Dad, breathe, and talk later."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tín hiệu xin bình tĩnh",
+    "Our calm-down signal"
+   ],
+   "s": [
+    "Con cùng ba mẹ thoả thuận một “tín hiệu xin bình tĩnh” (như giơ tay hình chữ T hay nói “Cho con 2 phút”). Rồi đóng vai một lần bị nhắc nhở và dùng thử tín hiệu.",
+    "Agree a calm-down signal with your parent (like a T-shape with your hands or “Give me two minutes”). Then role-play being told off once and try the signal."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý tín hiệu và cùng con tập.",
+     "Your parent suggests a signal and practises with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn tín hiệu và dùng khi đóng vai.",
+     "With one reminder, you choose the signal and use it in the role-play."
+    ],
+    [
+     "Con tự đề xuất tín hiệu, dùng thử, rồi nói được sau 2 phút con sẽ nói gì với ba mẹ.",
+     "You propose the signal, try it, and say what you’d tell your parent after the two minutes."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ ôm con thật chặt và cả nhà chơi một ván trò con chọn",
+    "A big hug and a round of the family game of your choice"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Nấu một bữa cùng cả nhà",
+   "Cooking a meal together"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cả nhà sang nhà bà ngoại cùng làm bánh trôi. Bà nhào bột, mẹ nấu nước đường, mọi người đông vui nhưng sau bữa thì không ai rửa bát.",
+   "The family goes to Grandma’s to make sweet rice balls. Grandma kneads, Mum makes the syrup, it’s lively – but after eating nobody washes up."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Ra xem tivi vì đã ăn xong",
+    "Go and watch TV now you’ve eaten",
+    0,
+    "Nấu cùng thì dọn cũng cùng. Bà đã vất vả nhào bột rồi.",
+    "Cook together, clean together. Grandma already worked hard."
+   ],
+   [
+    "Rủ mọi người: “Con với chị rửa bát, ba lau bàn, bà nghỉ nhé”",
+    "Rally everyone: “Vy and I will wash up, Dad wipes the table, Grandma rests”",
+    1,
+    "Cùng dọn sau bữa là phần cuối của làm việc nhóm. Để bà nghỉ là cách cảm ơn bà.",
+    "Clearing up together finishes the teamwork. Letting Grandma rest is a way to thank her."
+   ],
+   [
+    "Chờ bà dọn như mọi khi",
+    "Wait for Grandma to clean up as usual",
+    0,
+    "Bà quen làm, nhưng cả nhà cùng giúp thì bà vui hơn và đỡ mệt.",
+    "She’s used to it, but she’d be happier and less tired with help."
+   ]
+  ],
+  "qq": [
+   "Nấu ăn cùng nhau, mỗi người nên làm gì?",
+   "When cooking together, what should each person do?"
+  ],
+  "qo": [
+   [
+    "Ai thích gì làm nấy",
+    "Do whatever you like"
+   ],
+   [
+    "Nhận một phần việc, nói với nhau khi cần, cùng dọn sau bữa",
+    "Take a job, talk when needed, tidy up together after"
+   ],
+   [
+    "Chỉ người lớn làm",
+    "Only adults do it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối Chủ nhật cả nhà cùng làm cơm. Ba nấu canh, mẹ rán cá, chị Vy thái rau. An đứng giữa bếp, không biết làm gì nên cứ hỏi “Xong chưa ạ?”.",
+     "On Sunday evening the family cooks together. Dad makes soup, Mum fries fish, Vy chops vegetables. An stands in the middle of the kitchen, unsure what to do, asking “Is it ready yet?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi “Con làm được việc gì ạ?” rồi nhận nhặt rau, bày bát đũa",
+      "Ask “What can I do?”, then wash greens and set the table",
+      1,
+      "Hỏi để nhận việc vừa sức và an toàn giúp con là một phần của đội, cả nhà xong nhanh hơn.",
+      "Asking for a safe, suitable job makes you part of the team and gets dinner ready sooner."
+     ],
+     [
+      "Vào phòng chờ đến khi có cơm",
+      "Wait in your room until dinner’s ready",
+      0,
+      "Ai cũng góp một tay thì bữa ăn vui hơn. Con có thể nhận một việc nhỏ.",
+      "Everyone helping makes the meal more fun. You can take a small job."
+     ],
+     [
+      "Tự ý cầm chảo đảo thức ăn",
+      "Grab the pan and start stirring",
+      0,
+      "Bếp nóng cần người lớn đứng nấu. Hỏi trước để nhận việc an toàn nhé.",
+      "The hob is for adults. Ask first for a safe job."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp An làm món gỏi cuốn trong giờ trải nghiệm. Cả nhóm cùng cuốn, không ai rửa rau hay chuẩn bị đĩa.",
+     "An’s class makes fresh spring rolls in a hands-on lesson. Everyone wants to roll, nobody washes the herbs or gets the plates."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cứ cuốn đi, thiếu gì tính sau",
+      "Just roll and sort the rest out later",
+      0,
+      "Thiếu rau sạch và đĩa thì món ăn bị gián đoạn. Chia việc từ đầu sẽ suôn sẻ hơn.",
+      "Without clean herbs and plates, things stall. Splitting jobs first runs smoother."
+     ],
+     [
+      "Mình làm hết phần chuẩn bị",
+      "Do all the prep yourself",
+      0,
+      "Con chăm chỉ lắm, nhưng chia đều thì không ai bị mệt hay lỡ phần vui.",
+      "That’s hardworking, but sharing means nobody’s worn out or misses the fun."
+     ],
+     [
+      "“Mình chia nhé: 2 bạn rửa rau, 1 bạn xếp đĩa, còn lại cuốn, rồi đổi việc”",
+      "“Let’s split: two wash herbs, one sets plates, the rest roll, then we swap”",
+      1,
+      "Mỗi người một phần và đổi việc giúp ai cũng được làm phần vui mà món ăn vẫn hoàn thành.",
+      "One job each, then swapping, means everyone gets a turn at the fun bit and the food gets made."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một việc an toàn trong bữa tối",
+    "One safe job at dinner"
+   ],
+   "s": [
+    "Trong bữa tối nay, con nhận một việc an toàn như nhặt rau, bày bát đũa hay lau bàn, làm trọn vẹn và cùng dọn sau bữa ăn. Ba mẹ xác nhận. Không dùng bếp, dao hay nước sôi.",
+    "At dinner tonight, take one safe job like washing greens, setting the table or wiping it, do it fully and help clear up afterwards. Your parent confirms. No hob, knives or boiling water."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giao việc và làm cùng con.",
+     "Your parent gives you a job and does it with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhận việc và làm xong.",
+     "With one reminder, you take a job and finish it."
+    ],
+    [
+     "Con tự hỏi “Con giúp gì được ạ?”, làm xong việc và tự dọn bát sau bữa.",
+     "You ask “How can I help?”, finish your job and clear plates afterwards."
+    ]
+   ],
+   "rw": [
+    "Con được chọn thực đơn bữa tối Chủ nhật tuần sau",
+    "You choose the menu for next Sunday’s dinner"
+   ]
+  }
+ }
+]

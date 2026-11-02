@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Khi tiền không đủ mua hết",
+   "When money doesn’t stretch"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở hội sách cùng mẹ, Bin có 30 nghìn để dành. Bin thích một quyển truyện 25 nghìn và một hộp bút màu 20 nghìn.",
+   "At a book fair with Mum, Bin has 30,000 dong saved. Bin likes a 25,000 storybook and a 20,000 box of felt pens."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Không mua gì vì buồn",
+    "Buy nothing because you’re sad",
+    0,
+    "Buồn là bình thường, nhưng con vẫn có thể chọn một món. Món kia để lần sau nhé.",
+    "Feeling sad is OK, but you can still choose one. The other can come later."
+   ],
+   [
+    "Nghĩ xem mình cần cái nào hơn, chọn một, cái kia để dành mua sau",
+    "Think which matters more, choose one, and save for the other",
+    1,
+    "Tiền có hạn thì phải chọn. Chọn thứ quan trọng hơn và để dành cho thứ còn lại.",
+    "Money has limits, so we choose. Pick the more important one and save for the other."
+   ],
+   [
+    "Xin mẹ thêm tiền để mua cả hai",
+    "Ask Mum for more to buy both",
+    0,
+    "Mẹ có thể giúp, nhưng tập chọn trong số tiền mình có là kỹ năng quan trọng.",
+    "Mum might help, but choosing within your money is an important skill."
+   ]
+  ],
+  "qq": [
+   "Khi tiền không đủ mua hết, con nên…",
+   "When you can’t afford everything, you should…"
+  ],
+  "qo": [
+   [
+    "Chọn thứ quan trọng hơn, để dành cho thứ kia",
+    "Choose the more important thing and save for the other"
+   ],
+   [
+    "Xin tiền của bạn",
+    "Ask a friend for money"
+   ],
+   [
+    "Khóc cho đến khi được mua",
+    "Cry until you get it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin còn 15 nghìn tiền tiêu vặt. Bin muốn mua bánh cho mình và một bông hoa nhỏ tặng mẹ, mỗi thứ 10 nghìn.",
+     "Bin has 15,000 dong pocket money left, and wants a cake for Bin and a small flower for Mum — 10,000 each."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chọn một thứ bây giờ, thứ kia để dành đến tuần sau",
+      "Pick one now and save for the other next week",
+      1,
+      "Tiền chưa đủ thì chọn một thứ trước. Để dành thêm, tuần sau con mua được thứ còn lại.",
+      "Not enough for both? Choose one now and save — next week you can get the other."
+     ],
+     [
+      "Mua bánh trước, hoa thì thôi",
+      "Buy the cake and forget the flower",
+      0,
+      "Con vẫn có thể tặng hoa cho mẹ, chỉ cần để dành thêm một tuần.",
+      "You can still give Mum a flower — just save for another week."
+     ],
+     [
+      "Lấy tiền trong ống heo của em",
+      "Take money from your sibling’s piggy bank",
+      0,
+      "Tiền của em là của em. Mình chọn trong tiền của mình nhé.",
+      "Your sibling’s money is theirs. Choose within your own."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ở hội chợ đồ dùng học tập của trường, Bin có 10 nghìn. Bin muốn ba thứ: bút chì, nhãn vở, móc khoá, mỗi thứ 5 nghìn.",
+     "At the school stationery fair, Bin has 10,000 dong and wants three things — a pencil, book labels and a keyring — at 5,000 each."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Chọn hai thứ cần dùng nhất, món còn lại để lần sau",
+      "Pick the two you need most and leave the other for next time",
+      1,
+      "Tiền chỉ đủ hai món thì chọn hai món cần nhất. Con đã biết cân nhắc rồi.",
+      "Money for two? Choose the two you need most. That’s careful thinking."
+     ],
+     [
+      "Mua móc khoá đầu tiên vì đẹp nhất",
+      "Buy the keyring first — it’s the prettiest",
+      0,
+      "Đẹp thì vui, nhưng con nên nghĩ xem thứ nào cần dùng trước.",
+      "Pretty is fun, but think which you’ll actually use first."
+     ],
+     [
+      "Xin bạn 5 nghìn",
+      "Ask a friend for 5,000",
+      0,
+      "Xin tiền bạn không phải là cách hay. Chọn trong số tiền mình có nhé.",
+      "Asking friends for money isn’t a good way. Choose within what you have."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Xin lỗi cho thật lòng",
+   "A real sorry"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bin chạy trong lớp và va vào bạn Mai, làm rơi hộp bút của bạn. Bút văng khắp nơi.",
+   "Bin runs in the classroom and bumps into Mai, knocking her pencil case down. Pens go everywhere."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nói: “Tại cậu đứng giữa đường”",
+    "Say: “You were in the way”",
+    0,
+    "Đổ lỗi làm bạn buồn thêm. Mình nhận phần lỗi của mình nhé.",
+    "Blaming makes it worse. Own your part."
+   ],
+   [
+    "Nói vội “Xin lỗi” rồi chạy tiếp",
+    "Mumble “Sorry” and keep running",
+    0,
+    "Nói vội rồi đi thì bạn chưa thấy con thật lòng. Dừng lại giúp bạn nhé.",
+    "A quick sorry on the run doesn’t feel real. Stop and help."
+   ],
+   [
+    "Dừng lại, nhìn bạn: “Tớ xin lỗi vì chạy va vào cậu”, rồi nhặt bút giúp bạn",
+    "Stop, look at Mai: “Sorry I ran into you,” and help pick up the pens",
+    1,
+    "Xin lỗi thật lòng là nói rõ mình sai gì và làm một việc để sửa.",
+    "A real sorry says what you did and does something to fix it."
+   ]
+  ],
+  "qq": [
+   "Một lời xin lỗi thật lòng có…",
+   "A real apology includes…"
+  ],
+  "qo": [
+   [
+    "Nói vội cho xong",
+    "A quick mumble"
+   ],
+   [
+    "Nói rõ mình sai gì và cách sửa",
+    "What you did wrong and how you’ll fix it"
+   ],
+   [
+    "Lý do để đổ lỗi",
+    "An excuse"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin lỡ làm gãy cây bút sáp mà anh trai thích nhất. Anh rất buồn.",
+     "Bin accidentally snaps big brother’s favourite crayon. He is really upset."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "“Em xin lỗi anh vì làm gãy bút. Anh dùng tạm bút của em nhé?”",
+      "“Sorry I broke your crayon. Do you want to use mine?”",
+      1,
+      "Nói rõ mình làm sai gì và tìm cách bù lại giúp anh thấy con thật lòng.",
+      "Saying what you did and offering to make up for it shows you mean it."
+     ],
+     [
+      "“Có cái bút thôi mà”",
+      "“It’s only a crayon”",
+      0,
+      "Với anh, cây bút đó rất quý. Hiểu điều đó rồi xin lỗi nhé.",
+      "To him it’s special. Understand that, then say sorry."
+     ],
+     [
+      "Giấu bút gãy đi",
+      "Hide the broken crayon",
+      0,
+      "Giấu đi thì anh sẽ buồn hơn khi biết. Nói thật và xin lỗi là tốt nhất.",
+      "Hiding it hurts more when he finds out. Honesty and a sorry are best."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở siêu thị cùng ba, Bin đẩy xe hàng va vào chân một bác.",
+     "At the supermarket with Dad, Bin pushes the trolley into a man’s leg."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Dừng lại: “Cháu xin lỗi bác, bác có đau không ạ?”, rồi đẩy xe chậm hơn",
+      "Stop: “I’m sorry — are you OK?” and push more slowly",
+      1,
+      "Xin lỗi, hỏi thăm và sửa cách làm cho lần sau là lời xin lỗi trọn vẹn.",
+      "Apologising, checking, and changing what you do is a complete sorry."
+     ],
+     [
+      "Để ba xin lỗi hộ",
+      "Let Dad apologise for you",
+      0,
+      "Ba có thể đứng cạnh, nhưng lời xin lỗi từ chính con sẽ thật lòng hơn.",
+      "Dad can stand with you, but a sorry from you means more."
+     ],
+     [
+      "Quay đi như không biết",
+      "Look away as if you didn’t notice",
+      0,
+      "Bác có thể bị đau. Dừng lại hỏi thăm mới là lịch sự.",
+      "He might be hurt. Stopping to check is polite."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Hiểu cảm xúc của người khác",
+   "Noticing how others feel"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ra chơi, bạn Nam ngồi một mình ở góc sân, mặt buồn thiu. Bình thường Nam rất hay cười.",
+   "At break, Nam sits alone in a corner of the yard looking glum. Usually Nam is always smiling."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Kệ bạn, chắc lát nữa bạn hết buồn",
+    "Leave him — he’ll cheer up",
+    0,
+    "Có khi bạn đang cần một người hỏi han. Một câu hỏi nhỏ cũng giúp được nhiều.",
+    "He might need someone to ask. A small question can help a lot."
+   ],
+   [
+    "Ngồi cạnh và hỏi nhẹ: “Cậu có ổn không? Tớ ngồi đây với cậu nhé”",
+    "Sit beside him and ask gently: “Are you OK? Can I sit with you?”",
+    1,
+    "Để ý cảm xúc của bạn và hỏi thăm giúp bạn thấy mình không một mình.",
+    "Noticing and asking shows your friend they’re not alone."
+   ],
+   [
+    "Trêu cho bạn cười: “Mặt cậu như quả táo héo!”",
+    "Tease him to make him laugh: “Your face looks like a squashed apple!”",
+    0,
+    "Khi bạn buồn, bị trêu có thể buồn thêm. Hỏi thăm nhẹ nhàng sẽ tốt hơn.",
+    "When someone’s sad, teasing can hurt more. Gentle questions work better."
+   ]
+  ],
+  "qq": [
+   "Khi thấy bạn buồn, con có thể…",
+   "When a friend looks sad, you can…"
+  ],
+  "qo": [
+   [
+    "Trêu cho bạn vui",
+    "Tease them to cheer them up"
+   ],
+   [
+    "Giả vờ không thấy",
+    "Pretend not to notice"
+   ],
+   [
+    "Hỏi thăm và ở bên bạn",
+    "Ask how they are and stay with them"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba đi làm về, ngồi im lặng, trông rất mệt. Bin đang muốn ba chơi đá bóng cùng.",
+     "Dad comes home from work and sits quietly, looking very tired. Bin wants Dad to play football."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mang cho ba cốc nước và nói: “Ba nghỉ đi, lát mình chơi nhé”",
+      "Bring Dad some water and say: “Have a rest, we can play later”",
+      1,
+      "Nhận ra người khác đang mệt và quan tâm trước là biết hiểu cảm xúc của người khác.",
+      "Seeing someone is tired and caring first is understanding feelings."
+     ],
+     [
+      "Giận vì ba không chơi",
+      "Sulk because Dad won’t play",
+      0,
+      "Không phải ba không muốn chơi, chỉ là ba đang mệt. Con hiểu cho ba nhé.",
+      "It’s not that Dad doesn’t want to — he’s tired. Try to understand."
+     ],
+     [
+      "Kéo tay ba ra sân ngay",
+      "Drag Dad outside straight away",
+      0,
+      "Ba đang mệt, kéo ngay có thể làm ba khó chịu. Để ý cảm xúc của ba trước nhé.",
+      "Dad is tired — dragging him might be too much. Notice how he feels first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, ba mẹ ngồi gần đó. Một bạn nhỏ hơn làm rơi que kem xuống đất và bắt đầu khóc.",
+     "At the park, with parents nearby, a younger child drops an ice lolly and starts to cry."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cười vì trông buồn cười",
+      "Laugh because it looks funny",
+      0,
+      "Với bạn ấy, rơi kem là chuyện buồn. Cười sẽ làm bạn buồn hơn.",
+      "For them, it’s sad. Laughing would hurt more."
+     ],
+     [
+      "Đi chỗ khác chơi",
+      "Go and play elsewhere",
+      0,
+      "Bạn đang buồn và có thể cần giúp. Một lời hỏi thăm cũng đủ ấm áp.",
+      "They’re upset and might need help. One kind word goes a long way."
+     ],
+     [
+      "Nói với bạn “Tiếc quá nhỉ”, rồi cùng ba mẹ mình giúp bạn tìm người lớn đi cùng",
+      "Say “Oh no, what a shame,” and help find their grown-up with your parents",
+      1,
+      "Nói ra điều bạn đang cảm thấy và giúp bạn tìm người lớn là quan tâm đúng cách.",
+      "Naming how they feel and helping find their grown-up is real kindness."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cả nhóm cùng sửa sai",
+   "Fixing mistakes as a team"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm Bin làm xong mô hình ngôi nhà thì thấy cửa bị dán ngược. Các bạn bắt đầu đổ lỗi cho nhau.",
+   "Bin’s group finishes a model house, then notices the door is stuck on upside down. Everyone starts blaming each other."
+  ],
+  "cq": [
+   "Bin nên nói gì?",
+   "What should Bin say?"
+  ],
+  "co": [
+   [
+    "“Tại Tí dán đấy!”",
+    "“Tí stuck it on!”",
+    0,
+    "Tìm người có lỗi không làm cửa đúng lại. Cả nhóm cùng sửa sẽ nhanh hơn.",
+    "Finding who did it won’t fix the door. Fixing it together is quicker."
+   ],
+   [
+    "“Nhóm mình cùng làm mà. Mình cùng gỡ ra dán lại nhé!”",
+    "“We made it together — let’s take it off and stick it back together!”",
+    1,
+    "Làm nhóm là cùng vui khi đúng và cùng sửa khi sai.",
+    "Teamwork means celebrating together and fixing together."
+   ],
+   [
+    "Im lặng, để các bạn tự cãi nhau",
+    "Stay quiet and let them argue",
+    0,
+    "Im lặng thì cãi nhau vẫn tiếp tục. Một câu rủ cùng sửa có thể giúp cả nhóm.",
+    "Silence lets the arguing go on. One “let’s fix it” can help everyone."
+   ]
+  ],
+  "qq": [
+   "Khi nhóm làm sai, nên…",
+   "When the team makes a mistake, it should…"
+  ],
+  "qo": [
+   [
+    "Cùng nhau sửa lại",
+    "Fix it together"
+   ],
+   [
+    "Tìm người để trách",
+    "Find someone to blame"
+   ],
+   [
+    "Bỏ dở",
+    "Give up"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin và anh trai cùng gấp quần áo, rồi phát hiện đã cất nhầm áo của ba vào tủ của Bin.",
+     "Bin and big brother fold the laundry, then realise Dad’s shirts went into Bin’s wardrobe."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "“Tại anh đưa nhầm cho em”",
+      "“You gave me the wrong ones”",
+      0,
+      "Đổ lỗi làm anh buồn mà áo vẫn chưa đúng chỗ. Cùng sửa nhé.",
+      "Blaming upsets him and the shirts are still in the wrong place. Fix it together."
+     ],
+     [
+      "Kệ, ba sẽ tự tìm",
+      "Leave it — Dad will find them",
+      0,
+      "Ba sẽ mất công tìm. Hai anh em sửa ngay chỉ mất một chút.",
+      "Dad would waste time looking. Fixing it now takes a moment."
+     ],
+     [
+      "“Mình cùng lấy ra, xếp lại đúng tủ nhé anh”",
+      "“Let’s take them out and put them in the right place together”",
+      1,
+      "Cùng nhau sửa lại thì nhanh và không ai bị trách.",
+      "Fixing it together is quick and nobody gets blamed."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở buổi dọn vệ sinh khu phố cùng ba mẹ, nhóm bạn nhỏ bỏ chai nhựa vào nhầm thùng rác.",
+     "At a neighbourhood clean-up with parents, the children’s group puts plastic bottles in the wrong bin."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mặc kệ, chắc không sao",
+      "Never mind, it’s probably fine",
+      0,
+      "Bỏ nhầm thùng thì chai khó được tái chế. Sửa lại chỉ mất một lát.",
+      "In the wrong bin, bottles can’t be recycled. Fixing it is quick."
+     ],
+     [
+      "Chỉ ra bạn nào bỏ nhầm",
+      "Point out who did it",
+      0,
+      "Chỉ tay vào bạn làm bạn ngại. Cả nhóm cùng sửa sẽ vui hơn.",
+      "Pointing makes them embarrassed. Fixing it together is nicer."
+     ],
+     [
+      "Rủ cả nhóm: “Mình đeo găng, nhờ người lớn chỉ và cùng chuyển lại nhé!”",
+      "Suggest: “Let’s put gloves on, ask the grown-ups and move them together!”",
+      1,
+      "Cả nhóm cùng nhận và cùng sửa thì việc chung lại hoàn thành tốt.",
+      "When the group owns it and fixes it, the shared job ends well."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Chia bánh cho đủ mọi người",
+   "Sharing snacks fairly"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bà đưa Bin 6 cái bánh quy để chia cho Bin, em và hai bạn sang chơi.",
+   "Grandma gives Bin 6 biscuits to share between Bin, a little sibling and two friends who are visiting."
+  ],
+  "cq": [
+   "Bin nên chia thế nào?",
+   "How should Bin share them?"
+  ],
+  "co": [
+   [
+    "Bin lấy ba cái, còn lại các bạn tự chia",
+    "Bin takes three, the others share the rest",
+    0,
+    "Mình lấy nhiều thì các bạn thấy không công bằng. Chia đều sẽ vui hơn.",
+    "Taking more feels unfair. Equal shares are happier."
+   ],
+   [
+    "Mỗi người một cái, hai cái còn lại bẻ đôi để chia đều",
+    "One each, then break the last two in half so it’s even",
+    1,
+    "Đếm người, đếm bánh rồi tìm cách chia đều. Đó là giải quyết vấn đề!",
+    "Count the people, count the biscuits, find a fair split. That’s problem solving!"
+   ],
+   [
+    "Mỗi người hai cái, ai đến lượt sau thì không có",
+    "Two each, and whoever is last gets none",
+    0,
+    "Như vậy sẽ có bạn không có bánh. Thử tìm cách để ai cũng có phần nhé.",
+    "Then someone misses out. Find a way so everyone gets some."
+   ]
+  ],
+  "qq": [
+   "Muốn chia đều, việc đầu tiên là…",
+   "To share fairly, first…"
+  ],
+  "qo": [
+   [
+    "Lấy phần mình trước",
+    "Take yours first"
+   ],
+   [
+    "Ai nhanh tay thì được",
+    "Whoever grabs fastest"
+   ],
+   [
+    "Đếm xem có bao nhiêu người và bao nhiêu phần",
+    "Count the people and the pieces"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm Bin có 4 bạn và 10 tờ giấy màu để làm thủ công.",
+     "Bin’s group of four has 10 sheets of coloured paper for crafts."
+    ],
+    "q": [
+     "Nhóm nên chia thế nào?",
+     "How should the group share them?"
+    ],
+    "o": [
+     [
+      "Đưa hết cho bạn khéo tay nhất",
+      "Give it all to the best crafter",
+      0,
+      "Bạn nào cũng cần giấy để làm. Chia đều thì ai cũng được tham gia.",
+      "Everyone needs paper. Equal shares let everyone join in."
+     ],
+     [
+      "Mỗi bạn 2 tờ, 2 tờ còn lại để chung cho ai cần thêm",
+      "Two each, and keep the last two for whoever needs more",
+      1,
+      "Chia đều phần chính, phần dư để chung là cách công bằng và linh hoạt.",
+      "Equal shares plus a shared spare pile is fair and flexible."
+     ],
+     [
+      "Bạn nào nhanh tay thì lấy nhiều",
+      "Fastest hands get the most",
+      0,
+      "Giành nhau thì sẽ có bạn không đủ giấy. Đếm rồi chia sẽ tốt hơn.",
+      "Grabbing leaves someone short. Count and share instead."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dã ngoại cùng hai gia đình, có 9 quả quýt cho 6 bạn nhỏ.",
+     "On a picnic with two families, there are 9 tangerines for 6 children."
+    ],
+    "q": [
+     "Nên chia thế nào cho công bằng?",
+     "How can they share fairly?"
+    ],
+    "o": [
+     [
+      "Mỗi bạn một quả, 3 quả còn lại cho Bin vì Bin xách túi",
+      "One each, and Bin keeps the other 3 for carrying the bag",
+      0,
+      "Xách túi là giúp đỡ, không phải để lấy thêm. Chia đều sẽ công bằng hơn.",
+      "Carrying the bag is helping, not a reason for more. Share evenly."
+     ],
+     [
+      "Để các bạn tự lấy",
+      "Let everyone help themselves",
+      0,
+      "Tự lấy thì có bạn được nhiều, bạn được ít. Đếm rồi chia giúp mọi người cùng vui.",
+      "Help-yourself means some get more. Counting and sharing keeps it fair."
+     ],
+     [
+      "Mỗi bạn một quả, 3 quả còn lại bóc ra chia mỗi bạn nửa quả",
+      "One each, then peel the other 3 and give everyone half",
+      1,
+      "Chia phần dư thành phần nhỏ hơn giúp ai cũng có phần bằng nhau.",
+      "Splitting the leftovers smaller gives everyone an equal share."
+     ]
+    ]
+   }
+  }
+ }
+]

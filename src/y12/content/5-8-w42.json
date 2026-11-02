@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Một thói quen nhỏ mỗi ngày",
+   "One small habit, every day"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin hứa cho cá ăn mỗi ngày. Nhưng hôm nhớ, hôm quên, cá cứ bơi lên mặt nước chờ.",
+   "Bin promised to feed the fish every day. But some days Bin forgets, and the fish swim up and wait."
+  ],
+  "cq": [
+   "Bin làm gì để không quên?",
+   "How can Bin stop forgetting?"
+  ],
+  "co": [
+   [
+    "Lúc nào nhớ ra thì cho ăn",
+    "Feed them whenever you remember",
+    0,
+    "Nhớ lúc nào làm lúc đó thì rất dễ quên. Thử chọn một giờ cố định nhé.",
+    "Doing it whenever you remember makes it easy to forget. Try picking a set time."
+   ],
+   [
+    "Cho cá ăn vào cùng một giờ mỗi sáng, ngay sau khi đánh răng",
+    "Feed the fish at the same time every morning, right after brushing teeth",
+    1,
+    "Gắn việc mới vào việc quen làm, cùng một giờ, lâu dần con sẽ tự nhớ.",
+    "Tie the new job to something you already do, at the same time, and soon you’ll remember by yourself."
+   ],
+   [
+    "Cho ăn thật nhiều một lần cho cả tuần",
+    "Give lots of food once for the whole week",
+    0,
+    "Cá ăn nhiều một lúc không tốt cho cá. Mỗi ngày một ít, đúng giờ là hay nhất.",
+    "Too much food at once isn’t good for fish. A little each day, at the same time, is best."
+   ]
+  ],
+  "qq": [
+   "Điều gì giúp một việc trở thành thói quen?",
+   "What helps something become a habit?"
+  ],
+  "qo": [
+   [
+    "Làm thật nhiều trong một ngày",
+    "Doing loads of it in one day"
+   ],
+   [
+    "Làm vào cùng giờ mỗi ngày",
+    "Doing it at the same time every day"
+   ],
+   [
+    "Chỉ làm khi thấy thích",
+    "Only doing it when you feel like it"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giao Na tưới cây ở góc lớp. Na hay quên vì không có giờ cố định.",
+     "Na’s teacher asked her to water the class plant. Na often forgets because there’s no set time."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Đợi lá cây héo rồi mới tưới",
+      "Wait until the leaves droop, then water",
+      0,
+      "Đợi cây héo thì cây đã khát lâu rồi. Tưới đều mỗi ngày cây mới khỏe.",
+      "By the time it droops, it’s been thirsty for ages. Watering every day keeps it healthy."
+     ],
+     [
+      "Nhờ bạn khác tưới hộ mãi",
+      "Ask a friend to do it every time",
+      0,
+      "Bạn giúp một lần thì được, nhưng đây là việc cô giao cho Na. Chọn một giờ cố định sẽ dễ nhớ hơn.",
+      "A friend can help once, but this is Na’s job. A set time makes it easier to remember."
+     ],
+     [
+      "Tưới cây ngay khi vào lớp mỗi sáng",
+      "Water the plant as soon as she arrives each morning",
+      1,
+      "Vào lớp là tưới cây, ngày nào cũng vậy, việc đó sẽ thành thói quen.",
+      "Arrive, then water, every single day, and it becomes a habit."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin muốn đi bộ cùng ông ở công viên mỗi ngày, nhưng cả tuần mới đi được một lần.",
+     "Bin wants to walk with Grandpa in the park every day, but this week they’ve only gone once."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hẹn ông đi lúc 5 giờ chiều mỗi ngày",
+      "Agree with Grandpa to go at 5pm every day",
+      1,
+      "Cùng một giờ mỗi ngày thì cả hai ông cháu đều dễ nhớ và chờ đợi.",
+      "The same time every day makes it easy for both of you to remember and look forward to."
+     ],
+     [
+      "Hôm nào trời đẹp và nhớ ra thì đi",
+      "Go on nice days when you remember",
+      0,
+      "Đợi nhớ ra thì nhiều hôm sẽ quên mất. Một giờ hẹn cố định giúp con đều đặn hơn.",
+      "Waiting to remember means many days get missed. A set time keeps it regular."
+     ],
+     [
+      "Đi thật lâu một hôm rồi nghỉ cả tuần",
+      "Go for ages one day, then rest all week",
+      0,
+      "Đi một lần thật lâu sẽ mệt mà không thành thói quen. Mỗi ngày một chút là tốt nhất.",
+      "One very long walk is tiring and doesn’t build a habit. A little every day is best."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Năm ngày, một thói quen",
+    "Five days, one habit"
+   ],
+   "s": [
+    "Con chọn một việc nhỏ (tưới cây, cho cá ăn), làm vào cùng một giờ mỗi ngày và đánh dấu vào bảng năm ngày.",
+    "Choose one small job (watering a plant, feeding the fish), do it at the same time each day and tick it on a five-day chart."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn giờ, làm cùng con và cùng đánh dấu.",
+     "Mum or Dad helps you pick the time, does it with you and ticks the chart together."
+    ],
+    [
+     "Ba mẹ nhắc một lần đầu ngày, con tự làm đúng giờ và tự đánh dấu.",
+     "Mum or Dad reminds you once in the morning, then you do it on time and tick it yourself."
+    ],
+    [
+     "Con tự nhớ làm đúng giờ đủ năm ngày và cho ba mẹ xem bảng.",
+     "You remember by yourself for all five days and show Mum or Dad the chart."
+    ]
+   ],
+   "rw": [
+    "Được dán một ngôi sao lớn lên bảng và chọn món ăn sáng Chủ nhật",
+    "A big star on the chart and you choose Sunday breakfast"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Đồ cũ thành đồ dùng mới",
+   "Reusing old things"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Na sắp bỏ hộp giấy đựng bánh vào thùng rác. Bin nói: “Khoan đã, hộp này còn dùng được!”",
+   "Na is about to throw a cardboard biscuit box in the bin. Bin says, “Wait, we can still use that!”"
+  ],
+  "cq": [
+   "Hộp giấy sạch có thể làm gì?",
+   "What could the clean box be used for?"
+  ],
+  "co": [
+   [
+    "Trang trí lại thành ống cắm bút cho bàn mình",
+    "Decorate it into a pencil holder for their desk",
+    1,
+    "Đồ cũ còn tốt thì dùng lại, vừa đỡ tốn tiền mua mới, vừa bớt rác.",
+    "If something old is still good, reuse it. It saves money and makes less rubbish."
+   ],
+   [
+    "Bỏ đi rồi xin ba mẹ tiền mua ống bút mới",
+    "Bin it and ask for money for a new pencil holder",
+    0,
+    "Đồ mới thì tốn tiền, trong khi hộp cũ vẫn làm ống bút rất tốt.",
+    "New things cost money, and the old box makes a fine pencil holder."
+   ],
+   [
+    "Nhét hộp vào ngăn bàn, chưa biết làm gì",
+    "Stuff it in the desk with no plan",
+    0,
+    "Giữ lại mà không dùng thì ngăn bàn chật thêm. Nghĩ ra một việc cho nó nhé.",
+    "Keeping it without a use just fills the desk. Think of a job for it."
+   ]
+  ],
+  "qq": [
+   "Tái sử dụng đồ cũ giúp gì?",
+   "How does reusing old things help?"
+  ],
+  "qo": [
+   [
+    "Làm nhà bừa bộn hơn",
+    "It makes the house messier"
+   ],
+   [
+    "Không giúp gì cả",
+    "It doesn’t help at all"
+   ],
+   [
+    "Đỡ tốn tiền và đỡ rác",
+    "It saves money and makes less rubbish"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ mua giày mới cho Bin. Chiếc hộp đựng giày còn rất chắc.",
+     "Mum bought Bin new shoes. The shoebox is still really sturdy."
+    ],
+    "q": [
+     "Bin dùng chiếc hộp thế nào?",
+     "What can Bin do with the box?"
+    ],
+    "o": [
+     [
+      "Xé vụn ra cho vui",
+      "Tear it to bits for fun",
+      0,
+      "Xé ra thì hộp thành rác ngay. Thử nghĩ xem nó còn làm được gì.",
+      "Tearing it up turns it into rubbish. Think what else it could do."
+     ],
+     [
+      "Làm hộp đựng đồ chơi nhỏ trên kệ",
+      "Make it a box for small toys on the shelf",
+      1,
+      "Hộp chắc thế này đựng đồ rất tốt, lại không cần mua hộp mới.",
+      "A sturdy box like this is great for storage, with no need to buy a new one."
+     ],
+     [
+      "Đòi mẹ mua thêm hộp nhựa đựng đồ chơi",
+      "Ask Mum to buy a plastic toy box",
+      0,
+      "Mua hộp mới tốn tiền, trong khi hộp giày đã sẵn đây rồi.",
+      "A new box costs money, and the shoebox is right here."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin cùng mẹ đến nhà sách. Bin thích một chiếc ống bút mới, dù ở nhà còn mấy chiếc hộp giấy sạch.",
+     "Bin and Mum are at the bookshop. Bin likes a new pencil pot, though there are clean cardboard boxes at home."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mua ngay vì đang thích",
+      "Buy it now because you like it",
+      0,
+      "Thích là bình thường, nhưng nhà đã có thứ dùng được rồi. Thử tự làm trước nhé.",
+      "Liking it is normal, but you already have something at home. Try making one first."
+     ],
+     [
+      "Mua hai chiếc cho chắc",
+      "Buy two, just in case",
+      0,
+      "Hai chiếc thì càng tốn tiền và một chiếc sẽ nằm không. Dùng lại đồ cũ là đủ.",
+      "Two costs even more and one would sit unused. Reusing is enough."
+     ],
+     [
+      "Về nhà trang trí một hộp giấy làm ống bút",
+      "Go home and decorate a box into a pencil pot",
+      1,
+      "Tự làm từ đồ cũ vừa vui vừa tiết kiệm, mà ống bút lại là của riêng con.",
+      "Making one from old things is fun and saves money, and it’s all your own."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Biến hộp cũ thành đồ mới",
+    "Turn an old box into something new"
+   ],
+   "s": [
+    "Con chọn một chai nhựa hoặc hộp giấy sạch, trang trí thành ống bút hoặc chậu cây nhỏ, rồi cho ba mẹ xem chỗ con dùng nó.",
+    "Choose a clean plastic bottle or cardboard box, decorate it into a pencil pot or little plant pot, then show Mum or Dad where you’re using it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cắt giúp phần cứng, con cùng ba mẹ trang trí.",
+     "Mum or Dad cuts the tricky parts and you decorate together."
+    ],
+    [
+     "Ba mẹ nhắc một lần và cắt giúp nếu cần, con tự nghĩ cách dùng và trang trí.",
+     "Mum or Dad reminds you once and helps cut if needed; you choose the use and decorate."
+    ],
+    [
+     "Con tự chọn đồ cũ, tự nghĩ công dụng, nhờ ba mẹ cắt nếu cần và kể vì sao chọn nó.",
+     "You pick the item and its use yourself, ask a grown-up to cut if needed, and explain why."
+    ]
+   ],
+   "rw": [
+    "Món đồ của con được đặt ở chỗ đẹp nhất trên bàn học",
+    "Your creation gets the best spot on your desk"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Tả con vật con thích",
+   "Describing my favourite animal"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô bảo cả lớp tả con vật mình thích. Bin chỉ nói: “Con mèo đẹp lắm.” Các bạn chưa hình dung được.",
+   "The teacher asks everyone to describe a favourite animal. Bin just says, “The cat is very pretty.” Nobody can picture it."
+  ],
+  "cq": [
+   "Bin nên nói thêm gì?",
+   "What should Bin add?"
+  ],
+  "co": [
+   [
+    "Nói lại: “Đẹp lắm, đẹp lắm ạ.”",
+    "Say again, “Very, very pretty.”",
+    0,
+    "Nói lại một từ thì các bạn vẫn chưa biết mèo trông thế nào. Thử thêm màu lông nhé.",
+    "Repeating one word still doesn’t show what the cat looks like. Try adding its colour."
+   ],
+   [
+    "Ngồi xuống luôn vì ngại",
+    "Sit down because you feel shy",
+    0,
+    "Ngại là bình thường. Hít một hơi rồi nói thêm một điều thôi cũng được.",
+    "Feeling shy is normal. Take a breath and add just one more thing."
+   ],
+   [
+    "“Mèo của em lông vàng, kêu meo meo, thích ăn cá.”",
+    "“My cat has yellow fur, says miaow and loves fish.”",
+    1,
+    "Tả hình dáng, tiếng kêu, thức ăn thì người nghe như thấy con mèo trước mắt.",
+    "Describing its look, sound and food helps listeners see the cat in their minds."
+   ]
+  ],
+  "qq": [
+   "Tả con vật cho rõ là nói về những gì?",
+   "A clear animal description tells you…"
+  ],
+  "qo": [
+   [
+    "Hình dáng, tiếng kêu, thức ăn",
+    "Its look, sound and food"
+   ],
+   [
+    "Chỉ nói “đẹp” hoặc “xấu”",
+    "Just “pretty” or “not pretty”"
+   ],
+   [
+    "Nói thật nhanh cho xong",
+    "Say it fast to get it over with"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin chơi đố với em: tả một con vật để em đoán.",
+     "Bin plays a guessing game with a little sibling: describe an animal for them to guess."
+    ],
+    "q": [
+     "Bin tả thế nào?",
+     "How should Bin describe it?"
+    ],
+    "o": [
+     [
+      "“Nó rất to, có vòi dài, tai như cái quạt.”",
+      "“It’s huge, with a long trunk and ears like fans.”",
+      1,
+      "Mỗi đặc điểm là một gợi ý, em sẽ vừa đoán vừa thấy vui.",
+      "Each detail is a clue, so guessing is fun."
+     ],
+     [
+      "“Nó là con voi đó!”",
+      "“It’s an elephant!”",
+      0,
+      "Nói tên luôn thì hết đố mất. Tả dần từng đặc điểm mới vui.",
+      "Saying the name ends the game. Give clues one by one."
+     ],
+     [
+      "“Nó là một con vật.”",
+      "“It’s an animal.”",
+      0,
+      "Câu này đúng với mọi con vật. Thêm một đặc điểm riêng nhé.",
+      "That fits every animal. Add something special about it."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở vườn thú cùng ba, Bin thấy một con vật lạ và muốn hỏi ba tên của nó.",
+     "At the zoo with Dad, Bin sees an animal he doesn’t know and wants to ask its name."
+    ],
+    "q": [
+     "Bin nên hỏi thế nào?",
+     "How should Bin ask?"
+    ],
+    "o": [
+     [
+      "Chỉ tay lung tung: “Con gì kìa!”",
+      "Point vaguely: “What’s that!”",
+      0,
+      "Có nhiều con vật quá, ba khó biết con chỉ con nào. Tả thêm một chút nhé.",
+      "There are lots of animals, so Dad can’t tell which one. Describe it a bit more."
+     ],
+     [
+      "“Ba ơi, con có cổ rất dài, da đốm nâu kia tên là gì ạ?”",
+      "“Dad, what’s that one with the very long neck and brown spots called?”",
+      1,
+      "Tả rõ thì ba biết ngay con đang hỏi con nào.",
+      "A clear description tells Dad straight away which one you mean."
+     ],
+     [
+      "Kéo ba chạy đi khắp nơi",
+      "Pull Dad running all over",
+      0,
+      "Chạy vội dễ lạc nhau. Đứng cạnh ba và tả con vật là được.",
+      "Rushing around makes it easy to get separated. Stay by Dad and describe it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đố ba mẹ con vật bí mật",
+    "Secret animal riddle"
+   ],
+   "s": [
+    "Con nghĩ một con vật, tả hình dáng, tiếng kêu và thức ăn của nó để ba mẹ đoán.",
+    "Think of an animal and describe its look, sound and food for Mum or Dad to guess."
+   ],
+   "lv": [
+    [
+     "Ba mẹ tả mẫu một con vật trước, con tả theo cách đó.",
+     "Mum or Dad describes one first, then you copy the pattern."
+    ],
+    [
+     "Ba mẹ nhắc ba điều cần tả, con tự tả một con vật.",
+     "Mum or Dad reminds you of the three things, then you describe one yourself."
+    ],
+    [
+     "Con tự tả hai con vật đủ ba điều cho đến khi ba mẹ đoán đúng.",
+     "You describe two animals with all three things until Mum or Dad guesses right."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ đóng vai con vật đó và kêu thử cho con nghe",
+    "Mum or Dad acts out the animal and makes its sound"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi thấy con vật bị đau",
+   "When a small animal is hurt"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi công viên với mẹ, Bin thấy một chú chim nhỏ nằm dưới gốc cây, không bay được. Bin thấy thương quá.",
+   "At the park with Mum, Bin sees a little bird under a tree that can’t fly. Bin feels so sorry for it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đứng yên, gọi mẹ lại xem và nhờ mẹ giúp",
+    "Stay still, call Mum over and ask her to help",
+    1,
+    "Thương chim là rất tốt. Con vật đau thường sợ hãi, nên để người lớn lo giúp nhé.",
+    "Caring about the bird is lovely. Hurt animals get scared, so let a grown-up help."
+   ],
+   [
+    "Nhặt chim lên ôm vào lòng",
+    "Pick the bird up and cuddle it",
+    0,
+    "Con có lòng tốt, nhưng chim đau có thể mổ hoặc mang vi trùng. Gọi người lớn nhé.",
+    "You mean well, but a hurt bird might peck or carry germs. Call a grown-up."
+   ],
+   [
+    "Bỏ đi vì buồn quá",
+    "Walk away because it’s too sad",
+    0,
+    "Buồn là cảm xúc bình thường. Nói với mẹ để cùng giúp, con sẽ thấy nhẹ lòng hơn.",
+    "Feeling sad is normal. Telling Mum so you can help together will make you feel better."
+   ]
+  ],
+  "qq": [
+   "Thấy con vật bị thương, việc đầu tiên là gì?",
+   "If you see a hurt animal, what comes first?"
+  ],
+  "qo": [
+   [
+    "Bế nó về nhà ngay",
+    "Carry it home straight away"
+   ],
+   [
+    "Lấy que khều thử",
+    "Poke it with a stick"
+   ],
+   [
+    "Không chạm vào, báo người lớn",
+    "Don’t touch it, tell a grown-up"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Con mèo nhà Bin đi khập khiễng và kêu meo meo. Bin lo lắng lắm.",
+     "Bin’s cat is limping and miaowing. Bin is very worried."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bế mèo lên nắn chân thử",
+      "Pick it up and squeeze its leg",
+      0,
+      "Chân đau mà bị nắn sẽ đau hơn, mèo có thể cào. Để ba mẹ xem giúp nhé.",
+      "Squeezing a sore leg hurts more, and the cat might scratch. Let a grown-up check."
+     ],
+     [
+      "Im lặng vì sợ bị mắng",
+      "Say nothing in case you get told off",
+      0,
+      "Mèo cần được giúp sớm. Kể với ba mẹ là việc đúng, không ai trách con đâu.",
+      "The cat needs help soon. Telling a grown-up is right, and nobody will blame you."
+     ],
+     [
+      "Nói với ba: “Ba ơi, mèo bị đau chân, con lo quá.”",
+      "Tell Dad, “Dad, the cat’s leg hurts and I’m worried.”",
+      1,
+      "Nói ra cảm xúc và báo ba giúp mèo được chăm sóc sớm.",
+      "Saying how you feel and telling Dad gets the cat help sooner."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, Na thấy một chú chó con bị đau chân ở góc sân trường. Các bạn xúm lại xem.",
+     "At break, Na sees a puppy with a hurt leg in a corner of the playground. Children crowd round."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Cùng các bạn lại vuốt ve chó",
+      "Join in and stroke the puppy",
+      0,
+      "Chó đang đau có thể sợ mà cắn. Thương nó thì đứng xa và báo cô nhé.",
+      "A hurt puppy might nip when scared. Show you care by staying back and telling a teacher."
+     ],
+     [
+      "Bảo các bạn đứng xa và đi báo cô giáo",
+      "Ask everyone to step back and go and tell the teacher",
+      1,
+      "Đứng xa giúp chó con bớt sợ, còn cô sẽ biết cách giúp nó.",
+      "Stepping back keeps the puppy calmer, and the teacher will know how to help."
+     ],
+     [
+      "Hét thật to để đuổi chó đi",
+      "Shout loudly to chase it away",
+      0,
+      "Tiếng hét làm chó con thêm hoảng. Giữ yên lặng và báo cô nhé.",
+      "Shouting frightens the puppy more. Keep quiet and tell a teacher."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nếu gặp con vật bị đau",
+    "If I find a hurt animal"
+   ],
+   "s": [
+    "Con cùng ba mẹ nói xem mình sẽ cảm thấy thế nào khi gặp con vật bị thương, rồi nhắc lại ba bước: đứng xa, không chạm, báo người lớn.",
+    "Talk with Mum or Dad about how you’d feel if you found a hurt animal, then repeat the three steps: stay back, don’t touch, tell a grown-up."
+   ],
+   "lv": [
+    [
+     "Ba mẹ kể một tình huống, cùng con nói cảm xúc và ba bước.",
+     "Mum or Dad tells a story, then you say the feeling and the three steps together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói cảm xúc và ba bước.",
+     "Mum or Dad reminds you once, then you say the feeling and the steps yourself."
+    ],
+    [
+     "Con tự kể ba bước, nói cảm xúc của mình và vẽ một tranh nhỏ để nhớ.",
+     "You say the three steps and your feeling by yourself and draw a little reminder picture."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đọc một truyện về loài vật do con chọn",
+    "The family reads an animal story you choose"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Cùng trồng một chậu cây",
+   "Planting together"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cả nhà trồng một chậu đậu. Bin muốn tự làm hết: xúc đất, gieo hạt, tưới nước. Đất rơi đầy sàn.",
+   "The family is planting beans. Bin wants to do it all: scoop soil, sow seeds, water. Soil goes everywhere."
+  ],
+  "cq": [
+   "Làm sao cho nhanh và vui hơn?",
+   "How could it be quicker and more fun?"
+  ],
+  "co": [
+   [
+    "Bin làm hết, mọi người đứng xem",
+    "Bin does everything while others watch",
+    0,
+    "Một mình làm hết thì vội và dễ rơi vãi, mọi người lại không được chơi cùng.",
+    "Doing it all alone is rushed and messy, and nobody else gets to join in."
+   ],
+   [
+    "Chia việc: Bin xúc đất, em gieo hạt, mẹ tưới nước",
+    "Share it out: Bin scoops soil, his sibling sows, Mum waters",
+    1,
+    "Mỗi người một việc thì ai cũng được góp sức, xong nhanh mà không bừa bộn.",
+    "One job each means everyone helps and it’s done fast without a mess."
+   ],
+   [
+    "Ai thích gì làm nấy, cùng tranh xẻng",
+    "Everyone grabs whatever they want",
+    0,
+    "Tranh nhau thì dễ cãi và đổ đất. Chia việc trước sẽ gọn hơn.",
+    "Grabbing leads to squabbles and spills. Sharing jobs first is tidier."
+   ]
+  ],
+  "qq": [
+   "Cùng trồng cây thế nào thì tốt?",
+   "What makes planting together go well?"
+  ],
+  "qo": [
+   [
+    "Mỗi người phụ trách một việc",
+    "Everyone takes charge of one job"
+   ],
+   [
+    "Một người làm hết",
+    "One person does everything"
+   ],
+   [
+    "Tranh nhau làm việc mình thích",
+    "Fighting over the fun jobs"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Na trồng rau trong thùng xốp. Nhóm bốn bạn chỉ có một cái xẻng nhỏ.",
+     "Na’s class is planting vegetables in boxes. A group of four has only one small trowel."
+    ],
+    "q": [
+     "Nhóm nên làm gì?",
+     "What should the group do?"
+    ],
+    "o": [
+     [
+      "Bạn nào khỏe nhất thì giữ xẻng",
+      "The strongest one keeps the trowel",
+      0,
+      "Một bạn làm thì các bạn khác buồn vì không được tham gia. Thay phiên nhé.",
+      "If one child does it, others miss out. Take turns."
+     ],
+     [
+      "Chờ cô mang thêm xẻng rồi mới làm",
+      "Wait for the teacher to bring more trowels",
+      0,
+      "Chờ thì mất thời gian. Có nhiều việc khác không cần xẻng đâu.",
+      "Waiting wastes time. Lots of jobs don’t need a trowel."
+     ],
+     [
+      "Thay phiên xúc đất, ai chưa đến lượt thì nhặt cỏ hoặc lấy nước",
+      "Take turns with the trowel; others pull weeds or fetch water",
+      1,
+      "Ai cũng có việc nên không ai phải đứng chờ, rau được trồng nhanh hơn.",
+      "Everyone has a job, so nobody waits around and the planting is quicker."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khu phố của Bin trồng cây ven đường. Ba và Bin cùng ra góp sức với hàng xóm.",
+     "Bin’s neighbourhood is planting trees along the road. Bin and Dad go to help the neighbours."
+    ],
+    "q": [
+     "Bin giúp thế nào?",
+     "How can Bin help?"
+    ],
+    "o": [
+     [
+      "Hỏi bác tổ trưởng việc vừa sức mình, như tưới cây con",
+      "Ask the organiser for a job his size, like watering the young trees",
+      1,
+      "Chọn việc vừa sức thì con vẫn góp được phần của mình vào việc chung.",
+      "A job that fits you means you still add your part to the team."
+     ],
+     [
+      "Chạy đi chơi vì đó là việc người lớn",
+      "Run off to play since it’s grown-up work",
+      0,
+      "Trẻ nhỏ cũng có việc làm được. Góp một phần nhỏ thì cây xanh có cả công của con.",
+      "Children can help too. A small part means the trees are partly yours."
+     ],
+     [
+      "Đòi đào hố cùng người lớn",
+      "Insist on digging holes with the adults",
+      0,
+      "Đào hố là việc nặng của người lớn. Chọn việc vừa sức thì an toàn mà vẫn giúp được.",
+      "Digging holes is heavy adult work. A job your size is safe and still helps."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chậu đậu của cả nhà",
+    "The family bean pot"
+   ],
+   "s": [
+    "Con cùng ba mẹ gieo hạt đậu vào chậu, mỗi người phụ trách một bước: cho đất, gieo hạt, tưới nước.",
+    "Plant bean seeds in a pot with Mum or Dad, each person in charge of one step: soil, seeds, water."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chia việc giúp con và làm cùng từng bước.",
+     "Mum or Dad shares out the jobs and does each step with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chia việc cho mọi người.",
+     "Mum or Dad reminds you once, then you share out the jobs."
+    ],
+    [
+     "Con tự chia việc, làm phần mình và kể lại ai đã làm gì.",
+     "You share out the jobs, do your part and tell who did what."
+    ]
+   ],
+   "rw": [
+    "Con được đặt tên cho chậu cây và viết tên lên chậu",
+    "You name the pot and write its name on it"
+   ]
+  }
+ }
+]

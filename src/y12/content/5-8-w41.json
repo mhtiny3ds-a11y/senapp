@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Cả nhà cùng phân loại rác",
+   "Sorting rubbish together"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Nhà Bin có ba thùng rác: giấy, nhựa và rác còn lại. Bin cứ bỏ hết vào một thùng cho nhanh.",
+   "Bin’s home has three bins: paper, plastic and everything else. Bin keeps putting everything in one bin to be quick."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What could Bin do?"
+  ],
+  "co": [
+   [
+    "Bỏ chung một thùng cho nhanh",
+    "Put it all in one bin",
+    0,
+    "Bỏ chung thì không tái chế được. Con thử phụ trách một thùng nhé.",
+    "Mixed rubbish can’t be recycled. Try looking after one bin."
+   ],
+   [
+    "Nhận nhiệm vụ nhớ thùng nhựa, nhắc cả nhà bỏ chai, hộp nhựa vào đúng thùng",
+    "Take charge of the plastic bin and remind everyone where bottles and tubs go",
+    1,
+    "Mỗi người nhớ một loại thì cả nhà phân loại đúng mà không ai thấy mệt.",
+    "When each person looks after one type, the whole family sorts it right with no one worn out."
+   ],
+   [
+    "Để mẹ phân loại hết",
+    "Leave Mum to sort it all",
+    0,
+    "Một người làm hết sẽ mệt lắm. Cả nhà cùng góp một tay nhé.",
+    "One person doing it all gets tired. Everyone can help."
+   ]
+  ],
+  "qq": [
+   "Cả nhà phân loại rác đúng khi…",
+   "A family sorts rubbish well when…"
+  ],
+  "qo": [
+   [
+    "Chỉ một người làm",
+    "Only one person does it"
+   ],
+   [
+    "Bỏ chung một thùng",
+    "Everything goes in one bin"
+   ],
+   [
+    "Mỗi người cùng góp một phần",
+    "Everyone does their part"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Bin chia nhóm thu gom giấy vụn để tái chế. Mỗi bạn được giao một việc.",
+     "Bin’s class splits into groups to collect scrap paper for recycling. Everyone gets a job."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng xem các bạn làm",
+      "Watch the others do it",
+      0,
+      "Nhóm cần cả con nữa. Con bắt tay vào phần của mình nhé.",
+      "The group needs you too. Get started on your part."
+     ],
+     [
+      "Làm việc của bạn mà bỏ việc mình",
+      "Do someone else’s job and leave his own",
+      0,
+      "Làm việc của bạn có thể làm rối nhóm. Con làm xong phần mình trước nhé.",
+      "Doing others’ jobs can muddle things. Finish yours first."
+     ],
+     [
+      "Làm tốt phần việc của mình và giúp bạn khi xong sớm",
+      "Do his own job well and help others when he finishes",
+      1,
+      "Ai cũng làm phần mình thì nhóm xong nhanh và vui.",
+      "When everyone does their part, the group finishes quickly and happily."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên có hai thùng: “tái chế” và “rác thường”. Bin và Na ăn xong còn chai nhựa và khăn giấy. Ba ngồi gần đó.",
+     "In the park there are two bins: “recycling” and “general”. Bin and Na have a plastic bottle and tissues left. Dad is sitting nearby."
+    ],
+    "q": [
+     "Bin và Na nên làm gì?",
+     "What should Bin and Na do?"
+    ],
+    "o": [
+     [
+      "Cùng chia nhau: chai vào thùng tái chế, khăn giấy vào thùng thường",
+      "Share the job: bottle in recycling, tissues in general",
+      1,
+      "Hai bạn cùng làm thì nhanh, và rác vào đúng thùng.",
+      "Working together is quick and everything goes in the right bin."
+     ],
+     [
+      "Bỏ hết vào thùng gần nhất",
+      "Put it all in the nearest bin",
+      0,
+      "Thùng tái chế cần đúng loại rác. Con nhìn kỹ nhãn nhé.",
+      "Recycling bins need the right items. Check the labels."
+     ],
+     [
+      "Cãi nhau xem ai phải đi bỏ",
+      "Argue about who has to do it",
+      0,
+      "Mỗi bạn cầm một thứ là xong ngay, không cần cãi.",
+      "Each carrying one thing sorts it at once – no need to argue."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Cả nhà chia nhau theo dõi thùng rác",
+    "Share the rubbish-sorting jobs"
+   ],
+   "s": [
+    "Con cùng gia đình dán nhãn hai hoặc ba thùng phân loại rác, mỗi người nhận theo dõi một thùng trong ngày.",
+    "With your family, label two or three bins for sorting rubbish and each person looks after one bin for the day."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con làm nhãn và chia việc.",
+     "Mum or Dad makes the labels and shares out the jobs with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự theo dõi thùng của mình.",
+     "Mum or Dad reminds you once; you look after your bin."
+    ],
+    [
+     "Con tự chia việc cho cả nhà và cuối ngày kiểm tra lại các thùng.",
+     "You share out the jobs and check the bins at the end of the day."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng làm một món đồ chơi từ hộp giấy cũ",
+    "The family makes a toy from an old cardboard box"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Bình nước của riêng con",
+   "My own water bottle"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối nào mẹ cũng rửa và đổ nước vào bình cho Bin. Hôm nay mẹ nói: “Con tự làm thử nhé.”",
+   "Every evening Mum washes and fills Bin’s water bottle. Today she says, “Why don’t you try doing it yourself?”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Rửa bình, đổ nước lọc mới, vặn chặt nắp và để cạnh cặp",
+    "Wash the bottle, fill it with fresh water, screw the lid tight and put it by his bag",
+    1,
+    "Tự lo bình nước của mình là một bước nhỏ để con tự lập hơn.",
+    "Looking after your own bottle is a small step towards doing things yourself."
+   ],
+   [
+    "Đổ thêm nước vào nước cũ hôm qua",
+    "Top up yesterday’s water",
+    0,
+    "Nước cũ để lâu không còn sạch. Con rửa bình rồi đổ nước mới nhé.",
+    "Old water isn’t fresh. Wash the bottle and refill it."
+   ],
+   [
+    "Để mai mẹ làm",
+    "Leave it for Mum tomorrow",
+    0,
+    "Con làm được mà. Thử một lần, mẹ ở bên cạnh giúp nếu cần.",
+    "You can do it. Have a go – Mum’s there if you need help."
+   ]
+  ],
+  "qq": [
+   "Tự lo bình nước là…",
+   "Looking after your water bottle means…"
+  ],
+  "qo": [
+   [
+    "Đổ thêm vào nước cũ",
+    "Topping up old water"
+   ],
+   [
+    "Chờ mẹ làm",
+    "Waiting for Mum"
+   ],
+   [
+    "Rửa, đổ nước mới, vặn nắp, mang theo",
+    "Wash it, refill it, close it, take it"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, Bin khát nhưng quên bình nước ở nhà. Na bảo uống chung bình của Na.",
+     "At break Bin is thirsty but left his bottle at home. Na offers to share hers."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Uống chung miệng bình với Na",
+      "Drink from Na’s bottle",
+      0,
+      "Uống chung dễ truyền vi khuẩn. Con xin cô cốc nước riêng nhé.",
+      "Sharing a bottle spreads germs. Ask for your own cup."
+     ],
+     [
+      "Nhịn khát cả buổi",
+      "Stay thirsty all day",
+      0,
+      "Nhịn khát không tốt cho sức khoẻ. Con xin cô nước nhé.",
+      "Going thirsty isn’t healthy. Ask the teacher for water."
+     ],
+     [
+      "Cảm ơn Na, xin cô cốc nước của lớp, và tối nay để bình cạnh cặp",
+      "Thank Na, ask the teacher for a cup, and put his bottle by his bag tonight",
+      1,
+      "Mỗi người dùng bình riêng cho sạch sẽ. Tối để sẵn bình thì mai không quên.",
+      "Everyone uses their own bottle to stay clean. Leaving it ready tonight means no forgetting."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dạo công viên với ba, Bin muốn ba cầm bình nước hộ.",
+     "Walking in the park with Dad, Bin wants Dad to carry his water bottle."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đưa ba cầm hết",
+      "Hand it to Dad",
+      0,
+      "Ba cũng đang mang đồ. Con tự đeo bình nhé.",
+      "Dad has things to carry too. Carry your own."
+     ],
+     [
+      "Tự đeo bình của mình, khát thì tự uống",
+      "Carry his own bottle and drink when thirsty",
+      1,
+      "Bình của mình thì mình mang. Con tự uống lúc nào khát cũng được.",
+      "Your bottle, your job. Then you can drink whenever you like."
+     ],
+     [
+      "Đặt bình trên ghế đá rồi quên",
+      "Put it on a bench and forget it",
+      0,
+      "Để quên là mất bình. Con đeo bình theo người nhé.",
+      "Leaving it means losing it. Keep it with you."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự lo bình nước đi học",
+    "Look after my school water bottle"
+   ],
+   "s": [
+    "Con tự rửa bình, đổ nước lọc mới, vặn chặt nắp và nhớ mang bình đi học. Ba mẹ xác nhận khi con làm xong.",
+    "Wash your bottle, fill it with fresh water, close it tightly and remember to take it to school. Mum or Dad checks."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm cùng con từng bước.",
+     "Mum or Dad does each step with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự rửa, đổ nước và mang đi.",
+     "Mum or Dad reminds you once; you wash, fill and take it."
+    ],
+    [
+     "Con tự nhớ làm mỗi tối trong ba ngày liền.",
+     "You remember to do it every evening for three days running."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con dán tên và trang trí bình nước",
+    "Decorate your bottle and add your name with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Cây héo, tìm vì sao",
+   "Why is the plant wilting?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chậu cây nhỏ trên bàn học của Bin bị héo rũ. Bin nghĩ: “Chắc cây hỏng rồi.”",
+   "The little plant on Bin’s desk is drooping. Bin thinks, “It must be ruined.”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Vứt cây đi",
+    "Throw the plant away",
+    0,
+    "Cây héo vẫn có thể tươi lại. Con kiểm tra thử trước đã nhé.",
+    "A wilting plant can often recover. Check it first."
+   ],
+   [
+    "Đổ thật nhiều nước cho chắc",
+    "Pour loads of water on it",
+    0,
+    "Nhiều nước quá cũng làm cây úng. Con sờ đất xem khô hay ướt trước nhé.",
+    "Too much water can drown it. Feel the soil first."
+   ],
+   [
+    "Kiểm tra từng thứ: đất có khô không, cây có được nắng không",
+    "Check one thing at a time: is the soil dry, does it get light?",
+    1,
+    "Tìm nguyên nhân từng bước thì sẽ biết cách giúp cây tươi lại.",
+    "Finding the cause step by step shows you how to help it recover."
+   ]
+  ],
+  "qq": [
+   "Muốn biết vì sao cây héo, con nên…",
+   "To find out why a plant is wilting, you…"
+  ],
+  "qo": [
+   [
+    "Vứt cây đi",
+    "Throw it away"
+   ],
+   [
+    "Kiểm tra từng thứ cây cần",
+    "Check each thing a plant needs"
+   ],
+   [
+    "Đổ thật nhiều nước",
+    "Pour on lots of water"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cây trong góc thiên nhiên của lớp bị vàng lá. Cô hỏi cả lớp xem vì sao.",
+     "The plant in the class nature corner has yellow leaves. The teacher asks why."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Xem lần lượt nước, nắng, đất rồi nói điều mình thấy",
+      "Check water, light and soil in turn, then say what he sees",
+      1,
+      "Xem từng thứ một giúp con tìm ra lý do thật, không phải đoán.",
+      "Checking one thing at a time finds the real reason, not a guess."
+     ],
+     [
+      "Đoán đại một lý do",
+      "Guess any reason",
+      0,
+      "Đoán đại dễ sai. Con xem kỹ từng thứ đã nhé.",
+      "Guesses are often wrong. Check each thing first."
+     ],
+     [
+      "Ngắt hết lá vàng là xong",
+      "Pick off the yellow leaves and that’s it",
+      0,
+      "Ngắt lá chưa sửa được nguyên nhân. Con tìm lý do trước nhé.",
+      "Picking leaves doesn’t fix the cause. Find the reason first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở vườn rau chung của khu phố, mẹ và Bin thấy một luống rau héo.",
+     "At the community vegetable garden, Mum and Bin find a row of wilting vegetables."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Nhổ rau lên xem",
+      "Pull the vegetables up to look",
+      0,
+      "Nhổ lên thì rau không sống được nữa. Con xem đất và nắng trước nhé.",
+      "Pulling them up means they won’t survive. Check soil and sun first."
+     ],
+     [
+      "Cùng mẹ xem đất khô hay ướt, rau có bị che nắng không",
+      "Check with Mum whether the soil is dry and if something blocks the sun",
+      1,
+      "Cùng người lớn kiểm tra từng điều giúp con tìm ra cách chữa.",
+      "Checking each thing with a grown-up helps find the fix."
+     ],
+     [
+      "Nghĩ là không làm được gì",
+      "Think nothing can be done",
+      0,
+      "Thường là có cách đấy. Con thử kiểm tra cùng mẹ nhé.",
+      "There’s usually a way. Try checking with Mum."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Kiểm tra ba thứ cho chậu cây",
+    "Check three things for a plant"
+   ],
+   "s": [
+    "Con kiểm tra ba thứ (nước, nắng, đất) cho một chậu cây trong nhà, nói cây đang thiếu gì và cùng ba mẹ thử sửa một điều.",
+    "Check three things (water, light, soil) for a plant at home, say what it might need and try fixing one thing with Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ từng thứ, con sờ đất và nhìn cùng ba mẹ.",
+     "Mum or Dad points to each thing and you feel and look together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kiểm tra đủ ba thứ.",
+     "Mum or Dad reminds you once; you check all three."
+    ],
+    [
+     "Con tự kiểm tra, tự chọn cách sửa và theo dõi cây hai ngày.",
+     "You check, choose a fix and watch the plant for two days."
+    ]
+   ],
+   "rw": [
+    "Được chọn một hạt giống để cùng ba mẹ gieo",
+    "You choose a seed to plant with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Để ý thời tiết",
+   "Noticing the weather"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Sáng nay trời nắng, chiều lại mưa. Bin hỏi cô: “Sao trời đổi nhanh thế ạ?”",
+   "It was sunny this morning and rainy this afternoon. Bin asks his teacher, “Why does the weather change so fast?”"
+  ],
+  "cq": [
+   "Bin có thể làm gì để hiểu hơn?",
+   "How could Bin learn more?"
+  ],
+  "co": [
+   [
+    "Không cần để ý trời",
+    "Not bother noticing",
+    0,
+    "Để ý trời vui lắm và giúp con chuẩn bị đồ phù hợp.",
+    "Noticing the weather is fun and helps you dress right."
+   ],
+   [
+    "Nghĩ ngày nào trời cũng giống nhau",
+    "Think every day is the same",
+    0,
+    "Trời đổi khác mỗi ngày. Con thử ghi lại sẽ thấy ngay.",
+    "The weather changes daily. Record it and you’ll see."
+   ],
+   [
+    "Mỗi ngày nhìn trời và vẽ lại: nắng, mây hay mưa",
+    "Look at the sky every day and draw it: sun, cloud or rain",
+    1,
+    "Quan sát và ghi lại nhiều ngày, con sẽ thấy trời thay đổi thế nào.",
+    "Watching and recording over several days shows you how the weather changes."
+   ]
+  ],
+  "qq": [
+   "Muốn biết thời tiết thay đổi thế nào, con nên…",
+   "To see how the weather changes, you…"
+  ],
+  "qo": [
+   [
+    "Quan sát và ghi lại mỗi ngày",
+    "Watch and record it every day"
+   ],
+   [
+    "Đoán một lần",
+    "Guess once"
+   ],
+   [
+    "Không cần để ý",
+    "Don’t bother"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng ra, mẹ hỏi: “Hôm nay con mặc áo gì đi học?” Bin chưa nhìn ra ngoài.",
+     "In the morning Mum asks, “What will you wear to school today?” Bin hasn’t looked outside."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mặc giống hôm qua",
+      "Wear the same as yesterday",
+      0,
+      "Hôm nay trời có thể khác hôm qua. Con nhìn ra ngoài nhé.",
+      "Today might be different. Have a look outside."
+     ],
+     [
+      "Nhìn ra cửa sổ xem trời nắng, mây hay mưa rồi mới chọn",
+      "Look out of the window at the weather, then choose",
+      1,
+      "Nhìn trời trước giúp con chọn quần áo phù hợp.",
+      "Checking the sky first helps you pick the right clothes."
+     ],
+     [
+      "Chọn áo mình thích, không cần xem trời",
+      "Pick a favourite top without checking",
+      0,
+      "Áo đẹp mà không hợp trời thì con sẽ nóng hoặc lạnh. Nhìn trời trước nhé.",
+      "A favourite top in the wrong weather means too hot or cold. Check first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang chơi ở công viên với ba, Bin thấy mây đen kéo đến, gió thổi mạnh.",
+     "Playing in the park with Dad, Bin sees dark clouds rolling in and the wind picking up."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói với ba: “Mây đen kéo đến, chắc sắp mưa ạ”, rồi cùng ba chuẩn bị về",
+      "Tell Dad, “Dark clouds – it might rain soon”, and get ready to go",
+      1,
+      "Để ý dấu hiệu của trời giúp cả nhà về kịp trước khi mưa.",
+      "Noticing the signs helps the family get home before the rain."
+     ],
+     [
+      "Không để ý, chơi tiếp",
+      "Ignore it and keep playing",
+      0,
+      "Mây đen là dấu hiệu sắp mưa. Con nói với ba nhé.",
+      "Dark clouds mean rain is coming. Tell Dad."
+     ],
+     [
+      "Nghĩ mây đen sẽ tự bay đi",
+      "Think the clouds will just go away",
+      0,
+      "Có khi mây bay đi, có khi mưa ngay. Con báo ba để cùng quyết định nhé.",
+      "Sometimes they pass, sometimes it pours. Tell Dad so you can decide together."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Vẽ nhật ký thời tiết ba ngày",
+    "A three-day weather diary"
+   ],
+   "s": [
+    "Trong ba ngày, mỗi ngày con nhìn trời và vẽ lại (nắng, mây, mưa, gió), rồi kể với ba mẹ con thấy trời thay đổi thế nào.",
+    "For three days, look at the sky and draw the weather (sun, cloud, rain, wind), then tell Mum or Dad how it changed."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nhìn trời và vẽ.",
+     "Mum or Dad looks at the sky and draws with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần mỗi ngày, con tự vẽ.",
+     "Mum or Dad reminds you once a day; you draw it yourself."
+    ],
+    [
+     "Con tự nhớ vẽ đủ ba ngày và nói ngày nào khác nhất.",
+     "You remember all three days and say which was most different."
+    ]
+   ],
+   "rw": [
+    "Được làm “người báo thời tiết” cho cả nhà buổi sáng",
+    "You’re the family’s morning weather reporter"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Trời giông, sấm sét",
+   "Thunderstorm safety"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Trời bỗng tối lại và có tiếng sấm. Bin đang chơi ngoài sân nhà, mẹ gọi vào.",
+   "The sky suddenly darkens and there’s thunder. Bin is playing in the yard and Mum calls him in."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chơi thêm một chút nữa",
+    "Play a little longer",
+    0,
+    "Khi có sấm, vào nhà ngay là an toàn nhất. Con chơi tiếp trong nhà nhé.",
+    "When there’s thunder, going in straight away is safest. Keep playing indoors."
+   ],
+   [
+    "Vào nhà ngay cùng mẹ và tránh xa cửa sổ",
+    "Go inside with Mum straight away and stay away from windows",
+    1,
+    "Khi trời giông, ở trong nhà là an toàn nhất. Có mẹ bên cạnh, con không cần sợ.",
+    "In a thunderstorm, indoors is safest. Mum is with you, so there’s no need to worry."
+   ],
+   [
+    "Chạy ra gốc cây to trú",
+    "Shelter under a big tree",
+    0,
+    "Gốc cây to không an toàn khi có sấm sét. Vào nhà là tốt nhất.",
+    "Big trees aren’t safe in a thunderstorm. Inside is best."
+   ]
+  ],
+  "qq": [
+   "Khi trời giông, chỗ an toàn là…",
+   "In a thunderstorm, the safe place is…"
+  ],
+  "qo": [
+   [
+    "Dưới gốc cây to",
+    "Under a big tree"
+   ],
+   [
+    "Trong nhà",
+    "Indoors"
+   ],
+   [
+    "Gần chỗ nước",
+    "Near water"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Đang giờ ra chơi thì có tiếng sấm. Cô gọi cả lớp vào.",
+     "During break there’s thunder. The teacher calls everyone inside."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng dưới gốc cây sân trường xem mưa",
+      "Stand under a tree in the yard to watch",
+      0,
+      "Gốc cây không an toàn khi có sấm. Con vào lớp nhé.",
+      "Trees aren’t safe in thunder. Go inside."
+     ],
+     [
+      "Ở lại nghịch nước mưa",
+      "Stay out to play in the rain",
+      0,
+      "Có sấm thì không chơi ngoài trời. Con vào lớp cùng các bạn nhé.",
+      "No playing outside in thunder. Go in with your friends."
+     ],
+     [
+      "Vào lớp ngay, ngồi vào chỗ và nghe cô",
+      "Go into class straight away, sit down and listen to the teacher",
+      1,
+      "Nghe cô và vào lớp ngay giúp cả lớp an toàn.",
+      "Following the teacher and going in quickly keeps everyone safe."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin và ba đang chơi ở công viên thì trời có sấm chớp.",
+     "Bin and Dad are at the park when thunder and lightning start."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cùng ba vào ngay toà nhà hoặc nhà chờ gần nhất",
+      "Go with Dad into the nearest building straight away",
+      1,
+      "Vào trong nhà cùng ba là cách an toàn nhất khi có sấm sét.",
+      "Getting indoors with Dad is the safest thing in a storm."
+     ],
+     [
+      "Đứng dưới cây to cho khỏi ướt",
+      "Stand under a big tree to stay dry",
+      0,
+      "Cây to không an toàn khi có sấm sét. Con cùng ba vào nhà nhé.",
+      "Big trees aren’t safe in lightning. Go indoors with Dad."
+     ],
+     [
+      "Chơi tiếp cạnh hồ nước",
+      "Keep playing by the pond",
+      0,
+      "Khi có sấm, tránh xa chỗ nước và vào nhà cùng ba nhé.",
+      "In a storm, stay away from water and go in with Dad."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba việc khi trời giông",
+    "Three things to do in a storm"
+   ],
+   "s": [
+    "Con nói với ba mẹ ba việc cần làm khi trời giông (vào nhà, tránh cây to, tránh chỗ nước) và chỉ chỗ an toàn trong nhà để ngồi chờ.",
+    "Tell Mum or Dad three things to do in a thunderstorm (go inside, avoid big trees, avoid water) and show a safe spot at home to wait."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói từng việc, con nhắc lại.",
+     "Mum or Dad says each one and you repeat it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói đủ ba việc.",
+     "Mum or Dad reminds you once; you say all three."
+    ],
+    [
+     "Con tự nói ba việc, chỉ chỗ an toàn và giải thích vì sao.",
+     "You say all three, show the safe spot and explain why."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nghe tiếng mưa và cùng kể một câu chuyện vui",
+    "The family listens to the rain and makes up a happy story together"
+   ]
+  }
+ }
+]

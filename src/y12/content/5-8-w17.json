@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 8,
+  "t": [
+   "Đồ cũ còn tốt cho người khác",
+   "Passing on what I’ve outgrown"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tủ của Bin có mấy bộ quần áo đã chật và đồ chơi lâu rồi không chơi, nhưng vẫn còn tốt.",
+   "Bin’s cupboard has clothes that are too small and toys not played with for ages, but still in good condition."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Cùng mẹ chọn đồ còn tốt, giặt sạch để tặng em nhỏ trong họ",
+    "Choose the good things with Mum and wash them to give to a younger cousin",
+    1,
+    "Đồ mình không dùng nhưng còn tốt vẫn có ích cho người khác. Cho đi cũng là dùng đồ thông minh.",
+    "Things you’ve outgrown can still help others. Passing them on is smart use."
+   ],
+   [
+    "Vứt hết vào thùng rác",
+    "Throw it all in the bin",
+    0,
+    "Đồ còn tốt mà vứt đi thì phí. Có bạn nhỏ khác vẫn dùng được đấy.",
+    "Throwing away good things is wasteful. Someone smaller could use them."
+   ],
+   [
+    "Giữ lại hết dù không dùng nữa",
+    "Keep everything even though you don’t use it",
+    0,
+    "Giữ mãi thì tủ chật mà đồ không được dùng. Chọn vài món để tặng nhé.",
+    "Keeping it all fills the cupboard and nothing gets used. Pick a few to pass on."
+   ]
+  ],
+  "qq": [
+   "Đồ mình không dùng nữa nhưng còn tốt thì…",
+   "Things you don’t use any more but are still good…"
+  ],
+  "qo": [
+   [
+    "Phải vứt đi",
+    "Must be thrown away"
+   ],
+   [
+    "Cất mãi trong tủ",
+    "Should stay in the cupboard forever"
+   ],
+   [
+    "Có thể tặng người cần",
+    "Can be given to someone who needs them"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Bin góp sách cũ cho thư viện trường. Bin có mấy quyển truyện đã đọc nhiều lần.",
+     "Bin’s class is collecting old books for the school library. Bin has some story books read many times."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mang quyển rách nát cho xong",
+      "Bring the torn ones to get it over with",
+      0,
+      "Sách rách thì bạn khác khó đọc. Chọn quyển còn tốt nhé.",
+      "Torn books are hard to read. Choose good ones."
+     ],
+     [
+      "Hỏi ba mẹ, chọn những quyển còn lành để mang góp",
+      "Ask Mum or Dad, then choose books in good condition to give",
+      1,
+      "Sách còn tốt sẽ mang niềm vui đến nhiều bạn khác.",
+      "Good books will bring joy to lots of other children."
+     ],
+     [
+      "Không góp vì tiếc",
+      "Don’t give any because you’d miss them",
+      0,
+      "Tiếc là bình thường. Con có thể giữ quyển thích nhất và góp quyển khác.",
+      "Feeling that way is normal. Keep your favourite and give another."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khu phố có điểm nhận quần áo cũ để tặng các bạn nhỏ cần. Mẹ đưa Bin đi cùng.",
+     "The neighbourhood has a collection point for clothes for children who need them. Mum takes Bin along."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mang cả đồ rách cho nhiều",
+      "Bring torn clothes too, to make more",
+      0,
+      "Đồ rách thì bạn nhỏ khó mặc. Chỉ góp đồ còn tốt thôi nhé.",
+      "Torn clothes are hard to wear. Only give good ones."
+     ],
+     [
+      "Cùng mẹ gấp gọn quần áo còn tốt và đặt vào thùng",
+      "Fold the good clothes neatly with Mum and put them in the box",
+      1,
+      "Gấp gọn đồ còn tốt là cách tặng chu đáo, người nhận sẽ rất vui.",
+      "Folding good clothes neatly is a thoughtful way to give."
+     ],
+     [
+      "Lục thùng lấy đồ của người khác",
+      "Rummage through others’ donations",
+      0,
+      "Đồ trong thùng là để tặng các bạn cần. Mình chỉ đặt đồ vào thôi nhé.",
+      "Those are for children who need them. We just put things in."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chọn hai món đồ để tặng",
+    "Choose two things to pass on"
+   ],
+   "s": [
+    "Con chọn hai món đồ còn tốt mà con không dùng nữa để tặng em nhỏ, ba mẹ duyệt và cùng con gói lại.",
+    "Choose two good things you no longer use to give to a younger child. Mum or Dad approves and wraps them with you."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xem tủ và chọn hai món.",
+     "Mum or Dad looks through the cupboard with you and picks two."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn hai món và đưa ba mẹ xem.",
+     "Mum or Dad reminds you once; you choose two and show them."
+    ],
+    [
+     "Con tự chọn, nói vì sao món đó còn tốt và gấp gọn sẵn để tặng.",
+     "You choose, explain why they’re still good and fold them ready to give."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ làm một tấm thiệp gửi kèm món quà",
+    "Make a card with Mum or Dad to go with the gift"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Mời khách uống nước",
+   "Offering a guest a drink"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bác Hoa đến chơi, mẹ nhờ Bin mời bác uống nước. Bin cầm cốc một tay, đặt cạch xuống bàn rồi chạy đi.",
+   "Auntie Hoa visits and Mum asks Bin to offer her a drink. Bin plonks the glass down one-handed and runs off."
+  ],
+  "cq": [
+   "Bin nên làm thế nào?",
+   "How should Bin do it?"
+  ],
+  "co": [
+   [
+    "Nói “Nước đây” rồi đi",
+    "Say “Here’s water” and leave",
+    0,
+    "Nói vậy hơi cộc. Thêm lời mời đầy đủ thì bác sẽ rất vui.",
+    "That sounds abrupt. A proper invitation will please her."
+   ],
+   [
+    "Đặt cốc xuống rồi chạy vào phòng",
+    "Put it down and dash to your room",
+    0,
+    "Khách đến chơi mà con chạy đi thì bác hơi buồn. Mời xong rồi chào bác nhé.",
+    "Running off may upset her. Offer, then say hello."
+   ],
+   [
+    "Bưng cốc bằng hai tay, nói: “Con mời bác uống nước ạ”",
+    "Hold the glass with both hands and say: “Please have some water, Auntie”",
+    1,
+    "Hai tay và câu mời đầy đủ là cách đón khách lễ phép, ai cũng quý.",
+    "Two hands and a full invitation are a polite welcome everyone appreciates."
+   ]
+  ],
+  "qq": [
+   "Mời khách uống nước lễ phép là…",
+   "Offering a guest a drink politely means…"
+  ],
+  "qo": [
+   [
+    "Đưa bằng hai tay và nói lời mời đầy đủ",
+    "Using both hands and a full invitation"
+   ],
+   [
+    "Đặt bằng một tay",
+    "Putting it down with one hand"
+   ],
+   [
+    "Không cần nói gì",
+    "Saying nothing"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp có thầy cô đến dự giờ. Cô nhờ Bin mang nước mời các thầy cô khách.",
+     "Visiting teachers come to watch a lesson. The teacher asks Bin to offer them water."
+    ],
+    "q": [
+     "Bin nên làm thế nào?",
+     "How should Bin do it?"
+    ],
+    "o": [
+     [
+      "Đưa bằng hai tay, nói: “Em mời thầy cô uống nước ạ”",
+      "Offer with both hands: “Please have some water”",
+      1,
+      "Đưa hai tay kèm lời mời là cách thể hiện sự tôn trọng với khách.",
+      "Two hands and a polite invitation show respect for guests."
+     ],
+     [
+      "Đặt chai lên bàn rồi chạy về chỗ",
+      "Put the bottles down and run back",
+      0,
+      "Đặt rồi chạy thì khách chưa biết con mời. Nói một câu mời nhé.",
+      "Guests may not realise it’s for them. Say an invitation."
+     ],
+     [
+      "Đưa một tay, không nói gì",
+      "Hand it over one-handed, saying nothing",
+      0,
+      "Đưa một tay với người lớn chưa lễ phép. Dùng hai tay và lời mời nhé.",
+      "One hand isn’t polite with grown-ups. Use two hands and words."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin cùng mẹ sang thăm bà. Bà mệt nằm nghỉ, mẹ bảo Bin rót nước mời bà.",
+     "Bin and Mum visit Grandma, who is resting because she’s tired. Mum asks Bin to pour her some water."
+    ],
+    "q": [
+     "Bin nên làm thế nào?",
+     "How should Bin do it?"
+    ],
+    "o": [
+     [
+      "Rót nửa cốc, hai tay mời: “Cháu mời bà uống nước ạ”",
+      "Pour half a glass and offer with both hands: “Here’s some water, Grandma”",
+      1,
+      "Rót vừa phải để không đổ, hai tay mời bà là lễ phép và chu đáo.",
+      "Half a glass won’t spill, and two hands are polite and caring."
+     ],
+     [
+      "Rót thật đầy cho bà uống nhiều",
+      "Fill it to the brim so she has lots",
+      0,
+      "Đầy quá dễ đổ ra giường. Rót nửa cốc là vừa.",
+      "Too full and it spills. Half a glass is just right."
+     ],
+     [
+      "Để cốc ở bàn rồi đi chơi",
+      "Leave the glass on the table and go off to play",
+      0,
+      "Bà đang mệt, con mời tận tay sẽ giúp bà nhiều hơn.",
+      "Grandma is tired; handing it to her helps more."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập mời nước bằng hai tay",
+    "Practise offering water with two hands"
+   ],
+   "s": [
+    "Con tập mời nước ba mẹ bằng hai tay với câu “Con mời … uống nước ạ”, rót nửa cốc nước nguội cho khỏi đổ.",
+    "Practise offering Mum or Dad a drink with both hands, saying “Please have some water”, pouring half a glass of cool water so it won’t spill."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu, con làm theo một lần.",
+     "Mum or Dad shows you and you copy once."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự rót và mời.",
+     "Mum or Dad reminds you once; you pour and offer."
+    ],
+    [
+     "Con tự mời nước cả nhà hoặc khách đến chơi, đủ hai tay và đủ lời mời.",
+     "You offer drinks to the family or a visitor, two hands and full words."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ gọi điện kể với ông bà về việc con làm",
+    "Mum or Dad phones Grandma and Grandad to tell them what you did"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Ngại khi gặp họ hàng",
+   "Feeling shy with relatives"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cả nhà về quê mừng thọ cụ. Có rất nhiều họ hàng Bin chưa gặp bao giờ.",
+   "The family goes to the countryside for great-grandma’s birthday. There are lots of relatives Bin has never met."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Ngồi im trong góc cả buổi",
+    "Sit quietly in a corner all day",
+    0,
+    "Ngồi một mình thì con bỏ lỡ niềm vui. Thử chào một người trước nhé.",
+    "Sitting alone, you miss the fun. Try greeting one person first."
+   ],
+   [
+    "Đi cạnh mẹ, mẹ giới thiệu ai thì chào người đó một câu",
+    "Stay with Mum and say hello to each person she introduces",
+    1,
+    "Có mẹ bên cạnh và chỉ cần một câu chào, cái ngại sẽ nhỏ đi nhiều.",
+    "With Mum beside you and just one hello, shyness shrinks a lot."
+   ],
+   [
+    "Không chào ai vì không quen",
+    "Greet nobody because you don’t know them",
+    0,
+    "Chưa quen nên ngại là bình thường. Chào một câu là bắt đầu quen rồi.",
+    "Feeling shy with new people is normal. One hello starts things off."
+   ]
+  ],
+  "qq": [
+   "Khi thấy ngại, cách bắt đầu dễ nhất là…",
+   "When you feel shy, the easiest way to start is…"
+  ],
+  "qo": [
+   [
+    "Trốn đi",
+    "Hide"
+   ],
+   [
+    "Chờ người khác nói hộ",
+    "Wait for someone to speak for you"
+   ],
+   [
+    "Một câu chào ngắn",
+    "A short hello"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Họ hàng ở xa đến chơi, ai cũng hỏi chuyện Bin. Bin ngại, nấp sau lưng mẹ.",
+     "Relatives from far away visit and everyone talks to Bin. Bin feels shy and hides behind Mum."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Trốn vào phòng",
+      "Hide in the bedroom",
+      0,
+      "Ngại là bình thường, nhưng trốn thì mọi người buồn. Thử một câu chào thôi nhé.",
+      "Shyness is normal, but hiding may make people sad. Try just one hello."
+     ],
+     [
+      "Khóc đòi mẹ đưa đi chỗ khác",
+      "Cry and ask Mum to take you away",
+      0,
+      "Con không cần nói nhiều đâu. Đứng cạnh mẹ và chào một câu là được.",
+      "You don’t need to say much. Stand by Mum and say hello."
+     ],
+     [
+      "Hít sâu, nói một câu ngắn đã chuẩn bị: “Cháu chào bác ạ”",
+      "Take a breath and say a short line you prepared: “Hello, Auntie”",
+      1,
+      "Một câu chào ngắn là đủ để bắt đầu. Ngại rồi sẽ bớt dần.",
+      "One short hello is enough to start. The shyness fades."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Hôm họp lớp, ông của bạn Na hỏi tên Bin. Bin ngại, cúi đầu không nói.",
+     "At a class event, Na’s grandad asks Bin’s name. Bin feels shy and looks down."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy đi chỗ khác",
+      "Run off",
+      0,
+      "Chạy đi thì ông không biết con tên gì. Một câu ngắn thôi con nhé.",
+      "Then he won’t know your name. Just one short line."
+     ],
+     [
+      "Hít sâu, nhìn ông và nói: “Cháu chào ông, cháu tên là Bin ạ”",
+      "Breathe, look at him and say: “Hello, my name is Bin”",
+      1,
+      "Hít sâu rồi nói một câu ngắn giúp con vượt qua cái ngại rất nhẹ nhàng.",
+      "A breath and one short sentence get you past shyness gently."
+     ],
+     [
+      "Nhờ Na nói hộ",
+      "Ask Na to answer for you",
+      0,
+      "Na giúp cũng được, nhưng tự nói một câu sẽ giúp con bớt ngại hơn.",
+      "Na could, but saying one line yourself helps the shyness more."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chuẩn bị sẵn một câu chào",
+    "Prepare a hello"
+   ],
+   "s": [
+    "Con chọn sẵn một câu để nói với một người họ hàng (gặp mặt hoặc gọi điện cùng ba mẹ) và nói câu đó khi gặp.",
+    "Choose a line to say to a relative (in person or on a call with Mum or Dad) and say it when you meet."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn câu và tập nói trước gương.",
+     "Mum or Dad chooses the line with you and you practise in the mirror."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nói câu đã chuẩn bị.",
+     "Mum or Dad reminds you once; you say your line."
+    ],
+    [
+     "Con tự chuẩn bị câu, tự nói và hỏi thêm người đó một câu.",
+     "You prepare and say your line, then ask the relative one more question."
+    ]
+   ],
+   "rw": [
+    "Cả nhà xem album ảnh gia đình, con hỏi tên từng người",
+    "Look at the family photo album and learn everyone’s names"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Chơi cùng em nhỏ tuổi hơn",
+   "Playing with younger kids"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp Bin đón các em mẫu giáo sang thăm. Cô nhờ Bin chơi ném bóng với một em nhỏ.",
+   "Bin’s class welcomes visiting nursery children. The teacher asks Bin to play catch with one of them."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đứng gần hơn, ném nhẹ để em bắt được",
+    "Stand closer and throw gently so they can catch",
+    1,
+    "Điều chỉnh trò chơi cho vừa sức em là cách làm việc nhóm rất tử tế.",
+    "Adjusting the game to suit them is kind teamwork."
+   ],
+   [
+    "Ném thật mạnh như với bạn cùng lớp",
+    "Throw hard like with classmates",
+    0,
+    "Em nhỏ chưa bắt được bóng mạnh, có thể bị đau. Ném nhẹ thôi nhé.",
+    "Little ones can’t catch hard throws and might get hurt. Throw gently."
+   ],
+   [
+    "Đưa bóng cho em rồi bỏ đi",
+    "Hand over the ball and walk off",
+    0,
+    "Cô nhờ con chơi cùng em mà. Ở lại chơi nhẹ nhàng nhé.",
+    "The teacher asked you to play together. Stay and play gently."
+   ]
+  ],
+  "qq": [
+   "Chơi cùng em nhỏ, con nên…",
+   "When playing with younger children, you should…"
+  ],
+  "qo": [
+   [
+    "Đổi trò chơi cho dễ hơn",
+    "Make the game easier"
+   ],
+   [
+    "Chơi như với bạn lớn",
+    "Play just like with older kids"
+   ],
+   [
+    "Không cho em chơi",
+    "Not let them play"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em họ ba tuổi muốn xếp hình cùng Bin. Hình khó quá, em làm lộn xộn, Bin thấy bực.",
+     "Bin’s three-year-old cousin wants to do a puzzle too. It’s too hard, the cousin muddles it up, and Bin gets annoyed."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đuổi em đi chỗ khác",
+      "Send the cousin away",
+      0,
+      "Em chỉ muốn chơi cùng anh chị thôi. Thử tìm trò dễ hơn nhé.",
+      "They just want to play with you. Find something easier."
+     ],
+     [
+      "Chơi một mình, mặc em",
+      "Play alone and ignore them",
+      0,
+      "Em sẽ thấy buồn. Một trò đơn giản là cả hai cùng chơi được.",
+      "They’ll feel left out. A simple game works for both."
+     ],
+     [
+      "Đổi sang xếp tháp đơn giản để em cũng chơi được",
+      "Switch to building a simple tower so the little one can join in",
+      1,
+      "Đổi trò cho dễ hơn giúp em nhỏ cùng chơi, cả hai đều vui.",
+      "Making the game easier lets the little one join and you both have fun."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi, một em nhỏ muốn chơi đuổi bắt cùng Bin và Na nhưng chạy chậm.",
+     "At the playground a younger child wants to play tag with Bin and Na but runs slowly."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What can Bin do?"
+    ],
+    "o": [
+     [
+      "Chạy thật nhanh cho em không theo kịp",
+      "Run really fast so they can’t keep up",
+      0,
+      "Em sẽ thấy mình bị bỏ lại. Đổi luật một chút để em cùng chơi nhé.",
+      "They’ll feel left behind. Change the rules a little so they can play."
+     ],
+     [
+      "Bảo em đi chỗ khác chơi",
+      "Tell them to go and play elsewhere",
+      0,
+      "Em muốn chơi cùng các anh chị mà. Thử nghĩ cách cho em tham gia nhé.",
+      "They want to play with you. Find a way to include them."
+     ],
+     [
+      "Đổi luật: đi nhanh thay vì chạy, để em cũng bắt được",
+      "Change the rule: fast walking instead of running, so they can catch someone",
+      1,
+      "Đổi luật cho dễ hơn giúp mọi người, kể cả em nhỏ, đều được vui.",
+      "Easier rules let everyone, including little ones, have fun."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Nghĩ trò chơi cho em nhỏ",
+    "Make up a game for a little one"
+   ],
+   "s": [
+    "Con nghĩ một cách chơi đơn giản và chơi 10 phút với một em nhỏ, hoặc ba mẹ đóng vai em nhỏ.",
+    "Think of a simple way to play and play for 10 minutes with a younger child, or with Mum or Dad pretending to be one."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý trò và cùng con chơi.",
+     "Mum or Dad suggests a game and plays with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ trò và chơi.",
+     "Mum or Dad reminds you once; you think of a game and play."
+    ],
+    [
+     "Con tự nghĩ trò, giải thích luật dễ hiểu và điều chỉnh khi em gặp khó.",
+     "You invent the game, explain simple rules and adjust when it’s hard."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con thổi bong bóng xà phòng",
+    "Blow bubbles with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự rót nước, tự lấy đồ ăn",
+   "Serving myself"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bữa tối, Bin muốn uống nước nhưng ngồi chờ mẹ rót. Bin cũng hay lấy đầy bát rồi ăn không hết.",
+   "At dinner Bin wants water but waits for Mum to pour it. Bin also often fills the bowl and can’t finish."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tự rót nửa cốc từ bình nhỏ, lấy thức ăn vừa đủ, ăn hết rồi lấy thêm",
+    "Pour half a glass from a small jug, take a sensible amount, and get more when finished",
+    1,
+    "Tự rót và lấy vừa đủ là con tự lập mà không lãng phí.",
+    "Serving yourself sensibly is independent and wastes nothing."
+   ],
+   [
+    "Chờ mẹ làm hộ hết",
+    "Wait for Mum to do it all",
+    0,
+    "Con đã lớn để tự làm việc này rồi. Thử với bình nước nhỏ nhé.",
+    "You’re big enough for this. Try with a small jug."
+   ],
+   [
+    "Lấy thật nhiều cho chắc",
+    "Take loads, just in case",
+    0,
+    "Lấy nhiều mà ăn không hết thì phí. Lấy vừa đủ, hết rồi lấy thêm.",
+    "Taking too much wastes food. Take enough and go back for more."
+   ]
+  ],
+  "qq": [
+   "Tự lấy đồ ăn đúng cách là…",
+   "Serving yourself properly means…"
+  ],
+  "qo": [
+   [
+    "Lấy thật nhiều",
+    "Taking as much as possible"
+   ],
+   [
+    "Lấy vừa đủ, ăn hết rồi lấy thêm",
+    "Taking enough and getting more when finished"
+   ],
+   [
+    "Chờ người khác lấy hộ",
+    "Waiting for someone to serve you"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bữa trưa bán trú, cô cho các bạn tự lấy canh. Bin định múc thật đầy bát.",
+     "At school lunch the teacher lets everyone serve their own soup. Bin is about to fill the bowl to the brim."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Múc đầy tràn bát",
+      "Fill it to overflowing",
+      0,
+      "Đầy quá dễ đổ, có thể bị bỏng. Múc vừa phải nhé.",
+      "Too full can spill and scald. Take a sensible amount."
+     ],
+     [
+      "Múc vừa phải, bưng đi chậm, ăn hết lại xin thêm",
+      "Take a sensible amount, walk slowly, and ask for more when done",
+      1,
+      "Múc vừa phải thì không bị đổ, ăn hết rồi lấy thêm là rất tự lập.",
+      "A sensible amount won’t spill, and getting more later is independent."
+     ],
+     [
+      "Chờ bạn lấy hộ",
+      "Wait for a friend to serve you",
+      0,
+      "Con tự lấy được mà. Cô tin con nên mới cho tự lấy.",
+      "You can serve yourself; the teacher trusts you."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở tiệc sinh nhật bạn, đồ ăn bày trên bàn dài. Mẹ đứng gần và bảo Bin tự lấy.",
+     "At a friend’s birthday party, food is laid out on a long table. Mum is nearby and tells Bin to help themselves."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lấy đầy đĩa món mình thích",
+      "Pile your plate with your favourite",
+      0,
+      "Lấy nhiều quá dễ bỏ thừa, các bạn khác lại không còn. Lấy vừa đủ nhé.",
+      "Too much may get wasted and leave none for others. Take enough."
+     ],
+     [
+      "Lấy mỗi món một ít vừa đủ ăn, ăn hết mới lấy thêm",
+      "Take a little of each, enough to eat, and go back for more after",
+      1,
+      "Tự lấy vừa đủ là vừa tự lập vừa nghĩ đến các bạn khác.",
+      "Taking just enough is independent and thoughtful of others."
+     ],
+     [
+      "Bốc tay ăn ngay tại bàn",
+      "Eat with your fingers at the table",
+      0,
+      "Ăn ngay ở bàn bày đồ chưa lịch sự và không sạch. Lấy ra đĩa nhé.",
+      "Eating at the serving table isn’t polite or clean. Use a plate."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự rót nước và lấy đồ ăn",
+    "Pour and serve for myself"
+   ],
+   "s": [
+    "Trong bữa tối, con tự rót nửa cốc nước không làm đổ và tự lấy thức ăn vừa đủ, ăn hết bát của mình.",
+    "At dinner, pour yourself half a glass of water without spilling and serve yourself a sensible amount, finishing your bowl."
+   ],
+   "lv": [
+    [
+     "Ba mẹ giữ bình cùng con rót và gợi ý lượng thức ăn.",
+     "Mum or Dad steadies the jug with you and suggests how much to take."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự rót và tự lấy.",
+     "Mum or Dad reminds you once; you pour and serve yourself."
+    ],
+    [
+     "Con tự rót, tự lấy vừa đủ, ăn hết rồi tự lấy thêm nếu còn đói.",
+     "You pour, serve just enough, finish and get more if still hungry."
+    ]
+   ],
+   "rw": [
+    "Được trang trí bàn ăn tối nay theo ý con",
+    "You decorate the dinner table tonight your way"
+   ]
+  }
+ }
+]

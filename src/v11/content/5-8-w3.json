@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Quảng cáo có nói thật hết không?",
+   "Do adverts tell the whole truth?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Trên ti vi, quảng cáo nói: “Ăn bánh này là cao lớn nhanh nhất!” Bin xin ba mua ngay.",
+   "An advert on TV says: “Eat this snack and grow tallest fastest!” Bin asks Dad to buy it now."
+  ],
+  "cq": [
+   "Bin nên nghĩ thế nào?",
+   "How should Bin think about it?"
+  ],
+  "co": [
+   [
+    "Hỏi ba: “Ăn gì thì mới cao lớn thật ạ?”",
+    "Ask Dad: “What really helps you grow?”",
+    1,
+    "Quảng cáo chỉ nói điều hay. Cao lớn nhờ ăn đủ chất, ngủ đủ và vận động, ba sẽ kể con nghe.",
+    "Adverts only tell the good bits. Growing comes from good food, sleep and play — Dad can explain."
+   ],
+   [
+    "Ăn thật nhiều bánh đó để cao nhanh",
+    "Eat loads of that snack to grow faster",
+    0,
+    "Ăn nhiều một món không làm mình cao nhanh hơn. Hỏi người lớn trước nhé.",
+    "Eating lots of one snack won’t make you grow faster. Ask a grown-up first."
+   ],
+   [
+    "Quảng cáo nói vậy thì chắc đúng",
+    "The advert says so, so it must be true",
+    0,
+    "Quảng cáo muốn mình mua nên hay nói rất hay. Mình cần hỏi lại trước khi tin.",
+    "Adverts want you to buy, so they make things sound amazing. Check before you believe."
+   ]
+  ],
+  "qq": [
+   "Quảng cáo được làm ra để…",
+   "Adverts are made to…"
+  ],
+  "qo": [
+   [
+    "Kể chuyện cổ tích",
+    "Tell fairy tales"
+   ],
+   [
+    "Mời mọi người mua hàng",
+    "Get people to buy things"
+   ],
+   [
+    "Giúp con học bài",
+    "Help with homework"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bạn Huy mang đến lớp tờ giấy in hình đôi giày, ghi: “Đi vào là chạy nhanh nhất!”",
+     "Huy brings in a leaflet showing some trainers that says: “Wear these and run fastest!”"
+    ],
+    "q": [
+     "Bin nên nghĩ sao?",
+     "What should Bin think?"
+    ],
+    "o": [
+     [
+      "“Chạy nhanh là nhờ tập luyện, giày chắc chỉ giúp êm chân thôi”",
+      "“Running fast comes from practice — shoes just feel comfy”",
+      1,
+      "Con đã tự suy nghĩ thay vì tin ngay. Tập luyện mới làm mình chạy nhanh hơn.",
+      "You thought it through instead of just believing. Practice is what makes you faster."
+     ],
+     [
+      "“Tớ phải có đôi giày này!”",
+      "“I must get those shoes!”",
+      0,
+      "Tờ giấy được làm ra để mời mua. Mình hỏi người lớn xem có đúng không đã.",
+      "The leaflet is made to sell. Check with a grown-up whether it’s true."
+     ],
+     [
+      "“Ai không có giày này sẽ chạy chậm”",
+      "“Anyone without them will be slow”",
+      0,
+      "Mỗi bạn chạy nhanh chậm khác nhau nhờ tập luyện, không phải vì đôi giày.",
+      "How fast people run depends on practice, not on the shoes."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở hội chợ cùng mẹ, một chú cầm loa nói: “Đồ chơi này bền mãi mãi, không bao giờ hỏng!”",
+     "At a fair with Mum, a man with a loudspeaker says: “This toy lasts forever and never breaks!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Tin ngay và xin mẹ mua",
+      "Believe it and ask Mum to buy it",
+      0,
+      "Lời mời mua thường nói rất hay. Thứ gì dùng lâu cũng có thể hỏng.",
+      "Sales talk always sounds great. Anything can break after a while."
+     ],
+     [
+      "Nghĩ chú ấy là người xấu",
+      "Decide he must be a bad person",
+      0,
+      "Chú chỉ đang mời mua hàng thôi. Mình không cần nghĩ xấu, chỉ cần suy nghĩ kỹ.",
+      "He’s just selling. No need to think badly of him — just think carefully."
+     ],
+     [
+      "Hỏi mẹ: “Có đồ chơi nào không bao giờ hỏng không ạ?”",
+      "Ask Mum: “Is there any toy that never breaks?”",
+      1,
+      "Câu “mãi mãi, không bao giờ” nghe hơi quá. Hỏi lại người lớn là cách kiểm tra rất hay.",
+      "“Forever, never breaks” sounds too good. Asking a grown-up is a smart check."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Cơ thể của con, con được nói “không”",
+   "My body, my “no”"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bác họ đến nhà chơi, cứ muốn bế và thơm má Bin. Bin không thích nhưng ngại không dám nói.",
+   "A relative visits and keeps wanting to pick Bin up and kiss Bin’s cheek. Bin doesn’t like it but feels too shy to say."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Cố chịu cho bác vui",
+    "Put up with it to keep the relative happy",
+    0,
+    "Con không phải cố chịu điều làm con khó chịu. Con có thể nói lễ phép mà vẫn rõ ràng.",
+    "You don’t have to put up with something that feels wrong. You can say it politely and clearly."
+   ],
+   [
+    "Lễ phép nói: “Con chào bác, mình đập tay thôi ạ”, rồi kể với mẹ",
+    "Say politely: “Hello! Can we do a high five instead?” and tell Mum",
+    1,
+    "Cơ thể của con là của con. Từ chối lễ phép vẫn là ngoan, kể với mẹ để mẹ giúp con.",
+    "Your body belongs to you. Saying no politely is still kind, and telling Mum means she can help."
+   ],
+   [
+    "Đẩy bác ra rồi chạy trốn",
+    "Push the relative away and hide",
+    0,
+    "Con được quyền từ chối, nhưng đẩy có thể làm bác đau. Thử nói bằng lời trước nhé.",
+    "You’re allowed to say no, but pushing can hurt. Try words first."
+   ]
+  ],
+  "qq": [
+   "Khi ai đó chạm vào làm con khó chịu, con nên…",
+   "If someone’s touch makes you uncomfortable, you should…"
+  ],
+  "qo": [
+   [
+    "Giữ bí mật",
+    "Keep it secret"
+   ],
+   [
+    "Cố chịu đựng",
+    "Just put up with it"
+   ],
+   [
+    "Nói “không” và kể với ba mẹ",
+    "Say “no” and tell Mum or Dad"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi, bạn Nam cứ ôm chặt cổ Bin để đùa. Bin thấy chật và không thích.",
+     "At break, Nam keeps hugging Bin tightly round the neck as a joke. Bin feels squashed and doesn’t like it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cười cho qua dù không thích",
+      "Laugh it off even though you don’t like it",
+      0,
+      "Con cười thì bạn tưởng con thích. Nói rõ ra bạn mới biết mà dừng.",
+      "If you laugh, Nam thinks you like it. Say it clearly so he knows to stop."
+     ],
+     [
+      "Ôm lại thật chặt cho bạn biết",
+      "Squeeze back hard so he learns",
+      0,
+      "Làm vậy thì cả hai dễ bị đau. Nói bằng lời sẽ tốt hơn.",
+      "That way you could both get hurt. Words work better."
+     ],
+     [
+      "Nói rõ: “Dừng lại, tớ không thích bị ôm như vậy”. Bạn không dừng thì báo cô",
+      "Say clearly: “Stop, I don’t like that.” If he doesn’t stop, tell the teacher",
+      1,
+      "Nói “không” rõ ràng là quyền của con. Khi bạn không nghe, cô giáo sẽ giúp con.",
+      "Saying a clear “no” is your right. If he won’t listen, the teacher will help."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, mẹ ngồi ở ghế gần đó. Một người lạ khen Bin dễ thương và muốn ôm Bin.",
+     "At the park, Mum is on a nearby bench. A stranger says Bin is cute and wants a hug."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cho ôm vì người đó khen mình",
+      "Let them, because they were nice",
+      0,
+      "Lời khen không làm người lạ thành người quen. Con về chỗ mẹ nhé.",
+      "A compliment doesn’t make a stranger someone you know. Go back to Mum."
+     ],
+     [
+      "Nói “Không ạ”, rồi về ngay chỗ mẹ",
+      "Say “No thank you” and go straight back to Mum",
+      1,
+      "Với người lạ, con không cần ôm hay chạm. Về ngay chỗ mẹ là an toàn nhất.",
+      "With strangers, no hugs or touching are needed. Going straight back to Mum is safest."
+     ],
+     [
+      "Đứng im không nói gì",
+      "Stand still and say nothing",
+      0,
+      "Đứng im thì người kia không biết con không muốn. Nói “không” và về với mẹ.",
+      "If you freeze, they don’t know you mind. Say “no” and go to Mum."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Khi chuông báo hết giờ chơi",
+   "When the timer says stop"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba hẹn Bin được chơi xếp hình 20 phút rồi đi tắm. Đồng hồ hẹn giờ reo khi Bin đang xếp dở ngôi nhà.",
+   "Dad agreed Bin can play with blocks for 20 minutes, then have a bath. The timer rings while Bin’s house is half built."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Đập đổ hết vì bực",
+    "Knock it all down in a huff",
+    0,
+    "Bực là bình thường khi đang vui. Con có thể để nguyên ngôi nhà và quay lại sau.",
+    "It’s normal to feel cross when you’re having fun. Leave the house standing and come back later."
+   ],
+   [
+    "Nói “Con xong rồi ạ”, để ngôi nhà ở góc, mai xếp tiếp",
+    "Say “I’m done”, leave the house in the corner and finish tomorrow",
+    1,
+    "Giữ lời hẹn giúp ba tin con hơn. Ngôi nhà vẫn đợi con ngày mai.",
+    "Keeping your word helps Dad trust you. The house will wait till tomorrow."
+   ],
+   [
+    "Giả vờ không nghe thấy chuông",
+    "Pretend not to hear the timer",
+    0,
+    "Chuông reo là lời hẹn đã đến. Giả vờ thì lần sau khó được chơi lâu hơn.",
+    "The timer means the deal is up. Pretending makes longer play harder next time."
+   ]
+  ],
+  "qq": [
+   "Khi hết giờ đã hẹn, con nên…",
+   "When the agreed time is up, you should…"
+  ],
+  "qo": [
+   [
+    "Dừng lại như đã hẹn",
+    "Stop, as agreed"
+   ],
+   [
+    "Xin thêm mãi",
+    "Keep asking for more"
+   ],
+   [
+    "Lén chơi tiếp",
+    "Keep playing secretly"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Chuông vào lớp reo. Bin và các bạn đang chơi nhảy dây rất vui.",
+     "The bell rings for the end of break. Bin and friends are having fun skipping."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cuộn dây lại, rủ các bạn vào lớp",
+      "Roll up the rope and head in with friends",
+      1,
+      "Chuông reo là lúc chuyển việc. Vào lớp đúng giờ là tôn trọng cô và cả lớp.",
+      "The bell means switch. Coming in on time respects the teacher and the class."
+     ],
+     [
+      "Nhảy thêm vài lượt nữa",
+      "Do a few more skips",
+      0,
+      "Nhảy thêm thì vào lớp muộn, cô và các bạn phải chờ. Mai mình chơi tiếp nhé.",
+      "A few more means you’re late and everyone waits. Play again tomorrow."
+     ],
+     [
+      "Vứt dây đó rồi chạy vào",
+      "Drop the rope and run in",
+      0,
+      "Dây bỏ lại có thể làm người khác vấp. Cuộn gọn chỉ mất một chút thôi.",
+      "A dropped rope can trip someone. Rolling it up takes a moment."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở khu vui chơi, mẹ nói: “Còn 5 phút nữa mình về nhé.” Bin đang chơi cầu trượt.",
+     "At the playground, Mum says: “Five more minutes, then home.” Bin is on the slide."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Năn nỉ ở lại thêm một tiếng",
+      "Beg to stay another hour",
+      0,
+      "Mẹ đã báo trước để con chuẩn bị. Năn nỉ mãi làm cả hai mệt.",
+      "Mum warned you so you could get ready. Begging tires you both."
+     ],
+     [
+      "Không trả lời, cứ chơi tiếp",
+      "Ignore it and keep playing",
+      0,
+      "Mẹ sẽ phải gọi nhiều lần. Con có thể chọn lượt cuối cho thật vui.",
+      "Mum will have to call again and again. Choose one last turn and enjoy it."
+     ],
+     [
+      "Chọn trượt thêm hai lượt cuối rồi đến chỗ mẹ",
+      "Pick two last slides, then go to Mum",
+      1,
+      "Tự chọn lượt cuối giúp con dừng vui vẻ và đúng giờ.",
+      "Choosing your last turns helps you stop happily and on time."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Ống heo của Bin",
+   "Bin’s piggy bank"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin muốn mua một quả bóng giá 30 nghìn. Mỗi tuần ba mẹ cho Bin 10 nghìn tiền tiêu vặt.",
+   "Bin wants a ball that costs 30,000 dong. Each week Bin gets 10,000 dong pocket money."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tiêu hết tiền vào kẹo mỗi tuần",
+    "Spend it all on sweets every week",
+    0,
+    "Tiêu hết thì quả bóng mãi không đến. Để dành một ít mỗi tuần nhé.",
+    "Spend it all and the ball never comes. Save a little each week."
+   ],
+   [
+    "Bỏ tiền vào ống heo, mỗi tuần đếm lại cho đến khi đủ 30 nghìn",
+    "Put money in the piggy bank and count each week until there’s 30,000",
+    1,
+    "Để dành từng chút một, sau ba tuần con sẽ tự mua được quả bóng.",
+    "Save bit by bit and in three weeks you can buy the ball yourself."
+   ],
+   [
+    "Xin ba mẹ mua ngay",
+    "Ask Mum and Dad to buy it now",
+    0,
+    "Ba mẹ có thể giúp, nhưng tự để dành cho thứ mình thích sẽ làm con rất tự hào.",
+    "They might help, but saving for it yourself feels really proud."
+   ]
+  ],
+  "qq": [
+   "Để dành tiền là…",
+   "Saving money means…"
+  ],
+  "qo": [
+   [
+    "Tiêu hết ngay hôm nay",
+    "Spending it all today"
+   ],
+   [
+    "Xin thêm tiền mỗi ngày",
+    "Asking for more every day"
+   ],
+   [
+    "Cất một phần để mua thứ mình muốn sau này",
+    "Putting some aside for something later"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cả lớp làm ống tiết kiệm bằng hộp giấy. Bạn Vy nói: “Ngày nào tớ cũng mở ra tiêu một ít.”",
+     "The class makes savings boxes from card. Vy says: “I’ll open mine every day and spend a bit.”"
+    ],
+    "q": [
+     "Bin nên nói gì với bạn?",
+     "What should Bin say?"
+    ],
+    "o": [
+     [
+      "“Cậu làm thế là dở lắm!”",
+      "“That’s a silly idea!”",
+      0,
+      "Chê bạn làm bạn buồn. Mình có thể nhẹ nhàng kể cách mình làm.",
+      "Calling it silly hurts. Share your way gently instead."
+     ],
+     [
+      "“Mình chỉ mở khi đủ tiền mua thứ mình muốn thôi”",
+      "“We only open it when there’s enough for what we want”",
+      1,
+      "Ống tiết kiệm giữ tiền cho một mục tiêu. Mở thường xuyên thì khó mà đủ.",
+      "A savings box keeps money for a goal. Opening it often means it never fills."
+     ],
+     [
+      "“Ừ, tớ cũng thế”",
+      "“Yes, me too”",
+      0,
+      "Mở ra mỗi ngày thì ống luôn trống. Mình thử chờ đến khi đủ nhé.",
+      "Open it daily and it stays empty. Try waiting until you have enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chợ cùng bà, bà cho Bin 5 nghìn tiền lẻ còn thừa.",
+     "At the market with Grandma, she gives Bin 5,000 dong of spare change."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cảm ơn bà, về nhà bỏ vào ống heo",
+      "Thank Grandma and put it in the piggy bank at home",
+      1,
+      "Thêm một ít là quả bóng gần hơn một chút. Con đang để dành rất giỏi.",
+      "A little more brings the ball closer. You’re saving brilliantly."
+     ],
+     [
+      "Cầm tiền trên tay, vừa đi vừa nghịch",
+      "Hold it in your hand and play with it as you walk",
+      0,
+      "Nghịch tiền ở chợ đông dễ làm rơi. Con nhờ bà cất giúp hoặc để vào túi kín nhé.",
+      "Playing with it in a busy market, it’s easy to drop. Ask Grandma to keep it safe."
+     ],
+     [
+      "Mua ngay một gói bim bim",
+      "Buy crisps straight away",
+      0,
+      "Mua cũng được, nhưng con đang để dành cho quả bóng mà. Thử nghĩ một chút nhé.",
+      "You could, but you’re saving for the ball. Think for a moment first."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi con thấy sợ",
+   "When I feel scared"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối nay mưa to, sấm kêu ầm ầm. Bin trùm chăn kín đầu, tim đập thình thịch.",
+   "There’s a big storm tonight with loud thunder. Bin hides under the blanket, heart thumping."
+  ],
+  "cq": [
+   "Bin có thể làm gì?",
+   "What can Bin do?"
+  ],
+  "co": [
+   [
+    "Khóc thật to và ném gối",
+    "Cry loudly and throw pillows",
+    0,
+    "Sợ thì khóc cũng không sao, nhưng ném đồ không làm bớt sợ. Thử gọi mẹ nhé.",
+    "Crying when scared is OK, but throwing things doesn’t help. Try calling Mum."
+   ],
+   [
+    "Cố nín, không nói với ai",
+    "Keep quiet and tell no one",
+    0,
+    "Giữ nỗi sợ một mình làm nó to hơn. Nói ra để ba mẹ ở bên con.",
+    "Keeping fear to yourself makes it bigger. Tell someone so they can be with you."
+   ],
+   [
+    "Gọi mẹ: “Con sợ tiếng sấm”, rồi cùng mẹ hít thở chậm",
+    "Call Mum: “I’m scared of the thunder,” then breathe slowly together",
+    1,
+    "Gọi tên nỗi sợ và có người lớn bên cạnh giúp con bình tĩnh. Sấm chỉ là tiếng động lớn thôi.",
+    "Naming the fear with a grown-up nearby helps you calm down. Thunder is just a big noise."
+   ]
+  ],
+  "qq": [
+   "Khi thấy sợ, điều tốt nhất là…",
+   "When you’re scared, the best thing is…"
+  ],
+  "qo": [
+   [
+    "Giấu không cho ai biết",
+    "Hide it from everyone"
+   ],
+   [
+    "Nói ra với người lớn tin cậy",
+    "Tell a grown-up you trust"
+   ],
+   [
+    "Giả vờ không sợ",
+    "Pretend you’re not"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Hôm nay Bin phải đứng lên đọc thơ trước lớp. Chân Bin run run, giọng nhỏ xíu.",
+     "Today Bin has to read a poem in front of the class. Bin’s legs are wobbly and voice tiny."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đọc thật nhanh cho xong",
+      "Rush through it",
+      0,
+      "Đọc nhanh quá các bạn không nghe kịp. Chậm lại một chút, con làm được mà.",
+      "Too fast and no one can follow. Slow down — you can do it."
+     ],
+     [
+      "Xin cô cho không đọc nữa",
+      "Ask not to read at all",
+      0,
+      "Né lần này thì lần sau càng sợ hơn. Con có thể nói với cô là con hơi run.",
+      "Avoiding it makes next time scarier. You can tell the teacher you feel nervous."
+     ],
+     [
+      "Hít thở chậm ba lần, nhìn cô và đọc từng câu",
+      "Breathe slowly three times, look at the teacher and read line by line",
+      1,
+      "Run là bình thường. Hít thở chậm giúp bớt run, và đọc từng câu sẽ dễ hơn.",
+      "Feeling wobbly is normal. Slow breaths calm you, and line by line is easier."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở phòng khám, Bin sắp được tiêm phòng. Ba ngồi cạnh nhưng Bin vẫn thấy sợ.",
+     "At the clinic, Bin is about to have a vaccination. Dad is right there, but Bin still feels scared."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói với ba “Con sợ”, nắm tay ba và đếm đến mười",
+      "Tell Dad “I’m scared,” hold his hand and count to ten",
+      1,
+      "Nói ra nỗi sợ và nắm tay người thân giúp con thấy vững hơn. Đếm số cũng giúp con bình tĩnh.",
+      "Saying it out loud and holding a hand makes you feel steadier. Counting helps too."
+     ],
+     [
+      "Nói “Con không sợ!” dù đang rất sợ",
+      "Say “I’m not scared!” when you really are",
+      0,
+      "Không cần giả vờ đâu. Nói thật thì ba biết cách giúp con.",
+      "No need to pretend. Saying how you feel helps Dad know how to help."
+     ],
+     [
+      "Vùng chạy ra ngoài",
+      "Wriggle free and run out",
+      0,
+      "Chạy đi thì nỗi sợ vẫn còn và dễ bị ngã. Nắm tay ba sẽ giúp con hơn.",
+      "Running doesn’t stop the fear and you might fall. Holding Dad’s hand helps more."
+     ]
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Chia đội công bằng",
+   "Picking fair teams"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô nhờ Bin chia sáu bạn thành hai đội kéo co. Bin muốn cho hết các bạn khoẻ về đội mình.",
+   "The teacher asks Bin to split six children into two tug-of-war teams. Bin wants all the strongest on his side."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chọn hết bạn khoẻ về đội mình",
+    "Pick all the strong ones for his team",
+    0,
+    "Đội mình thắng dễ quá thì cả hai đội đều thấy chán. Chia đều sức nhé.",
+    "An easy win is boring for both teams. Share out the strength."
+   ],
+   [
+    "Cho các bạn thân về đội mình",
+    "Put his best friends on his team",
+    0,
+    "Chơi với bạn thân thì vui, nhưng chia đội cần ngang sức mới công bằng.",
+    "Friends are fun, but fair teams need to be evenly matched."
+   ],
+   [
+    "Xếp xen kẽ để hai đội ngang sức nhau",
+    "Mix them so both teams are equally strong",
+    1,
+    "Hai đội ngang sức thì kéo co mới hồi hộp. Em chia đội rất công bằng!",
+    "Even teams make tug-of-war exciting. Very fair splitting!"
+   ]
+  ],
+  "qq": [
+   "Chia đội thế nào thì trò chơi vui?",
+   "How should teams be split so the game is fun?"
+  ],
+  "qo": [
+   [
+    "Hai đội ngang sức",
+    "Two evenly matched teams"
+   ],
+   [
+    "Người giỏi về một đội",
+    "All the best on one team"
+   ],
+   [
+    "Bạn thân về một đội",
+    "Best friends together"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chơi đố vui. Bin muốn ba mẹ một đội, còn Bin với em Bông một đội.",
+     "The family plays a quiz. Bin wants Mum and Dad on one team and himself with little Bông on the other."
+    ],
+    "q": [
+     "Bin nên chia thế nào?",
+     "How should Bin split the teams?"
+    ],
+    "o": [
+     [
+      "Ba mẹ một đội, hai anh em một đội",
+      "Mum and Dad versus the children",
+      0,
+      "Hai người lớn một đội thì đội kia khó thắng lắm. Chia xen kẽ thì vui hơn.",
+      "Two grown-ups together makes it hard for the others. Mixing is more fun."
+     ],
+     [
+      "Mỗi đội một người lớn và một bạn nhỏ",
+      "Each team has one grown-up and one child",
+      1,
+      "Hai đội ngang sức thì trò chơi hồi hộp, ai cũng có cơ hội thắng.",
+      "Evenly matched teams make it exciting and give everyone a chance."
+     ],
+     [
+      "Bin với ba mẹ một đội, em chơi một mình",
+      "Bin with Mum and Dad, Bông alone",
+      0,
+      "Em một mình sẽ buồn và khó thắng. Chia đều để ai cũng vui nhé.",
+      "Bông alone would be sad and unlikely to win. Split it evenly."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân khu phố, có người lớn trông, các bạn chơi đá bóng. Ba anh lớn muốn về chung một đội.",
+     "At the local pitch, with grown-ups watching, kids are playing football. Three older boys want to be on the same team."
+    ],
+    "q": [
+     "Bin có thể gợi ý gì?",
+     "What could Bin suggest?"
+    ],
+    "o": [
+     [
+      "“Mỗi đội có anh lớn và em nhỏ cho đều nhé!”",
+      "“Let’s mix big and little kids on each team!”",
+      1,
+      "Gợi ý chia đều giúp trận đấu vui cho cả hai đội. Con nói rất hay!",
+      "Suggesting even teams makes it fun for both sides. Well said!"
+     ],
+     [
+      "Im lặng, đội yếu thì thua thôi",
+      "Say nothing — the weaker team will just lose",
+      0,
+      "Đội yếu quá sẽ mất vui. Con có thể lễ phép gợi ý chia lại.",
+      "A very weak team won’t enjoy it. You can politely suggest re-splitting."
+     ],
+     [
+      "Bỏ không chơi nữa",
+      "Leave the game",
+      0,
+      "Bỏ đi thì mất phần vui. Thử nói một câu gợi ý trước nhé.",
+      "Leaving loses the fun. Try making a suggestion first."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Mình chia đội cho cả nhà",
+    "I split the family teams"
+   ],
+   "s": [
+    "Con chia đội cho một trò chơi gia đình sao cho hai đội ngang sức, rồi giải thích vì sao con chia như vậy. Cả nhà chơi thử.",
+    "Split the teams for a family game so they’re evenly matched, then explain why. Play it together."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý, con chọn người vào từng đội.",
+     "Mum or Dad gives hints and you place people on each team."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chia đội.",
+     "After one reminder, you split the teams yourself."
+    ],
+    [
+     "Con tự chia đội, giải thích lý do và sau trận nói xem hai đội có ngang sức không.",
+     "You split them, explain why and afterwards say whether it was even."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi đoán đồ vật bằng tay",
+    "A family charades game"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Giữ lời hứa với chính mình",
+   "Keeping a promise to myself"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin tự hứa mỗi tối đọc một trang truyện. Đến tối thứ ba, Bin mệt và muốn bỏ.",
+   "Bin promised himself to read one page every night. On the third night he’s tired and wants to skip it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Bỏ luôn, mai tính",
+    "Skip it and see tomorrow",
+    0,
+    "Bỏ một lần thì lần sau dễ bỏ tiếp. Một trang ngắn thôi, con làm được mà.",
+    "Skipping once makes it easier to skip again. One short page — you can do it."
+   ],
+   [
+    "Đọc một trang ngắn rồi tô một ô trên bảng",
+    "Read one short page and colour a box on the chart",
+    1,
+    "Làm đủ việc nhỏ đã tự hứa giúp con tin vào mình hơn mỗi ngày.",
+    "Doing the small thing you promised helps you believe in yourself."
+   ],
+   [
+    "Hứa mai đọc mười trang bù",
+    "Promise ten pages tomorrow instead",
+    0,
+    "Mười trang khó hơn một trang nhiều. Làm đúng việc nhỏ hôm nay là tốt nhất.",
+    "Ten pages is much harder than one. Doing today’s small bit is best."
+   ]
+  ],
+  "qq": [
+   "Tự hứa một việc nhỏ và làm đủ giúp con…",
+   "Making a small promise to yourself and keeping it helps you…"
+  ],
+  "qo": [
+   [
+    "Được quà to",
+    "Get a big present"
+   ],
+   [
+    "Tin vào chính mình",
+    "Believe in yourself"
+   ],
+   [
+    "Không phải làm gì nữa",
+    "Never have to do anything again"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bin tự hứa mỗi ngày ở lớp sẽ tập viết đẹp một dòng. Hôm nay các bạn rủ ra chơi sớm.",
+     "Bin promised himself to practise one line of neat handwriting each day at school. Today friends ask him to go out early."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Viết xong một dòng rồi mới ra chơi",
+      "Write the one line, then go and play",
+      1,
+      "Chỉ một dòng thôi mà con giữ được lời hứa với mình. Rồi ra chơi thoải mái!",
+      "Just one line and you kept your promise. Then enjoy playtime!"
+     ],
+     [
+      "Ra chơi luôn, hôm nay nghỉ",
+      "Go out now and skip today",
+      0,
+      "Một dòng chỉ mất một chút. Viết xong rồi chơi sẽ thấy vui hơn.",
+      "One line takes no time. Finishing first makes playtime feel better."
+     ],
+     [
+      "Viết vội cho xong",
+      "Scribble it quickly",
+      0,
+      "Lời hứa là viết đẹp mà. Viết cẩn thận một dòng thôi nhé.",
+      "The promise was neat writing. Take care with just one line."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi công viên cùng mẹ, Bin tự hứa sẽ tự bỏ vỏ bánh của mình vào thùng rác. Thùng rác ở hơi xa.",
+     "On a park trip with Mum, Bin promised himself he’d put his own snack wrapper in the bin. The bin is a little way off."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Để vỏ bánh trên ghế đá",
+      "Leave the wrapper on the bench",
+      0,
+      "Vỏ bánh để lại làm bẩn công viên. Đi thêm vài bước là giữ được lời hứa.",
+      "Leaving it makes the park messy. A few more steps keeps your promise."
+     ],
+     [
+      "Nhờ mẹ vứt hộ",
+      "Ask Mum to bin it",
+      0,
+      "Lời hứa là của con mà. Con tự làm sẽ thấy tự hào hơn.",
+      "It was your promise. Doing it yourself feels great."
+     ],
+     [
+      "Cùng mẹ đi đến thùng rác và tự bỏ vào",
+      "Walk to the bin with Mum and put it in yourself",
+      1,
+      "Con đã giữ lời hứa với chính mình. Mỗi lần làm được, con lại tin mình hơn.",
+      "You kept your promise to yourself. Each time, you trust yourself more."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lời hứa ba ngày",
+    "A three-day promise"
+   ],
+   "s": [
+    "Con tự hứa một việc nhỏ (ví dụ: đọc một trang sách mỗi tối) và làm đủ ba ngày liền. Mỗi ngày tô một ô trên tờ giấy, ba mẹ xem.",
+    "Promise yourself a small thing (like reading one page each night) and do it three days in a row. Colour a box each day for Mum or Dad to see."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn việc và làm cùng mỗi ngày.",
+     "Choose the task together and do it alongside each day."
+    ],
+    [
+     "Ba mẹ nhắc một lần mỗi ngày, con tự làm.",
+     "Mum or Dad reminds you once a day and you do it."
+    ],
+    [
+     "Con tự nhớ làm đủ ba ngày không cần nhắc và kể lại cảm giác của mình.",
+     "You remember all three days without reminders and say how it felt."
+    ]
+   ],
+   "rw": [
+    "Cả nhà nấu món con thích",
+    "The family cooks your favourite meal"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Trò chơi chán thì đổi luật",
+   "Bored of the game? Change it"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, ba mẹ ngồi gần đó, Bin và các bạn chơi đuổi bắt mãi thấy chán.",
+   "At the park, with parents nearby, Bin and friends are bored of playing tag."
+  ],
+  "cq": [
+   "Bin có thể gợi ý gì?",
+   "What could Bin suggest?"
+  ],
+  "co": [
+   [
+    "Thôi về nhà",
+    "Go home",
+    0,
+    "Còn giờ chơi mà. Thử nghĩ thêm một luật cho trò đuổi bắt nhé.",
+    "There’s still time. Think of a new rule for tag."
+   ],
+   [
+    "Chơi trò khác nhưng cãi nhau chọn trò",
+    "Switch games but argue about which",
+    0,
+    "Cãi nhau tốn giờ. Đổi một luật nhỏ cho trò đang chơi là nhanh nhất.",
+    "Arguing wastes time. Tweaking the current game is quickest."
+   ],
+   [
+    "“Thêm luật: chạm vào gốc cây là được an toàn!”",
+    "“New rule: touching a tree means you’re safe!”",
+    1,
+    "Luật mới làm trò đuổi bắt hồi hộp hơn. Con nghĩ hay quá!",
+    "The new rule makes tag more exciting. Great idea!"
+   ]
+  ],
+  "qq": [
+   "Trò quen bị chán, con có thể…",
+   "When a familiar game gets boring, you can…"
+  ],
+  "qo": [
+   [
+    "Thêm hoặc đổi một luật nhỏ",
+    "Add or change a small rule"
+   ],
+   [
+    "Cãi nhau với bạn",
+    "Argue with friends"
+   ],
+   [
+    "Không bao giờ chơi lại",
+    "Never play it again"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin và em Bông ném bóng vào rổ mãi. Em kêu chán, muốn bỏ đi.",
+     "Bin and little Bông have been throwing a ball into a basket for ages. Bông says she’s bored and wants to stop."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "“Thêm luật nhé: ai ném trúng thì lùi xa một bước!”",
+      "“New rule: if you score, step back one step!”",
+      1,
+      "Một luật nhỏ làm trò cũ vui trở lại. Con nghĩ cách rất sáng tạo!",
+      "One small rule makes an old game fun again. Very creative!"
+     ],
+     [
+      "“Thôi, nghỉ”",
+      "“Fine, let’s stop”",
+      0,
+      "Nghỉ cũng được, nhưng thử đổi một luật xem có vui hơn không.",
+      "Stopping is OK, but try changing a rule first."
+     ],
+     [
+      "Bắt em chơi tiếp",
+      "Make Bông keep playing",
+      0,
+      "Ép thì em càng chán. Thay đổi trò chơi một chút sẽ hay hơn.",
+      "Forcing makes her more bored. Changing the game helps more."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, nhóm Bin chơi rồng rắn lên mây mãi. Vài bạn bắt đầu bỏ đi.",
+     "At break, Bin’s group has played the same chasing game over and over. Some children start drifting away."
+    ],
+    "q": [
+     "Bin có thể gợi ý gì?",
+     "What could Bin suggest?"
+    ],
+    "o": [
+     [
+      "Rủ bạn khác vào chơi y như cũ",
+      "Get new players for the same game",
+      0,
+      "Bạn mới vào cũng sẽ chán nhanh. Thử thêm một luật mới xem.",
+      "New players will get bored too. Try a new rule."
+     ],
+     [
+      "“Đổi luật nhé: lần này mọi người đi lò cò!”",
+      "“Let’s change it: this time everyone hops!”",
+      1,
+      "Đổi một luật nhỏ làm cả nhóm hào hứng trở lại. Hay lắm!",
+      "One small change gets everyone excited again. Brilliant!"
+     ],
+     [
+      "Giận các bạn bỏ đi",
+      "Get cross with those leaving",
+      0,
+      "Các bạn chán là chuyện thường. Làm trò chơi mới mẻ hơn thì các bạn sẽ quay lại.",
+      "Getting bored is normal. Make it fresh and they’ll come back."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Luật mới cho trò cũ",
+    "A new rule for an old game"
+   ],
+   "s": [
+    "Con nghĩ thêm một luật mới cho một trò chơi quen (trốn tìm, ném bóng, đố vui…), giải thích luật cho cả nhà và cùng chơi thử.",
+    "Think of a new rule for a familiar game (hide-and-seek, throwing a ball, a quiz…), explain it to the family and play it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý vài luật, con chọn một và cùng chơi.",
+     "Mum or Dad suggests a few rules; you choose one and play."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nghĩ luật mới.",
+     "After one reminder, you invent the rule yourself."
+    ],
+    [
+     "Con tự nghĩ luật, giải thích rõ ràng và sau đó hỏi mọi người có vui hơn không.",
+     "You invent the rule, explain it clearly and ask afterwards if it was more fun."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ chơi nhảy dây",
+    "Skipping with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Sự thật hay ý kiến?",
+   "Fact or opinion?"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Tí nói: “Môn Vẽ là môn chán nhất!” Na nói: “Lớp mình có ba mươi bạn.”",
+   "Tí says, “Art is the most boring subject!” Na says, “Our class has thirty children.”"
+  ],
+  "cq": [
+   "Câu nào là ý kiến?",
+   "Which one is an opinion?"
+  ],
+  "co": [
+   [
+    "Câu của Tí: “Môn Vẽ chán nhất”",
+    "Tí’s: “Art is the most boring”",
+    1,
+    "Đúng rồi! Nhiều bạn thấy môn Vẽ rất vui. Còn số bạn trong lớp thì đếm được.",
+    "Yes! Lots of children love art. The number in the class can be counted."
+   ],
+   [
+    "Câu của Na: “Lớp có ba mươi bạn”",
+    "Na’s: “Thirty children”",
+    0,
+    "Số bạn trong lớp đếm là biết, nên đó là sự thật.",
+    "You can count the class, so that’s a fact."
+   ],
+   [
+    "Cả hai đều là ý kiến",
+    "Both are opinions",
+    0,
+    "Câu nào kiểm tra được là sự thật. Thử đếm số bạn trong lớp xem.",
+    "If it can be checked, it’s a fact. Try counting the class."
+   ]
+  ],
+  "qq": [
+   "Câu nào là sự thật?",
+   "Which is a fact?"
+  ],
+  "qo": [
+   [
+    "“Mèo đáng yêu nhất”",
+    "“Cats are the cutest”"
+   ],
+   [
+    "“Mèo hay hơn chó”",
+    "“Cats are better than dogs”"
+   ],
+   [
+    "“Con mèo có bốn chân”",
+    "“A cat has four legs”"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ nói: “Hôm nay trời mưa.” Em Bông nói: “Trời mưa là xấu nhất!” Bin băn khoăn ai đúng.",
+     "Mum says, “It’s raining today.” Little Bông says, “Rain is the worst!” Bin wonders who’s right."
+    ],
+    "q": [
+     "Bin nên hiểu thế nào?",
+     "How should Bin understand it?"
+    ],
+    "o": [
+     [
+      "Cả hai câu đều là sự thật",
+      "Both are facts",
+      0,
+      "“Trời mưa” nhìn ra là thấy. Còn “xấu nhất” là em nghĩ vậy thôi.",
+      "“Raining” you can see. “The worst” is just what Bông thinks."
+     ],
+     [
+      "Câu của em là sự thật",
+      "Bông’s is the fact",
+      0,
+      "Có người thích mưa đấy. “Xấu nhất” là ý kiến, mỗi người nghĩ khác nhau.",
+      "Some people love rain. “The worst” is an opinion — people differ."
+     ],
+     [
+      "“Trời mưa” là sự thật, “mưa xấu nhất” là ý kiến của em",
+      "“It’s raining” is a fact; “rain is the worst” is Bông’s opinion",
+      1,
+      "Sự thật kiểm tra được bằng mắt. Ý kiến là điều mỗi người nghĩ. Con phân biệt giỏi lắm!",
+      "Facts can be checked. Opinions are what people think. Great sorting!"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở chợ cùng ba, cô bán quả nói: “Xoài nhà cô ngon nhất chợ!” Ba cân thử, quả xoài nặng nửa cân.",
+     "At the market with Dad, a fruit seller says, “My mangoes are the tastiest here!” Dad weighs one: it’s half a kilo."
+    ],
+    "q": [
+     "Bin nên hiểu thế nào?",
+     "How should Bin understand it?"
+    ],
+    "o": [
+     [
+      "“Ngon nhất” là ý kiến của cô, còn “nặng nửa cân” là sự thật",
+      "“Tastiest” is her opinion; “half a kilo” is a fact",
+      1,
+      "Cân lên là biết nặng bao nhiêu. Ngon hay không thì mỗi người thấy khác.",
+      "Weighing shows the weight. Whether it’s tasty depends on who’s eating."
+     ],
+     [
+      "Cô nói ngon nhất thì chắc chắn đúng",
+      "She says tastiest, so it must be true",
+      0,
+      "Cô muốn mời mua nên nói vậy. Đó là ý kiến, chưa chắc ai cũng thấy thế.",
+      "She’s selling, so she says that. It’s an opinion, not everyone agrees."
+     ],
+     [
+      "Cả hai đều là ý kiến",
+      "Both are opinions",
+      0,
+      "Cân nặng thì kiểm tra được bằng cái cân, nên đó là sự thật.",
+      "Weight can be checked on scales, so it’s a fact."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Xếp câu: sự thật hay ý kiến",
+    "Sort it: fact or opinion"
+   ],
+   "s": [
+    "Con cùng ba mẹ viết sáu câu ngắn (ví dụ: “Quả chuối màu vàng”, “Chuối ngon nhất”) rồi xếp vào hai nhóm: sự thật (kiểm tra được) và ý kiến (mỗi người nghĩ khác).",
+    "Write six short sentences with Mum or Dad (like “Bananas are yellow”, “Bananas are the tastiest”) and sort them into facts (can be checked) and opinions (people think differently)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ viết sáu câu, con xếp cùng ba mẹ.",
+     "Mum or Dad writes six sentences and you sort them together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự xếp sáu câu.",
+     "After one reminder, you sort all six yourself."
+    ],
+    [
+     "Con tự nghĩ thêm hai câu cho mỗi nhóm và giải thích cách con phân biệt.",
+     "You add two of your own to each group and explain how you tell them apart."
+    ]
+   ],
+   "rw": [
+    "Được dán một ngôi sao lên bảng khen của gia đình",
+    "A star on the family praise chart"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Thông tin riêng của con",
+   "Keeping personal info private"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, ba ngồi ghế gần đó. Một cô lạ bắt chuyện, hỏi Bin học trường nào, nhà ở đâu.",
+   "At the park, with Dad on a bench nearby, a woman Bin doesn’t know starts chatting and asks which school he goes to and where he lives."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Nói hết vì cô trông hiền",
+    "Tell her — she looks kind",
+    0,
+    "Trông hiền vẫn là người lạ. Thông tin riêng không nói với người lạ nhé.",
+    "Kind-looking is still a stranger. Private info stays private."
+   ],
+   [
+    "Chỉ nói số điện thoại của mẹ",
+    "Just give Mum’s phone number",
+    0,
+    "Số điện thoại cũng là thông tin riêng. Con không cần nói gì, hãy về chỗ ba.",
+    "Phone numbers are private too. You don’t need to say anything — go to Dad."
+   ],
+   [
+    "Không trả lời, đi ngay về chỗ ba và kể với ba",
+    "Don’t answer; go straight to Dad and tell him",
+    1,
+    "Không nói thông tin riêng với người lạ và về ngay với ba là an toàn nhất.",
+    "Not sharing with strangers and going straight to Dad is safest."
+   ]
+  ],
+  "qq": [
+   "Thông tin nào KHÔNG nói với người lạ?",
+   "Which should you NOT tell a stranger?"
+  ],
+  "qo": [
+   [
+    "Địa chỉ nhà",
+    "Your home address"
+   ],
+   [
+    "Màu con thích",
+    "Your favourite colour"
+   ],
+   [
+    "Con vật con thích",
+    "Your favourite animal"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin đang chơi trò học chữ trên máy tính bảng thì hiện ra một ô hỏi tên, địa chỉ nhà để “nhận quà”.",
+     "Bin is playing a spelling game on a tablet when a box pops up asking for his name and address to “get a prize”."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Điền vào để nhận quà",
+      "Fill it in to get the prize",
+      0,
+      "Địa chỉ nhà là thông tin riêng, không điền trên mạng. Gọi ba mẹ nhé.",
+      "Your address is private and never goes online. Call Mum or Dad."
+     ],
+     [
+      "Không điền gì, gọi ba mẹ đến xem",
+      "Type nothing and call Mum or Dad to look",
+      1,
+      "Không điền và gọi ba mẹ ngay là đúng nhất. Ba mẹ sẽ giúp con đóng ô đó lại.",
+      "Not typing and calling a parent is exactly right. They’ll help close it."
+     ],
+     [
+      "Chỉ điền tên trường thôi",
+      "Just type the school name",
+      0,
+      "Tên trường cũng là thông tin riêng. Gọi ba mẹ trước khi điền bất cứ gì nhé.",
+      "Your school name is private too. Call a parent before typing anything."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô giáo hỏi số điện thoại của ba mẹ để ghi vào sổ liên lạc của lớp.",
+     "The teacher asks for Bin’s parents’ phone number for the class contact book."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không nói với ai, kể cả cô",
+      "Tell no one, not even the teacher",
+      0,
+      "Cô giáo là người lớn tin cậy ở trường. Ba mẹ cũng muốn cô liên lạc được.",
+      "Your teacher is a trusted grown-up at school. Your parents want her to have it."
+     ],
+     [
+      "Nói với cô, vì cô là người lớn tin cậy ở trường",
+      "Tell her, because she’s a trusted grown-up at school",
+      1,
+      "Thông tin riêng chỉ chia sẻ với người tin cậy mà ba mẹ đồng ý, như cô giáo.",
+      "Private info is only for trusted people your parents agree to, like your teacher."
+     ],
+     [
+      "Đọc to cho cả lớp cùng nghe",
+      "Read it out loud to the whole class",
+      0,
+      "Chỉ cần nói riêng với cô thôi. Thông tin riêng không cần ai khác biết.",
+      "Just tell the teacher quietly. No one else needs to know."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thông tin riêng và ai được biết",
+    "Private info and who may know"
+   ],
+   "s": [
+    "Con cùng ba mẹ liệt kê thông tin riêng (địa chỉ nhà, số điện thoại, tên trường) và vẽ những người được phép biết (ba mẹ, ông bà, cô giáo). Nhắc lại quy tắc: không nói với người lạ, không điền trên mạng.",
+    "With Mum or Dad, list your private info (address, phone number, school name) and draw who is allowed to know (parents, grandparents, teacher). Repeat the rule: never to strangers, never online."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con liệt kê, con vẽ người được biết.",
+     "List it together; you draw the trusted people."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể thông tin riêng và người được biết.",
+     "After one reminder, you name the private info and trusted people yourself."
+    ],
+    [
+     "Con tự liệt kê, tự nói quy tắc và trả lời đúng hai tình huống ba mẹ hỏi thử.",
+     "You list it, say the rule and answer two test situations correctly."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ gấp thuyền giấy thả trong chậu nước",
+    "Fold paper boats and float them in a tub with Mum or Dad"
+   ]
+  }
+ }
+]

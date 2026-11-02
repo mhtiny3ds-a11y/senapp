@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 4,
+  "t": [
+   "Đánh rơi đồ khi đi chơi",
+   "Losing something on an outing"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đang đi dạo vườn thú cùng mẹ, An chợt nhận ra chiếc mũ yêu thích không còn trên đầu. Hai mẹ con đã đi qua chuồng hươu, quầy nước và khu chim.",
+   "Walking round the zoo with Mum, An suddenly realises their favourite cap is gone. They’ve passed the giraffes, the drinks stand and the bird area."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Dừng lại, nhớ lần cuối còn đội mũ ở đâu, cùng mẹ quay lại tìm theo đường cũ và hỏi quầy thông tin",
+    "Stop, remember where you last had it, retrace your steps with Mum and ask at the information desk",
+    1,
+    "Dừng – nhớ – tìm – hỏi: bốn bước giúp tìm đồ có trật tự, và luôn đi cùng người lớn.",
+    "Stop, remember, search, ask: four steps for an orderly search, always with your grown-up."
+   ],
+   [
+    "Chạy một mình quay lại khu chim cho nhanh",
+    "Run back to the bird area alone to be quick",
+    0,
+    "Chạy đi một mình nơi đông người dễ bị lạc, còn mất mũ thì vẫn tìm lại được. Luôn đi cùng mẹ nhé.",
+    "Running off alone in a crowd means you could get lost, which is worse than losing a cap. Stay with Mum."
+   ],
+   [
+    "Khóc và bảo mẹ thôi không đi chơi nữa",
+    "Cry and tell Mum you don’t want to carry on",
+    0,
+    "Buồn là dễ hiểu. Hít một hơi rồi thử nhớ lại, nhiều khi đồ vẫn nằm ở chỗ mình vừa đi qua.",
+    "Feeling upset makes sense. Take a breath and think back; things often turn up where you’ve just been."
+   ]
+  ],
+  "qq": [
+   "Khi đánh rơi đồ ở nơi đông người, bước đầu tiên là gì?",
+   "When you lose something in a busy place, the first step is…"
+  ],
+  "qo": [
+   [
+    "Chạy đi tìm ngay một mình",
+    "Run off to look on your own"
+   ],
+   [
+    "Dừng lại và nhớ lại đường đã đi",
+    "Stop and think back over where you went"
+   ],
+   [
+    "Mua cái mới",
+    "Buy a new one"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng đi học, An tìm mãi không thấy thẻ thư viện. Xe đưa đón còn 10 phút nữa đến.",
+     "On a school morning, An can’t find their library card anywhere. The school bus comes in 10 minutes."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Lục tung mọi ngăn kéo trong nhà",
+      "Turn every drawer in the house upside down",
+      0,
+      "Lục khắp nơi tốn thời gian mà còn bừa bộn. Nhớ lại lần cuối dùng thẻ sẽ nhanh hơn.",
+      "Searching everywhere wastes time and makes a mess. Thinking back is quicker."
+     ],
+     [
+      "Kêu ầm lên và trách em lấy",
+      "Shout and blame your little sister",
+      0,
+      "Đổ lỗi khi chưa chắc làm em buồn. Bình tĩnh nhớ lại trước con nhé.",
+      "Blaming her before you know upsets her. Calm down and think back first."
+     ],
+     [
+      "Dừng lại, nhớ lần cuối dùng thẻ là chiều qua lúc đọc sách ở sofa, tìm ở đó trước rồi mới hỏi mẹ",
+      "Stop, remember you last used it reading on the sofa yesterday, look there first, then ask Mum",
+      1,
+      "Nhớ lại lần cuối dùng giúp con tìm đúng chỗ, đỡ mất thời gian.",
+      "Remembering when you last used it points you to the right spot fast."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Sau giờ thể dục, An không thấy hộp bút đâu. Cả lớp đã đi qua sân, nhà vệ sinh và căng tin.",
+     "After PE, An’s pencil case is missing. The class has been to the playground, the toilets and the canteen."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mượn bút bạn rồi thôi không tìm",
+      "Borrow a pen and forget about it",
+      0,
+      "Mượn tạm cũng được, nhưng đừng quên tìm lại. Đồ của mình mình giữ con nhé.",
+      "Borrowing for now is fine, but don’t forget to look. Take care of your own things."
+     ],
+     [
+      "Nhớ lại lần cuối thấy hộp bút, xin phép cô ra tìm theo đường cũ, không thấy thì nhờ cô hỏi giúp",
+      "Think back to when you last saw it, ask the teacher if you can retrace your route, and if not found ask her to help",
+      1,
+      "Tìm theo đường cũ và nhờ người lớn khi cần là cách bình tĩnh và hiệu quả.",
+      "Retracing your steps and asking an adult when needed is calm and effective."
+     ],
+     [
+      "Lục cặp của các bạn khác",
+      "Search other pupils’ bags",
+      0,
+      "Lục cặp người khác khi chưa xin phép là không tôn trọng bạn. Nhờ cô giúp nhé.",
+      "Going through others’ bags without asking isn’t respectful. Ask the teacher for help."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập “dừng – nhớ – tìm – hỏi”",
+    "Practise “stop, remember, search, ask”"
+   ],
+   "s": [
+    "Ba mẹ giấu một đồ vật nhỏ trong nhà và kể một “hành trình” trong nhà. Con tập đủ 4 bước dừng – nhớ – tìm – hỏi để tìm ra đồ vật.",
+    "Your parent hides a small object and describes a pretend “route” through the house. You practise all four steps, stop, remember, search, ask, to find it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con nói từng bước, con làm theo.",
+     "Your parent talks through each step with you while you do it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ 4 bước.",
+     "With one reminder, you do all four steps yourself."
+    ],
+    [
+     "Con tự làm đủ 4 bước, rồi giải thích vì sao khi ra ngoài phải luôn tìm cùng người lớn.",
+     "You do all four steps and explain why, when out, you always search with a grown-up."
+    ]
+   ],
+   "rw": [
+    "Đến lượt con giấu đồ cho ba mẹ tìm",
+    "You get to hide something for your parent to find"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nhận xét một nơi mình đã đến",
+   "Reviewing a place I visited"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Sau buổi tham quan bảo tàng, cô giao viết cảm nhận. Huy viết đúng một câu: “Chán lắm.” Mai viết: “Tuyệt vời.” An đang nghĩ nên viết thế nào.",
+   "After the museum trip, the teacher asks for a short review. Huy writes one line: “Boring.” Mai writes: “Amazing.” An is wondering what to write."
+  ],
+  "cq": [
+   "An nên viết thế nào?",
+   "How should An write it?"
+  ],
+  "co": [
+   [
+    "Viết “Rất hay” cho nhanh",
+    "Write “Very good” to be quick",
+    0,
+    "“Rất hay” chưa nói được hay ở đâu. Thêm một lý do cụ thể, người đọc sẽ hiểu hơn.",
+    "“Very good” doesn’t say what was good. Add a specific reason so readers understand."
+   ],
+   [
+    "Chép lại ý của Mai cho chắc",
+    "Copy Mai’s idea to be safe",
+    0,
+    "Cảm nhận của mỗi người khác nhau. Ý của con, dù khác bạn, cũng đáng được viết ra.",
+    "Everyone’s view is different. Your own opinion is worth writing, even if it differs."
+   ],
+   [
+    "Nêu điều thích kèm lý do (khu khủng long có mô hình to, bảng giải thích dễ hiểu) và điều chưa thích kèm lý do (quá đông, ít ghế nghỉ)",
+    "Give a like with a reason (big dinosaur models, easy signs) and a dislike with a reason (too crowded, few benches)",
+    1,
+    "Nhận xét tốt có cả điểm hay, điểm chưa hay và lý do cụ thể. Như vậy người khác dùng được nhận xét của mình.",
+    "A good review has pluses, minuses and specific reasons, so others can actually use it."
+   ]
+  ],
+  "qq": [
+   "Một nhận xét tốt cần có gì?",
+   "A good review needs…"
+  ],
+  "qo": [
+   [
+    "Điểm tốt, điểm chưa tốt và lý do cụ thể",
+    "Good points, weak points and specific reasons"
+   ],
+   [
+    "Một từ thật mạnh như “tuyệt” hay “tệ”",
+    "One strong word like “amazing” or “awful”"
+   ],
+   [
+    "Ý kiến giống nhiều người nhất",
+    "Whatever most people think"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba hỏi: “Tuần sau mình có nên quay lại quán bún hôm trước không?” An nhớ món ăn ngon nhưng phải chờ rất lâu.",
+     "Dad asks, “Shall we go back to that noodle place next week?” An remembers the food was tasty but the wait was very long."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“Có ạ, nước dùng rất thơm. Nhưng mình phải chờ gần nửa tiếng, nên đi sớm hơn thì tốt”",
+      "“Yes, the broth was lovely. But we waited nearly half an hour, so going earlier would help”",
+      1,
+      "Nói cả điểm hay, điểm chưa hay và gợi ý giúp cả nhà quyết định tốt hơn.",
+      "Giving pluses, minuses and a suggestion helps the family decide well."
+     ],
+     [
+      "“Không, chán lắm”",
+      "“No, it was boring”",
+      0,
+      "“Chán” vì sao? Một lý do cụ thể giúp ba hiểu con hơn.",
+      "Boring why? A specific reason helps Dad understand."
+     ],
+     [
+      "“Tuỳ ba”",
+      "“Up to you”",
+      0,
+      "Ba muốn nghe ý con đấy. Nói một điều con thích và một điều con chưa thích nhé.",
+      "Dad wants your view. Say one thing you liked and one you didn’t."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi khu vui chơi mới gần nhà cùng ba mẹ về, dì hỏi An có nên đưa em họ đến đó không.",
+     "Back from the new play centre near home with Mum and Dad, An’s aunt asks if she should take An’s cousin there."
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“Dì đưa em đi đi, chỗ đó hay nhất thế giới!”",
+      "“Take him, it’s the best place in the world!”",
+      0,
+      "Khen hết lời nghe vui nhưng dì chưa biết có hợp với em không. Thêm chi tiết nhé.",
+      "Big praise sounds fun but doesn’t tell her if it suits him. Add details."
+     ],
+     [
+      "“Khu cho bé có cầu trượt thấp và thảm mềm, hợp với em. Nhưng cuối tuần rất đông, dì nên đi sáng sớm”",
+      "“The little ones’ area has low slides and soft mats, perfect for him. But it’s packed at weekends, so go early”",
+      1,
+      "Nhận xét có lý do và gợi ý cụ thể giúp người nghe chọn đúng cho mình.",
+      "A review with reasons and tips helps people make the right choice for them."
+     ],
+     [
+      "“Con không biết đâu”",
+      "“I don’t know”",
+      0,
+      "Con đã đến đó nên có nhiều điều để kể. Thử nhớ một điểm hay, một điểm chưa hay nhé.",
+      "You’ve been there, so you have plenty to share. Think of one good and one not-so-good thing."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Viết nhận xét 5 câu",
+    "Write a five-sentence review"
+   ],
+   "s": [
+    "Con viết nhận xét 5 câu về một nơi con từng đến (công viên, quán ăn, thư viện…): có điểm tốt, điểm chưa tốt, và mỗi ý có lý do. Đọc cho ba mẹ nghe.",
+    "Write a five-sentence review of a place you’ve been (a park, café, library…): include good and not-so-good points, each with a reason. Read it to your parents."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn nơi và gợi ý từng câu.",
+     "Your parent helps you choose a place and suggests each sentence."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết đủ 5 câu.",
+     "With one reminder, you write all five sentences yourself."
+    ],
+    [
+     "Con tự viết, kiểm tra mỗi ý đều có lý do, đọc cho ba mẹ nghe và trả lời câu hỏi của ba mẹ.",
+     "You write it, check every point has a reason, read it aloud and answer your parents’ questions."
+    ]
+   ],
+   "rw": [
+    "Nhận xét của con được dán lên tủ lạnh một tuần",
+    "Your review goes on the fridge for a week"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "An toàn ở công viên, khu vui chơi",
+   "Safety at parks and playgrounds"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "An và em Bống chơi ở công viên, mẹ ngồi ghế đá gần khu cầu trượt. Phía xa có khu leo núi nhân tạo cho người lớn, An rất muốn sang thử.",
+   "An and little Bống are at the park while Mum sits on a bench near the slides. Further away there’s a climbing wall for grown-ups, and An really wants to try it."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Lặng lẽ sang đó một lúc rồi quay lại",
+    "Slip over there for a bit and come back",
+    0,
+    "Đi khỏi tầm mắt mẹ mà không nói thì mẹ sẽ lo, và nếu có chuyện gì không ai biết con ở đâu.",
+    "Leaving Mum’s sight without saying means she’ll worry, and if anything happens nobody knows where you are."
+   ],
+   [
+    "Rủ em sang cùng cho vui",
+    "Take Bống along for fun",
+    0,
+    "Khu đó không dành cho tuổi của hai chị em. Chọn trò đúng độ tuổi sẽ an toàn và vui hơn.",
+    "That area isn’t for your ages. Rides meant for you are safer and more fun."
+   ],
+   [
+    "Chơi các trò đúng độ tuổi trong tầm mắt mẹ; muốn sang chỗ khác thì hỏi mẹ trước",
+    "Stick to rides for your age where Mum can see you; ask her before going anywhere else",
+    1,
+    "Trò đúng độ tuổi và ở trong tầm mắt người lớn là hai quy tắc giữ con an toàn khi vui chơi.",
+    "Age-right rides and staying where a grown-up can see you are two rules that keep play safe."
+   ]
+  ],
+  "qq": [
+   "Ở công viên đông người, quy tắc nào giúp an toàn?",
+   "In a busy park, which rule keeps you safe?"
+  ],
+  "qo": [
+   [
+    "Đi xa một chút cũng không sao",
+    "Wandering a bit is fine"
+   ],
+   [
+    "Chơi bất kỳ trò nào mình thích",
+    "Play on anything you like"
+   ],
+   [
+    "Ở trong tầm mắt người lớn và có điểm hẹn khi lạc nhau",
+    "Stay where a grown-up can see you and have a meeting point"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối thứ Bảy, cả nhà chuẩn bị mai đi khu vui chơi lớn. Mẹ hỏi: “Nếu lạc nhau thì con làm gì?”",
+     "On Saturday evening the family gets ready for a big play park tomorrow. Mum asks, “What will you do if we get separated?”"
+    ],
+    "q": [
+     "An nên trả lời thế nào?",
+     "How should An answer?"
+    ],
+    "o": [
+     [
+      "“Con sẽ đi tìm mẹ khắp nơi”",
+      "“I’ll look for you everywhere”",
+      0,
+      "Đi tìm khắp nơi dễ làm hai mẹ con lạc xa hơn. Đứng yên ở điểm hẹn sẽ nhanh gặp lại hơn.",
+      "Searching everywhere can take you further apart. Waiting at a meeting point is quicker."
+     ],
+     [
+      "“Mình chọn trước một điểm hẹn dễ thấy. Lạc thì con đến đó đứng chờ, hoặc nhờ nhân viên mặc đồng phục giúp”",
+      "“Let’s pick an easy-to-spot meeting point. If we’re separated, I’ll wait there or ask a uniformed staff member”",
+      1,
+      "Có điểm hẹn và biết nhờ nhân viên giúp, con sẽ bình tĩnh hơn nếu lỡ lạc.",
+      "A meeting point and knowing to ask staff helps you stay calm if it happens."
+     ],
+     [
+      "“Con sẽ đi theo bất kỳ người lớn nào”",
+      "“I’ll go with any grown-up”",
+      0,
+      "Không đi theo người lạ. Nhờ nhân viên mặc đồng phục hoặc đứng ở điểm hẹn nhé.",
+      "Don’t go off with strangers. Ask uniformed staff or wait at the meeting point."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp đi dã ngoại ở công viên. Mải xem chim, An quay lại thì không thấy nhóm đâu.",
+     "The class is on a trip to the park. Busy watching birds, An turns round and can’t see the group."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đến đúng điểm hẹn cô đã dặn và đứng chờ ở đó",
+      "Go to the meeting point the teacher set and wait there",
+      1,
+      "Điểm hẹn là nơi cô sẽ tìm đầu tiên. Đứng yên chờ là cách nhanh nhất để gặp lại.",
+      "The meeting point is where the teacher looks first. Waiting there is the fastest way back."
+     ],
+     [
+      "Chạy khắp công viên để tìm",
+      "Run all over the park looking",
+      0,
+      "Chạy khắp nơi khiến cô khó tìm con hơn. Nhớ điểm hẹn cô đã dặn nhé.",
+      "Running around makes you harder to find. Remember the meeting point."
+     ],
+     [
+      "Đi ra cổng tự về nhà",
+      "Go out of the gate and head home",
+      0,
+      "Tự về một mình không an toàn và cô sẽ rất lo. Ở lại điểm hẹn chờ cô nhé.",
+      "Going home alone isn’t safe and the teacher would be very worried. Wait at the meeting point."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Điểm hẹn ở công viên gần nhà",
+    "A meeting point at our local park"
+   ],
+   "s": [
+    "Lần tới ra công viên gần nhà, con cùng ba mẹ chọn một điểm hẹn dễ thấy và nhắc lại 3 quy tắc: chơi đúng độ tuổi, ở trong tầm mắt người lớn, lạc thì đến điểm hẹn.",
+    "Next time at the local park, choose an easy-to-spot meeting point with your parents and repeat the three rules: age-right play, stay in sight, go to the meeting point if lost."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ điểm hẹn và nói 3 quy tắc, con nhắc lại.",
+     "Your parent shows the meeting point and says the rules; you repeat them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn điểm hẹn và nói 3 quy tắc.",
+     "With one reminder, you choose the meeting point and say the rules."
+    ],
+    [
+     "Con tự chọn điểm hẹn, giải thích vì sao chọn chỗ đó và nhắc 3 quy tắc cho cả nhà.",
+     "You choose the spot, explain why, and remind the whole family of the three rules."
+    ]
+   ],
+   "rw": [
+    "Cả nhà ở lại công viên chơi thêm 15 phút",
+    "The family stays an extra 15 minutes at the park"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Lịch trình chuyến đi một ngày",
+   "A one-day trip itinerary"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Chủ nhật này cả nhà định đi vườn bách thảo, ăn trưa rồi ghé thư viện thiếu nhi. An xung phong lập lịch trình nhưng chỉ ghi ba tên địa điểm lên giấy.",
+   "This Sunday the family plans to visit the botanical gardens, have lunch, then stop at the children’s library. An offers to plan the day but has only written the three place names."
+  ],
+  "cq": [
+   "An nên làm tiếp thế nào?",
+   "What should An do next?"
+  ],
+  "co": [
+   [
+    "Thêm vài điểm nữa cho chuyến đi thật đầy",
+    "Add a few more places to fill the day",
+    0,
+    "Nhồi nhiều điểm dễ làm cả nhà mệt và vội. Một ngày vừa đủ thường vui hơn.",
+    "Cramming in more stops makes everyone tired and rushed. A well-paced day is usually more fun."
+   ],
+   [
+    "Sắp thứ tự theo đường đi, ghi giờ đến, giờ ăn, giờ nghỉ, thời gian di chuyển và giờ về",
+    "Order the stops along the route and add arrival, lunch, rest and travel times, plus when to head home",
+    1,
+    "Lịch trình tốt có thứ tự hợp lý và đủ thời gian cho ăn, nghỉ, di chuyển, nên không ai bị vội.",
+    "A good itinerary has a sensible order and time to eat, rest and travel, so nobody rushes."
+   ],
+   [
+    "Thôi không cần lịch, đến đâu tính đến đó",
+    "Skip the plan and see how it goes",
+    0,
+    "Không có lịch thì dễ quên giờ ăn hoặc đến nơi lúc đã đóng cửa. Ghi giờ ra giúp cả nhà yên tâm.",
+    "Without a plan you can miss lunch or arrive when it’s closed. Times help everyone relax."
+   ]
+  ],
+  "qq": [
+   "Lịch trình một ngày tốt cần có gì?",
+   "A good one-day itinerary includes…"
+  ],
+  "qo": [
+   [
+    "Càng nhiều điểm càng tốt",
+    "As many stops as possible"
+   ],
+   [
+    "Chỉ tên các địa điểm",
+    "Just the place names"
+   ],
+   [
+    "Thứ tự điểm đến, thời gian ăn, nghỉ và di chuyển",
+    "The order of stops plus time to eat, rest and travel"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp tổ chức ngày hội đọc sách. Nhóm An lo phần lịch trình buổi sáng: chào cờ xong, đọc truyện, trò chơi, giải lao, trao giải.",
+     "The class is holding a reading festival. An’s group plans the morning: assembly, story reading, games, a break and prizes."
+    ],
+    "q": [
+     "Nhóm An nên làm gì?",
+     "What should An’s group do?"
+    ],
+    "o": [
+     [
+      "Ghi thời gian cho từng phần, để giải lao ở giữa và chừa vài phút dự phòng",
+      "Give each part a time, put the break in the middle and leave a few spare minutes",
+      1,
+      "Có giờ cho từng phần, có giải lao và có dự phòng thì chương trình chạy trơn tru.",
+      "Times for each part, a break and spare minutes keep the programme running smoothly."
+     ],
+     [
+      "Để trò chơi kéo dài bao lâu cũng được vì vui",
+      "Let the games run as long as they like because they’re fun",
+      0,
+      "Trò vui quá dài sẽ lấn sang phần trao giải. Đặt giờ giúp mọi phần đều có chỗ.",
+      "Long games eat into prize-giving. Setting times gives every part its place."
+     ],
+     [
+      "Bỏ giải lao cho kịp",
+      "Drop the break to save time",
+      0,
+      "Không nghỉ thì các bạn mệt và mất tập trung. Giải lao ngắn giúp phần sau tốt hơn.",
+      "Without a break everyone gets tired. A short one makes the rest go better."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đang trên đường đi chơi, xe bị kẹt đường làm cả nhà đến muộn một tiếng. Theo lịch còn ba điểm.",
+     "On the way out for the day, traffic makes the family an hour late. The plan still has three stops."
+    ],
+    "q": [
+     "An nên đề xuất gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cố đi đủ ba điểm, bỏ bữa trưa",
+      "Squeeze in all three stops and skip lunch",
+      0,
+      "Bỏ ăn cho kịp lịch làm cả nhà đói và cáu. Lịch trình nên phục vụ mọi người.",
+      "Skipping lunch to keep to the plan makes everyone hungry and grumpy. Plans should serve people."
+     ],
+     [
+      "Huỷ cả ngày vì lịch đã hỏng",
+      "Cancel the whole day because the plan is ruined",
+      0,
+      "Lịch trình có thể sửa được. Chỉ cần bỏ bớt hoặc dời một điểm thôi.",
+      "Plans can be adjusted. You just need to drop or move one stop."
+     ],
+     [
+      "Cùng ba mẹ chọn điểm quan trọng nhất, giữ giờ ăn và nghỉ, dời một điểm sang lần sau",
+      "Pick the most important stop with your parents, keep lunch and rest, and save one stop for another day",
+      1,
+      "Lịch trình là bản đồ, không phải lời hứa. Khi có thay đổi, giữ điều quan trọng và điều chỉnh phần còn lại.",
+      "A plan is a map, not a promise. When things change, keep what matters and adjust the rest."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lập lịch trình một ngày",
+    "Plan a day out"
+   ],
+   "s": [
+    "Con cùng ba mẹ lập lịch trình một ngày đi chơi gần nhà: thứ tự điểm đến, giờ ăn, giờ nghỉ, thời gian di chuyển và giờ về. Viết ra giấy cho cả nhà xem.",
+    "Plan a day out near home with your parents: order of stops, meal and rest times, travel time and when to come home. Write it out for the family."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con viết từng dòng của lịch trình.",
+     "Your parent writes each line of the plan with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết lịch trình rồi đưa ba mẹ góp ý.",
+     "With one reminder, you write the plan and ask for feedback."
+    ],
+    [
+     "Con tự lập lịch trình đầy đủ, có cả phương án dự phòng nếu bị trễ, và trình bày cho cả nhà.",
+     "You write a full plan, including a backup if you run late, and present it to the family."
+    ]
+   ],
+   "rw": [
+    "Lịch trình của con được dùng cho chuyến đi thật",
+    "Your plan is used for a real family day out"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Quà lưu niệm hay kỷ niệm?",
+   "Souvenirs or memories?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "Dọn ngăn kéo, An thấy bảy chiếc móc khoá lưu niệm từ các chuyến đi, chiếc nào cũng chưa từng dùng. Tuần sau đi biển, An định mua thêm một chiếc nữa.",
+   "Tidying a drawer, An finds seven souvenir keyrings from past trips, none ever used. On next week’s beach trip, An plans to buy another."
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "How should An think about it?"
+  ],
+  "co": [
+   [
+    "Mua tiếp cho đủ bộ sưu tập",
+    "Keep buying to complete the collection",
+    0,
+    "Sưu tập là sở thích vui nếu mình thật sự dùng và ngắm chúng. Thử hỏi mình điều đó trước nhé.",
+    "Collecting is fun if you really enjoy the items. Ask yourself that first."
+   ],
+   [
+    "Tự hỏi mình có thật cần không; có thể giữ kỷ niệm bằng nhật ký, tranh vẽ hay ảnh ba mẹ chụp",
+    "Ask if you really need it; memories can be kept in a diary, a drawing or a family photo",
+    1,
+    "Nhiều món lưu niệm nằm quên trong ngăn kéo, còn trang nhật ký hay bức tranh lại giữ được cả câu chuyện.",
+    "Many souvenirs get forgotten in drawers, while a diary page or drawing keeps the whole story."
+   ],
+   [
+    "Vứt hết móc khoá cũ đi",
+    "Throw all the old keyrings away",
+    0,
+    "Đồ đã mua thì giữ gìn hoặc tặng lại người cần. Quan trọng là lần sau chọn kỹ hơn.",
+    "Keep or pass on what you already have. What matters is choosing more carefully next time."
+   ]
+  ],
+  "qq": [
+   "Cách nào giúp giữ kỷ niệm chuyến đi mà không tốn tiền?",
+   "A way to keep trip memories without spending money is…"
+  ],
+  "qo": [
+   [
+    "Viết nhật ký hoặc vẽ tranh về chuyến đi",
+    "Write a diary or draw the trip"
+   ],
+   [
+    "Mua thật nhiều quà lưu niệm",
+    "Buy lots of souvenirs"
+   ],
+   [
+    "Mua món đắt nhất",
+    "Buy the most expensive item"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô mời các bạn mang một kỷ niệm về chuyến đi hè đến lớp. Mai mang con búp bê lưu niệm đắt tiền, An chỉ có cuốn sổ vẽ chuyến về quê.",
+     "The teacher asks everyone to bring a holiday memory to class. Mai brings an expensive souvenir doll; An only has a sketchbook from a trip to the countryside."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Để sổ ở nhà vì thấy không bằng bạn",
+      "Leave the sketchbook at home because it seems less special",
+      0,
+      "Kỷ niệm quý vì câu chuyện, không vì giá tiền. Cuốn sổ của con kể được nhiều điều.",
+      "Memories matter because of their stories, not their price. Your sketchbook tells a lot."
+     ],
+     [
+      "Tự tin mang sổ đến và kể câu chuyện sau mỗi bức tranh",
+      "Bring the sketchbook proudly and tell the story behind each drawing",
+      1,
+      "Bức tranh tự vẽ mang cả cảm xúc của con. Đó là món kỷ niệm không ai có giống.",
+      "A drawing you made holds your feelings. Nobody else has one like it."
+     ],
+     [
+      "Xin mẹ mua một món lưu niệm khác để mang",
+      "Ask Mum to buy a souvenir to bring",
+      0,
+      "Không cần mua thêm. Thứ con tự làm đã đủ đặc biệt rồi.",
+      "No need to buy anything. What you made yourself is special enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quầy lưu niệm khu du lịch, An cầm chiếc cốc in hình con rùa giá 120.000đ. Ba mẹ đang chụp ảnh cả nhà bên hồ ngay cạnh.",
+     "At a tourist gift shop, An picks up a turtle mug costing 120,000 dong. Mum and Dad are taking family photos by the lake right next to it."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua luôn vì sợ sau này không còn",
+      "Buy it now in case it’s gone later",
+      0,
+      "Mua vội vì sợ hết thường dẫn đến tiếc. Đặt cốc xuống, nghĩ thêm một chút nhé.",
+      "Buying in a rush often leads to regret. Put it down and think a little longer."
+     ],
+     [
+      "Mua thêm cốc cho cả lớp",
+      "Buy mugs for the whole class",
+      0,
+      "Mua cho cả lớp rất tốn kém. Một tấm thiệp tự vẽ kể về chuyến đi cũng là món quà ý nghĩa.",
+      "Mugs for everyone costs a lot. A hand-drawn card about the trip is a lovely gift too."
+     ],
+     [
+      "Đặt xuống, tự hỏi “Mình có dùng thật không?”, rồi xin ba mẹ chụp chung một tấm ảnh bên hồ làm kỷ niệm",
+      "Put it down, ask “Will I really use it?” and ask for a photo together by the lake as a memory",
+      1,
+      "Dừng lại cân nhắc giúp tiền dành cho điều thật cần. Một tấm ảnh cả nhà có khi quý hơn món đồ.",
+      "Pausing to think keeps money for what you really need. A family photo can mean more than an object."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Làm một trang kỷ niệm",
+    "Make a memory page"
+   ],
+   "s": [
+    "Thay cho mua quà lưu niệm, con làm một trang kỷ niệm về chuyến đi gần nhất: vẽ, viết vài dòng, dán vé hoặc lá cây nhặt được. Cho ba mẹ xem và kể câu chuyện của trang đó.",
+    "Instead of buying a souvenir, make a memory page about your last trip: draw, write a few lines, stick in a ticket or a leaf you picked up. Show your parents and tell its story."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn chuyến đi và gợi ý nên vẽ, viết gì.",
+     "Your parent helps you choose the trip and suggests what to draw or write."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm trang kỷ niệm.",
+     "With one reminder, you make the page yourself."
+    ],
+    [
+     "Con tự làm, tự trình bày và kể vì sao trang này đáng nhớ hơn một món quà mua.",
+     "You make and present it yourself, explaining why it means more than a bought souvenir."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng xem lại ảnh chuyến đi đó",
+    "The family looks through photos of that trip together"
+   ]
+  }
+ }
+]

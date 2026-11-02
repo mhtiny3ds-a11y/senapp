@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự học một kỹ năng mới",
+   "Teaching myself a new skill"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An muốn tự học gấp hạc giấy. Lần đầu xem hướng dẫn, An gấp hỏng ba tờ liền và nói: “Chắc con không khéo tay rồi.”",
+   "An wants to teach herself to fold a paper crane. On the first try with the guide, three sheets go wrong in a row. “Maybe I’m just not good with my hands,” she says."
+  ],
+  "cq": [
+   "An nên làm gì tiếp?",
+   "What should An do next?"
+  ],
+  "co": [
+   [
+    "Chọn hướng dẫn chậm hơn, mỗi ngày luyện 15 phút và ghi lại bước nào đã làm được",
+    "Pick a slower guide, practise 15 minutes a day and note which steps are working",
+    1,
+    "Kỹ năng mới lớn lên từ những lần luyện ngắn mà đều. Ghi lại giúp con thấy mình tiến bộ thật.",
+    "New skills grow from short, regular practice. Writing it down shows you the real progress."
+   ],
+   [
+    "Bỏ luôn, vì mình không có năng khiếu",
+    "Give up, because it’s just not your talent",
+    0,
+    "Ai mới tập cũng hỏng vài lần. Thử chia nhỏ từng bước rồi luyện lại nhé.",
+    "Everyone gets it wrong at the start. Try breaking it into small steps and practise again."
+   ],
+   [
+    "Nhờ chị gấp hộ cho xong",
+    "Ask big sister to fold it for you",
+    0,
+    "Có con hạc đẹp nhưng con chưa học được gì. Nhờ chị chỉ một bước khó thì tốt hơn.",
+    "You’d have a crane but no new skill. Asking her to show you one tricky step works better."
+   ]
+  ],
+  "qq": [
+   "Tự học một kỹ năng mới hiệu quả nhất khi…",
+   "Teaching yourself a new skill works best when…"
+  ],
+  "qo": [
+   [
+    "Luyện một lần thật lâu cho xong",
+    "You practise once for a very long time"
+   ],
+   [
+    "Chờ đến khi thấy mình có năng khiếu",
+    "You wait until you feel talented"
+   ],
+   [
+    "Luyện đều một chút mỗi ngày và ghi lại tiến bộ",
+    "You practise a bit every day and track progress"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Câu lạc bộ của lớp học thắt nút dây. Cô làm nhanh quá, An không theo kịp và các bạn bên cạnh đã xong.",
+     "The class club is learning to tie knots. The teacher goes too fast, An can’t keep up, and the classmates nearby are already done."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Ngồi im, làm như mình đã hiểu",
+      "Sit quietly and pretend you understand",
+      0,
+      "Giả vờ hiểu thì lần sau vẫn chưa làm được. Hỏi lại là cách học nhanh nhất.",
+      "Pretending means you still can’t do it next time. Asking is the fastest way to learn."
+     ],
+     [
+      "Nói mình không thích môn này nữa",
+      "Say you don’t like this club any more",
+      0,
+      "Thấy khó chưa phải là không thích. Cho mình thêm vài buổi luyện rồi hãy quyết định.",
+      "Finding it hard isn’t the same as not liking it. Give it a few more practices first."
+     ],
+     [
+      "Xin cô tờ hướng dẫn từng bước, về nhà luyện thêm mỗi ngày một chút",
+      "Ask the teacher for the step-by-step sheet and practise a little each day at home",
+      1,
+      "Mỗi người học với tốc độ khác nhau. Có hướng dẫn và luyện đều là con sẽ theo kịp.",
+      "Everyone learns at their own speed. With a guide and steady practice, you’ll catch up."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, An thấy các anh chị đá cầu rất giỏi và muốn học. Ông đi cùng An bảo: “Ông biết đá đấy.”",
+     "At the park, An sees older kids playing shuttlecock really well and wants to learn. Grandad, who is with her, says, “I can play, you know.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thử một lần, trượt thì thôi",
+      "Try once and stop if you miss",
+      0,
+      "Một lần thì chưa đủ để học gì cả. Tập ngắn nhiều lần sẽ thấy khác.",
+      "One try isn’t enough to learn anything. Short, repeated practice makes the difference."
+     ],
+     [
+      "Nhờ ông chỉ cách, mỗi chiều tập 10 lần và đếm xem đỡ được bao nhiêu quả",
+      "Ask Grandad to show her, practise 10 kicks each afternoon and count how many she keeps up",
+      1,
+      "Có người chỉ, có bài tập đều và đếm được tiến bộ: đó là cách tự học rất hay.",
+      "A guide, regular practice and a way to count progress: that’s a great way to self-teach."
+     ],
+     [
+      "Chỉ đứng xem các anh chị chơi",
+      "Just watch the older kids play",
+      0,
+      "Xem cũng giúp hiểu cách làm, nhưng phải tự tập thì chân mới quen.",
+      "Watching helps you understand, but your feet only learn by doing it."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Luyện 15 phút một kỹ năng nhỏ",
+    "15 minutes on a small new skill"
+   ],
+   "s": [
+    "Con chọn một kỹ năng nhỏ như gấp một con vật bằng giấy hoặc thắt một kiểu nút, luyện 15 phút theo hướng dẫn rồi cho ba mẹ xem kết quả.",
+    "Choose a small skill such as folding a paper animal or tying a new knot, practise for 15 minutes with a guide, then show your parent."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn hướng dẫn và ngồi luyện cùng con 15 phút.",
+     "Your parent helps you choose a guide and practises with you for 15 minutes."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự luyện 15 phút và cho ba mẹ xem.",
+     "With one reminder, you practise for 15 minutes yourself and show your parent."
+    ],
+    [
+     "Con tự chọn kỹ năng, luyện 2 ngày liền và kể bước nào khó nhất, con đã vượt qua thế nào.",
+     "You choose the skill, practise two days in a row and explain the hardest step and how you got past it."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ nhờ con dạy lại kỹ năng đó cho cả nhà",
+    "Your parent asks you to teach the skill to the whole family"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Thiếu vật liệu, tìm cách thay thế",
+   "Improvising with what I have"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An làm mô hình ngôi nhà nhưng hết que kem để làm hàng rào. Mai đòi chạy ra cổng mua ngay dù sắp vào tiết.",
+   "An’s group is building a model house but runs out of lolly sticks for the fence. Mai wants to dash to the gate to buy more, though class is about to start."
+  ],
+  "cq": [
+   "Nhóm nên làm gì?",
+   "What should the group do?"
+  ],
+  "co": [
+   [
+    "Bỏ luôn phần hàng rào",
+    "Just leave the fence out",
+    0,
+    "Bỏ đi thì mô hình thiếu một phần. Thử tìm vật liệu khác trước đã nhé.",
+    "Dropping it leaves the model incomplete. Try finding another material first."
+   ],
+   [
+    "Xem trong lớp có gì an toàn dùng được: bìa các-tông cắt thành thanh, ống hút giấy cũ",
+    "Look for safe things in the classroom: card cut into strips, used paper straws",
+    1,
+    "Thiếu đồ chưa chắc phải mua. Nhìn quanh đồ có sẵn thường tìm ra cách thay thế an toàn.",
+    "Running out doesn’t always mean buying. A look around often finds a safe substitute."
+   ],
+   [
+    "Lấy tạm bút chì trong hộp bút của bạn khác mà không hỏi",
+    "Grab pencils from someone else’s case without asking",
+    0,
+    "Đồ của bạn thì phải hỏi trước. Dùng đồ bỏ đi hoặc xin phép sẽ không ai phiền lòng.",
+    "Other people’s things need asking first. Spare materials or permission keep everyone happy."
+   ]
+  ],
+  "qq": [
+   "Khi thiếu vật liệu, việc đầu tiên nên làm là…",
+   "When you’re missing materials, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Xem đồ có sẵn nào an toàn làm được việc tương tự",
+    "See what safe things you have that can do the same job"
+   ],
+   [
+    "Đi mua ngay cái mới",
+    "Go and buy new ones straight away"
+   ],
+   [
+    "Bỏ phần đó đi",
+    "Leave that part out"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An cùng mẹ làm thiệp sinh nhật cho bà nhưng hết giấy màu. Cửa hàng đã đóng cửa.",
+     "An and Mum are making a birthday card for Grandma, but they’re out of coloured paper and the shop is closed."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ tìm bìa lịch cũ, tờ giấy gói quà đã dùng để cắt hình dán",
+      "Look with Mum for old calendar pages or used wrapping paper to cut shapes from",
+      1,
+      "Đồ cũ trong nhà có thể thành vật liệu đẹp. Tấm thiệp còn có ý nghĩa hơn vì do con nghĩ ra.",
+      "Old things at home can become lovely materials, and the card means more because you thought of it."
+     ],
+     [
+      "Xé mấy tờ giấy trắng trong vở mới",
+      "Tear pages out of a new exercise book",
+      0,
+      "Vở mới để học. Thử tìm giấy đã dùng một mặt hoặc giấy gói cũ trước.",
+      "New books are for schoolwork. Look for scrap paper or old wrapping first."
+     ],
+     [
+      "Thôi không làm thiệp nữa",
+      "Give up on the card",
+      0,
+      "Bà sẽ rất vui khi nhận thiệp con tự làm. Chỉ cần đổi vật liệu thôi.",
+      "Grandma would love a card you made. You only need to change the materials."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dã ngoại ở công viên cùng ba, An mới nhớ quên mang đĩa để bày trái cây.",
+     "On a picnic in the park with Dad, An realises they forgot plates for the fruit."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bày trái cây thẳng lên bãi cỏ",
+      "Put the fruit straight on the grass",
+      0,
+      "Cỏ có bụi bẩn và côn trùng. Hãy tìm một đồ sạch để thay đĩa.",
+      "Grass has dirt and insects. Find something clean to use instead."
+     ],
+     [
+      "Đòi về nhà lấy đĩa",
+      "Insist on going home for plates",
+      0,
+      "Về nhà mất cả buổi chơi. Nhìn quanh xem có gì thay được trước đã.",
+      "Going home wastes the outing. See what you can use first."
+     ],
+     [
+      "Dùng nắp hộp cơm sạch mang theo làm đĩa",
+      "Use the clean lunchbox lid as a plate",
+      1,
+      "Một đồ có sẵn có thể làm việc của đồ khác. Sạch và an toàn là được.",
+      "One thing you have can do another thing’s job, as long as it’s clean and safe."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Món đồ mới từ đồ cũ",
+    "Something new from something old"
+   ],
+   "s": [
+    "Con làm một món đồ nhỏ từ đồ cũ trong nhà, ví dụ hộp bút từ lõi giấy hoặc hộp sữa đã rửa sạch. Ba mẹ kiểm tra vật liệu an toàn trước khi con làm.",
+    "Make a small object from old things at home, like a pen pot from a cardboard tube or a rinsed milk carton. Your parent checks the materials are safe before you start."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn vật liệu và làm cùng con từ đầu đến cuối.",
+     "Your parent helps you pick materials and makes it with you from start to finish."
+    ],
+    [
+     "Ba mẹ duyệt vật liệu, con tự làm và cho ba mẹ xem.",
+     "Your parent approves the materials, then you make it yourself and show them."
+    ],
+    [
+     "Con tự nghĩ ý tưởng, nhờ ba mẹ kiểm tra vật liệu, làm xong rồi giải thích con đã thay vật liệu nào bằng đồ gì.",
+     "You come up with the idea, get the materials checked, make it and explain what you used instead of what."
+    ]
+   ],
+   "rw": [
+    "Món đồ của con được đặt ở chỗ đẹp nhất phòng khách",
+    "Your creation goes in pride of place in the living room"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Thử nghiệm để biết cách nào tốt hơn",
+   "Testing which way works better"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An và em trai tranh cãi: thuyền gấp bằng giấy báo hay giấy bìa sẽ nổi lâu hơn trong chậu nước? Em bảo cứ thả mỗi cái một lần là biết.",
+   "An and her little brother argue: will a newspaper boat or a card boat float longer in a tub of water? He says just drop each one in once and see."
+  ],
+  "cq": [
+   "Làm sao để thử cho công bằng?",
+   "How can they make it a fair test?"
+  ],
+  "co": [
+   [
+    "Mỗi thuyền thả vào một chậu khác nhau",
+    "Put each boat in a different tub",
+    0,
+    "Chậu khác nhau có thể khác lượng nước, làm kết quả không công bằng.",
+    "Different tubs may hold different water, so the test isn’t fair."
+   ],
+   [
+    "Ai lớn hơn thì người đó đúng",
+    "Whoever is older is right",
+    0,
+    "Tuổi không quyết định đúng sai. Một thử nghiệm công bằng mới cho câu trả lời.",
+    "Age doesn’t decide what’s true. A fair test gives the answer."
+   ],
+   [
+    "Đoán trước, rồi dùng cùng chậu nước, cùng cỡ thuyền, thả cùng lúc và thử 3 lần",
+    "Make a guess first, then use the same tub, same-size boats, drop them together and repeat 3 times",
+    1,
+    "Chỉ để khác một điều là loại giấy thì mới biết chính loại giấy tạo ra kết quả.",
+    "Only change one thing, the paper, so you know it’s the paper that made the difference."
+   ]
+  ],
+  "qq": [
+   "Một thử nghiệm công bằng là khi…",
+   "A test is fair when…"
+  ],
+  "qo": [
+   [
+    "Thử một lần là đủ",
+    "You try just once"
+   ],
+   [
+    "Chỉ thay đổi một điều, giữ nguyên mọi thứ khác",
+    "You change only one thing and keep everything else the same"
+   ],
+   [
+    "Người lớn tuổi hơn quyết định",
+    "The oldest person decides"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp An tranh luận: hạt đậu nảy mầm nhanh hơn ở chỗ sáng hay chỗ tối. Huy định gieo một hạt ở cửa sổ, một hạt trong ngăn bàn và tưới lúc nào nhớ thì tưới.",
+     "An’s class is debating whether beans sprout faster in light or dark. Huy plans one bean on the windowsill, one in his desk, watered whenever he remembers."
+    ],
+    "q": [
+     "An nên góp ý gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Cứ làm như Huy, xem thế nào",
+      "Just do it Huy’s way and see",
+      0,
+      "Tưới lúc có lúc không thì không biết hạt chậm vì tối hay vì thiếu nước.",
+      "With random watering, you can’t tell if a bean is slow from the dark or from thirst."
+     ],
+     [
+      "Dùng hai cốc giống nhau, cùng số hạt, cùng lượng nước mỗi ngày, chỉ khác chỗ để, rồi ghi chép",
+      "Use two identical cups, the same number of beans, the same water daily, only a different spot, and keep notes",
+      1,
+      "Giữ mọi thứ giống nhau trừ một điều thì kết quả mới đáng tin.",
+      "Keep everything the same except one thing, and the result can be trusted."
+     ],
+     [
+      "Tra mạng câu trả lời cho nhanh",
+      "Look up the answer online to save time",
+      0,
+      "Tra cứu cũng có ích, nhưng tự thử công bằng giúp cả lớp hiểu vì sao.",
+      "Looking it up helps, but a fair test shows the class why."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, An và Huy tranh luận máy bay giấy kiểu nào bay xa hơn. Ba của Huy ngồi ghế đá gần đó.",
+     "At the park, An and Huy argue about which paper plane design flies further. Huy’s dad sits on a bench nearby."
+    ],
+    "q": [
+     "Hai bạn nên thử thế nào?",
+     "How should they test it?"
+    ],
+    "o": [
+     [
+      "Cùng một người phóng, cùng chỗ đứng, mỗi chiếc phóng 3 lần rồi đo bằng bước chân",
+      "Same thrower, same spot, three throws each, then measure in footsteps",
+      1,
+      "Giữ người phóng và chỗ đứng giống nhau thì chỉ còn kiểu máy bay là khác.",
+      "With the same thrower and spot, only the design is different."
+     ],
+     [
+      "Mỗi bạn phóng máy bay của mình một lần",
+      "Each throws their own plane once",
+      0,
+      "Hai người phóng mạnh yếu khác nhau, và một lần có thể chỉ là may mắn.",
+      "Two people throw differently, and one throw might just be luck."
+     ],
+     [
+      "Chiếc nào trông đẹp hơn thì chắc bay xa hơn",
+      "The nicer-looking one must fly further",
+      0,
+      "Trông đẹp chưa chắc bay xa. Thử rồi đo mới biết.",
+      "Looks don’t prove distance. Test and measure to find out."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Thí nghiệm thuyền giấy nổi lâu",
+    "The floating paper boat test"
+   ],
+   "s": [
+    "Con gấp hai thuyền bằng hai loại giấy, đoán trước chiếc nào nổi lâu hơn, rồi thả vào một chậu nước nông có ba mẹ ở cạnh. Thử 3 lần, ghi kết quả vào bảng cho ba mẹ xem.",
+    "Fold two boats from two kinds of paper, predict which floats longer, then test them in a shallow tub with your parent beside you. Repeat 3 times and show your parent a results table."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con gấp thuyền, bấm giờ và kẻ bảng kết quả.",
+     "Your parent folds the boats with you, times them and draws the table."
+    ],
+    [
+     "Ba mẹ chuẩn bị chậu nước, con tự gấp, tự thử và ghi bảng.",
+     "Your parent sets up the tub; you fold, test and fill in the table yourself."
+    ],
+    [
+     "Con tự lên kế hoạch thử công bằng, ghi kết quả và giải thích vì sao dự đoán của con đúng hoặc chưa đúng.",
+     "You plan the fair test, record the results and explain why your prediction was right or not."
+    ]
+   ],
+   "rw": [
+    "Con được chọn thí nghiệm tiếp theo cả nhà cùng làm",
+    "You choose the next experiment the family tries together"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Dùng dụng cụ thủ công an toàn",
+   "Using craft tools safely"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ thủ công, Huy đẩy lưỡi dao rọc giấy ra thật dài rồi cầm dao đi quanh lớp khoe sản phẩm.",
+   "In craft class, Huy pushes the craft knife blade right out and walks around the room holding it to show off his work."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nhắc Huy thu lưỡi dao lại và đặt xuống bàn; nếu Huy không nghe thì báo cô",
+    "Remind Huy to retract the blade and put it down; if he doesn’t listen, tell the teacher",
+    1,
+    "Dao rọc giấy chỉ an toàn khi lưỡi thu gọn và nằm trên bàn. Báo cô là giúp cả lớp an toàn.",
+    "A craft knife is only safe with the blade in and on the table. Telling the teacher keeps everyone safe."
+   ],
+   [
+    "Mượn dao để cắt nhanh như Huy",
+    "Borrow the knife to cut as fast as Huy",
+    0,
+    "Cắt nhanh dễ trượt tay. Cắt chậm, hướng lưỡi ra xa người và có cô ở gần thì an toàn hơn.",
+    "Cutting fast makes slips likely. Slow, away from your body, with the teacher near, is safer."
+   ],
+   [
+    "Kệ, không phải việc của mình",
+    "Ignore it, it’s not your business",
+    0,
+    "An toàn trong lớp là việc của mọi người. Một lời nhắc nhẹ có thể tránh được tai nạn.",
+    "Classroom safety is everyone’s business. A gentle reminder can prevent an accident."
+   ]
+  ],
+  "qq": [
+   "Khi dùng dao rọc giấy, điều quan trọng nhất là…",
+   "When using a craft knife, the most important thing is…"
+  ],
+  "qo": [
+   [
+    "Đẩy lưỡi vừa đủ, cắt hướng ra xa người, có người lớn ở gần",
+    "Push out only a little blade, cut away from you, with an adult nearby"
+   ],
+   [
+    "Cắt thật nhanh cho xong",
+    "Cut as fast as possible"
+   ],
+   [
+    "Dùng một mình cho không ai làm phiền",
+    "Use it alone so nobody disturbs you"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An muốn dán mô hình bằng máy bắn keo nến của ba. Ba đang đi làm, chưa về.",
+     "An wants to stick her model together with Dad’s hot glue gun. Dad is at work and not home yet."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tự cắm điện dùng thử, cẩn thận là được",
+      "Plug it in and be careful",
+      0,
+      "Dụng cụ dùng điện và nhiệt cần người lớn bên cạnh. Chờ ba một chút sẽ an toàn hơn nhiều.",
+      "Tools with power and heat need an adult nearby. Waiting for Dad is much safer."
+     ],
+     [
+      "Nhờ em trai giữ máy bắn keo giúp",
+      "Ask little brother to hold the glue gun",
+      0,
+      "Em còn nhỏ, càng dễ bị bỏng. Hãy để dụng cụ nóng cho người lớn.",
+      "He’s even younger and could get burned. Leave hot tools to adults."
+     ],
+     [
+      "Dùng hồ dán, băng dính trước, phần cần keo nến thì chờ ba về cùng làm",
+      "Use glue stick and tape for now, and wait for Dad to do the hot-glue parts together",
+      1,
+      "Keo nến rất nóng, cần người lớn làm cùng. Hồ dán và băng dính là lựa chọn an toàn khi ở một mình.",
+      "Hot glue gets very hot and needs an adult. Glue sticks and tape are safe when you’re on your own."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở lớp vẽ cuối tuần tại nhà văn hoá, mẹ ngồi chờ bên ngoài. Một em nhỏ cầm kéo nhọn chạy quanh bàn.",
+     "At a weekend art class at the community centre, Mum waits outside. A little kid runs around the tables holding pointed scissors."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Giật lấy kéo của em",
+      "Snatch the scissors away",
+      0,
+      "Giật đồ sắc có thể làm cả hai bị đau. Nói và gọi người lớn an toàn hơn.",
+      "Grabbing sharp things can hurt you both. Speaking up and getting an adult is safer."
+     ],
+     [
+      "Nhẹ nhàng nhắc em đi chậm, cầm kéo chúc mũi xuống, rồi báo cô phụ trách",
+      "Gently remind the kid to walk and hold the scissors pointing down, then tell the teacher in charge",
+      1,
+      "Kéo đi đúng cách thì an toàn cho cả em lẫn người xung quanh. Cô phụ trách sẽ giúp nhắc em.",
+      "Carrying scissors properly keeps everyone safe, and the teacher can help remind them."
+     ],
+     [
+      "Chạy theo đuổi em cho vui",
+      "Chase after the kid for fun",
+      0,
+      "Chạy quanh khi có kéo rất dễ va vào nhau. Hãy dừng lại và báo cô.",
+      "Running near scissors makes bumps likely. Stop and tell the teacher."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Quy tắc cho hộp đồ thủ công",
+    "Rules for the craft box"
+   ],
+   "s": [
+    "Con cùng ba mẹ viết quy tắc an toàn cho 3 dụng cụ thủ công trong nhà (như kéo, keo, dao rọc giấy), mỗi dụng cụ 1–2 dòng, rồi dán vào hộp đồ.",
+    "With your parent, write safety rules for 3 craft tools at home (like scissors, glue, craft knife), one or two lines each, and stick them on the craft box."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý từng quy tắc, con chép và trang trí tờ quy tắc.",
+     "Your parent suggests each rule; you copy it out and decorate the sheet."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết quy tắc rồi nhờ ba mẹ duyệt.",
+     "With one reminder, you write the rules yourself and ask your parent to check them."
+    ],
+    [
+     "Con tự viết quy tắc, dán lên hộp và lần dùng tiếp theo làm đúng từng quy tắc cho ba mẹ xem.",
+     "You write and stick up the rules, then follow every one next time you craft while your parent watches."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một món đồ thủ công con chọn",
+    "Your parent makes a craft of your choice with you"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Sở thích mà không bỏ bê việc khác",
+   "Hobbies without neglecting duties"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "A",
+  "story": [
+   "An mê vẽ truyện tranh. Tuần này chiều nào An cũng vẽ đến tối, bài tập làm vội và quên cả tưới cây như đã hứa với mẹ.",
+   "An loves drawing comics. This week she drew every afternoon until dark, rushed her homework and forgot to water the plants as she’d promised Mum."
+  ],
+  "cq": [
+   "An nên sắp xếp thế nào?",
+   "How should An organise things?"
+  ],
+  "co": [
+   [
+    "Bỏ vẽ hẳn cho khỏi ảnh hưởng",
+    "Stop drawing completely",
+    0,
+    "Sở thích giúp con vui và sáng tạo. Chỉ cần sắp xếp giờ hợp lý, không cần bỏ.",
+    "Hobbies make you happy and creative. Just give them a sensible time slot."
+   ],
+   [
+    "Làm xong bài tập và việc nhà trước, rồi dành giờ cố định để vẽ, ví dụ 45 phút mỗi chiều",
+    "Finish homework and chores first, then have a set drawing time, like 45 minutes each afternoon",
+    1,
+    "Sở thích có giờ riêng thì con vẽ thoải mái mà không lo việc khác bị bỏ quên.",
+    "When a hobby has its own time, you can enjoy it without worrying about forgotten jobs."
+   ],
+   [
+    "Vẽ trước, việc khác còn sức thì làm",
+    "Draw first and do the rest if there’s energy left",
+    0,
+    "Khi vẽ say mê, thời gian trôi rất nhanh. Làm việc chính trước thì giờ vẽ mới thật thoải mái.",
+    "Time flies when you’re absorbed. Doing the main jobs first makes drawing time truly relaxed."
+   ]
+  ],
+  "qq": [
+   "Cách giữ sở thích mà không bỏ bê việc khác là…",
+   "The way to keep a hobby without neglecting other things is…"
+  ],
+  "qo": [
+   [
+    "Bỏ sở thích mỗi khi bận",
+    "Drop the hobby whenever you’re busy"
+   ],
+   [
+    "Làm sở thích trước, việc khác để sau",
+    "Do the hobby first and other things later"
+   ],
+   [
+    "Có giờ cố định cho sở thích sau khi xong việc chính",
+    "Give the hobby a set time after the main jobs are done"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "An mới vào câu lạc bộ cờ vua của trường và muốn ở lại tập mọi giờ ra chơi, kể cả khi chưa chép xong bài.",
+     "An has just joined the school chess club and wants to practise every break, even when she hasn’t finished copying her notes."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chép xong bài trước, chọn hai giờ ra chơi cố định trong tuần để tập cờ",
+      "Finish the notes first and pick two fixed breaks a week for chess",
+      1,
+      "Việc học xong trước, sở thích có lịch riêng: cả hai đều được chăm chút.",
+      "Schoolwork first, hobby on a schedule: both get proper care."
+     ],
+     [
+      "Tập cờ trước, bài để tối chép sau",
+      "Play chess now, copy notes tonight",
+      0,
+      "Để dồn bài vào buổi tối dễ làm con mệt và quên. Chép xong trên lớp sẽ nhẹ nhàng hơn.",
+      "Leaving notes for the evening is tiring and easy to forget. Finishing in class is lighter."
+     ],
+     [
+      "Bỏ câu lạc bộ vì sợ ảnh hưởng học",
+      "Quit the club in case it affects schoolwork",
+      0,
+      "Không cần bỏ thứ mình thích. Một lịch rõ ràng giúp con làm được cả hai.",
+      "No need to give up what you love. A clear schedule lets you do both."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An đá bóng ở sân chung của khu nhà, ba ngồi gần đó. Ba hẹn 5 giờ 30 về để tắm và ăn tối, nhưng trận đang hay.",
+     "An is playing football on the estate’s shared pitch while Dad sits nearby. Dad said they’d go home at 5:30 for a bath and dinner, but the game is exciting."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xin chơi thêm “chút nữa thôi” mấy lần",
+      "Keep asking for “just a bit longer”",
+      0,
+      "“Chút nữa” cứ kéo dài làm việc khác bị trễ. Đặt giờ dừng rõ ràng từ đầu sẽ dễ hơn.",
+      "“A bit longer” keeps stretching and makes everything late. A clear stop time is easier."
+     ],
+     [
+      "Giả vờ không nghe ba gọi",
+      "Pretend not to hear Dad",
+      0,
+      "Giả vờ làm ba mất lòng tin. Nói thật và về đúng hẹn thì lần sau ba sẽ dễ cho chơi tiếp.",
+      "Pretending costs Dad’s trust. Being honest and on time means more playtime next time."
+     ],
+     [
+      "Hỏi ba giờ trước 5 phút, chơi nốt rồi về đúng hẹn",
+      "Ask Dad for a five-minute warning, finish up and leave on time",
+      1,
+      "Biết trước giờ dừng giúp con chơi hết mình mà vẫn giữ lời hẹn.",
+      "Knowing when to stop lets you play fully and still keep your word."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Sổ giờ sở thích ba ngày",
+    "Three-day hobby time log"
+   ],
+   "s": [
+    "Trong 3 ngày, con ghi giờ bắt đầu và kết thúc sở thích của mình, rồi cùng ba mẹ xem: bài tập và việc nhà có bị ảnh hưởng không.",
+    "For 3 days, write down when you start and stop your hobby, then look with your parent at whether homework and chores were affected."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ bảng và nhắc con ghi giờ mỗi ngày.",
+     "Your parent draws the log with you and reminds you to fill it in daily."
+    ],
+    [
+     "Ba mẹ nhắc ngày đầu, hai ngày sau con tự ghi.",
+     "Your parent reminds you on day one; you log the next two days yourself."
+    ],
+    [
+     "Con tự ghi đủ 3 ngày, tự nhận xét và đề xuất một giờ sở thích cố định cho tuần sau.",
+     "You log all 3 days, review it yourself and suggest a fixed hobby time for next week."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ dành một buổi cùng con làm sở thích của con",
+    "Your parent spends a session doing your hobby with you"
+   ]
+  }
+ }
+]

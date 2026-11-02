@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 7,
+  "t": [
+   "Lập kế hoạch cho một dự án",
+   "Planning a project"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Lớp có dự án trồng cây đậu, ba tuần nữa trưng bày kèm nhật ký và áp phích. An nghĩ: “Còn lâu mà, tuần cuối làm cũng kịp.”",
+   "The class has a bean-growing project to display in three weeks, with a diary and a poster. An thinks, “That’s ages away, I’ll do it in the last week.”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Để tuần cuối làm một thể",
+    "Leave it all for the last week",
+    0,
+    "Cây đậu cần thời gian để lớn, tuần cuối mới gieo thì không kịp. Chia mốc từ bây giờ nhé.",
+    "Beans need time to grow; sowing in the last week is too late. Set milestones now."
+   ],
+   [
+    "Làm hết trong một buổi tối nay",
+    "Do everything tonight",
+    0,
+    "Có việc không làm một lần được, như ghi nhật ký cây lớn. Chia thành các mốc sẽ hợp hơn.",
+    "Some jobs can’t be done in one go, like a growth diary. Milestones fit better."
+   ],
+   [
+    "Chia mốc: tuần 1 gieo hạt, tuần 2 ghi nhật ký mỗi ngày, tuần 3 làm áp phích; ghi ngày cho từng mốc",
+    "Set milestones: week 1 sow seeds, week 2 diary every day, week 3 make the poster, with a date for each",
+    1,
+    "Chia dự án thành các mốc có hạn giúp việc lớn thành từng bước nhỏ, không bị dồn cuối.",
+    "Breaking a project into dated milestones turns a big job into small steps with no last-minute rush."
+   ]
+  ],
+  "qq": [
+   "Bước đầu lập kế hoạch dự án là gì?",
+   "The first step in planning a project is…"
+  ],
+  "qo": [
+   [
+    "Chia thành các mốc, mỗi mốc có hạn",
+    "Split it into milestones, each with a deadline"
+   ],
+   [
+    "Mua đồ thật đẹp",
+    "Buy nice materials"
+   ],
+   [
+    "Chờ có hứng mới làm",
+    "Wait until you feel inspired"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Hai tuần nữa là sinh nhật bà. An muốn làm một cuốn album ảnh tự trang trí tặng bà.",
+     "Grandma’s birthday is in two weeks. An wants to make a hand-decorated photo album for her."
+    ],
+    "q": [
+     "An nên bắt đầu thế nào?",
+     "How should An start?"
+    ],
+    "o": [
+     [
+      "Viết 3 mốc: tuần này chọn ảnh, giữa tuần sau dán và trang trí, hai ngày trước sinh nhật viết lời chúc",
+      "Write 3 milestones: choose photos this week, stick and decorate mid next week, write the message two days before",
+      1,
+      "Mốc có ngày cụ thể giúp con biết hôm nay cần làm gì và kịp quà cho bà.",
+      "Dated milestones tell you what to do today and get the gift ready in time."
+     ],
+     [
+      "Hôm trước sinh nhật mới làm",
+      "Do it the day before",
+      0,
+      "Một ngày dễ không đủ, lỡ thiếu ảnh hay hết keo thì sao? Chia mốc sớm nhé.",
+      "One day may not be enough; what if photos or glue run out? Plan early."
+     ],
+     [
+      "Làm lúc nào rảnh",
+      "Do it whenever you’re free",
+      0,
+      "“Lúc rảnh” hay bị quên. Ghi ngày cụ thể sẽ chắc chắn hơn.",
+      "“Whenever” tends to be forgotten. Specific dates are more reliable."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ thiếu nhi ở nhà văn hoá phường tổ chức thi vẽ tranh “Khu phố em”, hạn nộp sau 10 ngày.",
+     "The children’s club at the local community centre is running a drawing contest, “My Neighbourhood”, due in 10 days."
+    ],
+    "q": [
+     "An nên lập kế hoạch thế nào?",
+     "How should An plan?"
+    ],
+    "o": [
+     [
+      "Vẽ ngay hôm nay cho xong",
+      "Draw it all today",
+      0,
+      "Vẽ vội dễ thiếu ý. Dành thời gian quan sát và phác thảo sẽ cho tranh đẹp hơn.",
+      "Rushing misses ideas. Time to observe and sketch makes a better picture."
+     ],
+     [
+      "Chia mốc: 3 ngày đầu cùng ba mẹ đi quanh khu phố quan sát và phác thảo, 4 ngày sau tô màu, 2 ngày cuối hoàn thiện và nộp",
+      "Set milestones: first 3 days walk round with your parents sketching, next 4 colour in, last 2 finish and submit",
+      1,
+      "Mốc rõ ràng có cả thời gian dự phòng giúp con nộp đúng hạn mà không vội.",
+      "Clear milestones with spare time get it in on time without rushing."
+     ],
+     [
+      "Chờ gần hạn mới bắt đầu cho có cảm hứng",
+      "Wait until near the deadline for inspiration",
+      0,
+      "Cảm hứng thường đến khi đang làm. Bắt đầu sớm với một mốc nhỏ nhé.",
+      "Inspiration often comes while working. Start early with a small milestone."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba mốc cho dự án nhỏ",
+    "Three milestones for a small project"
+   ],
+   "s": [
+    "Con chọn một dự án nhỏ (làm thiệp, trồng cây, làm mô hình) và viết 3 mốc, mỗi mốc có ngày hoàn thành. Đưa ba mẹ xem và bắt đầu mốc đầu tiên.",
+    "Choose a small project (a card, a plant, a model) and write three milestones, each with a date. Show your parents and start the first one."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn dự án và chia mốc.",
+     "Your parent helps choose the project and set milestones."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự viết 3 mốc.",
+     "With one reminder, you write the three milestones."
+    ],
+    [
+     "Con tự lập, tự bắt đầu mốc đầu và cập nhật cho ba mẹ khi xong từng mốc.",
+     "You plan it, start the first milestone and update your parents as each is done."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con làm một mốc của dự án",
+    "Your parent works on one milestone with you"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Dự trù kinh phí dự án",
+   "Budgeting a project"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An muốn làm mô hình ngôi nhà bằng bìa giấy để trưng bày ở lớp. An định ra cửa hàng mua mới tất cả: bìa màu, keo, sơn, đèn nhỏ, cây cảnh mini.",
+   "An wants to build a cardboard model house for a class display and plans to buy everything new: coloured card, glue, paint, tiny lights, mini plants."
+  ],
+  "cq": [
+   "An nên làm gì trước?",
+   "What should An do first?"
+  ],
+  "co": [
+   [
+    "Liệt kê vật liệu, đánh dấu đồ có sẵn trong nhà (hộp giấy cũ, keo, bút màu), rồi ước tính phần cần mua trong số tiền ba mẹ cho",
+    "List the materials, tick what’s already at home (old boxes, glue, pens), then estimate what to buy within the amount your parents allow",
+    1,
+    "Bảng vật liệu giúp thấy rõ cái gì đã có, cái gì cần mua. Tận dụng đồ cũ vừa tiết kiệm vừa sáng tạo.",
+    "A materials list shows what you have and what you need. Reusing things saves money and sparks ideas."
+   ],
+   [
+    "Mua loại đẹp nhất để mô hình nổi bật",
+    "Buy the nicest of everything so it stands out",
+    0,
+    "Đồ đắt chưa chắc làm mô hình đẹp hơn. Ý tưởng và sự khéo tay mới là chính.",
+    "Expensive materials don’t guarantee a better model. Ideas and care matter most."
+   ],
+   [
+    "Mua hết rồi tính sau",
+    "Buy it all and work it out later",
+    0,
+    "Mua trước tính sau dễ thừa đồ và vượt tiền. Lập bảng trước nhé.",
+    "Buying first often means leftovers and overspending. Make a list first."
+   ]
+  ],
+  "qq": [
+   "Dự trù kinh phí dự án nên bắt đầu bằng gì?",
+   "Budgeting a project starts with…"
+  ],
+  "qo": [
+   [
+    "Ra cửa hàng xem có gì",
+    "Going to the shop to see what’s there"
+   ],
+   [
+    "Mua đồ đẹp nhất",
+    "Buying the best items"
+   ],
+   [
+    "Liệt kê vật liệu và đánh dấu đồ có sẵn",
+    "Listing materials and ticking off what you have"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm An làm áp phích về tiết kiệm nước. Mỗi bạn định mua một bộ bút màu mới.",
+     "An’s group is making a poster about saving water. Each member plans to buy a new set of felt tips."
+    ],
+    "q": [
+     "An nên đề nghị gì?",
+     "What should An suggest?"
+    ],
+    "o": [
+     [
+      "Mỗi người mua một bộ cho tiện",
+      "Everyone buys a set, it’s easier",
+      0,
+      "Bốn bộ bút cho một tấm áp phích là thừa. Dùng chung sẽ tiết kiệm hơn.",
+      "Four sets for one poster is too many. Sharing saves money."
+     ],
+     [
+      "Lập bảng: ai có sẵn bút, giấy, keo; chỉ mua thứ cả nhóm thật sự thiếu",
+      "Make a list of who already has pens, paper, glue; only buy what the group really lacks",
+      1,
+      "Tận dụng đồ có sẵn của cả nhóm giúp không ai tốn tiền vô ích.",
+      "Pooling what you have means nobody spends money unnecessarily."
+     ],
+     [
+      "Nhờ cô mua giúp",
+      "Ask the teacher to buy it all",
+      0,
+      "Nhóm có thể tự lo phần lớn bằng đồ có sẵn. Thử lập bảng trước nhé.",
+      "The group can cover most of it with what you have. Make a list first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở cửa hàng văn phòng phẩm cùng ba, An có 60.000đ cho dự án. Trên kệ có bộ bút màu 80 cây rất đẹp giá 85.000đ.",
+     "At the stationery shop with Dad, An has 60,000 dong for the project. There’s a beautiful 80-colour pen set for 85,000."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xin ba thêm tiền để mua bộ đó",
+      "Ask Dad for more money to get it",
+      0,
+      "Dự án chỉ cần vài màu thôi. Bám theo danh sách và số tiền đã có nhé.",
+      "The project only needs a few colours. Stick to the list and the budget."
+     ],
+     [
+      "Mua bộ đó và bỏ các thứ khác trong danh sách",
+      "Buy it and skip the rest of the list",
+      0,
+      "Bộ bút đẹp nhưng thiếu keo, bìa thì không làm được mô hình. Ưu tiên thứ cần trước.",
+      "Pretty pens but no glue or card means no model. Needs first."
+     ],
+     [
+      "Bám theo danh sách, so giá chọn bộ nhỏ đủ màu cần, mua đủ thứ còn thiếu trong 60.000đ",
+      "Stick to the list, compare prices, pick a smaller set with the colours you need, and get everything within 60,000",
+      1,
+      "Danh sách và so giá giúp mua đủ thứ cần trong số tiền mình có.",
+      "A list and price comparison get you what you need within budget."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bảng vật liệu cho dự án",
+    "A materials list for my project"
+   ],
+   "s": [
+    "Con lập bảng vật liệu cho dự án nhỏ của mình: liệt kê mọi thứ cần, đánh dấu đồ có sẵn trong nhà và ước tính tiền cho phần cần mua. Đưa ba mẹ xem.",
+    "Make a materials list for your small project: everything you need, tick what’s at home, and estimate the cost of what you’d buy. Show your parents."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đi quanh nhà tìm đồ có sẵn và ghi vào bảng.",
+     "Your parent helps you look round the house and fill in the list."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lập bảng và ước tính.",
+     "With one reminder, you make the list and estimate yourself."
+    ],
+    [
+     "Con tự lập bảng, tìm cách thay thế đồ phải mua bằng đồ cũ và giải thích cho ba mẹ.",
+     "You make the list, find reused swaps for items to buy and explain them to your parents."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một món đồ hồi nhỏ ba mẹ tự làm từ đồ cũ",
+    "Your parent tells about something they made from old things as a child"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Trình bày ý tưởng thuyết phục",
+   "Pitching an idea"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Buổi sinh hoạt hè ở nhà văn hoá khu phố, cô phụ trách hỏi các bạn ý tưởng cho ngày hội thiếu nhi. An muốn đề xuất một góc vẽ phấn trên sân.",
+   "At a summer session at the community centre, the leader asks for ideas for the children’s festival. An wants to suggest a chalk-drawing corner in the yard."
+  ],
+  "cq": [
+   "An nên trình bày thế nào?",
+   "How should An pitch it?"
+  ],
+  "co": [
+   [
+    "Nói “Làm góc vẽ phấn đi cô!” rồi thôi",
+    "Say “Let’s do chalk drawing!” and stop",
+    0,
+    "Ý tưởng hay cần thêm lý do để mọi người thấy được lợi ích. Thử nói thêm vài câu nhé.",
+    "A good idea needs reasons so others see the benefit. Add a few sentences."
+   ],
+   [
+    "Nói thật dài mọi chi tiết, không để ai hỏi",
+    "Talk at length about every detail and leave no room for questions",
+    0,
+    "Nói dài quá dễ làm người nghe mất tập trung. Ngắn gọn và mời câu hỏi sẽ tốt hơn.",
+    "Too long loses listeners. Keep it short and invite questions."
+   ],
+   [
+    "Nêu vấn đề (sân trống, các bạn nhỏ ít trò), ý tưởng (góc vẽ phấn), lợi ích (rẻ, ai cũng chơi được, dễ dọn), rồi mời mọi người hỏi",
+    "Give the problem (an empty yard, few games for little ones), the idea (chalk corner), the benefits (cheap, anyone can join, easy to clean), then invite questions",
+    1,
+    "Vấn đề – ý tưởng – lợi ích – lắng nghe câu hỏi: bốn bước giúp ý tưởng thuyết phục.",
+    "Problem, idea, benefits, then listen to questions: four steps to a convincing pitch."
+   ]
+  ],
+  "qq": [
+   "Một bài trình bày ý tưởng thuyết phục gồm những gì?",
+   "A convincing pitch includes…"
+  ],
+  "qo": [
+   [
+    "Chỉ cần nói thật to",
+    "Just speaking loudly"
+   ],
+   [
+    "Vấn đề, ý tưởng, lợi ích và lắng nghe câu hỏi",
+    "The problem, the idea, the benefits and listening to questions"
+   ],
+   [
+    "Năn nỉ đến khi được đồng ý",
+    "Pleading until people agree"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ban công nhà An còn trống. An muốn đề xuất cả nhà trồng rau thơm ở đó.",
+     "An’s balcony is empty, and An wants to suggest growing herbs there as a family."
+    ],
+    "q": [
+     "An nên trình bày với ba mẹ thế nào?",
+     "How should An pitch it to Mum and Dad?"
+    ],
+    "o": [
+     [
+      "“Ban công đang trống mà cả nhà hay ăn rau thơm. Mình trồng vài chậu, con sẽ tưới mỗi sáng. Ba mẹ thấy sao ạ?”",
+      "“The balcony’s empty and we eat lots of herbs. Let’s grow a few pots and I’ll water them every morning. What do you think?”",
+      1,
+      "Nêu vấn đề, ý tưởng, lợi ích và việc mình sẽ làm, rồi hỏi ý kiến: ba mẹ dễ đồng ý hơn nhiều.",
+      "Problem, idea, benefit, your part, then asking their view: much more convincing."
+     ],
+     [
+      "Năn nỉ “Cho con trồng đi mà” cả buổi tối",
+      "Plead “Please let me” all evening",
+      0,
+      "Năn nỉ làm mọi người mệt. Lý do rõ ràng thuyết phục hơn nhiều.",
+      "Pleading wears people out. Clear reasons persuade far better."
+     ],
+     [
+      "Tự mua hạt giống về trồng không hỏi",
+      "Buy seeds and plant them without asking",
+      0,
+      "Ban công là của cả nhà. Trình bày và hỏi ý kiến trước nhé.",
+      "The balcony belongs to the family. Pitch and ask first."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp bàn cách làm góc đọc sách đẹp hơn. An có ý tưởng làm “hộp đổi sách”: ai mang một cuốn đến thì được mượn một cuốn.",
+     "The class is discussing how to improve the reading corner. An has an idea for a “book swap box”: bring one book, borrow one book."
+    ],
+    "q": [
+     "An nên trình bày thế nào?",
+     "How should An present it?"
+    ],
+    "o": [
+     [
+      "Nói nhỏ với bạn bên cạnh, mong bạn nói hộ",
+      "Whisper it to a neighbour and hope they say it",
+      0,
+      "Ý tưởng của con đáng được chính con nói ra. Giơ tay thử nhé.",
+      "Your idea deserves to be said by you. Put your hand up."
+     ],
+     [
+      "Giơ tay, nêu vấn đề (sách cũ đọc hết rồi), ý tưởng hộp đổi sách và lợi ích, rồi trả lời câu hỏi của các bạn",
+      "Raise your hand, explain the problem (everyone’s read the old books), the swap box idea and its benefits, then answer questions",
+      1,
+      "Trình bày đủ ý và sẵn sàng nghe câu hỏi giúp cả lớp hiểu và ủng hộ.",
+      "A full pitch and openness to questions helps the class understand and back it."
+     ],
+     [
+      "Nói ý tưởng rồi cãi lại khi bạn hỏi",
+      "Say the idea and argue when people ask questions",
+      0,
+      "Câu hỏi giúp ý tưởng hoàn thiện hơn. Lắng nghe và trả lời bình tĩnh nhé.",
+      "Questions help improve your idea. Listen and answer calmly."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Trình bày ý tưởng trong 2 phút",
+    "Pitch an idea in 2 minutes"
+   ],
+   "s": [
+    "Con chọn một ý tưởng cho gia đình (một hoạt động cuối tuần, cách sắp xếp góc học tập…) và trình bày trong 2 phút theo 4 bước: vấn đề, ý tưởng, lợi ích, mời câu hỏi. Trả lời 2 câu hỏi của ba mẹ.",
+    "Pick an idea for the family (a weekend activity, a new desk layout…) and pitch it in 2 minutes in four steps: problem, idea, benefits, invite questions. Answer two questions from your parents."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chuẩn bị từng bước rồi con trình bày.",
+     "Your parent helps prepare each step, then you pitch."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và trình bày.",
+     "With one reminder, you prepare and pitch yourself."
+    ],
+    [
+     "Con tự chuẩn bị, trình bày đúng 2 phút và trả lời câu hỏi bình tĩnh, rõ ràng.",
+     "You prepare, pitch in exactly 2 minutes and answer questions calmly and clearly."
+    ]
+   ],
+   "rw": [
+    "Nếu cả nhà đồng ý, ý tưởng của con được thực hiện trong tuần",
+    "If the family agrees, your idea happens this week"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi sản phẩm không như mong đợi",
+   "When my project doesn’t turn out"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An cùng ba làm bánh flan theo công thức. Lúc lấy ra, bánh bị rỗ và hơi lệch, không đẹp như trong ảnh. An thấy thất vọng, muốn bỏ hết đi.",
+   "An makes crème caramel with Dad from a recipe. When it comes out, it’s full of holes and a bit lopsided, nothing like the photo. An feels let down and wants to bin it."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bỏ bánh đi và nói “Con không bao giờ làm bánh nữa”",
+    "Bin it and say “I’m never baking again”",
+    0,
+    "Thất vọng là bình thường, nhưng bỏ cuộc thì mất cơ hội làm tốt hơn lần sau.",
+    "Disappointment is normal, but giving up loses the chance to do better next time."
+   ],
+   [
+    "Nói “Con hơi buồn”, nếm thử, nhìn ra điều đã làm được (bánh vẫn ngon, caramel đẹp) và cùng ba đoán lý do bị rỗ để lần sau thử khác",
+    "Say “I’m a bit sad,” taste it, notice what worked (it tastes good, nice caramel) and guess with Dad why it had holes so you can try differently",
+    1,
+    "Thừa nhận cảm xúc, nhìn phần làm được và tìm điều học được giúp lần sau tốt hơn.",
+    "Naming the feeling, seeing what worked and finding a lesson makes next time better."
+   ],
+   [
+    "Đổ lỗi cho công thức sai",
+    "Blame the recipe",
+    0,
+    "Có thể công thức cũng có phần, nhưng tìm điều mình có thể thay đổi sẽ giúp con nhiều hơn.",
+    "The recipe may play a part, but looking at what you can change helps more."
+   ]
+  ],
+  "qq": [
+   "Khi sản phẩm không như mong đợi, nên nghĩ thế nào?",
+   "When a project doesn’t turn out, it helps to think…"
+  ],
+  "qo": [
+   [
+    "“Mình không có khiếu, bỏ thôi”",
+    "“I’m no good at this, I’ll quit”"
+   ],
+   [
+    "“Lỗi tại người khác”",
+    "“It’s someone else’s fault”"
+   ],
+   [
+    "“Mình đã làm được gì và học được gì?”",
+    "“What did I manage, and what did I learn?”"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Mô hình núi lửa của An bị sụp một bên ngay trước giờ trưng bày. Các bạn khác đã bày xong sản phẩm đẹp.",
+     "An’s model volcano collapses on one side just before the display. Everyone else’s projects look great."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hít thở, sửa tạm phần sụp nếu kịp, rồi nói với cô điều đã làm được và điều sẽ làm khác lần sau",
+      "Breathe, patch it if there’s time, then tell the teacher what worked and what you’d change",
+      1,
+      "Kể cả phần chưa ổn và điều học được cũng là một phần của dự án.",
+      "Sharing what went wrong and what you learned is part of the project too."
+     ],
+     [
+      "Giấu mô hình đi, nói là quên mang",
+      "Hide it and say you forgot it",
+      0,
+      "Giấu đi thì mất cơ hội chia sẻ những gì con đã cố gắng. Cứ trưng bày và kể thật nhé.",
+      "Hiding it loses the chance to share your effort. Display it and be honest."
+     ],
+     [
+      "So sánh rồi chê mình kém nhất lớp",
+      "Compare and call yourself the worst in the class",
+      0,
+      "So với bạn chỉ làm con buồn thêm. Nhìn vào tiến bộ của chính mình nhé.",
+      "Comparing just makes you sadder. Look at your own progress."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Tranh của An được treo ở triển lãm thiếu nhi của khu phố, nhưng gió làm đổ cốc nước, tranh bị lem một góc.",
+     "An’s painting is in the neighbourhood children’s exhibition, but the wind knocked over a cup of water and one corner has smudged."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gỡ tranh xuống mang về",
+      "Take the painting down and go home",
+      0,
+      "Lem một góc không làm mất cả bức tranh. Phần còn lại vẫn rất đáng xem.",
+      "One smudged corner doesn’t ruin the whole painting. The rest is worth seeing."
+     ],
+     [
+      "Khóc và trách người đặt cốc nước",
+      "Cry and blame whoever left the cup",
+      0,
+      "Buồn là dễ hiểu. Khi bình tĩnh, nghĩ xem lần sau có thể giữ tranh thế nào nhé.",
+      "Being upset is fair. When calm, think how to protect it next time."
+     ],
+     [
+      "Nói với ba mẹ “Con tiếc quá”, rồi nhìn phần còn đẹp và nghĩ lần sau sẽ bọc tranh bằng túi nhựa trong",
+      "Tell your parents “That’s such a shame,” look at the parts that are still lovely and plan to use a clear sleeve next time",
+      1,
+      "Thất vọng rồi tìm điều học được giúp con mạnh mẽ hơn mỗi lần.",
+      "Feeling let down, then finding the lesson, makes you stronger each time."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai điều làm được, một điều sẽ thử khác",
+    "Two things that worked, one to try differently"
+   ],
+   "s": [
+    "Con kể với ba mẹ về một sản phẩm con làm chưa ưng ý (bài vẽ, món ăn, mô hình…): nêu cảm xúc, 2 điều con đã làm được và 1 điều lần sau sẽ thử khác.",
+    "Tell your parents about something you made that didn’t turn out (a drawing, a dish, a model…): your feelings, two things that worked and one thing you’ll try differently."
+   ],
+   "lv": [
+    [
+     "Ba mẹ hỏi gợi ý từng phần, con trả lời.",
+     "Your parent asks prompting questions and you answer."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kể đủ 3 phần.",
+     "With one reminder, you tell all three parts."
+    ],
+    [
+     "Con tự kể, rồi thử làm lại sản phẩm với điều sẽ thay đổi và cho ba mẹ xem.",
+     "You tell it, then remake it with your change and show your parents."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần ba mẹ làm hỏng rồi làm lại thành công",
+    "Your parent tells about something they got wrong, then got right"
+   ]
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Giữ nhịp cả nhóm đến đích",
+   "Keeping the team going to the finish"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An làm sách tranh, còn ba ngày là nộp. Bảng tiến độ cho thấy phần của Linh mới xong một nửa vì Linh vừa bị cảm nghỉ học hai hôm.",
+   "An’s group is making a picture book due in three days. The progress chart shows Linh’s part is only half done because she was off with a cold for two days."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Tự làm thay hết phần của Linh không hỏi",
+    "Do all of Linh’s part without asking",
+    0,
+    "Làm thay không hỏi có thể làm bạn thấy bị gạt ra. Hỏi bạn cần giúp gì trước nhé.",
+    "Taking over without asking can make her feel pushed out. Ask what help she needs."
+   ],
+   [
+    "Xem bảng tiến độ cùng nhóm, hỏi Linh cần giúp phần nào, chia lại việc cho kịp và động viên bạn",
+    "Look at the chart with the group, ask Linh which bit she needs help with, re-split the work and encourage her",
+    1,
+    "Theo dõi tiến độ chung, hỗ trợ bạn đang chậm và động viên nhau giúp cả nhóm về đích cùng nhau.",
+    "Tracking progress, helping whoever’s behind and encouraging each other gets the whole team to the finish."
+   ],
+   [
+    "Phàn nàn với cô là Linh làm chậm",
+    "Complain to the teacher that Linh is slow",
+    0,
+    "Linh chậm vì bị ốm, không phải vì lười. Giúp nhau sẽ tốt hơn phàn nàn.",
+    "Linh is behind because she was ill, not lazy. Helping beats complaining."
+   ]
+  ],
+  "qq": [
+   "Điều gì giúp cả nhóm về đích cùng nhau?",
+   "What gets a whole team to the finish together?"
+  ],
+  "qo": [
+   [
+    "Theo dõi tiến độ và hỗ trợ bạn đang chậm",
+    "Tracking progress and helping whoever’s behind"
+   ],
+   [
+    "Mỗi người tự lo phần mình",
+    "Everyone minding their own part"
+   ],
+   [
+    "Người giỏi nhất làm hết",
+    "The best person doing everything"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà dọn kho trong ba ngày cuối tuần. Đến ngày thứ hai, mọi người mệt và bắt đầu chán.",
+     "The family is clearing out the storeroom over three days. By day two everyone is tired and losing interest."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ dở, để tuần sau làm tiếp",
+      "Give up and finish next week",
+      0,
+      "Dừng giữa chừng thì kho bừa hơn lúc đầu. Thử làm cả nhà có thêm động lực nhé.",
+      "Stopping halfway leaves it messier than before. Try giving everyone a boost."
+     ],
+     [
+      "Kẻ bảng các khu đã xong và còn lại, đánh dấu từng phần, mở nhạc vui và nhận giúp người còn nhiều việc nhất",
+      "Draw a chart of areas done and left, tick each one, put on cheerful music and help whoever has most left",
+      1,
+      "Nhìn thấy tiến độ và giúp nhau làm cả nhà có thêm sức đi đến cuối.",
+      "Seeing progress and helping each other gives everyone energy to finish."
+     ],
+     [
+      "Chỉ làm phần của mình rồi đi chơi",
+      "Do only your bit and go off",
+      0,
+      "Xong phần mình là tốt, nhưng giúp người khác thì cả nhà xong sớm hơn.",
+      "Finishing your part is good, but helping others gets the family done sooner."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhóm thiếu nhi khu phố trồng cây ở công viên cùng các cô chú. Còn mười cây nữa, một bạn nhỏ mệt và tụt lại phía sau.",
+     "The neighbourhood kids’ group is planting trees in the park with grown-ups. Ten trees are left, and a younger child is tired and falling behind."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cứ làm tiếp, kệ bạn",
+      "Carry on and leave them",
+      0,
+      "Bỏ bạn lại làm bạn buồn. Cả nhóm cùng về đích mới vui.",
+      "Leaving them behind is unkind. It’s best when everyone finishes together."
+     ],
+     [
+      "Bảo bạn về nghỉ luôn",
+      "Tell them to go home",
+      0,
+      "Có khi bạn chỉ cần nghỉ chút và được giúp. Hỏi bạn trước nhé.",
+      "They may just need a short rest and some help. Ask first."
+     ],
+     [
+      "Rủ bạn nghỉ uống nước, rồi cùng làm chung một cây: An đào, bạn đặt cây; báo cô chú còn mấy cây",
+      "Suggest a water break, then do a tree together: An digs, they place it; tell the grown-ups how many are left",
+      1,
+      "Chia việc vừa sức và động viên bạn giúp cả nhóm cùng hoàn thành.",
+      "Sharing work to suit everyone and encouraging them helps the whole group finish."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Bảng tiến độ việc chung",
+    "A progress chart for a shared job"
+   ],
+   "s": [
+    "Con lập bảng tiến độ cho một việc chung trong nhà (dọn tủ sách, trồng chậu cây, chuẩn bị bữa tiệc nhỏ): ghi các phần việc, người làm, và đánh dấu tiến độ trong 3 ngày. Giúp người đang chậm khi cần.",
+    "Make a progress chart for a shared household job (sorting the bookshelf, planting pots, preparing a small party): list the tasks and who does them, and tick progress for 3 days. Help anyone who falls behind."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con kẻ bảng và nhắc cập nhật mỗi ngày.",
+     "Your parent helps draw the chart and reminds you to update it daily."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự kẻ bảng và cập nhật.",
+     "With one reminder, you draw the chart and update it."
+    ],
+    [
+     "Con tự kẻ bảng, tự cập nhật đủ 3 ngày, chủ động giúp người đang chậm và kể lại kết quả.",
+     "You make it, update it for 3 days, help whoever falls behind and report the result."
+    ]
+   ],
+   "rw": [
+    "Cả nhà ăn mừng hoàn thành bằng một buổi dã ngoại nhỏ",
+    "The family celebrates finishing with a little picnic"
+   ]
+  }
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự lo khi trời nắng",
+   "Looking after myself in the heat"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin cùng ba ra công viên lúc trời nắng to. Bin quên mũ, chạy chơi một lúc thì mặt đỏ bừng và thấy mệt.",
+   "Bin and Dad go to the park on a very sunny day. Bin forgets his hat, runs about, and soon his face is red and he feels tired."
+  ],
+  "cq": [
+   "Lần sau Bin nên làm gì?",
+   "What should Bin do next time?"
+  ],
+  "co": [
+   [
+    "Tự đội mũ, mang bình nước và nghỉ dưới bóng cây",
+    "Put on a hat, bring water and rest in the shade",
+    1,
+    "Mũ, nước và bóng mát giúp cơ thể con không bị quá nóng. Tự nhớ là con đã lớn rồi đấy.",
+    "A hat, water and shade stop your body overheating. Remembering them yourself shows you’re growing up."
+   ],
+   [
+    "Chạy tiếp cho quen nắng",
+    "Keep running to get used to the sun",
+    0,
+    "Mệt mà vẫn chạy dưới nắng thì cơ thể càng nóng. Nghỉ chỗ râm và uống nước nhé.",
+    "Running when tired in the sun makes you hotter. Rest in the shade and drink."
+   ],
+   [
+    "Chờ ba nhắc mới lấy mũ",
+    "Wait for Dad to remind you about the hat",
+    0,
+    "Ba luôn sẵn sàng giúp, nhưng tự nhớ mũ và nước là việc con làm được.",
+    "Dad is happy to help, but remembering your hat and water is something you can do."
+   ]
+  ],
+  "qq": [
+   "Trời nắng, con tự lo những gì?",
+   "On a sunny day, what do you sort out yourself?"
+  ],
+  "qo": [
+   [
+    "Mũ, nước uống và chỗ râm mát",
+    "A hat, water and shade"
+   ],
+   [
+    "Mặc áo thật dày",
+    "A really thick jumper"
+   ],
+   [
+    "Chạy thật nhiều",
+    "Lots of running"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng thứ Bảy, cả nhà chuẩn bị về quê thăm ông bà. Trời nắng chang chang.",
+     "On Saturday morning the family is getting ready to visit the grandparents. It’s blazing hot."
+    ],
+    "q": [
+     "Bin nên chuẩn bị gì?",
+     "What should Bin pack?"
+    ],
+    "o": [
+     [
+      "Chỉ mang đồ chơi",
+      "Just bring toys",
+      0,
+      "Đồ chơi vui thật, nhưng trời nắng thì mũ và nước quan trọng hơn.",
+      "Toys are fun, but in this heat a hat and water matter more."
+     ],
+     [
+      "Để mẹ xếp hết cho",
+      "Let Mum pack everything",
+      0,
+      "Mẹ có thể giúp, nhưng ba lô của con thì con tự lo được.",
+      "Mum can help, but your own bag is something you can manage."
+     ],
+     [
+      "Tự bỏ mũ và bình nước vào ba lô của mình",
+      "Put a hat and water bottle in his own backpack",
+      1,
+      "Tự chuẩn bị đồ chống nắng giúp con khỏe suốt chuyến đi.",
+      "Packing your own sun things keeps you well all trip."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ thể dục ngoài sân, trời rất nắng. Na thấy khát nước và hơi chóng mặt.",
+     "PE is outside and it’s very sunny. Na feels thirsty and a bit dizzy."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Báo cô, vào chỗ râm và uống nước",
+      "Tell the teacher, move to the shade and drink water",
+      1,
+      "Nói với cô ngay khi thấy mệt là cách tự lo cho mình rất giỏi.",
+      "Telling the teacher as soon as you feel unwell is great self-care."
+     ],
+     [
+      "Cố chạy tiếp để không bị chê",
+      "Keep running so nobody teases her",
+      0,
+      "Sức khỏe quan trọng hơn. Không ai chê khi con nghỉ vì mệt đâu.",
+      "Your health matters more. Nobody will mind you resting when you feel unwell."
+     ],
+     [
+      "Ngồi bệt giữa sân, không nói gì",
+      "Sit down in the sun and say nothing",
+      0,
+      "Ngồi giữa nắng vẫn nóng, và cô không biết để giúp. Báo cô nhé.",
+      "Sitting in the sun is still hot, and the teacher won’t know to help. Tell her."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Sẵn sàng ra nắng",
+    "Ready for the sun"
+   ],
+   "s": [
+    "Trước lần ra ngoài trời nắng tới, con tự chuẩn bị mũ và bình nước, rồi cho ba mẹ xem trước khi đi.",
+    "Before you next go out in the sun, get your hat and water bottle ready yourself and show Mum or Dad before leaving."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con lấy mũ và rót nước vào bình.",
+     "Mum or Dad helps you find your hat and fill your bottle."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lấy mũ và bình nước.",
+     "Mum or Dad reminds you once, then you get your hat and bottle."
+    ],
+    [
+     "Con tự nhớ chuẩn bị, ra ngoài thì tự nghỉ chỗ râm, uống nước và về kể lại.",
+     "You remember by yourself, rest in the shade and drink while out, then tell about it."
+    ]
+   ],
+   "rw": [
+    "Được chọn bài hát cả nhà cùng hát trên đường đi",
+    "You choose the song everyone sings on the way"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Bớt dùng túi ni lông",
+   "Fewer plastic bags"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi chợ cùng mẹ. Mỗi món đồ lại có một túi ni lông. Về nhà, túi chất thành một đống.",
+   "Bin goes to the market with Mum. Every item comes in its own plastic bag. At home there’s a big pile of bags."
+  ],
+  "cq": [
+   "Lần sau Bin và mẹ làm gì?",
+   "What could Bin and Mum do next time?"
+  ],
+  "co": [
+   [
+    "Xin thêm túi cho tiện xách",
+    "Ask for extra bags to make carrying easier",
+    0,
+    "Thêm túi thì đống rác càng to. Một túi vải chắc xách được nhiều đồ.",
+    "More bags means a bigger pile. One strong cloth bag carries lots."
+   ],
+   [
+    "Về nhà bỏ hết túi vào thùng rác",
+    "Throw all the bags in the bin at home",
+    0,
+    "Dùng một lần rồi bỏ thì rác vẫn nhiều. Thử bớt túi ngay khi đi mua nhé.",
+    "Use once and bin means lots of rubbish. Try using fewer bags while shopping."
+   ],
+   [
+    "Mang theo túi vải và hộp đựng từ nhà",
+    "Bring cloth bags and containers from home",
+    1,
+    "Mang túi từ nhà thì không cần lấy túi mới, rác bớt ngay từ đầu.",
+    "Bringing bags from home means no new ones, so there’s less rubbish from the start."
+   ]
+  ],
+  "qq": [
+   "Cách nào giúp bớt túi ni lông?",
+   "What helps cut down on plastic bags?"
+  ],
+  "qo": [
+   [
+    "Lấy túi mới mỗi lần mua",
+    "Getting new bags every time"
+   ],
+   [
+    "Mang túi vải khi đi mua đồ",
+    "Taking a cloth bag when shopping"
+   ],
+   [
+    "Chọn túi màu đẹp hơn",
+    "Choosing prettier bags"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà Bin có cả một ngăn kéo đầy túi ni lông cũ.",
+     "Bin’s family has a whole drawer stuffed with old plastic bags."
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Vứt hết đi cho gọn",
+      "Throw them all away to tidy up",
+      0,
+      "Vứt đi thì gọn ngăn kéo nhưng thành rác ngay. Túi còn tốt thì dùng lại nhé.",
+      "Throwing them out tidies the drawer but makes rubbish. Reuse the good ones."
+     ],
+     [
+      "Gấp gọn, dùng lại để đựng rác hoặc mang đi chợ",
+      "Fold them neatly and reuse them for rubbish or shopping",
+      1,
+      "Dùng lại túi cũ thì không phải lấy túi mới, nhà gọn mà rác cũng ít hơn.",
+      "Reusing old bags means fewer new ones, a tidier house and less rubbish."
+     ],
+     [
+      "Cứ nhét thêm túi mới vào",
+      "Keep stuffing new bags in",
+      0,
+      "Ngăn kéo sẽ tràn mất. Dùng hết túi cũ trước rồi hẵng lấy túi mới.",
+      "The drawer will overflow. Use the old ones before getting new."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô hỏi cả lớp làm sao để buổi liên hoan cuối tuần dùng ít túi ni lông hơn.",
+     "The teacher asks the class how to use fewer plastic bags at the end-of-week party."
+    ],
+    "q": [
+     "Na nên góp ý gì?",
+     "What could Na suggest?"
+    ],
+    "o": [
+     [
+      "“Mua túi to hơn để đựng chung ạ.”",
+      "“Buy bigger bags to put it all in.”",
+      0,
+      "Túi to vẫn là túi ni lông. Đồ dùng nhiều lần sẽ giúp hơn.",
+      "A big bag is still plastic. Reusable things help more."
+     ],
+     [
+      "“Thôi không liên hoan nữa ạ.”",
+      "“Let’s not have a party.”",
+      0,
+      "Không cần bỏ niềm vui đâu. Chỉ cần đổi cách đựng đồ thôi.",
+      "No need to give up the fun. Just change how food is carried."
+     ],
+     [
+      "“Mỗi bạn mang hộp và cốc riêng ạ.”",
+      "“Everyone brings their own box and cup.”",
+      1,
+      "Hộp và cốc dùng được nhiều lần nên buổi liên hoan ít rác hẳn.",
+      "Boxes and cups can be used again and again, so there’s far less rubbish."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Túi vải đi chợ",
+    "Cloth bag for shopping"
+   ],
+   "s": [
+    "Trước lần đi chợ cùng ba mẹ, con chuẩn bị túi vải, rồi cùng đếm xem cả nhà đã bớt được mấy túi ni lông.",
+    "Before the next shopping trip with Mum or Dad, get the cloth bag ready, then count how many plastic bags you saved."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con tìm túi vải và bỏ vào giỏ.",
+     "Mum or Dad helps you find the cloth bag and pack it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lấy túi vải mang theo.",
+     "Mum or Dad reminds you once, then you bring the cloth bag yourself."
+    ],
+    [
+     "Con tự nhớ mang túi vải, tự đếm số túi bớt được và kể lại.",
+     "You remember the cloth bag by yourself, count the bags saved and tell about it."
+    ]
+   ],
+   "rw": [
+    "Con được chọn một loại quả cả nhà ăn tráng miệng",
+    "You choose a fruit for the family’s pudding"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Vật sống hay không sống?",
+   "Living or not living?"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin nói: “Xe đồ chơi chạy được, vậy nó là vật sống!” Na lắc đầu: “Chưa chắc đâu.”",
+   "Bin says, “My toy car moves, so it’s alive!” His friend Na shakes her head. “Not so sure.”"
+  ],
+  "cq": [
+   "Làm sao biết vật nào là vật sống?",
+   "How can you tell if something is alive?"
+  ],
+  "co": [
+   [
+    "Cái gì chạy được là vật sống",
+    "Anything that moves is alive",
+    0,
+    "Nhiều thứ chuyển động mà không sống, như quạt hay xe. Thử xem nó có lớn lên không nhé.",
+    "Lots of things move but aren’t alive, like fans or cars. Check whether it grows."
+   ],
+   [
+    "Cái gì đẹp là vật sống",
+    "Anything pretty is alive",
+    0,
+    "Đẹp hay không không cho biết nó có sống không. Quan sát xem nó có cần ăn uống không.",
+    "Pretty or not doesn’t tell you. Look for whether it needs food."
+   ],
+   [
+    "Xem nó có lớn lên, cần ăn uống và thở không",
+    "Check if it grows, needs food and water, and breathes",
+    1,
+    "Vật sống lớn lên và cần ăn uống. Xe đồ chơi chạy nhờ pin, nó không lớn lên.",
+    "Living things grow and need food. A toy car runs on batteries and never grows."
+   ]
+  ],
+  "qq": [
+   "Vật sống thì có điều gì?",
+   "Living things…"
+  ],
+  "qo": [
+   [
+    "Lớn lên và cần ăn uống",
+    "Grow and need food and water"
+   ],
+   [
+    "Có pin bên trong",
+    "Have batteries inside"
+   ],
+   [
+    "Luôn kêu to",
+    "Are always noisy"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô đưa ra hòn đá, cây non và con ốc sên, rồi hỏi cái nào là vật sống.",
+     "The teacher shows a stone, a seedling and a snail, and asks which are alive."
+    ],
+    "q": [
+     "Na trả lời thế nào?",
+     "What should Na answer?"
+    ],
+    "o": [
+     [
+      "“Hòn đá ạ, vì nó cứng chắc.”",
+      "“The stone, because it’s hard.”",
+      0,
+      "Cứng không phải dấu hiệu của sự sống. Hòn đá không lớn lên, không ăn uống.",
+      "Hardness isn’t a sign of life. A stone doesn’t grow or eat."
+     ],
+     [
+      "“Cây non và ốc sên ạ, vì chúng lớn lên và cần ăn uống.”",
+      "“The seedling and the snail, because they grow and need food.”",
+      1,
+      "Con đã nói cả lý do, nhờ quan sát dấu hiệu của vật sống.",
+      "You gave a reason, using the signs of living things."
+     ],
+     [
+      "“Cả ba đều sống ạ.”",
+      "“All three are alive.”",
+      0,
+      "Thử hỏi: hòn đá có lớn lên không? Câu hỏi đó giúp con chọn đúng.",
+      "Ask: does the stone grow? That question helps you sort them."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi dạo bờ hồ với bà, Bin thấy đám mây trôi và đàn cá bơi dưới nước.",
+     "On a walk by the lake with Grandma, Bin sees clouds drifting and fish swimming."
+    ],
+    "q": [
+     "Bin nghĩ thế nào?",
+     "What should Bin think?"
+    ],
+    "o": [
+     [
+      "Cá là vật sống; mây trôi nhờ gió, không ăn uống hay lớn lên như cá",
+      "The fish are alive; clouds move with the wind and don’t eat or grow",
+      1,
+      "Con dùng dấu hiệu ăn uống, lớn lên để phân biệt, không chỉ nhìn chuyển động.",
+      "You used eating and growing to decide, not just movement."
+     ],
+     [
+      "Mây di chuyển nên mây là vật sống",
+      "Clouds move, so they’re alive",
+      0,
+      "Mây trôi vì gió thổi. Chuyển động thôi chưa đủ để biết vật sống.",
+      "Clouds move because of wind. Moving alone doesn’t mean alive."
+     ],
+     [
+      "Không cần nghĩ, hỏi bà là xong",
+      "Don’t think, just ask Grandma",
+      0,
+      "Hỏi bà rất tốt, nhưng thử tự quan sát trước rồi hỏi bà xem mình đúng không nhé.",
+      "Asking Grandma is good, but try looking first, then check with her."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai nhóm: sống và không sống",
+    "Two groups: living and not living"
+   ],
+   "s": [
+    "Con chọn mười thứ quanh nhà (cây, cá, gối, cốc…), xếp vào hai nhóm sống và không sống, rồi giải thích cho ba mẹ.",
+    "Pick ten things around the house (a plant, a fish, a pillow, a cup…), sort them into living and not living, and explain to Mum or Dad."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ và cùng xếp, ba mẹ hỏi gợi ý.",
+     "Mum or Dad picks things with you and gives hints while you sort."
+    ],
+    [
+     "Ba mẹ nhắc dấu hiệu vật sống một lần, con tự xếp mười thứ.",
+     "Mum or Dad reminds you of the signs once, then you sort the ten things."
+    ],
+    [
+     "Con tự chọn, tự xếp và nói lý do cho từng thứ.",
+     "You choose, sort and give a reason for each thing yourself."
+    ]
+   ],
+   "rw": [
+    "Cả nhà đi dạo tìm năm vật sống quanh khu phố",
+    "A family walk to spot five living things nearby"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Quả lạ, nấm lạ không ăn",
+   "Don’t eat unknown plants"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Về quê thăm ông bà, Bin thấy bụi cây có quả đỏ mọng rất đẹp. Bin muốn hái ăn thử.",
+   "Visiting the grandparents in the countryside, Bin finds a bush with shiny red berries. He wants to try one."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Ăn thử một quả nhỏ thôi",
+    "Try just one tiny berry",
+    0,
+    "Quả lạ có thể làm mệt dù chỉ một quả. Luôn hỏi người lớn trước nhé.",
+    "An unknown berry can make you poorly even if it’s just one. Always ask first."
+   ],
+   [
+    "Không ăn, chạy vào hỏi ông bà trước",
+    "Don’t eat it; go and ask Grandma or Grandpa first",
+    1,
+    "Có quả trông đẹp nhưng làm đau bụng. Hỏi người lớn trước là cách giữ an toàn.",
+    "Some pretty berries make you ill. Asking a grown-up first keeps you safe."
+   ],
+   [
+    "Hái mang về cho em ăn",
+    "Pick some for a little sibling",
+    0,
+    "Con muốn chia cho em, thật tốt bụng. Nhưng quả lạ thì cần hỏi ông bà trước đã.",
+    "Sharing is kind, but unknown berries need checking with a grown-up first."
+   ]
+  ],
+  "qq": [
+   "Gặp quả, lá, nấm lạ, con làm gì?",
+   "If you find an unknown berry, leaf or mushroom…"
+  ],
+  "qo": [
+   [
+    "Ăn thử một chút",
+    "Have a tiny taste"
+   ],
+   [
+    "Không ăn, hỏi người lớn trước",
+    "Don’t eat it; ask a grown-up first"
+   ],
+   [
+    "Ngửi thấy thơm thì ăn",
+    "Eat it if it smells nice"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sau cơn mưa, Bin thấy mấy cây nấm trắng mọc trong chậu cây ở ban công.",
+     "After the rain, Bin spots little white mushrooms growing in a pot on the balcony."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Không chạm vào, gọi mẹ ra xem",
+      "Don’t touch them; call Mum to look",
+      1,
+      "Nấm lạ có thể độc. Để mẹ xem và xử lý giúp nhé.",
+      "Unknown mushrooms can be harmful. Let Mum check and deal with them."
+     ],
+     [
+      "Hái nấm để mẹ nấu canh",
+      "Pick them for Mum to cook",
+      0,
+      "Con muốn giúp mẹ, nhưng nấm mọc lạ thì không ăn được. Gọi mẹ xem nhé.",
+      "You want to help, but wild mushrooms aren’t for eating. Call Mum."
+     ],
+     [
+      "Bóp nấm chơi",
+      "Squish them for fun",
+      0,
+      "Chạm vào nấm lạ rồi đưa tay lên miệng là không an toàn. Gọi mẹ ra xem nhé.",
+      "Touching unknown mushrooms then your mouth isn’t safe. Call Mum."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Trong vườn trường, bạn Tí rủ Na: “Ăn thử lá này đi, ngọt lắm!”",
+     "In the school garden, Tí says to Na, “Try this leaf, it’s sweet!”"
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Ăn cùng Tí cho vui",
+      "Eat it with Tí for fun",
+      0,
+      "Vui với bạn là tốt, nhưng lá lạ có thể làm đau bụng. Từ chối nhé.",
+      "Fun with friends is good, but strange leaves can upset your tummy. Say no."
+     ],
+     [
+      "Từ chối và nói với cô giáo",
+      "Say no and tell the teacher",
+      1,
+      "Nói “không” là đúng, và báo cô giúp cả Tí được an toàn.",
+      "Saying no is right, and telling the teacher keeps Tí safe too."
+     ],
+     [
+      "Đợi Tí ăn trước, không sao thì ăn",
+      "Wait and see if Tí is all right first",
+      0,
+      "Có khi lá lạ làm mệt sau một lúc mới thấy. Hỏi cô là cách chắc nhất.",
+      "Some plants make you ill later. Asking the teacher is the safest way."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ăn được hay phải hỏi trước?",
+    "Eat it or ask first?"
+   ],
+   "s": [
+    "Con cùng ba mẹ xem tranh ảnh các loại quả, lá, nấm và chơi trò “ăn được hay phải hỏi trước”.",
+    "Look at pictures of fruits, leaves and mushrooms with Mum or Dad and play “eat it or ask first?”."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ từng tranh, cùng con nói “ăn được” hay “hỏi trước”.",
+     "Mum or Dad points to each picture and you decide together: “eat it” or “ask first”."
+    ],
+    [
+     "Ba mẹ nhắc quy tắc một lần, con tự trả lời từng tranh.",
+     "Mum or Dad reminds you of the rule once, then you answer each picture."
+    ],
+    [
+     "Con tự trả lời và giải thích vì sao đồ lạ thì phải hỏi người lớn.",
+     "You answer by yourself and explain why unknown things need a grown-up."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một chuyện vui hồi nhỏ ở quê",
+    "Mum or Dad tells a funny story from their childhood"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Hạt giống cần thời gian",
+   "Seeds need time"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin gieo hạt đậu hôm qua. Sáng nay chưa thấy mầm, Bin định đào lên xem hạt thế nào.",
+   "Bin sowed bean seeds yesterday. This morning there’s no shoot, so he wants to dig one up to look."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tưới nước, đánh dấu lịch mỗi ngày và chờ",
+    "Water it, tick the calendar each day and wait",
+    1,
+    "Có việc cần nhiều ngày mới thấy kết quả. Theo dõi đều, con sẽ thấy mầm lớn lên.",
+    "Some things take days. Checking every day, you’ll see the shoot appear."
+   ],
+   [
+    "Đào lên xem hạt",
+    "Dig a seed up to look",
+    0,
+    "Đào lên thì hạt khó mọc tiếp. Hạt cần vài ngày, chờ thêm chút nhé.",
+    "Digging disturbs the seed. It needs a few days, so wait a little."
+   ],
+   [
+    "Tưới thật nhiều cho mau mọc",
+    "Pour on lots of water to hurry it",
+    0,
+    "Nhiều nước quá hạt có thể bị úng. Tưới vừa đủ mỗi ngày là tốt nhất.",
+    "Too much water can drown seeds. A little every day is best."
+   ]
+  ],
+  "qq": [
+   "Việc cần nhiều ngày mới xong thì làm sao?",
+   "When something takes many days…"
+  ],
+  "qo": [
+   [
+    "Bỏ ngay nếu chưa thấy kết quả",
+    "Give up if nothing shows yet"
+   ],
+   [
+    "Làm thật nhiều trong một hôm",
+    "Do loads in one day"
+   ],
+   [
+    "Làm đều mỗi ngày và theo dõi",
+    "Keep at it each day and keep track"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Na ươm cây. Đã ba ngày, chậu của Na chưa nảy mầm, còn chậu của Huy đã có mầm.",
+     "Na’s class is growing seedlings. After three days, Na’s pot has nothing yet, but Huy’s has a shoot."
+    ],
+    "q": [
+     "Na nên làm gì?",
+     "What should Na do?"
+    ],
+    "o": [
+     [
+      "Bỏ chậu đi vì chậm hơn bạn",
+      "Give up because hers is slower",
+      0,
+      "Chậm hơn không có nghĩa là hỏng. Chờ thêm vài ngày nhé.",
+      "Slower doesn’t mean broken. Give it a few more days."
+     ],
+     [
+      "Xin Huy chia mầm",
+      "Ask Huy to share his shoot",
+      0,
+      "Chậu của Na cần thời gian của riêng nó. Chăm đều, mầm sẽ lên.",
+      "Na’s pot needs its own time. Keep caring and the shoot will come."
+     ],
+     [
+      "Tiếp tục chăm, ghi lại mỗi ngày và hỏi cô cây cần gì",
+      "Keep caring for it, note it daily and ask the teacher what it needs",
+      1,
+      "Mỗi hạt mọc nhanh chậm khác nhau. Chăm đều và kiên nhẫn là cách tốt nhất.",
+      "Every seed grows at its own speed. Steady care and patience work best."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin cùng mẹ trồng cà chua ở vườn nhà bà. Bà bảo phải vài tuần nữa mới có quả.",
+     "Bin and Mum plant tomatoes in Grandma’s garden. Grandma says the fruit will take a few weeks."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Mỗi lần sang nhà bà thì cùng bà tưới cây và xem cây lớn",
+      "Each visit, water the plants with Grandma and see how they’ve grown",
+      1,
+      "Theo dõi đều đặn giúp con thấy cây lớn dần, dù quả chưa có ngay.",
+      "Checking regularly lets you see it grow, even before fruit appears."
+     ],
+     [
+      "Cứ vài phút lại hỏi: “Có quả chưa ạ?”",
+      "Ask every few minutes, “Is there fruit yet?”",
+      0,
+      "Cây cần nhiều ngày chứ không phải vài phút. Thử đếm ngày trên lịch nhé.",
+      "Plants need days, not minutes. Try counting days on a calendar."
+     ],
+     [
+      "Quên luôn cái cây",
+      "Forget all about it",
+      0,
+      "Không chăm thì cây khó lớn. Hẹn bà mỗi lần sang cùng tưới nhé.",
+      "Without care it struggles. Plan to water it with Grandma each visit."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lịch theo dõi chậu đậu",
+    "Bean-watching calendar"
+   ],
+   "s": [
+    "Mỗi ngày con xem chậu đậu, đánh dấu vào lịch và đếm xem bao nhiêu ngày thì hạt nảy mầm.",
+    "Check the bean pot every day, tick the calendar and count how many days it takes to sprout."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con xem chậu và cùng đánh dấu mỗi ngày.",
+     "Mum or Dad checks the pot and ticks the calendar with you each day."
+    ],
+    [
+     "Ba mẹ nhắc một lần mỗi ngày, con tự xem và tự đánh dấu.",
+     "Mum or Dad reminds you once a day, then you check and tick yourself."
+    ],
+    [
+     "Con tự nhớ xem chậu mỗi ngày và báo ba mẹ hôm nảy mầm, đếm đủ số ngày.",
+     "You remember daily by yourself and tell Mum or Dad on sprouting day, with the count."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chụp ảnh mầm đậu đầu tiên và dán lên tủ lạnh",
+    "The family takes a photo of the first shoot for the fridge"
+   ]
+  }
+ }
+]

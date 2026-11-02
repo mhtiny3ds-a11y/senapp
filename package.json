@@ -1,0 +1,14 @@
+{
+  "name": "senapp",
+  "version": "16.0.0",
+  "description": "Senapp – App Sen và trang bán hàng (website tĩnh chạy bằng Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Chăm cây nhỏ của mình",
+   "Looking after my plant"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Ba tặng Bin một chậu cây nhỏ, Bin hứa tự tưới mỗi sáng. Đến ngày thứ ba, Bin quên mất.",
+   "Dad gives Bin a little potted plant, and Bin promises to water it every morning. By day three, Bin forgets."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Tưới thật nhiều nước để bù",
+    "Pour on loads of water to make up",
+    0,
+    "Nhiều nước quá cây có thể bị úng. Tưới vừa đủ mỗi ngày là tốt nhất.",
+    "Too much water can drown it. A little every day is best."
+   ],
+   [
+    "Nhờ ba tưới luôn từ giờ",
+    "Ask Dad to water it from now on",
+    0,
+    "Cây là việc con đã nhận. Một tờ giấy nhắc có thể giúp con nhớ.",
+    "The plant is the job you took on. A reminder note can help."
+   ],
+   [
+    "Tưới ngay, rồi dán tờ giấy nhắc cạnh chỗ đánh răng",
+    "Water it now and stick a reminder by the toothbrush",
+    1,
+    "Quên thì sửa ngay và tìm cách nhắc mình. Tự nhớ việc của mình là tự lập.",
+    "If you forget, fix it now and find a reminder. Remembering your own job is independence."
+   ]
+  ],
+  "qq": [
+   "Khi đã nhận một việc, con nên…",
+   "When you’ve taken on a job, you should…"
+  ],
+  "qo": [
+   [
+    "Làm khi nào nhớ",
+    "Do it when you remember"
+   ],
+   [
+    "Đưa cho người khác làm",
+    "Pass it to someone else"
+   ],
+   [
+    "Tìm cách tự nhớ và làm đều đặn",
+    "Find a way to remember and do it regularly"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Tuần này Bin trực nhật lau bảng. Giờ ra chơi Bin mải chơi nên bảng vẫn còn đầy chữ.",
+     "This week Bin is board monitor. At break Bin got busy playing and the board is still full of writing."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Lau bảng ngay khi nhớ ra, và hẹn mình lần sau lau trước khi ra chơi",
+      "Wipe it as soon as you remember, and plan to do it before break next time",
+      1,
+      "Sửa ngay và tự hẹn với chính mình giúp lần sau không quên.",
+      "Fixing it now and making a plan for next time helps you remember."
+     ],
+     [
+      "Nhờ bạn lau giúp",
+      "Ask a friend to do it",
+      0,
+      "Bạn cũng có việc của bạn. Con tự làm, cả lớp sẽ tin con.",
+      "Your friend has their own jobs. Do it yourself and the class will trust you."
+     ],
+     [
+      "Đợi cô nhắc mới lau",
+      "Wait for the teacher to remind you",
+      0,
+      "Việc của mình thì mình tự nhớ, không cần chờ nhắc. Lau ngay nhé.",
+      "Your job is yours to remember — no need to wait. Wipe it now."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở vườn rau chung của khu phố, mỗi bạn nhỏ nhận một luống để tưới, có người lớn trông. Hôm nay Bin mải chơi với các bạn.",
+     "At the neighbourhood garden, each child looks after a bed to water while grown-ups supervise. Today Bin gets caught up playing."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xin các bạn chờ một chút, tưới luống của mình rồi chơi tiếp",
+      "Ask friends to wait a moment, water your bed, then play",
+      1,
+      "Làm xong việc của mình rồi chơi thì ai cũng tin con.",
+      "Finishing your job, then playing, earns everyone’s trust."
+     ],
+     [
+      "Để mai tưới bù",
+      "Leave it till tomorrow",
+      0,
+      "Hôm nay cây khát rồi. Tưới ngay rồi chơi tiếp cũng được mà.",
+      "The plants are thirsty today. Water now, then play."
+     ],
+     [
+      "Nhờ bạn bên cạnh tưới hộ",
+      "Ask the child next to you to water it",
+      0,
+      "Bạn đã có luống của bạn. Việc mình nhận thì mình làm nhé.",
+      "They have their own bed. A job you took on is yours."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Thử cách khác khi chưa được",
+   "Try another way"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin gấp thuyền giấy thả vào chậu nước, nhưng thuyền cứ bị chìm. Bin đã gấp ba chiếc rồi.",
+   "Bin folds paper boats to float in a basin, but they keep sinking. Bin has made three already."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Gấp lại y như cũ lần nữa",
+    "Fold one exactly the same way again",
+    0,
+    "Làm y như cũ thì dễ ra kết quả cũ. Thử đổi một điều xem sao.",
+    "The same way gives the same result. Try changing one thing."
+   ],
+   [
+    "Bỏ cuộc, thuyền giấy chán lắm",
+    "Give up — paper boats are boring",
+    0,
+    "Chưa được không có nghĩa là không làm được. Thử một cách khác nhé.",
+    "Not yet doesn’t mean never. Try something different."
+   ],
+   [
+    "Đổi cách: thử giấy dày hơn hoặc gấp đáy thuyền rộng hơn",
+    "Change something: try thicker paper or a wider base",
+    1,
+    "Khi chưa được, đổi một điều rồi thử lại. Đó là cách giải quyết vấn đề.",
+    "When it’s not working, change one thing and try again. That’s problem solving."
+   ]
+  ],
+  "qq": [
+   "Khi thử nhiều lần chưa được, con nên…",
+   "When something keeps not working, you should…"
+  ],
+  "qo": [
+   [
+    "Làm y hệt lần trước",
+    "Do exactly the same"
+   ],
+   [
+    "Đổi một điều rồi thử lại",
+    "Change one thing and try again"
+   ],
+   [
+    "Bỏ cuộc",
+    "Give up"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bin làm bài toán đếm hình, đếm ba lần ra ba số khác nhau.",
+     "Bin is counting shapes for a maths task and gets a different answer each of three times."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đổi cách đếm: đánh dấu từng hình đã đếm",
+      "Count a new way: tick each shape as you go",
+      1,
+      "Đổi cách làm giúp con không đếm sót hay đếm trùng nữa.",
+      "A new method stops you missing or double-counting."
+     ],
+     [
+      "Chọn đại một số",
+      "Just pick a number",
+      0,
+      "Đoán thì dễ sai. Thử cách đếm mới xem sao nhé.",
+      "Guessing is often wrong. Try a new way of counting."
+     ],
+     [
+      "Đếm nhanh hơn",
+      "Count faster",
+      0,
+      "Nhanh hơn thường dễ sót hơn. Chậm lại và đánh dấu từng hình nhé.",
+      "Faster usually means more mistakes. Slow down and tick each one."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi cùng ba, Bin tập sút bóng vào khung thành nhỏ mà toàn sút trượt.",
+     "At the playground with Dad, Bin practises kicking a ball into a small goal but keeps missing."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Sút mạnh hơn nữa",
+      "Kick even harder",
+      0,
+      "Sút mạnh chưa chắc đã trúng. Thử đổi cách sút xem sao.",
+      "Harder isn’t always more accurate. Try a different kick."
+     ],
+     [
+      "Hỏi ba mẹo, thử đứng gần hơn và sút bằng má trong bàn chân",
+      "Ask Dad for a tip, stand closer and use the inside of your foot",
+      1,
+      "Đổi vị trí, đổi cách sút và hỏi người biết giúp con tiến bộ dần.",
+      "Changing position, technique and asking for tips helps you improve."
+     ],
+     [
+      "Nói: “Khung thành này hỏng rồi”",
+      "Say: “This goal is broken”",
+      0,
+      "Đổ lỗi cho khung thành thì con không tiến bộ được. Thử cách khác nhé.",
+      "Blaming the goal won’t help you improve. Try another way."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Nhiều bạn làm thì có đúng không?",
+   "If everyone does it, is it right?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên, ba mẹ ngồi gần đó. Mấy bạn nhỏ đang hái hoa trong bồn hoa và rủ Bin hái cùng.",
+   "At the park, with parents nearby, some kids are picking flowers from the flowerbed and invite Bin to join."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "La thật to cho cả công viên nghe",
+    "Shout so the whole park hears",
+    0,
+    "Muốn bạn dừng thì nói nhẹ nhàng hoặc nhờ người lớn, không cần la to.",
+    "To stop them, speak kindly or ask a grown-up — no need to shout."
+   ],
+   [
+    "Nói: “Hoa này để mọi người cùng ngắm”, rồi rủ các bạn chơi trò khác",
+    "Say: “These flowers are for everyone,” and suggest another game",
+    1,
+    "Tự nghĩ xem việc đó đúng hay sai, không chỉ làm theo số đông.",
+    "Think for yourself whether it’s right, not just follow the crowd."
+   ],
+   [
+    "Hái theo vì các bạn đều hái",
+    "Pick some — everyone else is",
+    0,
+    "Nhiều người làm chưa chắc là đúng. Hoa ở công viên là để mọi người cùng ngắm.",
+    "Lots of people doing it doesn’t make it right. Park flowers are for everyone."
+   ]
+  ],
+  "qq": [
+   "Nhiều người cùng làm một việc thì…",
+   "When lots of people do something…"
+  ],
+  "qo": [
+   [
+    "Mình vẫn cần tự nghĩ xem đúng hay sai",
+    "You still need to think whether it’s right"
+   ],
+   [
+    "Chắc chắn là đúng",
+    "It must be right"
+   ],
+   [
+    "Mình phải làm theo",
+    "You have to join in"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh họ và em gái đều nói: “Ăn tối xong không cần đánh răng đâu.”",
+     "Bin’s cousin and little sister both say: “No need to brush your teeth after dinner.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Vẫn đánh răng, vì biết đánh răng giúp răng khoẻ",
+      "Brush anyway — you know it keeps teeth healthy",
+      1,
+      "Hai người nói vậy không làm điều đó thành đúng. Con làm theo điều con biết là tốt.",
+      "Two people saying it doesn’t make it true. Do what you know is good."
+     ],
+     [
+      "Bỏ đánh răng vì hai người cùng nói",
+      "Skip it because two people said so",
+      0,
+      "Nhiều người nói chưa chắc đã đúng. Răng khoẻ cần được đánh mỗi tối.",
+      "More voices don’t make it right. Healthy teeth need brushing every night."
+     ],
+     [
+      "Cãi nhau cho đến khi thắng",
+      "Argue until you win",
+      0,
+      "Cãi nhau làm mọi người buồn. Con có thể nhẹ nhàng nói lý do của mình.",
+      "Arguing upsets everyone. Gently say your reason instead."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ làm bài, vài bạn quanh Bin bắt đầu nói chuyện riêng. Một bạn rủ: “Cả bàn đều nói mà!”",
+     "During classwork, a few kids around Bin start chatting. One says: “The whole table is talking!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hét to: “Im hết đi!”",
+      "Shout: “Everyone be quiet!”",
+      0,
+      "La to cũng làm lớp ồn thêm. Nói nhỏ nhẹ sẽ tốt hơn.",
+      "Shouting adds more noise. Speak softly instead."
+     ],
+     [
+      "Nói nhỏ: “Mình làm bài xong rồi nói nhé”, và tiếp tục làm",
+      "Whisper: “Let’s finish first, then chat,” and keep working",
+      1,
+      "Không làm theo số đông khi chưa đúng lúc, và nhẹ nhàng rủ bạn cùng làm.",
+      "Don’t follow the crowd at the wrong time — and kindly invite friends to work."
+     ],
+     [
+      "Nói chuyện theo cho vui",
+      "Join in for fun",
+      0,
+      "Cả bàn cùng nói thì bài vẫn chưa xong. Con chọn việc đúng nhé.",
+      "The whole table talking doesn’t get the work done. Choose what’s right."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Người lạ nhắn tin trên mạng",
+   "Messages from strangers online"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin đang dùng máy tính bảng của mẹ để học. Một người lạ nhắn: “Gửi cho chú ảnh và tên trường của con nhé.”",
+   "Bin is using Mum’s tablet for learning. A stranger messages: “Send me your photo and the name of your school.”"
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Không trả lời, đưa máy cho mẹ xem ngay",
+    "Don’t reply, and show Mum straight away",
+    1,
+    "Ảnh, tên, trường học là thông tin riêng. Báo ngay cho ba mẹ để ba mẹ giúp con.",
+    "Photos, names and schools are private. Tell a parent right away so they can help."
+   ],
+   [
+    "Gửi ảnh vì người đó nói chuyện rất dễ thương",
+    "Send it — they seem nice",
+    0,
+    "Người lạ trên mạng dù nói ngọt vẫn là người lạ. Không gửi gì, báo ba mẹ nhé.",
+    "A stranger online is still a stranger, however nice. Send nothing, and tell a parent."
+   ],
+   [
+    "Trả lời “Con không gửi đâu”, rồi nói chuyện tiếp",
+    "Reply “No,” then keep chatting",
+    0,
+    "Không cần trả lời người lạ. Dừng lại và gọi ba mẹ là an toàn nhất.",
+    "No need to reply to strangers. Stop and get a parent — that’s safest."
+   ]
+  ],
+  "qq": [
+   "Khi người lạ trên mạng xin ảnh hoặc thông tin, con nên…",
+   "If a stranger online asks for photos or details, you should…"
+  ],
+  "qo": [
+   [
+    "Gửi nếu họ hứa tặng quà",
+    "Send them if they promise a gift"
+   ],
+   [
+    "Giữ bí mật",
+    "Keep it secret"
+   ],
+   [
+    "Không trả lời và báo ba mẹ",
+    "Don’t reply, and tell a parent"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ở lớp, bạn Huy kể có người trên mạng hẹn gặp Huy ở cổng trường để tặng đồ chơi, và dặn đừng nói với ai.",
+     "At school, Huy says someone online wants to meet him at the school gate to give him a toy — and told him not to tell anyone."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Xin đi cùng để được quà",
+      "Ask to come along for a toy too",
+      0,
+      "Không bao giờ đi gặp người chỉ quen trên mạng. Báo cô ngay nhé.",
+      "Never go to meet someone you only know online. Tell the teacher now."
+     ],
+     [
+      "Giữ bí mật giúp Huy",
+      "Keep Huy’s secret",
+      0,
+      "Bí mật làm bạn không an toàn thì phải nói với người lớn. Đó mới là giúp bạn.",
+      "A secret that puts a friend at risk must be told. That’s real help."
+     ],
+     [
+      "Nói với Huy: “Mình báo cô ngay nhé”, rồi cùng bạn đi gặp cô",
+      "Tell Huy: “Let’s tell our teacher now,” and go together",
+      1,
+      "Người tốt không bắt trẻ giấu ba mẹ, thầy cô. Báo người lớn giúp bạn an toàn.",
+      "Safe grown-ups never ask children to keep secrets from parents or teachers. Telling keeps Huy safe."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quán ăn, ba mẹ ngồi cùng bàn. Trên máy tính bảng hiện lên dòng chữ: “Bạn được tặng quà! Nhập địa chỉ nhà để nhận.”",
+     "At a restaurant, with Mum and Dad at the table, a message pops up on the tablet: “You’ve got a free gift! Enter your home address.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bấm thử xem quà là gì",
+      "Tap to see what the gift is",
+      0,
+      "Bấm vào điều lạ có thể không an toàn. Hỏi ba mẹ trước nhé.",
+      "Tapping strange things can be unsafe. Ask a parent first."
+     ],
+     [
+      "Không bấm gì, đưa máy cho ba mẹ xem",
+      "Don’t tap anything — show Mum or Dad",
+      1,
+      "Gặp thông báo lạ trên mạng, con dừng tay và hỏi ba mẹ trước.",
+      "With odd messages online, stop and ask a parent first."
+     ],
+     [
+      "Nhập địa chỉ thật nhanh",
+      "Type in the address quickly",
+      0,
+      "Địa chỉ nhà là thông tin riêng. Thông báo lạ có thể là lừa đấy.",
+      "Your address is private. Strange pop-ups can be tricks."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Việc lớn chia thành việc nhỏ",
+   "Big jobs in small steps"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô giao cả lớp đọc một quyển truyện 30 trang trong một tuần. Bin thấy dài quá nên chưa mở ra.",
+   "The teacher asks everyone to read a 30-page storybook this week. Bin thinks it’s too long and hasn’t opened it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Để đến tối cuối cùng đọc một lần",
+    "Read it all on the last night",
+    0,
+    "Dồn vào một tối thì mệt và dễ không kịp. Chia ra mỗi tối một ít nhé.",
+    "Cramming tires you and might not get finished. A bit each night is better."
+   ],
+   [
+    "Mỗi tối đọc 5 trang, kẹp thẻ đánh dấu chỗ đọc đến",
+    "Read 5 pages each evening and mark your place",
+    1,
+    "Chia việc lớn thành phần nhỏ mỗi ngày, việc khó cũng trở nên dễ.",
+    "Splitting a big job into small daily bits makes it easy."
+   ],
+   [
+    "Chỉ đọc trang đầu và trang cuối",
+    "Just read the first and last pages",
+    0,
+    "Bỏ qua phần giữa thì con không hiểu câu chuyện. Đọc từng phần nhỏ sẽ dễ hơn.",
+    "Skipping the middle loses the story. Small parts are easier."
+   ]
+  ],
+  "qq": [
+   "Gặp việc lớn, con nên…",
+   "With a big job, you should…"
+  ],
+  "qo": [
+   [
+    "Làm hết một lần",
+    "Do it all at once"
+   ],
+   [
+    "Chia thành nhiều phần nhỏ",
+    "Split it into small parts"
+   ],
+   [
+    "Để sau",
+    "Leave it for later"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin muốn tự làm thiệp tặng ông nội: cắt, vẽ, tô màu và viết lời chúc. Bin thấy nhiều việc quá.",
+     "Bin wants to make a card for Grandpa: cut, draw, colour and write a message. It feels like a lot."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Làm tất cả cùng lúc",
+      "Do it all at once",
+      0,
+      "Làm cùng lúc dễ rối và lem màu. Từng bước một sẽ đẹp hơn.",
+      "All at once gets messy. One step at a time looks better."
+     ],
+     [
+      "Thôi, nhờ mẹ làm hộ",
+      "Ask Mum to make it instead",
+      0,
+      "Thiệp con tự làm có ý nghĩa nhất với ông. Chia nhỏ ra con sẽ làm được.",
+      "A card you made yourself means most to Grandpa. Small steps make it doable."
+     ],
+     [
+      "Hôm nay cắt và vẽ, mai tô màu và viết lời chúc",
+      "Cut and draw today; colour and write tomorrow",
+      1,
+      "Chia thành các bước nhỏ, mỗi ngày một ít, tấm thiệp sẽ xong mà con không mệt.",
+      "Small steps across two days finish the card without wearing you out."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên, ba và Bin cùng các cô chú trong khu phố nhặt rác trên lối đi. Lối đi dài quá, Bin thấy nản.",
+     "At the park, Dad and Bin join neighbours picking up litter along the path. The path is so long Bin feels like giving up."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đòi về vì nhiều quá",
+      "Ask to go home — it’s too much",
+      0,
+      "Nhìn cả đoạn dài thì ai cũng nản. Thử chia nhỏ ra nhé.",
+      "The whole path looks huge to anyone. Try splitting it up."
+     ],
+     [
+      "Nhặt vội vài cái rồi đi chơi",
+      "Grab a few bits and go off to play",
+      0,
+      "Nhặt vội thì nhanh nản. Đặt một đoạn ngắn cho mình sẽ dễ hơn.",
+      "Rushing makes you give up sooner. Pick a short stretch."
+     ],
+     [
+      "Cùng ba chọn một đoạn đến gốc cây, nhặt xong rồi chọn đoạn tiếp",
+      "Pick a stretch to the next tree with Dad, finish it, then pick the next",
+      1,
+      "Chia đoạn đường dài thành từng phần ngắn, con sẽ thấy mình làm được nhiều.",
+      "Breaking a long path into short bits shows how much you can do."
+     ]
+    ]
+   }
+  }
+ }
+]

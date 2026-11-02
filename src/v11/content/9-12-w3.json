@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 5,
+  "t": [
+   "Sự thật hay ý kiến?",
+   "Fact or opinion?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Làm bài thuyết trình về loài mèo, Vy viết: “Mèo là con vật đáng yêu nhất thế giới.” An băn khoăn câu này có nên để trong phần “Thông tin khoa học” không.",
+   "For a talk about cats, Vy writes: “Cats are the cutest animal in the world.” An wonders if it belongs in the “Science facts” section."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Gợi ý Vy chuyển câu đó sang phần “Cảm nghĩ của nhóm” và tìm thêm một sự thật kiểm chứng được",
+    "Suggest Vy moves it to “Our thoughts” and finds a fact that can be checked",
+    1,
+    "Sự thật là điều kiểm chứng được, như “mèo ngủ khoảng 12 đến 16 giờ mỗi ngày”. Ý kiến là cảm nhận riêng — vẫn hay, chỉ cần để đúng chỗ.",
+    "A fact can be checked, like “cats sleep 12 to 16 hours a day”. An opinion is a personal view — fine, just in the right place."
+   ],
+   [
+    "Để nguyên, vì ai chẳng thấy mèo đáng yêu",
+    "Leave it, everyone thinks cats are cute",
+    0,
+    "Nhiều người đồng ý thì vẫn là ý kiến, vì có người thích chó hơn. Phần khoa học cần điều đo được, kiểm được.",
+    "Lots of people agreeing still makes it an opinion — some prefer dogs. Science needs things you can measure."
+   ],
+   [
+    "Xoá luôn câu đó và không nói gì với Vy",
+    "Delete it without telling Vy",
+    0,
+    "Tự xoá bài của bạn dễ làm bạn buồn. Giải thích sự khác nhau thì cả nhóm cùng hiểu.",
+    "Deleting a teammate’s line can upset her. Explaining the difference helps the whole group."
+   ]
+  ],
+  "qq": [
+   "Câu nào là sự thật?",
+   "Which one is a fact?"
+  ],
+  "qo": [
+   [
+    "Màu xanh là màu đẹp nhất",
+    "Blue is the prettiest colour"
+   ],
+   [
+    "Mùa hè là mùa đẹp nhất",
+    "Summer is the best season"
+   ],
+   [
+    "Nước sôi ở 100 độ C ở mực nước biển",
+    "Water boils at 100°C at sea level"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Anh của An nói: “Phim hoạt hình mới chán lắm, đừng xem.” Còn bạn của An lại khen phim rất hay.",
+     "An’s older brother says: “The new cartoon is boring, don’t bother.” An’s friend says it’s great."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tin anh vì anh lớn hơn",
+      "Believe your brother because he’s older",
+      0,
+      "Lớn hơn không biến ý kiến thành sự thật. Chán hay hay là cảm nhận riêng của mỗi người.",
+      "Being older doesn’t turn an opinion into a fact. Boring or great is personal taste."
+     ],
+     [
+      "Hiểu đó là hai ý kiến, xem phim có hợp lứa tuổi không, rồi xin ba mẹ xem thử",
+      "See they’re two opinions, check the age rating, and ask your parents to try it",
+      1,
+      "Ý kiến của người khác để tham khảo, còn quyết định dựa trên thông tin như độ tuổi phù hợp.",
+      "Others’ opinions are for reference; decide using facts like the age rating."
+     ],
+     [
+      "Không xem vì hai người nói khác nhau, rối quá",
+      "Skip it because they disagree",
+      0,
+      "Hai ý kiến khác nhau là chuyện bình thường. Con có thể tìm thông tin rồi tự đánh giá.",
+      "Different opinions are normal. You can find out more and judge for yourself."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở hiệu sách, một người bán hàng nói với ba và An: “Cuốn này hay nhất, ai cũng mua.”",
+     "In a bookshop, a shop assistant tells Dad and An: “This one is the best, everyone buys it.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mua ngay vì người bán nói vậy",
+      "Buy it because she said so",
+      0,
+      "“Hay nhất” là ý kiến, “ai cũng mua” chưa chắc đúng. Mình nên tự xem nội dung.",
+      "“The best” is an opinion and “everyone” may not be true. Look at it yourself."
+     ],
+     [
+      "Nói với cô là cô quảng cáo sai",
+      "Tell her she’s wrong",
+      0,
+      "Cô chỉ đang nêu ý kiến, không sai. Lễ phép cảm ơn rồi tự kiểm tra là đủ.",
+      "She’s sharing an opinion, not lying. Thank her politely and check for yourself."
+     ],
+     [
+      "Lật vài trang đọc thử, xem phần giới thiệu, rồi cùng ba quyết định",
+      "Read a few pages and the blurb, then decide with Dad",
+      1,
+      "Đọc thử là cách lấy sự thật về cuốn sách: chữ có vừa sức không, nội dung có hợp mình không.",
+      "Reading a sample gives you facts: is it your level, is it your kind of story?"
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Giữ thông tin cá nhân trên mạng",
+   "Keeping my details private online"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An chơi một trò đố vui trên máy tính bảng của nhà. Một tài khoản lạ nhắn: “Bạn giỏi quá! Cho mình xin tên trường và địa chỉ để gửi quà nhé.”",
+   "An is playing a quiz game on the family tablet. An unknown account messages: “You’re so good! Send me your school and address so I can post you a prize.”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Không trả lời, cho ba mẹ xem tin nhắn và cùng ba mẹ chặn tài khoản đó",
+    "Don’t reply, show your parents and block the account together",
+    1,
+    "Quà tặng từ người lạ trên mạng thường là cái bẫy. Kể với ba mẹ là cách an toàn nhất, con không có lỗi gì cả.",
+    "Prizes from online strangers are often a trap. Telling your parents is safest — you’ve done nothing wrong."
+   ],
+   [
+    "Gửi tên trường thôi, không gửi địa chỉ",
+    "Send the school name but not the address",
+    0,
+    "Tên trường cũng là thông tin giúp người lạ tìm ra con. Thông tin cá nhân thì không gửi phần nào cả.",
+    "Your school name also helps a stranger find you. Personal details stay private, all of them."
+   ],
+   [
+    "Hỏi lại người đó là ai trước",
+    "Ask who they are first",
+    0,
+    "Trên mạng ai cũng có thể giả làm bạn nhỏ. Không cần trò chuyện thêm, hãy báo ba mẹ.",
+    "Online, anyone can pretend to be a kid. No need to chat — tell your parents."
+   ]
+  ],
+  "qq": [
+   "Thông tin nào KHÔNG nên chia sẻ trên mạng?",
+   "Which details should you NOT share online?"
+  ],
+  "qo": [
+   [
+    "Địa chỉ nhà, tên trường, số điện thoại",
+    "Home address, school name, phone number"
+   ],
+   [
+    "Màu sắc yêu thích",
+    "Your favourite colour"
+   ],
+   [
+    "Món ăn mình thích",
+    "Your favourite food"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giáo lập nhóm chat lớp để gửi bài tập. Bạn Nam rủ mọi người đăng ảnh thẻ học sinh có cả họ tên, ngày sinh lên nhóm cho vui.",
+     "The teacher set up a class group chat for homework. Nam suggests everyone post a photo of their student card, with full name and birthday, just for fun."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đăng theo các bạn cho khỏi lạc lõng",
+      "Post it so you don’t feel left out",
+      0,
+      "Ảnh trong nhóm có thể bị lưu và gửi đi nơi khác. Không theo bạn trong chuyện này là đúng.",
+      "Photos in a group can be saved and forwarded. Not following along here is right."
+     ],
+     [
+      "Đăng rồi xoá sau vài phút",
+      "Post it and delete it after a few minutes",
+      0,
+      "Chỉ vài giây là ảnh đã có thể bị lưu lại. Không đăng ngay từ đầu là chắc chắn nhất.",
+      "It only takes seconds for a photo to be saved. Not posting at all is the safe choice."
+     ],
+     [
+      "Nhắn với Nam là mình không đăng, và kể với cô hoặc ba mẹ để mọi người cùng biết cách giữ an toàn",
+      "Tell Nam you won’t post, and let the teacher or your parents know so everyone stays safe",
+      1,
+      "Nhóm chat lớp để học, còn giấy tờ cá nhân thì giữ riêng. Báo người lớn giúp bảo vệ cả lớp.",
+      "The class chat is for school; personal documents stay private. Telling an adult protects everyone."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quán ăn cùng gia đình, An dùng mạng miễn phí. Một trang hiện lên: “Nhập số điện thoại của ba mẹ để nhận phiếu ăn miễn phí.”",
+     "At a restaurant with family, An uses the free wifi. A page pops up: “Enter your parent’s phone number for a free meal voucher.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhập vào để được phiếu ăn cho cả nhà",
+      "Enter it to get the family a free meal",
+      0,
+      "Số điện thoại của ba mẹ là thông tin riêng. Đồ miễn phí đôi khi phải trả giá bằng thông tin.",
+      "Your parent’s number is private. “Free” sometimes costs you your information."
+     ],
+     [
+      "Tắt trang đó và nói với ba mẹ ngay",
+      "Close the page and tell your parents straight away",
+      1,
+      "Trang lạ xin số điện thoại thường không đáng tin. Để ba mẹ quyết định là an toàn nhất.",
+      "Unknown pages asking for numbers are rarely trustworthy. Let your parents decide."
+     ],
+     [
+      "Nhập số điện thoại của mình thay vì của ba mẹ",
+      "Enter your own number instead",
+      0,
+      "Số của con cũng cần được giữ riêng như của ba mẹ. Hỏi ba mẹ trước khi nhập bất cứ thông tin nào.",
+      "Your number needs protecting just as much. Ask your parents before typing any details."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Bắt tay vào việc, đừng chần chừ",
+   "Getting started, not putting it off"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An có bài văn tả cây phải nộp sau hai ngày. Tối nay An định “xem một chút rồi viết”, nhưng đã gần 9 giờ mà chưa viết chữ nào.",
+   "An has an essay describing a tree due in two days. Tonight An planned to “watch a bit, then write”, but it’s nearly 9 and nothing is written."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đặt đồng hồ 15 phút, chỉ viết dàn ý, rồi đi ngủ đúng giờ",
+    "Set a 15-minute timer, just write the outline, then go to bed on time",
+    1,
+    "Bắt đầu bằng một bước nhỏ giúp mình vượt qua cảm giác ngại. Có dàn ý rồi, mai viết sẽ trôi chảy.",
+    "A tiny first step beats the urge to put it off. With an outline, tomorrow flows."
+   ],
+   [
+    "Hẹn mai viết một thể",
+    "Promise to write it all tomorrow",
+    0,
+    "Để mai thì việc dồn lại và áp lực lớn hơn. Bắt đầu một chút hôm nay sẽ dễ hơn nhiều.",
+    "Leaving it piles the pressure on. Starting a little today makes tomorrow easier."
+   ],
+   [
+    "Thức khuya viết cho xong cả bài",
+    "Stay up late and finish the lot",
+    0,
+    "Thức khuya làm sáng mai mệt và bài viết vội. Chia nhỏ ra sẽ tốt hơn.",
+    "Staying up makes tomorrow tiring and the essay rushed. Breaking it up works better."
+   ]
+  ],
+  "qq": [
+   "Cách tốt để bớt chần chừ là…",
+   "A good way to stop putting things off is…"
+  ],
+  "qo": [
+   [
+    "Chờ đến khi có hứng",
+    "Wait until you feel like it"
+   ],
+   [
+    "Làm tất cả vào phút cuối",
+    "Do it all at the last minute"
+   ],
+   [
+    "Bắt đầu bằng một bước thật nhỏ, có hẹn giờ",
+    "Start with one tiny, timed step"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm của An được giao làm áp phích về tiết kiệm nước, nộp vào thứ Sáu. Đến thứ Ba, An vẫn chưa bắt đầu phần vẽ của mình.",
+     "An’s group must make a water-saving poster by Friday. On Tuesday, An still hasn’t started the drawing part."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chờ đến thứ Năm vẽ một lần cho đẹp",
+      "Wait until Thursday and do it properly in one go",
+      0,
+      "Để sát hạn thì không còn thời gian sửa nếu có sai sót. Nhóm cũng lo lắng chờ.",
+      "Leaving it late means no time to fix mistakes, and the group is left worrying."
+     ],
+     [
+      "Vẽ phác thảo ngay giờ ra chơi hôm nay và gửi nhóm xem",
+      "Sketch it at break today and show the group",
+      1,
+      "Một bản phác thảo nhanh giúp nhóm yên tâm và con có thời gian sửa.",
+      "A quick sketch reassures the group and leaves you time to improve it."
+     ],
+     [
+      "Nhờ bạn khác vẽ hộ",
+      "Ask someone else to draw it",
+      0,
+      "Phần việc của mình mà nhờ bạn làm thì bạn bị quá tải. Bắt đầu từ một nét nhỏ thôi cũng được.",
+      "Passing your part on overloads a teammate. Even a few lines is a start."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Mẹ nhờ An viết thiệp cảm ơn bác hàng xóm đã cho rau. An cứ để đó ba ngày, lần nào gặp bác cũng thấy ngại.",
+     "Mum asked An to write a thank-you card to the neighbour who gave them vegetables. Three days later it’s still not done, and An feels awkward whenever they meet."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thôi khỏi viết, bác chắc quên rồi",
+      "Skip it, she’s probably forgotten",
+      0,
+      "Lời cảm ơn muộn vẫn tốt hơn không có. Bác sẽ vui khi nhận được.",
+      "A late thank-you beats none. She’ll still be pleased."
+     ],
+     [
+      "Chờ mua được thiệp thật đẹp rồi mới viết",
+      "Wait until you can buy a really nice card",
+      0,
+      "Chờ hoàn hảo là một kiểu chần chừ. Một tờ giấy tự trang trí cũng rất ý nghĩa.",
+      "Waiting for perfect is another way of putting it off. A hand-decorated note means a lot."
+     ],
+     [
+      "Viết ngay ba câu ngắn hôm nay, rồi cùng mẹ sang đưa bác",
+      "Write three short lines today and take it over with Mum",
+      1,
+      "Việc nhỏ để lâu thành nặng lòng. Làm ngay chỉ mất năm phút và con thấy nhẹ nhõm.",
+      "Small jobs left too long weigh on you. Doing it now takes five minutes and feels great."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Cần hay muốn?",
+   "Need or want?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi nhà sách với mẹ, An có 50.000 đồng tiền tiêu vặt để mua bút mới vì bút cũ đã hỏng. An lại thấy một bộ nhãn dán lấp lánh giá 45.000 đồng.",
+   "At the stationery shop with Mum, An has 50,000₫ of pocket money to replace a broken pen. Then An spots a sparkly sticker set for 45,000₫."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Mua nhãn dán, bút thì mượn bạn",
+    "Buy the stickers and borrow a pen",
+    0,
+    "Mượn bút mãi sẽ phiền bạn và con vẫn thiếu đồ học. Thứ cần nên được ưu tiên.",
+    "Borrowing every day bothers friends and you still lack what you need. Needs come first."
+   ],
+   [
+    "Mua bút trước, ghi bộ sticker vào danh sách để dành",
+    "Buy the pen first and add the stickers to a saving list",
+    1,
+    "Bút là thứ cần để học, nhãn dán là thứ muốn. Lo thứ cần trước, thứ muốn thì để dành dần.",
+    "The pen is a need for school; stickers are a want. Needs first, then save up for wants."
+   ],
+   [
+    "Xin mẹ thêm tiền để mua cả hai",
+    "Ask Mum for extra to buy both",
+    0,
+    "Xin thêm mỗi lần thích thì khó học cách chọn. Tự cân nhắc trong số tiền mình có mới là kỹ năng.",
+    "Asking for more every time means never learning to choose. Deciding within your money is the skill."
+   ]
+  ],
+  "qq": [
+   "Thứ “cần” là…",
+   "A “need” is…"
+  ],
+  "qo": [
+   [
+    "Thứ bạn bè đều có",
+    "Something all your friends have"
+   ],
+   [
+    "Thứ mình không thể thiếu để sống và học",
+    "Something you can’t do without for living and learning"
+   ],
+   [
+    "Thứ mình thấy đẹp",
+    "Something that looks nice"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Giày thể thao của An còn tốt nhưng An muốn đôi mới có đèn nhấp nháy. Mẹ hỏi An: “Con cần hay con muốn?”",
+     "An’s trainers are still fine, but An wants a new pair with flashing lights. Mum asks: “Do you need them or want them?”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Con cần, vì giày cũ xấu rồi”",
+      "Say “I need them, the old ones are ugly”",
+      0,
+      "Chưa đẹp không có nghĩa là hỏng. Thành thật với mình giúp con chọn đúng.",
+      "Not pretty isn’t the same as worn out. Being honest with yourself helps you choose."
+     ],
+     [
+      "Giận dỗi vì mẹ không mua",
+      "Sulk because Mum won’t buy them",
+      0,
+      "Giận dỗi không giúp có giày. Cùng mẹ lên kế hoạch để dành sẽ hiệu quả hơn.",
+      "Sulking won’t get the shoes. A saving plan with Mum works better."
+     ],
+     [
+      "Thành thật nói là muốn, và đề nghị tự để dành một phần tiền",
+      "Admit it’s a want and offer to save towards it",
+      1,
+      "Biết phân biệt cần và muốn là bước đầu của tiêu tiền khôn ngoan. Tự góp tiền giúp con quý món đồ hơn.",
+      "Telling needs from wants is step one of spending wisely. Saving towards it makes you value it more."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp chuẩn bị đi tham quan. Danh sách cô đưa gồm nước, mũ, áo mưa. Bạn Bảo bảo An mang thêm thật nhiều bánh kẹo cho “sành điệu”.",
+     "The class is going on a trip. The teacher’s list says water, a hat and a raincoat. Bảo tells An to bring loads of sweets to look cool."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Mang đủ đồ trong danh sách, thêm một món ăn vặt nhỏ ba mẹ đồng ý",
+      "Pack the list, plus one small snack your parents agree to",
+      1,
+      "Đủ thứ cần rồi thêm chút thứ muốn hợp lý là cách cân bằng tốt.",
+      "Needs covered, plus a small sensible want — that’s a good balance."
+     ],
+     [
+      "Mua thật nhiều bánh kẹo để bạn khen",
+      "Buy lots of sweets to impress",
+      0,
+      "Mua để được khen dễ làm tốn tiền mà không cần thiết. Danh sách của cô là những thứ quan trọng.",
+      "Buying to impress wastes money. The teacher’s list is what matters."
+     ],
+     [
+      "Bỏ áo mưa để có chỗ cho bánh kẹo",
+      "Leave the raincoat out to fit the sweets",
+      0,
+      "Áo mưa là thứ cần nếu trời đổ mưa. Đừng đổi thứ cần lấy thứ muốn.",
+      "A raincoat is a need if it rains. Don’t swap a need for a want."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Khi tức giận: dừng lại trước khi nói",
+   "When I’m angry: pause before speaking"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Đá bóng giờ ra chơi, Huy hét lên rằng tại An mà đội thua. An thấy mặt nóng bừng, tay nắm chặt.",
+   "During a football game at break, Huy shouts that the team lost because of An. An’s face burns and fists clench."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Hét lại thật to: “Cậu mới là người chơi dở!”",
+    "Yell back: “You’re the bad player!”",
+    0,
+    "Hét lại làm cả hai càng giận và trận cãi kéo dài. Bình tĩnh trước rồi mới nói sẽ được lắng nghe hơn.",
+    "Yelling back makes you both angrier. Calm first, then speak — you’ll be heard."
+   ],
+   [
+    "Hít sâu ba hơi, đi ra chỗ khác một chút rồi mới nói chuyện với Huy",
+    "Take three deep breaths, step away for a bit, then talk to Huy",
+    1,
+    "Cơn giận giống sóng: lên cao rồi sẽ hạ. Dừng lại vài giây giúp con nói điều mình muốn, không phải điều mình hối hận.",
+    "Anger is like a wave: it rises, then falls. A short pause helps you say what you mean, not what you regret."
+   ],
+   [
+    "Bỏ về lớp và không chơi với Huy nữa",
+    "Storm off and stop being Huy’s friend",
+    0,
+    "Rời đi để bình tĩnh là tốt, nhưng cắt đứt tình bạn vì một trận bóng thì tiếc lắm. Lúc nguôi hãy nói chuyện lại.",
+    "Stepping away to calm down is good, but ending a friendship over one game is a shame. Talk once you’ve cooled down."
+   ]
+  ],
+  "qq": [
+   "Khi rất tức giận, việc nên làm đầu tiên là…",
+   "When you’re very angry, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Dừng lại, hít thở cho bình tĩnh",
+    "Pause and breathe until calmer"
+   ],
+   [
+    "Nói ngay điều mình nghĩ",
+    "Say exactly what you think right away"
+   ],
+   [
+    "Giữ trong lòng mãi mãi",
+    "Keep it inside for ever"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em của An vẽ bậy lên trang vở An vừa trình bày rất đẹp. An tức đến mức muốn xé vở của em.",
+     "An’s little sister scribbles on a page An had just made really neat. An is so angry An wants to tear up her book."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Xé vở của em cho công bằng",
+      "Tear her book to make it fair",
+      0,
+      "Làm hỏng đồ của em không làm vở con đẹp lại, còn làm em buồn. Có cách tốt hơn.",
+      "Ruining her book won’t fix yours and will upset her. There’s a better way."
+     ],
+     [
+      "Mắng em một trận thật to",
+      "Shout at her loudly",
+      0,
+      "Em nhỏ dễ sợ khi bị quát. Nói bình tĩnh thì em mới nhớ được điều con dặn.",
+      "Little ones get scared by shouting. Speaking calmly is how she’ll remember."
+     ],
+     [
+      "Đặt vở xuống, ra rót cốc nước, rồi nói với em: “Vở bị vẽ làm mình buồn lắm. Lần sau em hỏi trước nhé.”",
+      "Put the book down, get a glass of water, then tell her: “I’m upset my book got scribbled on. Ask me first next time.”",
+      1,
+      "Rời đi một chút rồi nói rõ cảm xúc và điều mình mong muốn giúp em hiểu mà không sợ.",
+      "Stepping away, then naming your feeling and your wish, helps her understand without being scared."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Xếp hàng mua vé xem xiếc cùng mẹ, An bị một bạn lớn hơn chen lên trước. An bực mình muốn đẩy bạn ra.",
+     "Queuing for circus tickets with Mum, an older kid pushes in front of An. An is cross and wants to shove them."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hít thở, rồi nói với mẹ để mẹ nhắc bạn hoặc báo nhân viên",
+      "Breathe, then tell Mum so she can speak to them or a staff member",
+      1,
+      "Bình tĩnh và nhờ người lớn là cách xử lý an toàn, công bằng ở nơi đông người.",
+      "Staying calm and asking an adult is the safe, fair way to handle it in public."
+     ],
+     [
+      "Đẩy bạn ra khỏi hàng",
+      "Push them out of the queue",
+      0,
+      "Xô đẩy chỗ đông người dễ gây ngã và nguy hiểm. Hãy dùng lời nói hoặc nhờ người lớn.",
+      "Pushing in a crowd can make people fall. Use words or ask an adult."
+     ],
+     [
+      "Lẩm bẩm khó chịu suốt buổi",
+      "Grumble about it all afternoon",
+      0,
+      "Giữ bực tức cả buổi làm con mất vui khi xem xiếc. Nói ra hoặc nhờ giúp rồi cho qua.",
+      "Holding on to it spoils the show. Speak up or get help, then let it go."
+     ]
+    ]
+   }
+  }
+ }
+]

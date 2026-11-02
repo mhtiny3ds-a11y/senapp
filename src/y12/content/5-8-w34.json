@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự giữ vệ sinh khi đi chơi về",
+   "Staying clean after playing out"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin chơi ngoài sân về, tay lấm bùn, giày dính đất. Bin muốn chạy ngay vào bàn ăn bánh.",
+   "Bin comes in from the yard with muddy hands and dirty shoes. He wants to run straight to the table for a snack."
+  ],
+  "cq": [
+   "Bin nên làm gì trước?",
+   "What should Bin do first?"
+  ],
+  "co": [
+   [
+    "Lau tay vào quần rồi ăn luôn",
+    "Wipe his hands on his trousers and eat",
+    0,
+    "Quần cũng đang bẩn mà. Con ra bồn rửa tay với xà phòng nhé, chỉ mất một chút thôi.",
+    "His trousers are dirty too. A quick wash with soap at the sink only takes a moment."
+   ],
+   [
+    "Chờ mẹ nhắc rồi mới rửa",
+    "Wait for Mum to remind him",
+    0,
+    "Con tự nhớ được mà. Về nhà là cất giày, rửa tay ngay, mẹ sẽ rất vui.",
+    "You can remember by yourself. Shoes away and hands washed as soon as you’re in, and Mum will be so pleased."
+   ],
+   [
+    "Cất giày, rửa tay bằng xà phòng, thay đồ rồi mới ăn",
+    "Put his shoes away, wash with soap, change, then eat",
+    1,
+    "Bụi bẩn ở ngoài theo tay vào miệng. Rửa tay, thay đồ xong thì ăn vừa sạch vừa ngon.",
+    "Outdoor dirt goes from hands to mouth. Wash and change first, and the snack is clean and tasty."
+   ]
+  ],
+  "qq": [
+   "Đi chơi ngoài về, việc đầu tiên là gì?",
+   "After playing outside, what comes first?"
+  ],
+  "qo": [
+   [
+    "Ăn bánh ngay",
+    "Have a snack"
+   ],
+   [
+    "Cất giày và rửa tay",
+    "Shoes away and wash hands"
+   ],
+   [
+    "Nằm lên giường nghỉ",
+    "Lie on the bed"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ ra chơi xong, tay Bin dính đầy cát. Sắp đến giờ ăn trưa ở lớp.",
+     "After break, Bin’s hands are covered in sand. Lunch in class is coming up."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ra bồn rửa tay bằng xà phòng trước khi ăn",
+      "Wash his hands with soap before eating",
+      1,
+      "Cát và bụi có nhiều vi khuẩn. Rửa tay trước khi ăn giúp con khoẻ mạnh.",
+      "Sand and dust carry germs. Washing before eating keeps you healthy."
+     ],
+     [
+      "Phủi tay vào áo cho nhanh",
+      "Brush his hands on his shirt",
+      0,
+      "Phủi thì cát rơi bớt nhưng vẫn còn bẩn. Con rửa với xà phòng nhé.",
+      "Brushing gets some sand off, but they’re still dirty. Use soap and water."
+     ],
+     [
+      "Ăn luôn vì đói quá",
+      "Eat straight away because he’s hungry",
+      0,
+      "Đói thật đấy, nhưng rửa tay chỉ mất một chút. Rửa xong ăn ngon hơn.",
+      "You are hungry, but washing takes a moment. Food tastes better with clean hands."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Bin chơi cát ở công viên với ba. Ba lấy hộp trái cây ra cho cả hai ăn.",
+     "Bin plays in the sandpit at the park with Dad. Dad gets out a box of fruit to share."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bốc trái cây ngay bằng tay dính cát",
+      "Grab fruit with sandy hands",
+      0,
+      "Cát sẽ dính vào trái cây và vào miệng. Lau tay trước đã con nhé.",
+      "The sand ends up on the fruit and in your mouth. Wipe your hands first."
+     ],
+     [
+      "Xin ba khăn ướt, lau sạch tay rồi mới ăn",
+      "Ask Dad for a wet wipe, clean his hands, then eat",
+      1,
+      "Ở ngoài không có bồn rửa thì khăn ướt giúp tay sạch hơn trước khi ăn.",
+      "With no sink outside, a wet wipe gets your hands cleaner before eating."
+     ],
+     [
+      "Không ăn nữa vì tay bẩn",
+      "Not eat at all because his hands are dirty",
+      0,
+      "Con không cần bỏ ăn đâu. Chỉ cần lau sạch tay là ăn được rồi.",
+      "No need to skip it. Just clean your hands and you can eat."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Về nhà: cất giày, rửa tay, thay đồ",
+    "Home again: shoes, hands, clothes"
+   ],
+   "s": [
+    "Sau khi chơi ngoài về, con tự cất giày đúng chỗ, rửa tay bằng xà phòng và thay đồ sạch. Ba mẹ xem và xác nhận khi con làm xong.",
+    "After playing outside, put your shoes in their place, wash your hands with soap and change into clean clothes. Mum or Dad checks when you’re done."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm cùng con từng bước: cất giày, rửa tay, thay đồ.",
+     "Mum or Dad does each step with you: shoes, hands, clothes."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ ba bước.",
+     "Mum or Dad reminds you once, then you do all three steps yourself."
+    ],
+    [
+     "Con tự nhớ làm đủ ba bước ngay khi về nhà và kể lại cho ba mẹ.",
+     "You remember all three steps as soon as you get home and tell Mum or Dad."
+    ]
+   ],
+   "rw": [
+    "Được chọn truyện đọc trước giờ ngủ tối nay",
+    "You choose tonight’s bedtime story"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Đồ chơi rơi sang nhà hàng xóm",
+   "Ball over the neighbour’s fence"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin và Na chơi bóng trước nhà, mẹ ngồi gần đó. Quả bóng bay qua hàng rào sang sân nhà bác hàng xóm.",
+   "Bin and Na are playing ball outside the house while Mum sits nearby. The ball flies over the fence into the neighbour’s garden."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Báo mẹ, rồi cùng mẹ sang gõ cửa xin bác lại quả bóng",
+    "Tell Mum, then knock on the door with her and ask for the ball back",
+    1,
+    "Sân đó là nhà của bác. Có mẹ đi cùng và xin lễ phép thì bác sẽ vui lòng trả bóng.",
+    "That garden belongs to the neighbour. With Mum beside you and polite words, they’ll happily give it back."
+   ],
+   [
+    "Trèo qua hàng rào lấy cho nhanh",
+    "Climb over the fence to get it quickly",
+    0,
+    "Trèo rào dễ ngã, và vào nhà người khác khi chưa xin là chưa đúng. Con gọi mẹ nhé.",
+    "Climbing fences can mean a fall, and going in without asking isn’t right. Call Mum instead."
+   ],
+   [
+    "Bỏ luôn quả bóng rồi về nhà khóc",
+    "Give up on the ball and go in crying",
+    0,
+    "Buồn là bình thường, nhưng vẫn còn cách lấy lại mà. Con nhờ mẹ cùng sang xin bác nhé.",
+    "Feeling sad is fine, but there’s still a way to get it back. Ask Mum to go with you."
+   ]
+  ],
+  "qq": [
+   "Đồ chơi rơi sang nhà người khác thì làm gì?",
+   "A toy lands in someone else’s home. What do you do?"
+  ],
+  "qo": [
+   [
+    "Tự trèo vào lấy",
+    "Climb in and get it"
+   ],
+   [
+    "Bỏ luôn món đồ",
+    "Just give up on it"
+   ],
+   [
+    "Nhờ người lớn cùng sang xin lại",
+    "Ask a grown-up to go with you and ask for it"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Xe đồ chơi của Bin lăn vào gầm tủ sâu, Bin với tay không tới.",
+     "Bin’s toy car rolls deep under the cupboard, too far to reach."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Cố kéo cái tủ ra",
+      "Try to pull the cupboard out",
+      0,
+      "Tủ nặng lắm, con kéo có thể bị đau. Con nhờ ba nhé.",
+      "The cupboard is heavy and you could get hurt. Ask Dad."
+     ],
+     [
+      "Nhờ ba lấy cây chổi khều ra giúp",
+      "Ask Dad to sweep it out with a broom",
+      1,
+      "Nhờ người lớn giúp là cách an toàn và nhanh. Ba có dụng cụ phù hợp.",
+      "Asking a grown-up is safe and quick. Dad has the right tool."
+     ],
+     [
+      "Bỏ xe ở đó và dỗi",
+      "Leave it there and sulk",
+      0,
+      "Dỗi thì xe vẫn nằm đó. Con thử nhờ ba giúp xem.",
+      "Sulking won’t bring it out. Try asking Dad for help."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Quả cầu của nhóm Bin mắc lên cành cây trong sân trường.",
+     "Bin’s group’s shuttlecock gets stuck in a tree in the school yard."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Trèo lên cây lấy",
+      "Climb the tree to get it",
+      0,
+      "Trèo cây dễ ngã lắm. Con nhờ cô nhé.",
+      "Trees are easy to fall from. Ask the teacher."
+     ],
+     [
+      "Ném dép lên cho cầu rơi xuống",
+      "Throw a sandal up to knock it down",
+      0,
+      "Dép có thể rơi trúng bạn hoặc mắc luôn trên cây. Báo cô sẽ tốt hơn.",
+      "The sandal could hit a friend or get stuck too. Telling the teacher works better."
+     ],
+     [
+      "Báo cô giáo để cô tìm cách lấy giúp",
+      "Tell the teacher so she can find a way to get it",
+      1,
+      "Cô biết cách lấy an toàn. Báo cô là đúng việc nhất.",
+      "The teacher knows a safe way to get it. Telling her is the right move."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập xin lại đồ bị rơi sang nhà khác",
+    "Practise asking for a lost toy back"
+   ],
+   "s": [
+    "Con cùng ba mẹ đóng vai: đồ chơi rơi sang nhà hàng xóm. Con nói các bước: báo ba mẹ, cùng gõ cửa, chào và xin lễ phép, rồi cảm ơn.",
+    "Role-play with Mum or Dad: your toy lands next door. Say the steps: tell a parent, knock together, greet and ask politely, then say thank you."
+   ],
+   "lv": [
+    [
+     "Ba mẹ nói mẫu câu xin, con nói theo.",
+     "Mum or Dad says the polite request first and you copy it."
+    ],
+    [
+     "Ba mẹ đóng vai bác hàng xóm, ba mẹ nhắc một lần rồi con tự gõ cửa và xin.",
+     "Mum or Dad plays the neighbour, reminds you once, then you knock and ask by yourself."
+    ],
+    [
+     "Con tự kể đủ bốn bước và nói câu xin lễ phép không cần nhắc.",
+     "You tell all four steps and say the polite request with no reminders."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi ném bóng cùng con vào cuối tuần",
+    "The whole family plays catch with you at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Quan sát kỹ khu phố",
+   "Looking closely at my street"
+  ],
+  "m": [
+   "7 phút",
+   "7 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ngày nào Bin cũng đi qua con phố này với mẹ. Hôm nay mẹ hỏi: “Con có thấy gì mới không?” Bin nói: “Chẳng có gì mới cả.”",
+   "Bin walks down this street with Mum every day. Today Mum asks, “Can you see anything new?” Bin says, “Nothing’s new.”"
+  ],
+  "cq": [
+   "Bin có thể làm gì để thấy điều mới?",
+   "How could Bin spot something new?"
+  ],
+  "co": [
+   [
+    "Đi thật nhanh cho tới nơi",
+    "Walk fast to get there",
+    0,
+    "Đi nhanh thì mắt chỉ kịp thấy đường. Con thử đi chậm một chút, sẽ bất ngờ đấy.",
+    "Walking fast, your eyes only see the path. Slow down a little and you’ll be surprised."
+   ],
+   [
+    "Đi chậm lại, nhìn lên cao, nhìn xuống thấp và nhìn hai bên",
+    "Slow down and look up high, down low and to each side",
+    1,
+    "Nhìn kỹ từng chỗ, con sẽ thấy nhiều điều trước giờ mình bỏ qua, như một chậu hoa hay ô cửa màu lạ.",
+    "Look closely and you’ll find things you always missed, like a flowerpot or a brightly painted door."
+   ],
+   [
+    "Nghĩ là phố quen thì chẳng có gì để xem",
+    "Decide a familiar street has nothing to see",
+    0,
+    "Chỗ quen vẫn có điều mới mỗi ngày. Con thử tìm xem nhé.",
+    "Familiar places still have new things every day. Have a look."
+   ]
+  ],
+  "qq": [
+   "Muốn thấy điều mới ở chỗ quen, con làm gì?",
+   "To spot something new in a familiar place, you…"
+  ],
+  "qo": [
+   [
+    "Nhìn chậm và kỹ từng chỗ",
+    "Look slowly and carefully"
+   ],
+   [
+    "Đi thật nhanh",
+    "Walk really fast"
+   ],
+   [
+    "Nhìn một chỗ thôi",
+    "Look at just one spot"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ hỏi: “Phòng khách nhà mình có những thứ gì màu vàng?” Bin trả lời ngay: “Không có ạ.”",
+     "Mum asks, “What’s yellow in our living room?” Bin answers at once, “Nothing.”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Trả lời luôn cho nhanh",
+      "Answer straight away",
+      0,
+      "Trả lời nhanh dễ bỏ sót. Con nhìn quanh một lượt đã nhé.",
+      "Quick answers miss things. Have a look around first."
+     ],
+     [
+      "Bảo mẹ tự tìm",
+      "Tell Mum to look herself",
+      0,
+      "Đây là trò chơi của con mà. Con thử làm “thám tử” xem nào.",
+      "It’s your game! Try being a detective."
+     ],
+     [
+      "Đi một vòng, nhìn kỹ từng góc rồi mới trả lời",
+      "Walk around, look in every corner, then answer",
+      1,
+      "Nhìn kỹ rồi mới trả lời, con sẽ tìm ra nhiều thứ hơn mình nghĩ.",
+      "Look first, answer after, and you’ll find more than you expected."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Cô dẫn cả lớp ra sân trường và hỏi: “Ai tìm được ba loại lá khác nhau?”",
+     "The teacher takes the class outside and asks, “Who can find three different kinds of leaf?”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đi chậm, nhìn hình dáng, màu sắc của lá rồi so sánh",
+      "Walk slowly, look at shapes and colours, and compare",
+      1,
+      "So sánh từng chi tiết giúp con thấy điểm khác nhau rõ ràng.",
+      "Comparing details helps you see the differences clearly."
+     ],
+     [
+      "Nhặt đại ba lá gần nhất",
+      "Grab the three nearest leaves",
+      0,
+      "Lá gần nhau thường giống nhau. Con đi xem thêm vài cây nhé.",
+      "Leaves close together are often the same. Look at a few more trees."
+     ],
+     [
+      "Đứng một chỗ chờ bạn tìm",
+      "Stand still and wait for a friend to find them",
+      0,
+      "Tự tìm mới vui. Con thử đi một vòng xem.",
+      "Finding them yourself is the fun part. Take a walk round."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tìm ba điều mới trên đường quen",
+    "Find three new things on a familiar street"
+   ],
+   "s": [
+    "Đi dạo cùng ba mẹ trên con đường quen, con tìm ba điều mới chưa từng để ý và kể lại cho ba mẹ.",
+    "On a walk with Mum or Dad along a familiar street, find three things you’ve never noticed before and tell them."
+   ],
+   "lv": [
+    [
+     "Ba mẹ gợi ý chỗ nhìn (trên cao, dưới thấp), con tìm cùng ba mẹ.",
+     "Mum or Dad suggests where to look (up high, down low) and you search together."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm đủ ba điều.",
+     "Mum or Dad reminds you once and you find all three by yourself."
+    ],
+    [
+     "Con tự tìm ba điều mới và kể lại rõ mỗi thứ ở đâu, trông thế nào.",
+     "You find three new things yourself and describe where each was and what it looked like."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con vẽ lại những điều con đã thấy",
+    "Mum or Dad draws the things you spotted together with you"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Chó mèo lạ",
+   "Unfamiliar dogs and cats"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi dạo với ba. Một chú chó lạ chạy lại gần, vẫy đuôi. Bin rất muốn vuốt ve nó.",
+   "Bin is out for a walk with Dad. A dog he doesn’t know trots up, wagging its tail. Bin really wants to stroke it."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Chạy thật nhanh ra chỗ khác",
+    "Run away fast",
+    0,
+    "Chạy có thể làm chó tưởng đang chơi đuổi bắt. Con đứng yên cạnh ba nhé.",
+    "Running can make a dog think it’s a chasing game. Stand still by Dad."
+   ],
+   [
+    "Đưa tay vuốt luôn vì nó đang vẫy đuôi",
+    "Stroke it straight away because it’s wagging",
+    0,
+    "Vẫy đuôi chưa chắc là muốn được vuốt. Hỏi chủ trước rồi mới chạm nhé.",
+    "A wagging tail doesn’t always mean “stroke me”. Ask the owner first."
+   ],
+   [
+    "Đứng yên cạnh ba, không chạm vào chó, hỏi chủ trước nếu muốn vuốt",
+    "Stand still by Dad, don’t touch, and ask the owner first",
+    1,
+    "Chó lạ chưa quen mình nên có thể sợ. Đứng yên và hỏi chủ trước là cách an toàn.",
+    "A dog that doesn’t know you might get scared. Standing still and asking the owner keeps everyone safe."
+   ]
+  ],
+  "qq": [
+   "Gặp chó lạ, con nên làm gì?",
+   "When you meet a dog you don’t know, you…"
+  ],
+  "qo": [
+   [
+    "Đứng yên và hỏi chủ trước khi vuốt",
+    "Stand still and ask the owner before stroking"
+   ],
+   [
+    "Chạy thật nhanh",
+    "Run away fast"
+   ],
+   [
+    "Vuốt ngay",
+    "Stroke it straight away"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bác bên cạnh mang mèo sang nhà chơi. Mèo đang ngủ trên ghế, Bin muốn bế nó lên.",
+     "The neighbour brings her cat round. It’s asleep on a chair and Bin wants to pick it up."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bế mèo lên ngay",
+      "Pick the cat up at once",
+      0,
+      "Mèo đang ngủ bị bế bất ngờ sẽ giật mình. Con hỏi bác trước nhé.",
+      "A sleeping cat picked up suddenly will get a fright. Ask first."
+     ],
+     [
+      "Hỏi bác trước, bác đồng ý thì vuốt nhẹ",
+      "Ask the neighbour first, then stroke it gently if she says yes",
+      1,
+      "Chủ biết mèo có thích được chạm không. Hỏi trước thì cả con và mèo đều vui.",
+      "The owner knows if the cat likes being touched. Asking first keeps you and the cat happy."
+     ],
+     [
+      "Kéo đuôi cho mèo dậy chơi",
+      "Pull its tail to wake it up",
+      0,
+      "Kéo đuôi làm mèo đau và sợ. Con hỏi bác và vuốt nhẹ thôi.",
+      "Pulling its tail hurts and scares it. Ask and stroke gently instead."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Một chú mèo lạ đi vào sân trường. Các bạn xúm lại muốn sờ nó.",
+     "A strange cat wanders into the school yard. Children crowd round to touch it."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Đứng xa ra và báo cô giáo",
+      "Stay back and tell the teacher",
+      1,
+      "Mèo lạ có thể cào khi sợ. Cô giáo sẽ biết cách xử lý.",
+      "A frightened cat might scratch. The teacher will know what to do."
+     ],
+     [
+      "Chạy theo bắt mèo",
+      "Chase after the cat",
+      0,
+      "Bị đuổi, mèo sẽ sợ và có thể cào. Con đứng xa và báo cô nhé.",
+      "Being chased scares a cat and it may scratch. Stay back and tell the teacher."
+     ],
+     [
+      "Chen vào sờ cùng các bạn",
+      "Push in and touch it too",
+      0,
+      "Đông người làm mèo sợ hơn. Con lùi lại và báo cô nhé.",
+      "A crowd makes the cat more scared. Step back and tell the teacher."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập đứng yên và hỏi chủ khi gặp chó lạ",
+    "Practise standing still and asking the owner"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập: gặp chó lạ thì đứng yên, tay để sát người và hỏi “Cháu vuốt bạn chó được không ạ?”.",
+    "Practise with Mum or Dad: when you meet a strange dog, stand still, arms by your sides, and ask, “May I stroke your dog, please?”"
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu, con đứng yên và nói câu hỏi theo ba mẹ.",
+     "Mum or Dad shows you, then you stand still and copy the question."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đứng yên và tự nói câu hỏi.",
+     "Mum or Dad reminds you once, then you stand still and ask by yourself."
+    ],
+    [
+     "Con tự làm đúng và giải thích vì sao không chạy, không sờ chó lạ.",
+     "You do it all yourself and explain why we don’t run or touch strange dogs."
+    ]
+   ],
+   "rw": [
+    "Cùng ba mẹ đọc một cuốn sách về các con vật",
+    "Read a book about animals with Mum or Dad"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Thời gian chờ có ích",
+   "Making use of waiting time"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi khám răng với mẹ. Phải chờ khá lâu, Bin thấy chán và cứ đòi về.",
+   "Bin is at the dentist with Mum. The wait is long, Bin gets bored and keeps asking to go home."
+  ],
+  "cq": [
+   "Lần sau Bin có thể làm gì?",
+   "What could Bin do next time?"
+  ],
+  "co": [
+   [
+    "Chạy nhảy quanh phòng chờ",
+    "Run around the waiting room",
+    0,
+    "Phòng chờ có nhiều người cần yên tĩnh. Mang sách, giấy vẽ theo là con vui ngay.",
+    "Other people in the waiting room need quiet. A book or some paper keeps you happy."
+   ],
+   [
+    "Đòi xem điện thoại thật lâu",
+    "Ask for the phone for a long time",
+    0,
+    "Xem lâu thì mỏi mắt. Sách và giấy vẽ cũng giúp con chờ vui mà.",
+    "Long screen time tires your eyes. Books and drawing make waiting fun too."
+   ],
+   [
+    "Mang theo sách nhỏ và giấy bút để đọc, vẽ lúc chờ",
+    "Bring a small book and some paper to read and draw",
+    1,
+    "Chuẩn bị sẵn một “túi chờ đợi” thì lúc chờ trôi nhanh và vui hơn.",
+    "A ready-packed “waiting bag” makes the wait go faster and feel more fun."
+   ]
+  ],
+  "qq": [
+   "Chờ đợi sẽ bớt chán khi…",
+   "Waiting is less boring when…"
+  ],
+  "qo": [
+   [
+    "Than chán liên tục",
+    "You keep moaning"
+   ],
+   [
+    "Chạy lung tung",
+    "You run about"
+   ],
+   [
+    "Có sẵn việc nhẹ nhàng để làm",
+    "You have a quiet activity ready"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cơm chưa chín, Bin phải chờ khoảng mười phút. Bin cứ đi qua đi lại hỏi: “Xong chưa mẹ?”",
+     "Dinner isn’t ready for ten minutes. Bin keeps pacing and asking, “Is it ready yet?”"
+    ],
+    "q": [
+     "Bin có thể làm gì?",
+     "What could Bin do?"
+    ],
+    "o": [
+     [
+      "Đọc truyện hoặc giúp bày bát đũa trong lúc chờ",
+      "Read a story or help set the table",
+      1,
+      "Làm một việc nhẹ nhàng thì mười phút trôi qua lúc nào không biết.",
+      "Doing something gentle makes ten minutes fly by."
+     ],
+     [
+      "Cứ hỏi mẹ mãi",
+      "Keep asking Mum",
+      0,
+      "Hỏi nhiều thì cơm cũng không chín nhanh hơn. Con tìm việc gì đó làm nhé.",
+      "Asking again won’t cook it faster. Find something to do."
+     ],
+     [
+      "Nằm lăn ra sàn kêu đói",
+      "Roll on the floor moaning about hunger",
+      0,
+      "Đói thì khó chịu thật. Giúp mẹ bày bàn sẽ làm con quên đói đấy.",
+      "Being hungry is hard. Helping set the table will take your mind off it."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Bin làm bài xong sớm, các bạn vẫn đang làm. Bin không biết làm gì.",
+     "Bin finishes his work early while the others are still going. He doesn’t know what to do."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói chuyện với bạn bên cạnh",
+      "Chat to the person next to him",
+      0,
+      "Bạn đang tập trung làm bài. Con đọc sách nhẹ nhàng để bạn làm xong nhé.",
+      "Your friend is concentrating. Read quietly so they can finish."
+     ],
+     [
+      "Xem lại bài rồi lấy sách ra đọc nhẹ nhàng",
+      "Check his work, then read quietly",
+      1,
+      "Kiểm tra lại và đọc sách là cách dùng thời gian chờ thật có ích.",
+      "Checking and reading turns waiting time into useful time."
+     ],
+     [
+      "Gõ bút lên bàn cho đỡ chán",
+      "Tap his pencil on the desk",
+      0,
+      "Tiếng gõ làm cả lớp mất tập trung. Một cuốn sách sẽ vui hơn.",
+      "Tapping distracts the class. A book is more fun."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Chuẩn bị “túi chờ đợi”",
+    "Pack a “waiting bag”"
+   ],
+   "s": [
+    "Con chuẩn bị một túi nhỏ có sách, giấy và bút màu để mang theo cho lần đi khám hay phải chờ tiếp theo. Cho ba mẹ xem túi của con.",
+    "Pack a small bag with a book, paper and crayons to take next time you have to wait somewhere. Show Mum or Dad your bag."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn từng món cho vào túi.",
+     "Mum or Dad chooses each item with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chọn đồ và xếp túi.",
+     "Mum or Dad reminds you once and you choose and pack it yourself."
+    ],
+    [
+     "Con tự chuẩn bị túi, tự nhớ mang theo và dùng nó khi chờ.",
+     "You pack the bag, remember to bring it and use it while you wait."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một chuyện vui hồi nhỏ của ba mẹ",
+    "Mum or Dad tells you a funny story from when they were little"
+   ]
+  }
+ }
+]

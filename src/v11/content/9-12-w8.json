@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự chọn và theo đến cùng",
+   "Choosing for myself and sticking with it"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "An tự chọn học lớp bóng rổ ở nhà thi đấu gần nhà, ba mẹ đã đóng học phí cả khoá ba tháng. Sau ba buổi, tập mệt quá nên An muốn nghỉ.",
+   "An chose basketball classes at the sports centre nearby, and Mum and Dad paid for the three-month course. After three sessions it’s tiring and An wants to quit."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nói với ba mẹ điều mình thấy khó, hỏi huấn luyện viên cách theo kịp, và thử theo hết khoá rồi mới quyết định",
+    "Tell your parents what’s hard, ask the coach how to keep up, and finish the course before deciding",
+    1,
+    "Ban đầu thấy khó là bình thường. Tự chọn thì cũng tự giữ cam kết, rồi quyết định khi đã thử đủ lâu.",
+    "Finding it hard at first is normal. You chose it, so see it through, then decide once you’ve given it a fair go."
+   ],
+   [
+    "Nghỉ luôn, buổi sau giả vờ đau bụng",
+    "Quit and fake a tummy ache next time",
+    0,
+    "Giả vờ ốm là không thật thà và ba mẹ sẽ lo. Nói thật cảm giác của mình sẽ tốt hơn.",
+    "Faking illness isn’t honest and worries your parents. Saying how you really feel is better."
+   ],
+   [
+    "Đi học nhưng đứng ngoài không tập",
+    "Go but sit out every drill",
+    0,
+    "Có mặt mà không tham gia thì mất thời gian của cả mình và đội. Nhờ huấn luyện viên giúp sẽ tốt hơn.",
+    "Turning up without joining in wastes everyone’s time. Ask the coach for help instead."
+   ]
+  ],
+  "qq": [
+   "Khi việc mình tự chọn trở nên khó, nên…",
+   "When something you chose gets hard, you should…"
+  ],
+  "qo": [
+   [
+    "Bỏ ngay để đỡ mệt",
+    "Quit at once"
+   ],
+   [
+    "Tìm cách vượt qua và giữ cam kết đến hết",
+    "Find a way through and keep your commitment"
+   ],
+   [
+    "Đổ lỗi cho người khác đã chọn hộ",
+    "Blame someone else for the choice"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An xin được tự trang trí lại góc học tập và đã chọn dán giấy màu lên tường. Làm được một nửa, An thấy chán và muốn bỏ dở.",
+     "An asked to redecorate the study corner and chose coloured paper for the wall. Halfway through, An is bored and wants to stop."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Để nguyên một nửa, khi nào thích làm tiếp",
+      "Leave it half done for whenever",
+      0,
+      "Góc học nửa dở dễ thành bừa bộn mãi. Chia phần còn lại ra vài buổi sẽ nhẹ hơn.",
+      "A half-finished corner tends to stay messy. Splitting the rest into sessions helps."
+     ],
+     [
+      "Chia phần còn lại làm hai buổi, mỗi buổi 20 phút, hoàn thành trong cuối tuần",
+      "Split the rest into two 20-minute sessions and finish this weekend",
+      1,
+      "Tự chọn là tự chịu trách nhiệm đến cùng. Chia nhỏ phần còn lại giúp con hoàn thành.",
+      "Choosing means seeing it through. Breaking up what’s left gets it done."
+     ],
+     [
+      "Nhờ ba làm nốt",
+      "Ask Dad to finish it",
+      0,
+      "Ba có thể giúp phần khó, nhưng đây là dự án con tự chọn. Làm xong con sẽ rất tự hào.",
+      "Dad can help with tricky bits, but it’s your project. Finishing it will make you proud."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "An tình nguyện làm người giữ sổ mượn sách của tủ sách lớp. Được một tháng, An thấy việc này mất giờ ra chơi.",
+     "An volunteered to keep the borrowing log for the class library. A month in, it’s eating into break time."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ sổ đó không ghi nữa",
+      "Just stop filling in the log",
+      0,
+      "Bỏ dở mà không nói thì sách có thể bị thất lạc. Nếu muốn đổi, hãy nói với cô.",
+      "Stopping without a word could mean lost books. If you want to change, tell the teacher."
+     ],
+     [
+      "Đưa sổ cho bạn khác mà không báo cô",
+      "Hand the log to a friend without telling the teacher",
+      0,
+      "Cô giao việc cho con nên cần biết khi có thay đổi. Báo cô sẽ rõ ràng hơn.",
+      "The teacher gave you the job, so she needs to know about changes."
+     ],
+     [
+      "Nghĩ cách làm gọn hơn, như ghi vào đầu giờ, và nếu thật sự quá sức thì xin cô chọn bạn thay sau khi hết học kỳ",
+      "Find a quicker way, like logging at the start of the day, and if it’s really too much ask the teacher to pick someone else at the end of term",
+      1,
+      "Giữ cam kết không có nghĩa là chịu đựng mãi. Tìm cách làm tốt hơn và nói chuyện đúng lúc là trách nhiệm.",
+      "Keeping a commitment isn’t suffering for ever. Finding a better way and speaking up properly is responsible."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Nghĩ nhiều cách trước khi chọn",
+   "Thinking of several options before choosing"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bàn học của An chật kín sách vở, đồ dùng; mỗi lần làm bài lại phải dồn đồ sang một bên. An định xin ba mẹ mua ngay một chiếc bàn to hơn.",
+   "An’s desk is crammed with books and stuff, and every homework session starts with shoving things aside. An wants to ask for a bigger desk straight away."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Xin mua bàn mới ngay hôm nay",
+    "Ask for a new desk today",
+    0,
+    "Bàn mới là một cách nhưng tốn tiền và chưa chắc cần. Thử nghĩ thêm vài cách khác trước nhé.",
+    "A new desk is one option, but it costs money and may not be needed. Think of others first."
+   ],
+   [
+    "Viết ra ít nhất ba cách: cất sách ít dùng vào hộp, nhờ ba gắn một kệ nhỏ trên tường, tặng sách cũ cho thư viện; rồi chọn cách hợp nhất",
+    "Write down at least three ideas — box up books you rarely use, ask Dad to put up a small shelf, donate old books to the library — then pick the best",
+    1,
+    "Nghĩ nhiều cách trước khi chọn giúp mình thấy những lựa chọn hay mà lúc đầu chưa nghĩ ra.",
+    "Listing options before choosing reveals good ideas you hadn’t thought of."
+   ],
+   [
+    "Chuyển sang ngồi học ở giường",
+    "Move to studying on your bed",
+    0,
+    "Ngồi học trên giường dễ mỏi lưng và buồn ngủ. Thử tìm cách làm bàn gọn hơn.",
+    "Studying on the bed strains your back and makes you sleepy. Look for ways to clear the desk."
+   ]
+  ],
+  "qq": [
+   "Khi gặp vấn đề, trước khi chọn cách giải quyết nên…",
+   "When facing a problem, before choosing a solution you should…"
+  ],
+  "qo": [
+   [
+    "Chọn ngay cách đầu tiên nghĩ ra",
+    "Pick the first idea"
+   ],
+   [
+    "Hỏi bạn rồi làm theo",
+    "Do what a friend says"
+   ],
+   [
+    "Nghĩ ra vài cách rồi so sánh",
+    "Think of a few options and compare them"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp An cần trang trí góc lớp chủ đề “Mùa thu” nhưng không có tiền mua đồ. Cả nhóm chỉ nghĩ đến việc mua giấy màu.",
+     "An’s class must decorate a corner on an “Autumn” theme but has no money for supplies. The group can only think of buying coloured paper."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Báo cô là không làm được",
+      "Tell the teacher it can’t be done",
+      0,
+      "Thiếu tiền không có nghĩa là hết cách. Thử nghĩ thêm vài phút xem sao.",
+      "No money doesn’t mean no options. Brainstorm a few minutes longer."
+     ],
+     [
+      "Mỗi bạn tự xin tiền ba mẹ",
+      "Everyone asks their parents for money",
+      0,
+      "Đó là một cách, nhưng chưa phải cách duy nhất. Nghĩ thêm có thể ra cách không tốn tiền.",
+      "That’s one option, but not the only one. More thinking may find a free idea."
+     ],
+     [
+      "Cùng nhóm liệt kê mọi cách có thể: lá khô nhặt ở sân trường, giấy báo cũ, vỏ hộp; rồi chọn cách đẹp và dễ làm nhất",
+      "List every idea with the group — dry leaves from the yard, old newspaper, boxes — then pick the best and easiest",
+      1,
+      "Liệt kê nhiều cách trước giúp nhóm sáng tạo hơn và không bị kẹt ở một ý.",
+      "Listing lots of ideas first sparks creativity and stops you getting stuck on one."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Cả nhà đi dã ngoại ở công viên, trời bất ngờ đổ mưa. Ba mẹ hỏi An và em: “Giờ mình làm gì nhỉ?” Em đòi về ngay.",
+     "The family is picnicking in the park when it suddenly rains. Mum and Dad ask: “What shall we do now?” An’s sister wants to go home at once."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Gợi ý vài cách: trú mưa ở nhà chờ rồi ăn tiếp, sang thư viện gần đó, hoặc về nhà trải khăn ăn trưa trong phòng khách; rồi cả nhà cùng chọn",
+      "Suggest options — shelter and carry on, visit the library nearby, or have an indoor picnic at home — then choose together",
+      1,
+      "Nhiều lựa chọn giúp cả nhà tìm được cách vui nhất, ai cũng thấy được hỏi ý.",
+      "Several options help find the most fun plan, and everyone feels included."
+     ],
+     [
+      "Đồng ý về luôn cho nhanh",
+      "Agree to go home straight away",
+      0,
+      "Về nhà là một cách, nhưng thử nghĩ thêm có khi còn vui hơn.",
+      "Going home is one option, but thinking a bit more might find something better."
+     ],
+     [
+      "Phụng phịu vì hỏng buổi đi chơi",
+      "Sulk about the ruined day",
+      0,
+      "Mưa thì không đổi được, nhưng mình có thể nghĩ ra cách khác để vẫn vui.",
+      "You can’t change the rain, but you can think of other ways to have fun."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Lần sau mình sẽ làm khác thế nào?",
+   "What would I do differently next time?"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm An gieo hạt đậu xanh cho bài Khoa học, nhưng sau một tuần hạt vẫn không nảy mầm. An nghĩ ngay: “Tại hạt đậu xấu.”",
+   "An’s group planted mung beans for science, but a week later nothing has sprouted. An’s first thought: “The beans were duds.”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Vứt đi và báo cô là hạt hỏng",
+    "Throw them out and tell the teacher the seeds were bad",
+    0,
+    "Kết luận vội thì không biết nguyên nhân thật, lần sau dễ hỏng tiếp. Cùng xem lại các bước đã làm nhé.",
+    "Jumping to a conclusion hides the real cause, so it may happen again. Look back at what you did."
+   ],
+   [
+    "Cùng nhóm xem lại từng bước, nhận ra bông bị khô vì quên tưới hai ngày, rồi lập lịch tưới và gieo lại",
+    "Go back over each step with the group, notice the cotton wool dried out after two missed days, then make a watering rota and replant",
+    1,
+    "Tìm đúng nguyên nhân thật giúp mình có cách sửa cụ thể. Đó là tư duy phản biện với chính việc mình làm.",
+    "Finding the real cause gives you a concrete fix. That’s critical thinking about your own work."
+   ],
+   [
+    "Tự nhủ nhóm mình kém môn Khoa học",
+    "Decide your group is just bad at science",
+    0,
+    "Một lần chưa thành công không nói lên nhóm kém. Nhìn vào việc cụ thể sẽ giúp hơn là tự chê.",
+    "One failed try doesn’t make you bad at it. Looking at the specifics helps more than putting yourselves down."
+   ]
+  ],
+  "qq": [
+   "Rút kinh nghiệm tốt là…",
+   "Learning from a mistake means…"
+  ],
+  "qo": [
+   [
+    "Tìm nguyên nhân thật và đặt một cách làm mới",
+    "Finding the real cause and a new way to do it"
+   ],
+   [
+    "Tìm người có lỗi",
+    "Finding who to blame"
+   ],
+   [
+    "Tự trách mình thật nhiều",
+    "Being very hard on yourself"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "An nướng bánh cùng mẹ, bánh bị cháy đáy. An chán nản: “Con không bao giờ làm được.”",
+     "Baking with Mum, An’s cake burns on the bottom. An sighs: “I’ll never get it right.”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ xem lại: lò để nhiệt quá cao hay để lâu quá, rồi ghi chú cho lần sau",
+      "Work out with Mum whether the oven was too hot or the time too long, and note it for next time",
+      1,
+      "Hỏi “vì sao” giúp tìm ra điều cần đổi. Ghi chú lại để lần sau bánh ngon hơn.",
+      "Asking “why” finds what to change. A note makes the next one better."
+     ],
+     [
+      "Không bao giờ nướng bánh nữa",
+      "Never bake again",
+      0,
+      "Lần đầu chưa đẹp là chuyện bình thường. Tìm nguyên nhân rồi thử lại sẽ thấy tiến bộ.",
+      "First tries are often wobbly. Find the cause and try again."
+     ],
+     [
+      "Nói tại công thức sai",
+      "Blame the recipe",
+      0,
+      "Có thể công thức chưa hợp, nhưng hãy kiểm tra những gì mình đã làm trước đã.",
+      "Maybe the recipe was off, but check what you did first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đội bóng nhí của An thua vì cả đội đến sân muộn, không kịp khởi động. Huấn luyện viên hỏi cả đội nghĩ sao.",
+     "An’s kids’ football team lost after arriving late with no warm-up. The coach asks what they think."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói tại trọng tài",
+      "Blame the referee",
+      0,
+      "Đổ cho người khác thì đội không biết sửa gì. Hãy nhìn vào điều đội có thể thay đổi.",
+      "Blaming others leaves nothing to fix. Look at what the team can change."
+     ],
+     [
+      "Im lặng chờ huấn luyện viên nói",
+      "Wait silently for the coach to talk",
+      0,
+      "Ý kiến của con giúp cả đội rút kinh nghiệm. Hãy nói điều con thấy.",
+      "Your view helps the team learn. Say what you noticed."
+     ],
+     [
+      "Nói: “Mình đến muộn nên không khởi động. Lần sau cả đội hẹn có mặt sớm 15 phút nhé”",
+      "Say: “We were late and didn’t warm up. Next time let’s all arrive 15 minutes early”",
+      1,
+      "Nêu nguyên nhân cụ thể và một cách sửa giúp cả đội tiến bộ cùng nhau.",
+      "Naming a specific cause and fix helps the whole team improve."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Khi bị lạc người thân ở nơi đông người",
+   "If I get separated in a crowd"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "C",
+  "story": [
+   "Đi hội chợ cùng mẹ, An mải xem một gian đồ chơi. Quay lại, An không thấy mẹ đâu giữa dòng người đông đúc.",
+   "At a fair with Mum, An stops to look at a toy stall. Turning round, Mum is nowhere in the crowd."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chạy khắp nơi để tìm mẹ",
+    "Run all over looking for Mum",
+    0,
+    "Chạy đi tìm làm hai mẹ con dễ lạc xa hơn. Đứng yên giúp mẹ tìm thấy con nhanh hơn.",
+    "Running around can take you further apart. Staying put helps Mum find you."
+   ],
+   [
+    "Đứng yên ở gần đó, rồi nhờ nhân viên mặc đồng phục hoặc bảo vệ, nói tên mình và số điện thoại của mẹ",
+    "Stay close by, then ask a uniformed staff member or guard for help, giving your name and Mum’s number",
+    1,
+    "Đứng yên và nhờ người có trách nhiệm là cách an toàn nhất. Thuộc số điện thoại ba mẹ rất quan trọng.",
+    "Staying put and asking someone in charge is safest. Knowing your parent’s number by heart really matters."
+   ],
+   [
+    "Đi theo một người lạ nói sẽ dẫn đi tìm mẹ",
+    "Go with a stranger who offers to take you to Mum",
+    0,
+    "Không đi theo người lạ đến nơi khác, kể cả khi họ tỏ ra tốt bụng. Hãy nhờ nhân viên ở ngay đó.",
+    "Never go off with a stranger, even a friendly one. Ask staff right where you are."
+   ]
+  ],
+  "qq": [
+   "Nếu bị lạc ở nơi đông người, điều đầu tiên nên làm là…",
+   "If you’re lost in a crowd, the first thing to do is…"
+  ],
+  "qo": [
+   [
+    "Tự đi về nhà",
+    "Make your own way home"
+   ],
+   [
+    "Đứng yên và nhờ nhân viên hoặc bảo vệ",
+    "Stay put and ask staff or a guard"
+   ],
+   [
+    "Đi theo người đầu tiên gọi mình",
+    "Go with the first person who calls you"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Tối thứ Sáu, cả nhà chuẩn bị đi xem bắn pháo hoa ở quảng trường rất đông người. Mẹ hỏi An đã thuộc số điện thoại của ba mẹ chưa.",
+     "On Friday evening the family is getting ready to watch fireworks in a crowded square. Mum asks if An knows her phone number by heart."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Chắc không cần đâu mẹ”",
+      "Say “I won’t need it”",
+      0,
+      "Hy vọng là không cần, nhưng chuẩn bị trước giúp con bình tĩnh nếu có chuyện.",
+      "Hopefully not, but preparing helps you stay calm if something happens."
+     ],
+     [
+      "Lưu số vào điện thoại của mình là đủ",
+      "Just save it in your phone",
+      0,
+      "Điện thoại có thể hết pin hoặc rơi mất. Nhớ trong đầu là chắc chắn nhất.",
+      "Phones run flat or get lost. Memorising it is safest."
+     ],
+     [
+      "Tập đọc số điện thoại của mẹ, cùng thống nhất một điểm hẹn dễ thấy nếu bị lạc",
+      "Practise saying Mum’s number and agree an easy-to-spot meeting point in case you’re separated",
+      1,
+      "Thuộc số điện thoại và có điểm hẹn là hai “tấm vé an toàn” khi đi chỗ đông.",
+      "Knowing the number and having a meeting point are two safety tickets for crowds."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Lớp đi tham quan bảo tàng. An dừng lại xem mô hình khủng long quá lâu, khi quay ra thì cả lớp đã đi sang phòng khác.",
+     "On a class trip to a museum, An lingers too long at the dinosaur model. When An looks up, the class has moved to another room."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đứng gần mô hình, nhờ nhân viên bảo tàng có thẻ tên báo giúp cô giáo",
+      "Stay near the model and ask a museum staff member with a name badge to help find your teacher",
+      1,
+      "Nhân viên có thẻ tên là người lớn đáng tin ở nơi công cộng. Đứng yên giúp cô tìm lại con nhanh.",
+      "Staff with name badges are trusted adults in public places. Staying put helps your teacher find you."
+     ],
+     [
+      "Tự ra cổng chờ xe",
+      "Go to the entrance and wait for the bus",
+      0,
+      "Rời khu vực mà không báo làm cô và các bạn đi tìm vất vả. Hãy nhờ người ở ngay đó.",
+      "Leaving without telling anyone means everyone has to search. Get help right there."
+     ],
+     [
+      "Đi lần lượt từng phòng để tìm lớp",
+      "Search room by room for the class",
+      0,
+      "Đi tìm khắp nơi có thể làm con và lớp càng lệch nhau. Đứng yên và nhờ nhân viên sẽ nhanh hơn.",
+      "Wandering can take you further from the class. Staying put and asking staff is quicker."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Tập trung, không để bị xao nhãng",
+   "Staying focused, not distracted"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An ngồi học bài lúc 7 giờ tối, máy tính bảng để ngay cạnh. Cứ vài phút có thông báo từ nhóm chat lớp, An lại cầm lên xem. Đến 8 giờ rưỡi, bài vẫn chưa xong.",
+   "An sits down to study at 7pm with the tablet right beside the books. Every few minutes the class group chat pings and An checks it. By 8:30, homework still isn’t done."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Để máy tính bảng ở phòng khác, học 25 phút rồi nghỉ 5 phút mới xem tin nhắn",
+    "Leave the tablet in another room, work 25 minutes, then take 5 to check messages",
+    1,
+    "Đưa thứ gây xao nhãng ra xa và chia giờ học thành từng đợt giúp con xong việc nhanh hơn nhiều.",
+    "Moving distractions away and studying in blocks gets work done much faster."
+   ],
+   [
+    "Học tiếp như cũ, xem tin nhắn nhanh thôi",
+    "Carry on — just quick looks",
+    0,
+    "Mỗi lần xem “nhanh thôi” lại mất thêm thời gian để tập trung trở lại. Cộng lại là cả buổi tối.",
+    "Each “quick look” costs time getting back into focus. It adds up to the whole evening."
+   ],
+   [
+    "Tắt hẳn mạng cả tối, không báo ai",
+    "Switch the internet off all evening without telling anyone",
+    0,
+    "Không cần cắt hết, chỉ cần có giờ xem rõ ràng. Nếu nhóm chat có bài tập, con vẫn cần đọc vào giờ nghỉ.",
+    "No need to cut it all off — just set times to check. If the chat has homework info, read it on your break."
+   ]
+  ],
+  "qq": [
+   "Cách tốt để tập trung khi học là…",
+   "A good way to focus while studying is…"
+  ],
+  "qo": [
+   [
+    "Vừa học vừa trả lời tin nhắn",
+    "Answer messages while studying"
+   ],
+   [
+    "Học thật lâu không nghỉ",
+    "Study for ages without a break"
+   ],
+   [
+    "Để thứ gây xao nhãng ra xa và học theo từng đợt có nghỉ",
+    "Put distractions away and study in blocks with breaks"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Trong giờ làm bài nhóm, hai bạn ngồi cạnh An cứ bàn về bộ phim mới. An muốn hoàn thành phần bài của mình.",
+     "During group work, two classmates next to An keep chatting about a new film. An wants to finish their part."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tham gia nói chuyện phim cùng các bạn",
+      "Join the film chat",
+      0,
+      "Vui một chút nhưng nhóm sẽ không kịp giờ. Để dành chuyện phim cho giờ ra chơi nhé.",
+      "Fun, but the group will run out of time. Save it for break."
+     ],
+     [
+      "Quát các bạn im lặng",
+      "Snap at them to be quiet",
+      0,
+      "Quát làm không khí căng thẳng. Nói nhẹ nhàng thì các bạn dễ nghe hơn.",
+      "Snapping creates tension. A gentle word works better."
+     ],
+     [
+      "Nói nhẹ: “Mình làm xong bài rồi kể chuyện phim nhé, còn 10 phút thôi!”",
+      "Say kindly: “Let’s finish first and talk about the film after — only 10 minutes left!”",
+      1,
+      "Nhắc nhẹ nhàng giúp cả nhóm cùng tập trung mà không ai thấy bị trách.",
+      "A friendly nudge refocuses everyone without anyone feeling told off."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An đến thư viện quận với ba để làm bài tìm hiểu về loài chim. Ở góc bên kia có truyện tranh mới, An cứ muốn đi xem.",
+     "An is at the district library with Dad to research birds for a project. New comics are on display across the room, and An keeps wanting to look."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc truyện trước, còn giờ thì làm bài",
+      "Read comics first and do the project if there’s time",
+      0,
+      "Việc vui trước thường ăn hết thời gian. Làm xong bài rồi đọc truyện sẽ thấy thảnh thơi hơn.",
+      "Fun first usually eats all the time. Finish the work and enjoy the comics guilt-free."
+     ],
+     [
+      "Đặt mục tiêu ghi xong năm thông tin về loài chim trong 30 phút, rồi xin ba cho đọc truyện làm phần thưởng",
+      "Aim to note five facts about birds in 30 minutes, then ask Dad for comic time as a reward",
+      1,
+      "Mục tiêu nhỏ có thời hạn giúp con tập trung, và phần thưởng sau đó làm việc học vui hơn.",
+      "A small timed goal keeps you focused, and a reward afterwards makes it fun."
+     ],
+     [
+      "Mang truyện về bàn đọc xen kẽ",
+      "Bring the comics to your table and read in between",
+      0,
+      "Đọc xen kẽ làm con khó tập trung vào cả hai việc. Làm từng việc một sẽ tốt hơn.",
+      "Switching back and forth means focusing on neither. One thing at a time is better."
+     ]
+    ]
+   }
+  }
+ }
+]

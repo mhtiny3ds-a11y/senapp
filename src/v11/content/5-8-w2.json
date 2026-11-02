@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 0,
+  "t": [
+   "Chờ đến lượt mình nói",
+   "Waiting my turn to talk"
+  ],
+  "m": [
+   "5 phút",
+   "5 min"
+  ],
+  "base": "A",
+  "story": [
+   "Mẹ đang nói chuyện điện thoại với bà. Bin muốn khoe ngay bức tranh vừa vẽ xong.",
+   "Mum is on the phone with Grandma. Bin wants to show off a new drawing right now."
+  ],
+  "cq": [
+   "Bin nên làm gì?",
+   "What should Bin do?"
+  ],
+  "co": [
+   [
+    "Kéo áo mẹ và gọi “Mẹ ơi, mẹ ơi!” liên tục",
+    "Tug Mum’s sleeve and keep calling “Mum, Mum!”",
+    0,
+    "Gọi liên tục thì bà không nghe rõ mẹ nói. Con chờ một chút nhé, bức tranh vẫn đợi con mà.",
+    "Grandma can’t hear Mum properly. Wait a little — the drawing will still be there."
+   ],
+   [
+    "Bỏ đi chỗ khác và giận mẹ",
+    "Walk off in a huff",
+    0,
+    "Chờ đợi hơi khó, nhưng mẹ không quên con đâu. Con thử đặt tay lên tay mẹ và đợi nhé.",
+    "Waiting is hard, but Mum hasn’t forgotten you. Try resting your hand on hers and waiting."
+   ],
+   [
+    "Đặt nhẹ tay lên tay mẹ và chờ mẹ nói xong",
+    "Rest a hand gently on Mum’s arm and wait till she finishes",
+    1,
+    "Chạm nhẹ là cách nói “con đang chờ” mà không cắt lời. Mẹ nói xong sẽ quay sang xem ngay.",
+    "A gentle touch says “I’m waiting” without interrupting. Mum will turn to you as soon as she’s done."
+   ]
+  ],
+  "qq": [
+   "Khi người lớn đang nói, con nên…",
+   "When grown-ups are talking, you should…"
+  ],
+  "qo": [
+   [
+    "Chờ người ta nói xong rồi mới nói",
+    "Wait till they finish, then speak"
+   ],
+   [
+    "Chen vào nói ngay",
+    "Jump in straight away"
+   ],
+   [
+    "Nói thật to cho người ta nghe",
+    "Talk loudly so they notice"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô giáo đang giảng bài. Bin chợt nhớ ra một chuyện rất vui muốn kể cho cả lớp.",
+     "The teacher is explaining something. Bin suddenly remembers a funny story to tell the class."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói to luôn để khỏi quên",
+      "Say it out loud now so you don’t forget",
+      0,
+      "Con sợ quên là đúng, nhưng nói chen làm cả lớp mất bài. Con giơ tay rồi chờ nhé.",
+      "Fair worry, but calling out breaks the lesson. Put your hand up and hold the thought."
+     ],
+     [
+      "Thì thầm kể cho bạn bên cạnh",
+      "Whisper it to the friend next to you",
+      0,
+      "Thì thầm làm bạn bỏ lỡ bài giảng. Giờ ra chơi con kể cho bạn nghe nhé.",
+      "Whispering makes your friend miss the lesson. Save it for break time."
+     ],
+     [
+      "Giơ tay và chờ cô gọi tên",
+      "Put a hand up and wait to be called",
+      1,
+      "Giơ tay giúp cả lớp được nói lần lượt. Cô sẽ dành lúc cho con kể.",
+      "Hands up lets everyone take turns. The teacher will make time for your story."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở tiệm bánh, cô bán hàng đang trả lời bác đứng trước. Bin muốn hỏi ngay có bánh dâu không, mẹ đứng cạnh Bin.",
+     "At the bakery, the assistant is serving the man in front. Bin wants to ask about strawberry cakes now; Mum is beside Bin."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Gọi to “Cô ơi!” nhiều lần",
+      "Call “Excuse me!” over and over",
+      0,
+      "Gọi liên tục làm cô bối rối. Cô sẽ quay sang khi xong việc với bác.",
+      "Calling again and again flusters her. She’ll turn to you when she’s done."
+     ],
+     [
+      "Đứng chờ cạnh mẹ, khi cô quay sang thì hỏi",
+      "Wait by Mum and ask when the assistant turns to you",
+      1,
+      "Chờ đến lượt là tôn trọng người khác, và cô cũng nghe con rõ hơn.",
+      "Waiting your turn respects others, and she can hear you better too."
+     ],
+     [
+      "Chen lên hỏi trước bác ấy",
+      "Push in and ask before him",
+      0,
+      "Bác ấy đến trước nên được hỏi trước. Chờ một chút là đến lượt con.",
+      "He came first, so he goes first. Your turn is coming."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Lỡ làm đổ nước",
+   "Oops, I spilled it"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Bin rót nước thì cốc bị đổ, nước chảy lênh láng trên bàn ăn. Mẹ đang nấu cơm trong bếp.",
+   "Bin pours some water and the cup tips over, flooding the dining table. Mum is cooking in the kitchen."
+  ],
+  "cq": [
+   "Bin nên làm gì đầu tiên?",
+   "What should Bin do first?"
+  ],
+  "co": [
+   [
+    "Đứng im vì sợ bị mắng",
+    "Freeze because you’re scared of being told off",
+    0,
+    "Sợ là bình thường, nhưng nước chảy xuống sàn sẽ trơn. Lau trước rồi nói với mẹ nhé.",
+    "Feeling scared is normal, but water on the floor is slippery. Wipe first, then tell Mum."
+   ],
+   [
+    "Lấy khăn lau, rồi nói với mẹ: “Con lỡ làm đổ nước”",
+    "Grab a cloth to wipe it, then tell Mum: “I spilled some water”",
+    1,
+    "Lau ngay để nước không lan, nói thật để mẹ giúp nếu cần. Ai cũng có lúc lỡ tay.",
+    "Wipe before it spreads and tell Mum so she can help. Everyone has spills."
+   ],
+   [
+    "Đi chỗ khác như không có gì",
+    "Wander off as if nothing happened",
+    0,
+    "Nước vẫn còn đó và có thể làm ai trượt ngã. Con tự lau được, mẹ sẽ rất vui.",
+    "The water is still there and someone could slip. You can wipe it yourself — Mum will be pleased."
+   ]
+  ],
+  "qq": [
+   "Khi lỡ làm đổ, việc đầu tiên là…",
+   "After a spill, the first thing is…"
+  ],
+  "qo": [
+   [
+    "Giấu đi",
+    "Hide it"
+   ],
+   [
+    "Dọn ngay và nói với người lớn",
+    "Clean up and tell a grown-up"
+   ],
+   [
+    "Đổ lỗi cho người khác",
+    "Blame someone else"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ vẽ, Bin làm đổ cốc nước rửa bút lên bàn. Nước màu sắp chảy sang vở của bạn Mai.",
+     "In art class, Bin knocks over the paint water. It’s about to run onto Mai’s book."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Ngồi khóc",
+      "Sit and cry",
+      0,
+      "Buồn thì được, nhưng nước vẫn đang chảy. Con nhấc vở bạn lên trước nhé.",
+      "Feeling upset is OK, but the water is still running. Lift Mai’s book first."
+     ],
+     [
+      "Nói “Không phải tớ!”",
+      "Say “Wasn’t me!”",
+      0,
+      "Nói vậy thì vở bạn Mai vẫn bị ướt. Nhận là mình lỡ tay sẽ dễ sửa hơn.",
+      "Mai’s book still gets wet. Owning the spill makes it easier to fix."
+     ],
+     [
+      "Nhấc vở bạn Mai lên, lấy giấy thấm và báo cô",
+      "Lift Mai’s book away, blot with paper and tell the teacher",
+      1,
+      "Cứu vở bạn trước, rồi lau và nhờ cô. Con đã sửa chuyện thật nhanh.",
+      "Save the book first, then wipe and tell the teacher. That fixes it fast."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quán ăn cùng ba, Bin làm đổ bát nước chấm nhỏ ra bàn.",
+     "At a restaurant with Dad, Bin tips a little dipping-sauce bowl onto the table."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Nói với ba, rồi cùng ba nhờ cô phục vụ lau giúp",
+      "Tell Dad, then ask the staff for help together",
+      1,
+      "Ở ngoài, nói với ba và nhờ người làm ở quán là cách sửa nhanh và lịch sự.",
+      "When you’re out, telling Dad and asking the staff is quick and polite."
+     ],
+     [
+      "Lấy tay gạt xuống đất",
+      "Sweep it onto the floor with your hand",
+      0,
+      "Nước chấm xuống đất làm người khác dễ trượt. Mình nhờ cô phục vụ lau giúp nhé.",
+      "Sauce on the floor makes people slip. Let’s ask the staff to help wipe it."
+     ],
+     [
+      "Lấy khăn giấy che lại cho ba khỏi thấy",
+      "Cover it with tissues so Dad won’t see",
+      0,
+      "Che đi thì vết đổ vẫn còn đó. Nói với ba, ba sẽ cùng con dọn.",
+      "Covering it doesn’t make it go away. Tell Dad and he’ll help you clean up."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Phim hoạt hình có thật không?",
+   "Is the cartoon real?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Trong phim hoạt hình, chú thỏ chỉ ăn kẹo mà vẫn khoẻ nhất rừng. Bin nói với ba: “Con cũng chỉ ăn kẹo thôi!”",
+   "In a cartoon, a rabbit eats only sweets and is still the strongest in the forest. Bin tells Dad: “I’ll only eat sweets too!”"
+  ],
+  "cq": [
+   "Con nghĩ sao?",
+   "What do you think?"
+  ],
+  "co": [
+   [
+    "Phim chiếu vậy thì chắc là đúng",
+    "If the cartoon shows it, it must be true",
+    0,
+    "Phim hoạt hình được vẽ ra cho vui, nhiều chuyện không có thật. Con có thể hỏi ba mẹ.",
+    "Cartoons are drawn for fun, and lots of things in them aren’t real. You can ask a grown-up."
+   ],
+   [
+    "Hỏi ba: “Ngoài đời ăn kẹo có khoẻ không ạ?”",
+    "Ask Dad: “Does eating sweets really make you strong?”",
+    1,
+    "Hỏi lại người lớn giúp con biết đâu là thật, đâu là tưởng tượng.",
+    "Asking a grown-up helps you tell what’s real from what’s pretend."
+   ],
+   [
+    "Ăn thật nhiều kẹo để thử",
+    "Eat loads of sweets to test it",
+    0,
+    "Thử như vậy dễ đau bụng, sâu răng. Hỏi trước bao giờ cũng an toàn hơn.",
+    "Testing it that way could give you tummy ache and bad teeth. Asking first is safer."
+   ]
+  ],
+  "qq": [
+   "Khi thấy chuyện lạ trên phim, con nên…",
+   "When a show shows something odd, you should…"
+  ],
+  "qo": [
+   [
+    "Hỏi người lớn xem có thật không",
+    "Ask a grown-up if it’s real"
+   ],
+   [
+    "Làm theo ngay",
+    "Copy it straight away"
+   ],
+   [
+    "Tin luôn",
+    "Just believe it"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bạn Tí nói chắc nịch: “Mèo nhà nào cũng biết nói, tớ thấy trên phim rồi!”",
+     "Tí says firmly: “All cats can talk — I saw it on telly!”"
+    ],
+    "q": [
+     "Bin nên trả lời thế nào?",
+     "How should Bin reply?"
+    ],
+    "o": [
+     [
+      "“Cậu nói dối!”",
+      "“You’re lying!”",
+      0,
+      "Bạn không nói dối, bạn chỉ tin vào phim. Mình có thể nói nhẹ nhàng hơn.",
+      "Tí isn’t lying — he just believes the show. You can say it more kindly."
+     ],
+     [
+      "“Ừ, đúng rồi!”",
+      "“Yeah, that’s right!”",
+      0,
+      "Gật đầu theo thì cả hai cùng hiểu sai. Thử cùng bạn suy nghĩ nhé.",
+      "Agreeing means you both get it wrong. Try thinking it through together."
+     ],
+     [
+      "“Mèo nhà tớ chỉ kêu meo meo. Mình hỏi cô xem nhé!”",
+      "“My cat just says miaow. Let’s ask our teacher!”",
+      1,
+      "Con so với điều mình thấy thật, rồi cùng bạn hỏi cô. Thế là suy nghĩ rất giỏi.",
+      "You compared it with what you really see, then asked together. Great thinking."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở công viên cùng mẹ, Bin nghe một bạn đội mũ siêu nhân nói: “Đội mũ này là bay được!”",
+     "At the park with Mum, Bin hears a child in a superhero hat say: “This hat lets you fly!”"
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Hỏi mẹ: “Mũ có làm người ta bay được không ạ?”",
+      "Ask Mum: “Can a hat really make you fly?”",
+      1,
+      "Chuyện nghe lạ thì hỏi người lớn. Mũ chỉ là đồ chơi vui thôi.",
+      "If something sounds odd, ask a grown-up. The hat is just a fun toy."
+     ],
+     [
+      "Đòi mẹ mua mũ giống vậy để bay",
+      "Beg Mum for the same hat so you can fly",
+      0,
+      "Mũ đẹp thì vui, nhưng không làm ai bay được. Hỏi lại trước khi tin nhé.",
+      "A nice hat is fun, but it can’t make anyone fly. Check before you believe."
+     ],
+     [
+      "Tin luôn và về kể cho cả lớp",
+      "Believe it and tell the whole class",
+      0,
+      "Kể khi chưa chắc thì các bạn cũng hiểu sai. Mình hỏi người lớn trước đã.",
+      "If you share before checking, your friends get it wrong too. Ask first."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Buổi sáng không vội vàng",
+   "A calm morning"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "A",
+  "story": [
+   "Sáng nào Bin cũng vừa ăn vừa tìm giày, suýt muộn học. Mẹ đưa Bin một tờ giấy vẽ các việc buổi sáng.",
+   "Every morning Bin hunts for shoes while eating and is nearly late. Mum gives Bin a sheet with pictures of the morning jobs."
+  ],
+  "cq": [
+   "Bin nên dùng tờ giấy thế nào?",
+   "How should Bin use the sheet?"
+  ],
+  "co": [
+   [
+    "Dán cạnh giường, làm lần lượt từng việc và đánh dấu",
+    "Stick it by the bed, do each job in order and tick it off",
+    1,
+    "Làm lần lượt từng bước giúp buổi sáng gọn gàng, con thấy rõ mình đã xong gì.",
+    "One step at a time keeps the morning smooth, and you can see what’s done."
+   ],
+   [
+    "Làm việc thích trước, việc chán để sau",
+    "Do the fun jobs first and the boring ones later",
+    0,
+    "Việc chán để sau thường bị quên, như đôi giày lại mất tích. Làm theo thứ tự sẽ nhẹ hơn.",
+    "Boring jobs left till later get forgotten — like the missing shoes. Going in order is easier."
+   ],
+   [
+    "Cất tờ giấy vào ngăn kéo",
+    "Put it away in a drawer",
+    0,
+    "Cất đi thì sáng mai con không nhìn thấy. Dán chỗ dễ thấy sẽ giúp con nhớ.",
+    "Hidden away, you won’t see it tomorrow. Stick it where you can see it."
+   ]
+  ],
+  "qq": [
+   "Buổi sáng nhanh hơn khi con…",
+   "Mornings go faster when you…"
+  ],
+  "qo": [
+   [
+    "Làm nhiều việc cùng lúc",
+    "Do lots of things at once"
+   ],
+   [
+    "Làm lần lượt từng việc theo thứ tự",
+    "Do one job at a time, in order"
+   ],
+   [
+    "Chờ mẹ nhắc từng việc",
+    "Wait for Mum to remind you each time"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Cô cho cả lớp 5 phút cất sách vở trước giờ ra chơi. Bàn Bin còn bút, thước, vở và hộp màu.",
+     "The teacher gives the class five minutes to pack away before break. Bin’s desk has pens, a ruler, books and crayons."
+    ],
+    "q": [
+     "Bin nên làm thế nào cho kịp?",
+     "How can Bin finish in time?"
+    ],
+    "o": [
+     [
+      "Ngồi chơi tiếp, hết giờ mới cất",
+      "Keep playing and pack when time’s up",
+      0,
+      "Hết giờ mới cất thì con mất giờ ra chơi. Bắt đầu ngay sẽ có nhiều thời gian chơi hơn.",
+      "Leave it till the end and you lose break time. Start now and you get more play."
+     ],
+     [
+      "Cất lần lượt: vở trước, rồi bút thước, cuối cùng là hộp màu",
+      "Pack in order: books, then pens and ruler, then crayons",
+      1,
+      "Chia ra từng bước nhỏ thì 5 phút là đủ, không bỏ sót món nào.",
+      "Small steps in order make five minutes plenty, with nothing left behind."
+     ],
+     [
+      "Gom hết vào cặp thật nhanh",
+      "Shove everything into the bag fast",
+      0,
+      "Nhanh thật nhưng màu dễ gãy, vở bị nhàu. Cất theo thứ tự cũng nhanh mà gọn hơn.",
+      "It’s quick, but crayons snap and books crumple. Going in order is just as fast and tidier."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở bể bơi, ba nói còn 10 phút nữa là về. Bin cần lên bờ, tắm tráng và thay đồ.",
+     "At the pool, Dad says ten minutes until home time. Bin needs to get out, shower and change."
+    ],
+    "q": [
+     "Bin nên làm gì?",
+     "What should Bin do?"
+    ],
+    "o": [
+     [
+      "Bơi thêm chút nữa rồi tính",
+      "Swim a bit longer and sort it out later",
+      0,
+      "Bơi thêm thì ba phải chờ. Lên bờ ngay để có đủ thời gian nhé.",
+      "Swimming longer keeps Dad waiting. Get out now and you’ll have enough time."
+     ],
+     [
+      "Mặc đồ luôn khi người còn ướt",
+      "Pull clothes on while still wet",
+      0,
+      "Vội quá thì áo ướt, khó chịu. Lau khô một chút cũng chỉ mất ít thời gian thôi.",
+      "Rushing leaves you soggy and uncomfortable. A quick dry only takes a moment."
+     ],
+     [
+      "Lên bờ ngay, làm lần lượt: tắm, lau khô, thay đồ",
+      "Get out now and go in order: shower, dry, change",
+      1,
+      "Biết còn bao lâu và làm lần lượt từng việc giúp con kịp giờ mà không vội vàng.",
+      "Knowing how long you have and going step by step gets you there without rushing."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Cần hay muốn?",
+   "Need or want?"
+  ],
+  "m": [
+   "6 phút",
+   "6 min"
+  ],
+  "base": "C",
+  "story": [
+   "Bin đi siêu thị cùng mẹ để mua sữa và bàn chải đánh răng. Ở quầy tính tiền, Bin thấy một chiếc xe đồ chơi rất đẹp.",
+   "Bin goes to the supermarket with Mum for milk and a toothbrush. At the till, Bin spots a lovely toy car."
+  ],
+  "cq": [
+   "Bin nên nghĩ thế nào?",
+   "How should Bin think about it?"
+  ],
+  "co": [
+   [
+    "Bỏ bàn chải lại để lấy xe",
+    "Swap the toothbrush for the car",
+    0,
+    "Bàn chải giúp răng khoẻ mỗi ngày, xe thì chờ được. Mua thứ cần trước nhé.",
+    "A toothbrush keeps teeth healthy every day; the car can wait. Needs come first."
+   ],
+   [
+    "Sữa và bàn chải là thứ cần, xe đồ chơi là thứ muốn, để dịp khác",
+    "Milk and a toothbrush are needs; the car is a want, for another time",
+    1,
+    "Thứ cần giúp mình sống khoẻ mỗi ngày, thứ muốn có thể chờ. Biết phân biệt là con lớn rồi.",
+    "Needs keep us healthy every day; wants can wait. Telling them apart is very grown-up."
+   ],
+   [
+    "Khóc để mẹ mua bằng được",
+    "Cry until Mum buys it",
+    0,
+    "Khóc làm cả hai buồn mà xe vẫn chưa phải thứ cần. Con có thể nói: “Con thích, mình để dành nhé.”",
+    "Crying upsets you both, and the car still isn’t a need. Try: “I like it — can we save for it?”"
+   ]
+  ],
+  "qq": [
+   "Thứ nào là thứ “cần”?",
+   "Which one is a “need”?"
+  ],
+  "qo": [
+   [
+    "Nước uống sạch",
+    "Clean drinking water"
+   ],
+   [
+    "Đồ chơi mới",
+    "A new toy"
+   ],
+   [
+    "Kẹo nhiều màu",
+    "Colourful sweets"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bin có 10 nghìn đồng tiền tiêu vặt. Bút chì của Bin đã gãy hết, Bin cũng muốn mua hình dán.",
+     "Bin has 10,000 dong pocket money. Bin’s pencils are all broken, and Bin also wants stickers."
+    ],
+    "q": [
+     "Bin nên mua gì trước?",
+     "What should Bin buy first?"
+    ],
+    "o": [
+     [
+      "Bút chì trước, còn tiền thì tính hình dán sau",
+      "A pencil first; stickers later if there’s money left",
+      1,
+      "Bút là thứ cần cho việc học. Mua thứ cần trước là cách tiêu tiền khôn ngoan.",
+      "A pencil is what you need for school. Buying needs first is spending wisely."
+     ],
+     [
+      "Hình dán, vì đẹp hơn",
+      "Stickers — they’re prettier",
+      0,
+      "Hình dán vui, nhưng không có bút thì mai con khó làm bài. Thứ cần trước, thứ muốn sau.",
+      "Stickers are fun, but without a pencil homework is hard. Needs first, wants after."
+     ],
+     [
+      "Mượn bút của em, lấy tiền mua hình dán",
+      "Borrow your sibling’s pencil and spend it all on stickers",
+      0,
+      "Em cũng cần bút của em. Con tự mua thứ mình cần thì ai cũng vui.",
+      "Your sibling needs their pencil too. Buying what you need keeps everyone happy."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ở lớp, các bạn kể mình mới có hộp bút ba tầng. Hộp bút của Bin vẫn còn dùng tốt.",
+     "At school, friends talk about their new three-layer pencil cases. Bin’s pencil case still works fine."
+    ],
+    "q": [
+     "Bin nghĩ sao?",
+     "What does Bin think?"
+    ],
+    "o": [
+     [
+      "Hộp bút của mình còn tốt, mình chưa cần mua mới",
+      "Mine still works, so I don’t need a new one yet",
+      1,
+      "Bạn có đồ mới không có nghĩa là mình cũng cần. Đồ còn tốt thì dùng tiếp.",
+      "A friend having something new doesn’t mean you need it. If it works, keep using it."
+     ],
+     [
+      "Về nhà đòi mẹ mua hộp bút mới ngay",
+      "Go home and ask for a new one straight away",
+      0,
+      "Hộp bút cũ vẫn dùng tốt nên hộp mới là thứ muốn. Thứ muốn thì mình có thể chờ.",
+      "Your old case still works, so a new one is a want. Wants can wait."
+     ],
+     [
+      "Giấu hộp bút cũ vì ngại",
+      "Hide the old case because you feel embarrassed",
+      0,
+      "Hộp bút của con vẫn làm tốt việc của nó, không có gì phải ngại cả.",
+      "Your case does its job well — nothing to feel shy about."
+     ]
+    ]
+   }
+  }
+ }
+]

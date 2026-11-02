@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Nhóm chia hai phe thì làm sao",
+   "When the team splits in two"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Nhóm bốn bạn của An phải chọn tên đội cho hội thi đố vui. Hai bạn muốn “Đội Cá Heo”, hai bạn muốn “Đội Tia Chớp”. Đã mười phút trôi qua mà vẫn chưa thống nhất.",
+   "An’s team of four must pick a name for the quiz contest. Two want “Dolphins”, two want “Lightning”. Ten minutes on, they still can’t agree."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đề nghị cả nhóm thống nhất một tiêu chí, như tên dễ nhớ và hợp chủ đề, rồi chọn theo tiêu chí đó",
+    "Suggest agreeing what matters — easy to remember, fits the theme — then choose by that",
+    1,
+    "Khi bất đồng, thống nhất cách chọn trước giúp nhóm bớt tranh cãi. Ai cũng thấy quyết định công bằng.",
+    "When you disagree, agreeing how to choose comes first. Then everyone feels the result is fair."
+   ],
+   [
+    "Ai nói to hơn thì thắng",
+    "Whoever argues loudest wins",
+    0,
+    "Nói to không làm ý kiến đúng hơn, chỉ làm nhóm căng thẳng. Cần một cách chọn công bằng.",
+    "Being loud doesn’t make an idea better, it just raises tension. You need a fair method."
+   ],
+   [
+    "Giận dỗi không góp ý nữa",
+    "Sulk and stop contributing",
+    0,
+    "Rút lui làm nhóm mất một thành viên. Ý của con vẫn quan trọng, kể cả khi không được chọn.",
+    "Pulling out leaves the team a member short. Your voice still matters even if your idea isn’t picked."
+   ]
+  ],
+  "qq": [
+   "Khi nhóm bất đồng, cách công bằng là…",
+   "When a team disagrees, a fair way forward is…"
+  ],
+  "qo": [
+   [
+    "Để bạn giỏi nhất quyết định",
+    "Let the cleverest kid decide"
+   ],
+   [
+    "Thống nhất tiêu chí rồi cùng chọn",
+    "Agree on what matters, then choose together"
+   ],
+   [
+    "Bỏ qua, không làm nữa",
+    "Drop the task"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà chọn món cho bữa tối Chủ nhật. An và ba muốn ăn bún chả, mẹ và em muốn ăn lẩu nấm. Ai cũng không muốn nhường.",
+     "The family is choosing Sunday dinner. An and Dad want grilled pork noodles; Mum and An’s sister want mushroom hotpot. Nobody wants to give in."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói mẹ quyết đi cho xong",
+      "Tell Mum to just decide",
+      0,
+      "Để một người quyết thì người kia có thể không vui. Cùng tìm cách sẽ tốt hơn.",
+      "One person deciding may leave others unhappy. Finding a way together is better."
+     ],
+     [
+      "Nhất quyết đòi món mình thích",
+      "Refuse to budge on your choice",
+      0,
+      "Không ai nhường thì bữa tối thành cuộc cãi nhau. Thử nghĩ cách để cả hai bên đều vui.",
+      "If nobody gives, dinner becomes an argument. Think of a way both sides win."
+     ],
+     [
+      "Gợi ý tuần này nấu một món, tuần sau nấu món kia, và bốc thăm xem món nào trước",
+      "Suggest one this week and the other next week, and draw lots for which goes first",
+      1,
+      "Thay phiên và bốc thăm là cách công bằng khi hai bên ngang nhau. Ai cũng được đến lượt.",
+      "Taking turns and drawing lots is fair when it’s a tie. Everyone gets their turn."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đội bóng nhí của khu phố bàn về áo đấu, có huấn luyện viên ở đó. Một nửa đội muốn màu xanh, nửa kia muốn màu cam. Mọi người bắt đầu to tiếng.",
+     "The neighbourhood kids’ football team is choosing a kit colour, with the coach there. Half want blue, half want orange, and voices are rising."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Màu cam xấu lắm” cho bên kia đổi ý",
+      "Say “Orange is ugly” to win them over",
+      0,
+      "Chê lựa chọn của bạn làm cuộc bàn bạc thành cãi nhau. Hãy nói lý do mình thích thay vì chê.",
+      "Knocking their choice turns talk into a row. Say why you like yours instead."
+     ],
+     [
+      "Đề nghị mỗi bên nói một lý do, rồi nhờ huấn luyện viên tổ chức bỏ phiếu kín",
+      "Suggest each side gives one reason, then ask the coach to run a secret vote",
+      1,
+      "Nghe lý do giúp hiểu nhau hơn. Bỏ phiếu kín giúp mọi người chọn thật lòng mà không ngại.",
+      "Hearing reasons builds understanding. A secret vote lets everyone choose honestly."
+     ],
+     [
+      "Bỏ đội vì không được chọn màu mình thích",
+      "Quit because your colour lost",
+      0,
+      "Màu áo chỉ là một phần nhỏ. Niềm vui chơi bóng cùng đội quan trọng hơn nhiều.",
+      "Kit colour is a small thing. Playing together matters far more."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Giữ đồ của mình không thất lạc",
+   "Keeping track of my things"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Cả nhà đi công viên chơi cả buổi sáng. Lúc về đến cổng, An mới nhớ không thấy chai nước và mũ đâu. Đây là lần thứ ba trong tháng.",
+   "The family spent the morning in the park. At the gate on the way out, An realises the water bottle and cap are missing — the third time this month."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Xin ba mẹ mua cái mới",
+    "Ask for new ones",
+    0,
+    "Mua mới thì tốn tiền mà thói quen quên vẫn còn. Tập kiểm tra đồ sẽ giúp lâu dài.",
+    "Buying new costs money and the forgetting carries on. A checking habit helps for good."
+   ],
+   [
+    "Nói với ba mẹ, cùng quay lại chỗ đã ngồi tìm, rồi từ nay trước khi rời đi tự kiểm tra “đủ đồ chưa”",
+    "Tell Mum and Dad, go back together to where you sat, and from now on do a “got everything?” check before leaving",
+    1,
+    "Tìm lại cùng người lớn là an toàn. Thói quen kiểm tra trước khi đi giúp con không phải tìm nữa.",
+    "Searching with an adult is safe. A habit of checking before you leave stops it happening again."
+   ],
+   [
+    "Tự chạy quay lại tìm, không nói với ai",
+    "Run back alone without telling anyone",
+    0,
+    "Tự đi một mình ở nơi đông người làm ba mẹ lo và không an toàn. Luôn báo người lớn trước.",
+    "Going off alone in a busy place worries your parents and isn’t safe. Always tell an adult first."
+   ]
+  ],
+  "qq": [
+   "Cách hay để không bỏ quên đồ là…",
+   "A good way to stop losing things is…"
+  ],
+  "qo": [
+   [
+    "Mang thật ít đồ",
+    "Never bring anything"
+   ],
+   [
+    "Nhờ người khác cầm giúp hết",
+    "Get someone else to carry everything"
+   ],
+   [
+    "Kiểm tra lại đồ trước khi rời đi",
+    "Check your things before you leave"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Sáng nào An cũng mất mười phút tìm chìa khoá ngăn bàn, thẻ thư viện và đồng hồ. Ba mẹ đều phải chờ.",
+     "Every morning An spends ten minutes hunting for the desk drawer key, library card and watch, while Mum and Dad wait."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhờ mẹ giữ hộ tất cả",
+      "Ask Mum to keep everything for you",
+      0,
+      "Mẹ giữ hộ thì con chưa học cách tự quản đồ. Một chỗ cố định sẽ giúp con tự làm.",
+      "If Mum keeps it all, you don’t learn. A fixed spot lets you manage yourself."
+     ],
+     [
+      "Dậy sớm hơn để có thêm thời gian tìm",
+      "Get up earlier to have more time to search",
+      0,
+      "Dậy sớm chỉ để tìm đồ thì tiếc giấc ngủ. Sắp xếp chỗ để đồ sẽ giải quyết tận gốc.",
+      "Losing sleep to search is a shame. Organising a spot solves the root problem."
+     ],
+     [
+      "Đặt một chiếc khay nhỏ trên bàn học làm “chỗ của đồ quan trọng”, tối nào cũng để vào đó",
+      "Put a small tray on your desk as the “important things” spot and use it every night",
+      1,
+      "Mỗi món có một chỗ cố định thì sáng ra không phải nghĩ. Đó là tự lập từ thói quen nhỏ.",
+      "Everything in one fixed place means no thinking in the morning. Independence starts with small habits."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "An cho bạn mượn thước kẻ và gọt bút chì nhưng không nhớ đã đưa cho ai. Hộp bút giờ thiếu nhiều thứ.",
+     "An has lent out a ruler and a sharpener but can’t remember to whom. The pencil case is half empty."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi các bạn ngồi gần, rồi dán tên lên đồ và nhớ ai đang mượn",
+      "Ask nearby classmates, then label your things and remember who’s borrowing",
+      1,
+      "Dán tên và ghi nhớ ai mượn giúp đồ quay về với con. Cho mượn vẫn tốt, chỉ cần có cách theo dõi.",
+      "Labels and knowing who has what bring things back. Lending is kind — just keep track."
+     ],
+     [
+      "Lấy đồ của bạn khác dùng tạm",
+      "Use someone else’s things for now",
+      0,
+      "Lấy đồ chưa hỏi sẽ làm bạn khác khó chịu. Hỏi lại các bạn sẽ đúng hơn.",
+      "Taking without asking upsets others. Asking around is better."
+     ],
+     [
+      "Thôi bỏ, coi như mất",
+      "Forget it, they’re gone",
+      0,
+      "Đồ vẫn còn ở lớp, chỉ cần hỏi. Lần sau nhớ ghi lại khi cho mượn.",
+      "They’re still in the class — just ask. Next time, make a note when you lend."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Đồ hỏng: thử sửa trước khi bỏ",
+   "Broken? Try fixing before throwing out"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "Quai cặp sách của An bị bung chỉ một bên. An định xin mẹ mua cặp mới dù cặp vẫn còn tốt.",
+   "One strap on An’s school bag has come unstitched. An is about to ask Mum for a new bag, though the rest is fine."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Dùng tạm bằng cách xách tay cả năm",
+    "Just carry it by hand all year",
+    0,
+    "Xách một tay lâu ngày dễ mỏi vai. Sửa quai sẽ thoải mái hơn.",
+    "Carrying it one-handed for months strains your shoulder. Fixing the strap is more comfortable."
+   ],
+   [
+    "Đòi mua cặp mới vì cặp cũ hỏng rồi",
+    "Insist on a new bag because it’s broken",
+    0,
+    "Hỏng một chỗ nhỏ không có nghĩa là hỏng cả cặp. Thử tìm cách sửa trước nhé.",
+    "One small fault doesn’t ruin the whole bag. Try a fix first."
+   ],
+   [
+    "Xem chỗ hỏng, nhờ ba hoặc mẹ chỉ cách khâu lại, hoặc cùng mang ra tiệm sửa gần nhà",
+    "Look at the damage, ask Mum or Dad to show you how to stitch it, or take it to a repair shop together",
+    1,
+    "Sửa được thì tiết kiệm tiền và bớt rác. Học khâu một đường chỉ cũng là kỹ năng hữu ích cho cả bạn trai lẫn bạn gái.",
+    "Fixing saves money and waste. Learning a simple stitch is useful for everyone."
+   ]
+  ],
+  "qq": [
+   "Khi đồ dùng bị hỏng nhẹ, nên làm gì trước?",
+   "When something gets slightly broken, what should you do first?"
+  ],
+  "qo": [
+   [
+    "Vứt đi mua cái mới",
+    "Throw it away and buy new"
+   ],
+   [
+    "Xem chỗ hỏng và tìm cách sửa",
+    "Look at the fault and find a way to fix it"
+   ],
+   [
+    "Giấu đi để không ai biết",
+    "Hide it so no one knows"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ thủ công, chiếc hộp đựng bút An làm bằng bìa cứng bị bung keo một góc ngay trước khi nộp.",
+     "In craft class, the cardboard pencil holder An made comes unglued at one corner just before handing it in."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Tìm nguyên nhân: keo chưa khô, rồi kẹp góc lại bằng kẹp giấy chờ khô và báo cô xin thêm vài phút",
+      "Work out why — the glue wasn’t dry — clip the corner while it sets, and ask the teacher for a few more minutes",
+      1,
+      "Hiểu vì sao hỏng giúp sửa đúng cách. Xin thêm thời gian lễ phép là bình thường.",
+      "Knowing why it broke helps you fix it properly. Politely asking for more time is fine."
+     ],
+     [
+      "Nộp luôn, cô sẽ không để ý",
+      "Hand it in anyway, she won’t notice",
+      0,
+      "Một góc bung dễ làm hộp hỏng thêm. Dành vài phút sửa sẽ tốt hơn.",
+      "A loose corner will get worse. A few minutes fixing is worth it."
+     ],
+     [
+      "Vứt đi làm lại từ đầu",
+      "Bin it and start again",
+      0,
+      "Làm lại cả hộp tốn nhiều thời gian trong khi chỉ hỏng một góc. Sửa đúng chỗ là đủ.",
+      "Starting over takes ages when only a corner is broken. Fix just that bit."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đạp xe cùng ba ở công viên, xích xe của An bị tuột. Ba đứng bên cạnh, An bực bội muốn bỏ xe dắt về.",
+     "Cycling with Dad in the park, An’s bike chain slips off. Dad is right there, and An wants to give up and push it home."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đá vào xe cho bõ tức",
+      "Kick the bike in frustration",
+      0,
+      "Đá xe có thể làm hỏng thêm và đau chân. Bình tĩnh nhìn xem chỗ tuột ở đâu.",
+      "Kicking it could break more and hurt your foot. Calmly look at where it slipped."
+     ],
+     [
+      "Nhờ ba hướng dẫn, tự tay lắp xích lại vào bánh răng",
+      "Ask Dad to talk you through it and put the chain back on yourself",
+      1,
+      "Tự sửa với người lớn hướng dẫn giúp con lần sau biết cách. Bẩn tay một chút cũng không sao.",
+      "Fixing it with guidance means you’ll know next time. Mucky hands are fine."
+     ],
+     [
+      "Để xe lại công viên",
+      "Leave the bike in the park",
+      0,
+      "Bỏ xe lại thì có thể mất. Xích tuột thường sửa được chỉ trong vài phút.",
+      "Leaving it could mean losing it. A slipped chain is usually a few minutes’ fix."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Mẹo trên mạng có nên làm theo?",
+   "Should I try that online tip?"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "A",
+  "story": [
+   "An xem một video hướng dẫn: “Mẹo học thuộc cả bài trong 5 phút, không cần ôn!” An định tối nay chỉ dùng mẹo này thay cho ôn bài.",
+   "An watches a video: “Learn a whole lesson in 5 minutes, no revision needed!” Tonight An plans to use only this trick instead of studying."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Làm theo luôn vì video có nhiều lượt xem",
+    "Try it — the video has loads of views",
+    0,
+    "Nhiều lượt xem không chứng minh mẹo đúng. Cần xem người nói là ai và có bằng chứng gì.",
+    "Lots of views doesn’t prove it works. Ask who’s saying it and what the evidence is."
+   ],
+   [
+    "Cho rằng mọi mẹo trên mạng đều vô dụng",
+    "Decide all online tips are useless",
+    0,
+    "Có những mẹo hữu ích thật. Kỹ năng là biết kiểm tra, không phải bỏ qua tất cả.",
+    "Some tips are genuinely helpful. The skill is checking, not dismissing everything."
+   ],
+   [
+    "Nghĩ xem người làm video có phải người am hiểu không, thử mẹo song song với cách ôn quen thuộc, và hỏi cô giáo",
+    "Ask whether the creator really knows, try the trick alongside your usual revision, and check with your teacher",
+    1,
+    "Lời hứa “không cần cố gắng” thường quá tốt để là thật. Thử cẩn thận và hỏi người hiểu biết là khôn ngoan.",
+    "Promises of “no effort” are usually too good to be true. Test carefully and ask someone who knows."
+   ]
+  ],
+  "qq": [
+   "Trước khi làm theo một lời khuyên trên mạng, nên tự hỏi…",
+   "Before following online advice, ask yourself…"
+  ],
+  "qo": [
+   [
+    "Video có vui không?",
+    "Is the video fun?"
+   ],
+   [
+    "Bạn mình đã thử chưa?",
+    "Have my friends tried it?"
+   ],
+   [
+    "Người nói có đáng tin không, có bằng chứng không?",
+    "Is the person trustworthy, and is there proof?"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Bạn Tí kể ở lớp: “Trên mạng nói uống nước đá lúc nắng sẽ bị bệnh nặng ngay!” Vài bạn hoảng sợ.",
+     "Tí tells the class: “Online it says drinking iced water in the heat makes you seriously ill at once!” A few classmates panic."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Kể tiếp cho lớp khác cùng biết",
+      "Pass it on to the other classes",
+      0,
+      "Chưa kiểm tra mà lan truyền dễ làm nhiều người lo lắng vô cớ.",
+      "Spreading it unchecked can worry lots of people for nothing."
+     ],
+     [
+      "Nói: “Mình chưa chắc đâu, để hỏi cô giáo hoặc cô y tế trường nhé”",
+      "Say: “I’m not sure that’s right — let’s ask the teacher or the school nurse”",
+      1,
+      "Tin nghe ở đâu đó cần được kiểm tra với người có chuyên môn trước khi tin.",
+      "Something heard online should be checked with an expert before you believe it."
+     ],
+     [
+      "Cười Tí vì tin linh tinh",
+      "Laugh at Tí for believing nonsense",
+      0,
+      "Chê bạn làm bạn ngại. Cùng bạn đi hỏi sẽ giúp cả lớp hiểu đúng.",
+      "Mocking embarrasses Tí. Finding out together helps the whole class."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi chơi với cô chú, An thấy trên mạng mẹo “cho cá ăn bánh mì ở hồ công viên thì cá lớn nhanh”. An định mua thật nhiều bánh mì.",
+     "Out with an aunt and uncle, An reads online that “feeding bread to the fish in the park lake makes them grow fast”. An wants to buy lots of bread."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đọc biển nội quy của công viên và hỏi cô chú hoặc nhân viên trước",
+      "Read the park’s sign and ask your aunt, uncle or a staff member first",
+      1,
+      "Nội quy nơi công cộng và người hiểu biết là nguồn đáng tin hơn một mẹo trên mạng. Có nơi không cho cho cá ăn để giữ nước sạch.",
+      "Park rules and people who know are more reliable than an online tip. Some places ban feeding to keep the water clean."
+     ],
+     [
+      "Mua thật nhiều bánh mì thả xuống hồ",
+      "Buy loads of bread and throw it in",
+      0,
+      "Thả nhiều đồ ăn có thể làm nước hồ bẩn và hại cá. Kiểm tra trước sẽ tốt hơn.",
+      "Too much food can foul the water and harm the fish. Check first."
+     ],
+     [
+      "Lén cho ăn khi không ai nhìn",
+      "Feed them when no one’s looking",
+      0,
+      "Nếu phải lén thì có lẽ việc đó không nên làm. Hỏi người lớn sẽ rõ ràng hơn.",
+      "If you have to sneak, it probably isn’t allowed. Ask an adult."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Bí mật nào nên giữ, bí mật nào phải kể",
+   "Secrets to keep and secrets to tell"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bạn Linh thì thầm với An: “Có anh lớp trên bắt mình đưa tiền ăn sáng mỗi ngày, cậu đừng nói với ai nhé.” Linh trông rất sợ.",
+   "Linh whispers to An: “An older boy makes me give him my breakfast money every day. Don’t tell anyone.” Linh looks scared."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Giữ bí mật vì đã hứa với bạn",
+    "Keep the secret because you promised",
+    0,
+    "Bí mật làm bạn sợ hãi hoặc bị tổn thương thì không nên giữ. Giúp bạn quan trọng hơn lời hứa đó.",
+    "Secrets that make someone scared or hurt shouldn’t be kept. Helping Linh matters more than that promise."
+   ],
+   [
+    "Nói với Linh: “Chuyện này cần người lớn giúp, mình đi cùng cậu đến gặp cô chủ nhiệm nhé”",
+    "Tell Linh: “This needs an adult. I’ll come with you to see our form teacher”",
+    1,
+    "Kể với người lớn tin cậy không phải là phản bội bạn mà là bảo vệ bạn. Đi cùng giúp Linh bớt sợ.",
+    "Telling a trusted adult isn’t betraying Linh — it’s protecting her. Going together makes it less scary."
+   ],
+   [
+    "Tự đi tìm anh lớp trên để nói chuyện",
+    "Go and confront the older boy yourself",
+    0,
+    "Tự xử lý có thể làm con và Linh gặp nguy hiểm. Việc này cần người lớn giúp.",
+    "Handling it alone could put you both at risk. This needs a grown-up."
+   ]
+  ],
+  "qq": [
+   "Bí mật nào cần kể ngay với người lớn tin cậy?",
+   "Which secrets should you tell a trusted adult straight away?"
+  ],
+  "qo": [
+   [
+    "Bí mật làm ai đó sợ hãi, bị đau hoặc không an toàn",
+    "A secret that makes someone scared, hurt or unsafe"
+   ],
+   [
+    "Bí mật về món quà bất ngờ cho mẹ",
+    "A surprise present for Mum"
+   ],
+   [
+    "Bí mật về trò chơi mới của nhóm",
+    "Your group’s new game"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba dặn An: “Mình giữ bí mật chuyện chuẩn bị bánh sinh nhật cho mẹ nhé!” Hôm sau mẹ hỏi An sao ba cứ thì thầm với con.",
+     "Dad tells An: “Let’s keep the birthday cake for Mum a secret!” Next day Mum asks why Dad keeps whispering with An."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Kể hết cho mẹ vì không được giữ bí mật với ba mẹ",
+      "Tell Mum everything because you shouldn’t keep secrets from parents",
+      0,
+      "Bí mật về bất ngờ vui sẽ được bật mí sớm thôi, nên giữ được. Bí mật không nên giữ là bí mật làm ai đó sợ hay bị đau.",
+      "A happy surprise will soon be revealed, so it’s fine to keep. The ones to tell are secrets that scare or hurt someone."
+     ],
+     [
+      "Nói dối là không có gì",
+      "Lie and say it’s nothing",
+      0,
+      "Không cần nói dối, chỉ cần cho mẹ biết đó là một bất ngờ vui.",
+      "No need to lie — just tell Mum it’s a happy surprise."
+     ],
+     [
+      "Cười và nói: “Bí mật vui, đến sinh nhật mẹ sẽ biết ạ!”",
+      "Smile and say: “It’s a happy secret — you’ll find out on your birthday!”",
+      1,
+      "Bất ngờ vui là bí mật tốt: nó làm người khác hạnh phúc và sẽ được bật mí.",
+      "A happy surprise is a good secret: it makes someone happy and will be revealed."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở sân chơi chung cư, một chú không quen cho An kẹo và nói: “Đừng kể với ba mẹ cháu nhé, bí mật của hai chú cháu mình.” Mẹ đang ngồi ở ghế đá gần đó.",
+     "In the apartment playground, a man An doesn’t know offers sweets and says: “Don’t tell your parents, it’s our secret.” Mum is sitting on a bench nearby."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nói “Cháu không nhận ạ”, đi ngay đến chỗ mẹ và kể lại",
+      "Say “No thank you”, go straight to Mum and tell her",
+      1,
+      "Ai bảo con giấu ba mẹ thì con càng phải kể ngay. Con làm đúng và không có lỗi gì cả.",
+      "Anyone who asks you to hide something from your parents is exactly who to tell about. You did the right thing."
+     ],
+     [
+      "Nhận kẹo và giữ bí mật",
+      "Take the sweets and keep the secret",
+      0,
+      "Người lớn tử tế không bao giờ bảo trẻ giữ bí mật với ba mẹ. Đó là dấu hiệu cần cảnh giác.",
+      "Kind adults never ask children to keep secrets from parents. That’s a warning sign."
+     ],
+     [
+      "Không nhận kẹo nhưng cũng không kể",
+      "Refuse the sweets but say nothing",
+      0,
+      "Từ chối là tốt, nhưng kể với mẹ giúp mẹ bảo vệ con và các bạn khác.",
+      "Saying no is good, but telling Mum helps protect you and other children."
+     ]
+    ]
+   }
+  }
+ }
+]

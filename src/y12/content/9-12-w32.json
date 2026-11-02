@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 2,
+  "t": [
+   "Cùng chơi, cùng dừng",
+   "Playing together, stopping together"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Chiều thứ Bảy, An và các bạn chơi đá cầu ở sân chung khu phố, ông của Tí ngồi trông gần đó. Cả nhóm đã hẹn 6 giờ về. Đến giờ, Tí rủ: “Chơi thêm nửa tiếng nữa đi!”",
+   "On Saturday afternoon An and friends play shuttlecock in the shared yard, with Tí’s grandpa watching nearby. They agreed to go home at 6. When 6 comes, Tí says, “Let’s play half an hour more!”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Nhắc cả nhóm: “Mình hẹn 6 giờ rồi, về thôi, mai chơi tiếp nhé”, rồi cùng dừng",
+    "Remind everyone, “We said 6, let’s go, same time tomorrow?” and all stop together",
+    1,
+    "Giờ dừng đã thoả thuận là lời hứa chung. Nhắc nhau giữ đúng giúp ba mẹ ở nhà yên tâm và lần sau được chơi tiếp.",
+    "An agreed stop time is a shared promise. Reminding each other keeps families relaxed and earns the next game."
+   ],
+   [
+    "Ở lại chơi vì mọi người đều ở lại",
+    "Stay because everyone else is",
+    0,
+    "Ba mẹ đang chờ con theo giờ đã hẹn. Về đúng giờ là giữ lời với cả nhà.",
+    "Your family expects you at the agreed time. Being on time keeps your word."
+   ],
+   [
+    "Lặng lẽ về một mình, không nói gì",
+    "Slip off home without a word",
+    0,
+    "Con giữ giờ là tốt, nhưng nhắc cả nhóm thì mọi người cùng giữ lời và không ai thắc mắc con đi đâu.",
+    "Keeping time is good, but reminding the group helps everyone keep the deal and nobody wonders where you went."
+   ]
+  ],
+  "qq": [
+   "Khi cả nhóm đã hẹn giờ dừng, nên làm gì?",
+   "When a group has agreed a stop time, you should…"
+  ],
+  "qo": [
+   [
+    "Ai muốn thì cứ chơi tiếp",
+    "Whoever wants to can carry on"
+   ],
+   [
+    "Nhắc nhau và cùng dừng đúng giờ",
+    "Remind each other and stop together on time"
+   ],
+   [
+    "Đợi người lớn gọi mới dừng",
+    "Wait until a grown-up calls"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An và em Bống chơi xếp hình trên máy tính bảng, hai chị em đã hẹn 5 giờ dừng. Đến giờ, em năn nỉ: “Chơi thêm một màn thôi!”",
+     "An and little Bống are doing a puzzle game on the tablet and agreed to stop at 5. At 5 Bống begs, “Just one more level!”"
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chơi tiếp cho em vui",
+      "Keep going to make her happy",
+      0,
+      "Chiều em thì vui lúc này, nhưng lần sau em sẽ khó giữ giờ hơn. Giữ lời hẹn nhé.",
+      "Giving in is nice now, but next time it’s harder to stop. Keep the deal."
+     ],
+     [
+      "Mách mẹ ngay",
+      "Tell Mum straight away",
+      0,
+      "Thử nhắc em nhẹ nhàng trước đã. Con làm được mà!",
+      "Try a gentle reminder first. You can do it!"
+     ],
+     [
+      "Nhắc em: “Mình hẹn 5 giờ rồi”, cùng tắt máy và rủ em chơi ô ăn quan",
+      "Remind her, “We said 5,” turn it off together and invite her to a board game",
+      1,
+      "Cùng dừng và có ngay một trò vui khác giúp em dễ chấp nhận hơn.",
+      "Stopping together with a fun alternative makes it easier for her."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ ra chơi, nhóm An chơi nhảy dây. Cả nhóm hẹn khi trống vào lớp là dừng. Trống đã điểm, Nam vẫn muốn nhảy nốt.",
+     "At break, An’s group plays skipping and agreed to stop when the bell rings. The bell goes and Nam wants to finish his turn."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo Nam: “Trống rồi, mình hẹn rồi mà. Ra chơi sau cậu nhảy trước nhé!” rồi cùng cất dây",
+      "Tell Nam, “That’s the bell, we agreed. You go first next break!” and pack the rope away together",
+      1,
+      "Giữ thoả thuận và hứa lượt sau giúp bạn vui vẻ dừng lại.",
+      "Keeping the deal and promising the next turn helps him stop happily."
+     ],
+     [
+      "Chờ Nam nhảy xong rồi vào muộn cùng",
+      "Wait for Nam and both go in late",
+      0,
+      "Vào muộn làm cả lớp phải chờ. Thoả thuận giúp cả nhóm vào đúng giờ.",
+      "Being late makes the class wait. The deal helps everyone be on time."
+     ],
+     [
+      "Giật dây khỏi tay Nam",
+      "Grab the rope from Nam",
+      0,
+      "Giật dây làm bạn bực và có thể ngã. Nhắc lời hẹn sẽ tốt hơn.",
+      "Grabbing upsets him and could make him trip. Remind him of the deal."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Đặt giờ dừng và giữ đúng",
+    "Set a stop time and keep it"
+   ],
+   "s": [
+    "Con cùng một người thân chọn một hoạt động chung (chơi cờ, xếp hình, đạp xe trong sân), cùng thoả thuận giờ dừng và giữ đúng. Ba mẹ xác nhận.",
+    "Choose a shared activity with a family member (a board game, a puzzle, cycling in the yard), agree a stop time together and keep it. Your parent confirms."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con đặt giờ và nhắc khi đến giờ.",
+     "Your parent helps set the time and reminds you when it comes."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự đặt giờ cùng người chơi và tự dừng.",
+     "With one reminder, you set the time with your partner and stop yourself."
+    ],
+    [
+     "Con tự đề nghị giờ dừng, tự nhắc người cùng chơi và kể lại cả hai đã giữ lời thế nào.",
+     "You suggest the stop time, remind your partner and describe how you both kept to it."
+    ]
+   ],
+   "rw": [
+    "Được chọn trò chơi cho lần chơi chung tiếp theo",
+    "You choose the game for next time"
+   ]
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự tìm kiếm thông tin an toàn",
+   "Searching safely by myself"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An cần tìm hiểu “vì sao lá cây chuyển màu vàng” cho bài Khoa học. An gõ mỗi chữ “lá” và kết quả hiện ra đủ thứ, cả quảng cáo.",
+   "An needs to find out “why leaves turn yellow” for science. An types just “leaves” and gets all sorts of results, including adverts."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bấm vào kết quả đầu tiên, dù là quảng cáo",
+    "Click the first result, even if it’s an advert",
+    0,
+    "Kết quả đầu tiên có thể là quảng cáo. Chọn trang đáng tin sẽ tốt hơn.",
+    "The top result might be an ad. Picking a trustworthy page is better."
+   ],
+   [
+    "Gõ từ khoá rõ “vì sao lá cây chuyển màu vàng”, chọn trang giáo dục hoặc thư viện, ba mẹ ngồi gần; gặp gì lạ thì báo ngay",
+    "Type a clear search, “why do leaves turn yellow”, pick an educational or library site, with a parent nearby, and report anything odd",
+    1,
+    "Từ khoá rõ ràng, trang tin cậy và có ba mẹ ở gần giúp con tự tìm hiểu mà vẫn an toàn.",
+    "Clear keywords, trustworthy sites and a parent nearby let you search on your own safely."
+   ],
+   [
+    "Hỏi người lạ trong một nhóm trò chuyện trên mạng",
+    "Ask strangers in an online chat group",
+    0,
+    "Không trò chuyện với người lạ trên mạng. Sách và trang giáo dục là nguồn tốt hơn.",
+    "Don’t chat with strangers online. Books and educational sites are better sources."
+   ]
+  ],
+  "qq": [
+   "Điều gì giúp tìm kiếm trên mạng an toàn?",
+   "What helps you search online safely?"
+  ],
+  "qo": [
+   [
+    "Bấm vào mọi kết quả",
+    "Clicking every result"
+   ],
+   [
+    "Tìm khi không có ai ở nhà",
+    "Searching when nobody’s home"
+   ],
+   [
+    "Từ khoá rõ, trang tin cậy và có ba mẹ ở gần",
+    "Clear keywords, trustworthy sites and a parent nearby"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Giờ Tin học, An tìm ảnh về loài báo. Một hình ảnh làm An thấy khó chịu bất ngờ hiện ra.",
+     "In computing, An searches for pictures of leopards. An unexpected image appears that makes An uncomfortable."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đóng trang lại và báo cô ngay",
+      "Close it and tell the teacher straight away",
+      1,
+      "Gặp hình ảnh khó chịu không phải lỗi của con. Đóng lại và báo người lớn là đúng.",
+      "Seeing something upsetting isn’t your fault. Closing it and telling an adult is right."
+     ],
+     [
+      "Gọi các bạn đến xem",
+      "Call friends over to look",
+      0,
+      "Cho bạn xem làm bạn cũng khó chịu. Đóng lại và báo cô nhé.",
+      "Showing others upsets them too. Close it and tell the teacher."
+     ],
+     [
+      "Im lặng, cố quên đi",
+      "Say nothing and try to forget it",
+      0,
+      "Giữ trong lòng làm con khó chịu lâu hơn. Kể với cô sẽ giúp con nhẹ nhõm.",
+      "Keeping it in makes you feel bad longer. Telling the teacher helps."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở thư viện phường cùng mẹ, An dùng máy tính công cộng tra cứu. Một trang đòi đăng ký bằng địa chỉ thư điện tử và số điện thoại.",
+     "At the local library with Mum, An uses a public computer. A site asks to sign up with an email address and phone number."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Điền số điện thoại của mẹ cho nhanh",
+      "Put in Mum’s number to save time",
+      0,
+      "Thông tin của gia đình không tự điền khi chưa hỏi. Hỏi mẹ trước nhé.",
+      "Family details aren’t yours to enter without asking. Ask Mum first."
+     ],
+     [
+      "Bịa thông tin để vào được",
+      "Make up details to get in",
+      0,
+      "Bịa thông tin không phải cách hay. Tìm trang khác không cần đăng ký sẽ tốt hơn.",
+      "Making things up isn’t a good idea. Find a site that doesn’t need sign-up."
+     ],
+     [
+      "Không đăng ký, hỏi mẹ hoặc cô thủ thư, rồi tìm trang khác không cần thông tin cá nhân",
+      "Don’t sign up; ask Mum or the librarian, then find a site that doesn’t need personal details",
+      1,
+      "Trang đòi thông tin cá nhân cần người lớn quyết định. Thường có trang khác tốt mà không cần đăng ký.",
+      "Sites wanting personal details need an adult’s decision. There’s usually another good site."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tự tìm câu trả lời trong 10 phút",
+    "Find an answer in 10 minutes"
+   ],
+   "s": [
+    "Con chọn một câu hỏi học tập và tự tìm câu trả lời trong 10 phút khi ba mẹ ngồi cạnh: gõ từ khoá rõ, chọn trang tin cậy, ghi lại câu trả lời và tên trang.",
+    "Pick a school question and find the answer yourself in 10 minutes with your parent beside you: clear keywords, a trustworthy site, and note the answer and site name."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn từ khoá và trang.",
+     "Your parent helps choose keywords and the site."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm và ghi lại.",
+     "With one reminder, you search and take notes yourself."
+    ],
+    [
+     "Con tự tìm, tự giải thích vì sao trang đó đáng tin và kể lại cho ba mẹ câu trả lời.",
+     "You search, explain why the site is trustworthy and tell your parent the answer."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng đi thư viện vào cuối tuần",
+    "A family trip to the library at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Máy trục trặc khi đang làm bài",
+   "A device glitch mid-assignment"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "A",
+  "story": [
+   "An đã gõ được nửa bài văn trên máy tính thì màn hình đứng hình, chuột không di chuyển được. An hoảng vì sợ mất hết bài.",
+   "An has typed half an essay on the computer when the screen freezes and the mouse won’t move. An panics about losing everything."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Bấm loạn tất cả các phím",
+    "Mash every key",
+    0,
+    "Bấm loạn có thể làm máy rối thêm. Bình tĩnh chờ một chút trước nhé.",
+    "Mashing keys can make it worse. Stay calm and wait a moment first."
+   ],
+   [
+    "Khóc và bỏ không làm nữa",
+    "Cry and give up",
+    0,
+    "Hoảng là dễ hiểu. Hít thở rồi thử từng bước, nhiều khi bài vẫn còn.",
+    "Panicking makes sense. Breathe and try step by step; the work is often still there."
+   ],
+   [
+    "Bình tĩnh chờ một phút, thử cách ba đã dạy; nếu vẫn đứng thì nhờ ba mẹ, và lần sau nhớ lưu bài thường xuyên",
+    "Wait calmly a minute, try what Dad showed you; if still stuck, ask a parent, and next time save often",
+    1,
+    "Bình tĩnh, thử cách an toàn và nhờ người lớn khi cần. Lưu bài thường xuyên giúp lần sau không lo mất.",
+    "Stay calm, try safe fixes and ask an adult when needed. Saving often means less worry next time."
+   ]
+  ],
+  "qq": [
+   "Thói quen nào giúp không mất bài khi máy trục trặc?",
+   "Which habit stops you losing work when a device glitches?"
+  ],
+  "qo": [
+   [
+    "Lưu bài thường xuyên và có bản sao dự phòng",
+    "Saving often and keeping a backup"
+   ],
+   [
+    "Gõ thật nhanh",
+    "Typing really fast"
+   ],
+   [
+    "Chỉ lưu khi làm xong",
+    "Only saving at the end"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Ngay trước giờ trình bày, máy của lớp không mở được bài trình chiếu của nhóm An. Cả lớp đang chờ.",
+     "Just before presenting, the class computer won’t open An’s group slides. Everyone is waiting."
+    ],
+    "q": [
+     "Nhóm An nên làm gì?",
+     "What should An’s group do?"
+    ],
+    "o": [
+     [
+      "Bình tĩnh báo thầy, mở bản sao dự phòng đã gửi thầy hôm trước, hoặc trình bày bằng giấy ghi chú",
+      "Calmly tell the teacher, open the backup copy sent earlier, or present from paper notes",
+      1,
+      "Có bản dự phòng và một phương án khác giúp nhóm vẫn trình bày được dù máy trục trặc.",
+      "A backup and a plan B mean you can still present when the tech fails."
+     ],
+     [
+      "Trách bạn giữ bài làm hỏng",
+      "Blame the teammate who saved it",
+      0,
+      "Trách nhau không làm máy chạy lại. Cùng tìm cách khác nhé.",
+      "Blame won’t fix the computer. Look for another way together."
+     ],
+     [
+      "Xin không trình bày nữa",
+      "Ask to skip presenting",
+      0,
+      "Nhóm đã chuẩn bị kỹ mà. Nội dung ở trong đầu các con, có máy hay không vẫn nói được.",
+      "You’ve prepared well. The content is in your heads, slides or not."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở tiệm in gần nhà cùng mẹ, An định in bài tập nhưng tệp không mở được trên máy của tiệm.",
+     "At the print shop near home with Mum, An wants to print homework but the file won’t open on the shop computer."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bực bội đòi về",
+      "Get cross and demand to go home",
+      0,
+      "Bực là dễ hiểu, nhưng còn cách khác đấy. Thử nghĩ cùng mẹ nhé.",
+      "Annoyance is fair, but there are other options. Think it through with Mum."
+     ],
+     [
+      "Nhờ cô ở tiệm sửa máy",
+      "Ask the shop to fix their computer",
+      0,
+      "Có thể máy không lỗi mà tệp cần mở cách khác. Thử bản sao của mình trước.",
+      "The computer may be fine; the file may need another format. Try your backup first."
+     ],
+     [
+      "Bình tĩnh hỏi mẹ mở bản sao con đã gửi vào thư điện tử của mẹ",
+      "Calmly ask Mum to open the backup copy you emailed to her",
+      1,
+      "Bản sao dự phòng cứu bài trong những lúc thế này. Bình tĩnh giúp con nhớ ra phương án.",
+      "Backups save the day at moments like this. Staying calm helps you remember the plan."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lưu bài và tạo bản sao",
+    "Save and back up"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập lưu bài thường xuyên khi làm trên máy và tạo một bản sao dự phòng (ví dụ gửi vào thư điện tử của ba mẹ hoặc lưu thêm một chỗ). Làm mẫu với một bài tập thật.",
+    "Practise saving often while working on a device and making a backup copy (for example, emailing it to a parent or saving it somewhere else). Try it with a real piece of homework."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ từng bước, con làm theo.",
+     "Your parent shows each step and you follow."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự lưu và tạo bản sao.",
+     "With one reminder, you save and back up yourself."
+    ],
+    [
+     "Con tự làm, giải thích bản sao giúp gì và nói con sẽ làm gì nếu máy đứng hình.",
+     "You do it all, explain how a backup helps and what you’d do if the screen froze."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ kể một lần máy móc trục trặc và ba mẹ đã xử lý ra sao",
+    "Your parent tells about a time technology failed and how they handled it"
+   ]
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Người nổi tiếng nói thì đúng?",
+   "True because someone famous said it?"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "B",
+  "story": [
+   "Huy kể: “Một ca sĩ nổi tiếng nói uống nước ngọt trước khi thi giúp nhớ bài lâu hơn. Mai tớ uống hai chai!”",
+   "Huy says, “A famous singer said fizzy drinks before a test help you remember. I’m having two bottles tomorrow!”"
+  ],
+  "cq": [
+   "An nên nghĩ thế nào?",
+   "What should An think?"
+  ],
+  "co": [
+   [
+    "Tin vì ca sĩ đó rất nổi tiếng",
+    "Believe it, the singer is really famous",
+    0,
+    "Nổi tiếng về hát không có nghĩa là hiểu về sức khoẻ. Hỏi bằng chứng nhé.",
+    "Being famous for singing doesn’t make someone a health expert. Ask for evidence."
+   ],
+   [
+    "Hỏi: người đó có hiểu về sức khoẻ không, có bằng chứng gì, thầy cô hay sách khoa học nói sao",
+    "Ask: does this person know about health, what’s the evidence, what do teachers or science books say?",
+    1,
+    "Một ý kiến đúng hay sai là nhờ bằng chứng, không nhờ người nói nổi tiếng.",
+    "An idea is right or wrong because of evidence, not because the speaker is famous."
+   ],
+   [
+    "Cười Huy dễ tin",
+    "Laugh at Huy for believing it",
+    0,
+    "Ai cũng có thể tin nhầm. Cùng bạn tìm bằng chứng sẽ giúp bạn hơn.",
+    "Anyone can be fooled. Looking for evidence together helps more."
+   ]
+  ],
+  "qq": [
+   "Nên đánh giá một lời khuyên bằng gì?",
+   "How should you judge a piece of advice?"
+  ],
+  "qo": [
+   [
+    "Người nói nổi tiếng cỡ nào",
+    "How famous the speaker is"
+   ],
+   [
+    "Bao nhiêu người đồng ý",
+    "How many people agree"
+   ],
+   [
+    "Bằng chứng và hiểu biết của người nói về chuyện đó",
+    "The evidence, and whether the speaker knows the topic"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba xem quảng cáo: một vận động viên nổi tiếng nói đôi giày mới giúp “chạy nhanh gấp đôi”. An muốn xin ba mua ngay.",
+     "Dad is watching an advert where a famous athlete says new trainers make you “run twice as fast”. An wants Dad to buy them now."
+    ],
+    "q": [
+     "An nên nghĩ thế nào?",
+     "What should An think?"
+    ],
+    "o": [
+     [
+      "Nhớ rằng người trong quảng cáo thường được trả tiền; “nhanh gấp đôi” cần bằng chứng, nên cùng ba tìm hiểu trước",
+      "Remember people in adverts are usually paid; “twice as fast” needs proof, so look into it with Dad first",
+      1,
+      "Quảng cáo muốn mình mua. Hỏi bằng chứng giúp mình quyết định sáng suốt.",
+      "Adverts want you to buy. Asking for proof helps you decide wisely."
+     ],
+     [
+      "Mua ngay kẻo hết",
+      "Buy now before they sell out",
+      0,
+      "Vội vàng vì quảng cáo dễ mua thứ không cần. Hỏi bằng chứng trước nhé.",
+      "Rushing because of an advert means buying things you don’t need. Check first."
+     ],
+     [
+      "Tin vì vận động viên đó chạy rất nhanh",
+      "Believe it, that athlete is really fast",
+      0,
+      "Vận động viên chạy nhanh nhờ tập luyện, chưa chắc nhờ đôi giày.",
+      "Athletes are fast from training, not necessarily the shoes."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở siêu thị cùng mẹ, An thấy tờ quảng cáo có ảnh một diễn viên nổi tiếng nói loại bánh này “tốt nhất cho trẻ em”.",
+     "At the supermarket with Mum, An sees a poster with a famous actor saying a snack is “the best for children”."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bỏ ngay vào giỏ",
+      "Put it straight in the trolley",
+      0,
+      "Lời của diễn viên chưa phải bằng chứng. Xem thông tin trên bao bì trước nhé.",
+      "An actor’s words aren’t proof. Check the packet first."
+     ],
+     [
+      "Không bao giờ tin quảng cáo nào",
+      "Never trust any advert",
+      0,
+      "Không cần nghi ngờ tất cả, chỉ cần kiểm tra bằng chứng.",
+      "No need to doubt everything; just check the evidence."
+     ],
+     [
+      "Cùng mẹ đọc thông tin trên bao bì và so với loại khác, thay vì chỉ tin lời người nổi tiếng",
+      "Read the packet with Mum and compare it with others, rather than trusting the famous face",
+      1,
+      "Thông tin thật trên bao bì là bằng chứng, còn người nổi tiếng chỉ là gương mặt quảng cáo.",
+      "Facts on the packet are evidence; the celebrity is just the face of the advert."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Lời khuyên có bằng chứng không?",
+    "Does the advice have evidence?"
+   ],
+   "s": [
+    "Con cùng ba mẹ chọn một lời khuyên hoặc quảng cáo có người nổi tiếng, rồi trả lời 3 câu hỏi: người đó có hiểu chuyện này không, có bằng chứng gì, nguồn đáng tin nói gì.",
+    "With your parents, pick a piece of advice or an advert featuring someone famous and answer three questions: do they know this topic, what’s the evidence, what do reliable sources say?"
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con trả lời từng câu hỏi.",
+     "Your parent answers each question with you."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự trả lời 3 câu.",
+     "With one reminder, you answer all three."
+    ],
+    [
+     "Con tự tìm ví dụ, tự trả lời và nói kết luận của mình kèm lý do.",
+     "You find an example, answer the questions and give your conclusion with reasons."
+    ]
+   ],
+   "rw": [
+    "Được chọn bộ phim gia đình cuối tuần",
+    "You choose the family film at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Bắt nạt qua mạng",
+   "Cyberbullying"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Mấy ngày nay, một tài khoản không tên liên tục nhắn tin chê bai An và gửi ảnh An bị vẽ bậy lên. An đoán là ai đó trong lớp.",
+   "For days, an anonymous account has been sending An mean messages and a photo of An scribbled over. An thinks it’s someone in the class."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Không đáp trả, chụp màn hình lưu lại, chặn tài khoản và kể với ba mẹ, cô giáo",
+    "Don’t reply, take screenshots, block the account and tell your parents and teacher",
+    1,
+    "Lưu – chặn – báo: giữ bằng chứng, ngăn tin nhắn mới và để người lớn giúp. Bị bắt nạt không phải lỗi của con.",
+    "Save, block, tell: keep evidence, stop new messages and let adults help. Being bullied is never your fault."
+   ],
+   [
+    "Nhắn chửi lại cho hả giận",
+    "Send insults back",
+    0,
+    "Đáp trả thường làm bắt nạt nặng hơn. Lưu lại và báo người lớn sẽ hiệu quả hơn.",
+    "Hitting back usually makes it worse. Saving and telling adults works better."
+   ],
+   [
+    "Xoá hết tin nhắn để quên đi",
+    "Delete everything to forget it",
+    0,
+    "Xoá đi thì mất bằng chứng để người lớn giúp. Chụp lại trước rồi mới chặn nhé.",
+    "Deleting loses the evidence adults need. Screenshot first, then block."
+   ]
+  ],
+  "qq": [
+   "Ba bước khi bị bắt nạt qua mạng là gì?",
+   "What are the three steps for cyberbullying?"
+  ],
+  "qo": [
+   [
+    "Đáp trả – chửi lại – rời nhóm",
+    "Reply, insult back, leave"
+   ],
+   [
+    "Lưu bằng chứng – chặn – báo người lớn",
+    "Save evidence, block, tell an adult"
+   ],
+   [
+    "Giấu – xoá – quên",
+    "Hide, delete, forget"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ở nhà, An thấy em Bống ngồi buồn với chiếc máy tính bảng. Em kể có bạn trong nhóm chat liên tục gọi em bằng biệt danh xấu.",
+     "At home An finds little Bống sad with the tablet. She says someone in a group chat keeps calling her nasty names."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Bảo em kệ đi, đừng để ý",
+      "Tell her to ignore it",
+      0,
+      "Em đang buồn thật. Giúp em tìm người lớn sẽ tốt hơn bảo em kệ.",
+      "She’s really hurt. Helping her get an adult beats telling her to ignore it."
+     ],
+     [
+      "Lấy máy nhắn mắng bạn kia",
+      "Take the tablet and tell the other child off",
+      0,
+      "Mắng lại có thể làm chuyện to hơn. Để ba mẹ xử lý nhé.",
+      "Telling them off may make it bigger. Let your parents handle it."
+     ],
+     [
+      "An ủi em, giúp em chụp lại tin nhắn và cùng em đi kể với ba mẹ",
+      "Comfort her, help screenshot the messages and go with her to tell your parents",
+      1,
+      "Ở bên em và giúp em lưu – báo là cách anh chị tuyệt vời nhất.",
+      "Staying with her and helping her save and tell is the best big-sibling move."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ bơi, An thấy trong nhóm chat của đội có bạn cứ chế ảnh Vy và nhiều người thả biểu tượng cười.",
+     "At swimming club, An sees someone in the team chat keeps posting edited photos mocking Vy, and lots of people send laughing faces."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Thả biểu tượng cười cho khỏi bị để ý",
+      "Send a laughing face to avoid standing out",
+      0,
+      "Hùa theo làm Vy buồn hơn. Không tham gia và báo người lớn nhé.",
+      "Joining in hurts Vy more. Stay out of it and tell an adult."
+     ],
+     [
+      "Không hùa theo, nhắn riêng động viên Vy, chụp lại và báo huấn luyện viên cùng ba mẹ",
+      "Don’t join in, message Vy privately to support her, screenshot it and tell the coach and your parents",
+      1,
+      "Không hùa theo, ủng hộ bạn và báo người lớn có thể giúp chấm dứt bắt nạt.",
+      "Not joining in, supporting your friend and telling adults can stop bullying."
+     ],
+     [
+      "Rời nhóm và không nói gì",
+      "Leave the group and say nothing",
+      0,
+      "Không tham gia là tốt, nhưng Vy vẫn cần người giúp. Báo người lớn nhé.",
+      "Staying out is good, but Vy still needs help. Tell an adult."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Tập 3 bước “lưu – chặn – báo”",
+    "Practise “save, block, tell”"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập 3 bước khi bị bắt nạt qua mạng: lưu bằng chứng (chụp màn hình) – chặn – báo người lớn. Ba mẹ chỉ cách chụp màn hình và chặn trên thiết bị gia đình, con làm lại.",
+    "Practise the three steps for cyberbullying with your parents: save evidence (screenshot), block, tell an adult. Your parent shows you how to screenshot and block on the family device, then you do it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu từng bước, con làm theo.",
+     "Your parent demonstrates each step and you copy."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm đủ 3 bước.",
+     "With one reminder, you do all three steps."
+    ],
+    [
+     "Con tự làm, giải thích vì sao không đáp trả và kể tên 3 người lớn con có thể báo.",
+     "You do it all, explain why not to reply, and name three adults you could tell."
+    ]
+   ],
+   "rw": [
+    "Cả nhà cùng làm bánh hoặc nấu món con chọn, ba mẹ đứng bếp",
+    "The family cooks a dish you choose, with your parent at the stove"
+   ]
+  }
+ }
+]

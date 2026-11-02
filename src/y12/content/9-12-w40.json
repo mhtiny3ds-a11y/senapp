@@ -1,0 +1,792 @@
+[
+ {
+  "sk": 6,
+  "t": [
+   "Phòng cháy và thoát hiểm",
+   "Fire safety and escape"
+  ],
+  "m": [
+   "10 phút",
+   "10 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trường diễn tập thoát hiểm khi có cháy. Chuông reo, vài bạn chen nhau, cười đùa và chạy ngược lại để lấy cặp.",
+   "School is holding a fire drill. When the bell rings, some classmates push, joke and run back to fetch their bags."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Quay lại lấy cặp cho nhanh",
+    "Nip back for her bag quickly",
+    0,
+    "Quay lại làm chậm cả hàng. Khi có chuông thoát hiểm, chỉ mang theo chính mình.",
+    "Going back slows everyone. When the alarm rings, just take yourself."
+   ],
+   [
+    "Bỏ lại đồ, đi nhanh theo hàng, nghe cô hướng dẫn và theo lối thoát đã chỉ",
+    "Leave belongings, walk quickly in line, listen to the teacher and follow the marked exit",
+    1,
+    "Diễn tập nghiêm túc giúp con nhớ cách làm khi cần thật. Đồ vật thì mua lại được.",
+    "Taking drills seriously helps you remember for real. Things can be replaced."
+   ],
+   [
+    "Chen lên trước cho ra sớm",
+    "Push to the front to get out first",
+    0,
+    "Chen lấn dễ làm bạn ngã. Đi nhanh nhưng theo hàng mới an toàn cho tất cả.",
+    "Pushing can make people fall. Quick but orderly is safe for everyone."
+   ]
+  ],
+  "qq": [
+   "Khi có cháy, điều nào ĐÚNG?",
+   "In a fire, which is RIGHT?"
+  ],
+  "qo": [
+   [
+    "Đi thang máy cho nhanh",
+    "Take the lift to be quick"
+   ],
+   [
+    "Quay lại lấy đồ quý",
+    "Go back for valuables"
+   ],
+   [
+    "Cúi thấp, theo lối thoát, đi cầu thang bộ",
+    "Stay low, follow the exit route, use the stairs"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba hỏi: “Nếu nhà có khói, con thoát bằng đường nào?” An đáp: “Con chạy vào thang máy cho nhanh ạ.”",
+     "Dad asks, “If there was smoke at home, how would you get out?” An says, “I’d take the lift, it’s fastest.”"
+    ],
+    "q": [
+     "Câu trả lời đúng là gì?",
+     "What’s the right answer?"
+    ],
+    "o": [
+     [
+      "Cúi thấp, đi theo lối thoát cả nhà đã thống nhất, dùng cầu thang bộ; ra ngoài thì báo người lớn gọi 114",
+      "Stay low, follow the family’s agreed escape route, use the stairs; once outside, tell an adult to call 114",
+      1,
+      "Thang máy có thể dừng khi có cháy. Biết trước lối thoát giúp con bình tĩnh và nhanh hơn.",
+      "Lifts can stop in a fire. Knowing your route keeps you calm and quick."
+     ],
+     [
+      "Đi thang máy cho nhanh",
+      "Take the lift to be fast",
+      0,
+      "Khi cháy, thang máy có thể mất điện và mắc kẹt. Luôn dùng cầu thang bộ.",
+      "In a fire, lifts can lose power and stop. Always use the stairs."
+     ],
+     [
+      "Trốn vào phòng chờ người đến",
+      "Hide in a room and wait",
+      0,
+      "Trốn làm người khác khó tìm thấy con. Ra ngoài theo lối thoát và báo người lớn.",
+      "Hiding makes you hard to find. Get out by the escape route and tell an adult."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "An cùng mẹ đến nhà hát thiếu nhi xem kịch. Lúc vào chỗ ngồi, mẹ chỉ tấm biển xanh có hình người đang chạy.",
+     "An and Mum are at the children’s theatre for a play. As they find their seats, Mum points to a green sign with a running figure."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Cùng mẹ xem lối thoát hiểm gần nhất ở đâu, nhớ đường ra trước khi buổi diễn bắt đầu",
+      "Find the nearest exit with Mum and remember the way out before the show starts",
+      1,
+      "Để ý lối thoát mỗi khi đến chỗ mới là thói quen nhỏ mà rất quan trọng.",
+      "Noticing exits whenever you’re somewhere new is a small but important habit."
+     ],
+     [
+      "Không cần để ý, chắc không có chuyện gì",
+      "Ignore it, nothing will happen",
+      0,
+      "Hầu như sẽ không có chuyện gì, nhưng biết trước lối ra chỉ mất vài giây.",
+      "Almost certainly nothing will, but knowing the exit takes seconds."
+     ],
+     [
+      "Chỉ nhớ cửa mình đi vào",
+      "Just remember the door she came in",
+      0,
+      "Cửa vào có thể xa hoặc đông. Lối thoát gần nhất thường nhanh hơn.",
+      "The entrance may be far or crowded. The nearest exit is often quicker."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Sơ đồ thoát hiểm của nhà mình",
+    "Our home escape map"
+   ],
+   "s": [
+    "Con cùng ba mẹ vẽ sơ đồ nhà, đánh dấu 2 lối ra và điểm tập trung bên ngoài. Sau đó cả nhà đi thử một lần theo sơ đồ (đi bình thường, không chạy).",
+    "With your parent, draw a map of your home with 2 ways out and a meeting point outside. Then walk the route once together (calmly, no running)."
+   ],
+   "lv": [
+    [
+     "Ba mẹ vẽ cùng con và dẫn con đi thử.",
+     "Your parent draws with you and leads the walk-through."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự vẽ và dẫn cả nhà đi thử.",
+     "With one reminder, you draw the map and lead the family."
+    ],
+    [
+     "Con tự vẽ, giải thích vì sao không dùng thang máy, dẫn cả nhà đi thử và dán sơ đồ ở cửa.",
+     "You draw it, explain why not to use lifts, lead the walk and stick the map by the door."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con xếp hình hoặc chơi cờ một buổi tối",
+    "A puzzle or board game evening with your parent"
+   ]
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Chờ đợi không sốt ruột",
+   "Waiting without fretting"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở phòng khám nhi cùng mẹ, phải chờ gần một tiếng mới đến lượt. An đi tới đi lui, cứ hỏi: “Bao giờ đến lượt mình ạ?”",
+   "At the children’s clinic with Mum, there’s nearly an hour to wait. An paces about asking, “When’s our turn?”"
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Đòi về rồi hôm khác đến",
+    "Beg to go home and come another day",
+    0,
+    "Về rồi lại phải chờ lần khác. Chuẩn bị việc để làm sẽ dễ chịu hơn.",
+    "You’d only wait another day. Having something to do is easier."
+   ],
+   [
+    "Đòi mượn điện thoại của mẹ chơi suốt",
+    "Ask for Mum’s phone to play the whole time",
+    0,
+    "Màn hình giúp quên thời gian nhưng không giúp con nghỉ mắt. Sách hoặc trò đố chữ hay hơn.",
+    "Screens pass time but tire your eyes. Books or word games are better."
+   ],
+   [
+    "Lấy sách mang theo ra đọc, hoặc chơi đố chữ nhỏ với mẹ",
+    "Read the book she brought, or play a quiet word game with Mum",
+    1,
+    "Thời gian chờ không biến mất, nhưng có việc nhỏ để làm thì nó trôi nhanh và có ích hơn.",
+    "Waiting doesn’t vanish, but a small activity makes it pass faster and usefully."
+   ]
+  ],
+  "qq": [
+   "Thời gian chờ có thể dùng để…",
+   "Waiting time can be used to…"
+  ],
+  "qo": [
+   [
+    "Than phiền cho đỡ chán",
+    "Complain to pass the time"
+   ],
+   [
+    "Làm một việc nhỏ có ích",
+    "Do a small useful task"
+   ],
+   [
+    "Hỏi liên tục bao giờ xong",
+    "Keep asking when it will end"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Mẹ nấu cơm, còn 30 phút nữa mới xong. An ngồi bên bàn than đói và hỏi mẹ mãi.",
+     "Mum is cooking, and dinner is 30 minutes away. An sits at the table moaning she’s hungry and keeps asking."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi mẹ mỗi năm phút",
+      "Ask Mum every five minutes",
+      0,
+      "Hỏi nhiều không làm cơm chín nhanh hơn, mẹ còn khó tập trung.",
+      "Asking doesn’t cook it faster and makes it hard for Mum to focus."
+     ],
+     [
+      "Bày bát đũa, lau bàn rồi đọc sách đến khi mẹ gọi",
+      "Lay the table, wipe it and read until Mum calls",
+      1,
+      "Dùng thời gian chờ để làm việc có ích thì bữa cơm đến nhanh hơn trong cảm nhận của con.",
+      "Using the wait for something useful makes dinner seem to arrive sooner."
+     ],
+     [
+      "Ăn bánh kẹo cho đỡ đói",
+      "Fill up on snacks",
+      0,
+      "Ăn vặt sát bữa làm con no và bỏ cơm. Làm việc khác sẽ quên đói một lúc.",
+      "Snacks just before dinner spoil your appetite. Keeping busy distracts the hunger."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Ba đưa An đến trường sớm 15 phút, cổng lớp chưa mở. Các bạn chưa đến.",
+     "Dad drops An at school 15 minutes early; the classroom isn’t open and no friends have arrived."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Đứng ở cổng sốt ruột chờ",
+      "Stand fretting at the door",
+      0,
+      "Đứng chờ làm thời gian dài thêm. Một việc nhỏ giúp con bình thản hơn.",
+      "Standing makes waiting feel longer. A small task helps."
+     ],
+     [
+      "Ngồi ở ghế đá trong sân trường, ôn lại bài hoặc đọc vài trang sách",
+      "Sit on a bench in the schoolyard and review notes or read a few pages",
+      1,
+      "15 phút đủ để ôn vài từ mới. Thời gian chờ thành thời gian quý.",
+      "15 minutes is enough to review some words. Waiting time becomes useful time."
+     ],
+     [
+      "Ra cổng trường đi dạo phố",
+      "Wander out of the school gate",
+      0,
+      "Đã vào trường thì ở trong sân cho an toàn, đúng nơi ba và cô biết.",
+      "Once at school, stay inside where Dad and teachers know you are."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Túi chờ đợi của con",
+    "My waiting bag"
+   ],
+   "s": [
+    "Con chuẩn bị một “túi chờ đợi” nhỏ (một cuốn sách, sổ vẽ, bút chì, một trò đố chữ) và mang theo lần tới phải chờ (phòng khám, xếp hàng). Ba mẹ xác nhận con đã dùng.",
+    "Pack a small “waiting bag” (a book, sketchbook, pencil, a word puzzle) and take it next time you have to wait (clinic, queue). Your parent confirms you used it."
+   ],
+   "lv": [
+    [
+     "Ba mẹ cùng con chọn đồ cho túi và nhắc con dùng.",
+     "Your parent helps choose what goes in and reminds you to use it."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự chuẩn bị và tự lấy ra dùng.",
+     "With one reminder, you pack it and use it yourself."
+    ],
+    [
+     "Con tự chuẩn bị, tự nhớ mang theo và kể lần chờ đó khác lần trước thế nào.",
+     "You pack it, remember it and tell how that wait felt compared with before."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ tặng con một trang đố vui tự viết cho túi chờ đợi",
+    "Your parent writes you a homemade puzzle page for the bag"
+   ]
+  }
+ },
+ {
+  "sk": 8,
+  "t": [
+   "Giữ gìn của công",
+   "Caring for public property"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở công viên gần nhà, Tí lấy bút vẽ lên ghế đá và nói: “Của chung chứ có phải của nhà mình đâu.” Ba của Tí ngồi gần đó.",
+   "At the park near home, Tí draws on a bench with a pen and says, “It’s public, not ours.” Tí’s dad is sitting nearby."
+  ],
+  "cq": [
+   "An nên nói gì?",
+   "What should An say?"
+  ],
+  "co": [
+   [
+    "“Ghế này do mọi người cùng góp tiền làm, hỏng thì cả khu phải sửa. Mình lau đi nhé”",
+    "“Everyone paid for this bench together; if it’s spoiled, everyone pays to fix it. Let’s wipe it off.”",
+    1,
+    "Của công là của mọi người, kể cả mình. Giữ gìn là tiết kiệm cho cả cộng đồng.",
+    "Public things belong to everyone, including us. Caring for them saves the whole community money."
+   ],
+   [
+    "Vẽ theo cho vui",
+    "Draw too for fun",
+    0,
+    "Vẽ lên đồ chung làm người khác ngồi bẩn áo và tốn tiền sửa. Hãy vẽ lên giấy nhé.",
+    "Drawing on shared things dirties clothes and costs money to fix. Use paper instead."
+   ],
+   [
+    "Kệ, không phải việc của mình",
+    "Ignore it, not her business",
+    0,
+    "Của công là việc của mọi người. Một lời nhắc nhẹ có thể giữ ghế sạch đẹp.",
+    "Public property is everyone’s business. A gentle word keeps it nice."
+   ]
+  ],
+  "qq": [
+   "Giữ gìn của công là…",
+   "Caring for public property is…"
+  ],
+  "qo": [
+   [
+    "Việc riêng của bác bảo vệ",
+    "Only the caretaker’s job"
+   ],
+   [
+    "Tiết kiệm cho cả cộng đồng, vì của công do mọi người cùng góp",
+    "Saving money for the whole community, because everyone paid for it"
+   ],
+   [
+    "Không quan trọng vì không phải của mình",
+    "Unimportant because it isn’t yours"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "An mượn sách thư viện trường về nhà. Em trai thấy tranh đẹp, định lấy bút màu tô lên.",
+     "An has a school library book at home. Her little brother likes the pictures and is about to colour them in."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Để em tô vài trang thôi",
+      "Let him colour a few pages",
+      0,
+      "Vài trang cũng làm sách hỏng với bạn đọc sau. Đưa em giấy riêng sẽ vẹn cả đôi đường.",
+      "A few pages still spoil it for the next reader. His own paper works for both."
+     ],
+     [
+      "Quát em rồi giật sách",
+      "Shout and snatch the book",
+      0,
+      "Giật có thể làm rách sách và em khóc. Bình tĩnh giải thích sẽ tốt hơn.",
+      "Snatching could tear it and upset him. Calm explaining works better."
+     ],
+     [
+      "Nhẹ nhàng cất sách lên cao, giải thích sách là của chung nhiều bạn đọc, rồi đưa em giấy để vẽ",
+      "Gently put the book up high, explain it’s shared by many readers, and give him paper to draw on",
+      1,
+      "Đồ mượn của chung cần giữ như của mình, thậm chí cẩn thận hơn, vì nhiều người sẽ dùng tiếp.",
+      "Shared borrowed things need even more care than your own, because many others will use them."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Trong lớp, Nam lấy thước khắc tên lên mặt bàn. Nam bảo: “Năm sau mình đâu có ngồi bàn này nữa.”",
+     "In class, Nam scratches his name into the desk with a ruler. “I won’t sit here next year anyway,” he says."
+    ],
+    "q": [
+     "An nên nói gì?",
+     "What should An say?"
+    ],
+    "o": [
+     [
+      "Cũng khắc tên mình cho có đôi",
+      "Carve her name too to match",
+      0,
+      "Khắc lên bàn làm hỏng đồ của trường. Dán nhãn tên vào vở là cách đẹp hơn.",
+      "Carving damages school property. A name label is nicer."
+     ],
+     [
+      "Mách cô ngay mà không nói gì với Nam",
+      "Tell the teacher without saying anything to Nam",
+      0,
+      "Báo cô cũng được, nhưng nhắc bạn trước có thể giúp bạn tự dừng lại.",
+      "Telling the teacher is OK, but a word to Nam first might stop him himself."
+     ],
+     [
+      "“Năm sau sẽ có bạn khác ngồi, bàn hỏng thì trường phải tốn tiền thay. Cậu viết tên lên nhãn vở nhé”",
+      "“Someone else will sit here next year, and the school has to pay to replace damaged desks. Put your name on a label instead.”",
+      1,
+      "Nghĩ đến người dùng sau giúp mình hiểu vì sao cần giữ gìn đồ chung.",
+      "Thinking of the next user shows why shared things need care."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Ba đồ dùng chung quanh nhà",
+    "Three shared things near home"
+   ],
+   "s": [
+    "Con cùng ba mẹ đi dạo, chỉ ra 3 đồ dùng chung ở công viên hoặc khu nhà (ghế đá, thùng rác, cầu trượt…) và nói cách giữ gìn từng món.",
+    "On a walk with your parent, point out 3 shared things in the park or your estate (benches, bins, slides…) and say how to look after each."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ đồ vật, con nói cách giữ gìn.",
+     "Your parent points to the items and you say how to care for them."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự tìm 3 món và nói cách giữ gìn.",
+     "With one reminder, you find 3 items and explain how to care for them."
+    ],
+    [
+     "Con tự tìm, giải thích ai đã góp tiền làm ra chúng và làm một việc giữ gìn nhỏ như nhặt rác quanh ghế.",
+     "You find them, explain who paid for them and do one small caring act, like picking up litter by a bench."
+    ]
+   ],
+   "rw": [
+    "Cả nhà chơi trò chơi ngoài trời ở công viên cuối tuần",
+    "A family outdoor game in the park at the weekend"
+   ]
+  }
+ },
+ {
+  "sk": 0,
+  "t": [
+   "Xếp hàng và nhường lượt",
+   "Queueing and offering my turn"
+  ],
+  "m": [
+   "8 phút",
+   "8 min"
+  ],
+  "base": "B",
+  "story": [
+   "Giờ ăn trưa, An xếp hàng lấy cơm ở nhà ăn. Một em lớp 1 bị các anh chị chen lên trước, đứng nép một bên sắp khóc.",
+   "At lunchtime, An is queueing in the canteen. A Year 1 child keeps getting pushed back by older kids and stands at the side, nearly crying."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Chen theo cho kịp",
+    "Push in too to keep up",
+    0,
+    "Chen lấn làm hàng rối và người nhỏ chịu thiệt. Đứng đúng chỗ là giúp cả hàng.",
+    "Pushing makes a mess and the smallest lose out. Keeping your place helps everyone."
+   ],
+   [
+    "Mời em đứng vào trước mình: “Em vào đây nhé”, và nhắc nhẹ các bạn xếp hàng",
+    "Invite the child in front: “Come in here,” and gently remind others to queue",
+    1,
+    "Xếp hàng là công bằng; nhường lượt cho người nhỏ hơn là tử tế. Lời mời lịch sự làm cả hai điều.",
+    "Queueing is fair; giving your place to someone smaller is kind. A polite invitation does both."
+   ],
+   [
+    "Kệ em, ai nhanh thì được",
+    "Leave it, first come first served",
+    0,
+    "Em còn nhỏ, khó tự lên tiếng. Một lời mời của con có thể giúp em nhiều.",
+    "Small children find it hard to speak up. Your invitation could help a lot."
+   ]
+  ],
+  "qq": [
+   "Khi xếp hàng nơi công cộng, con nên…",
+   "When queueing in public, you should…"
+  ],
+  "qo": [
+   [
+    "Chen lên nếu người khác chen",
+    "Push in if others do"
+   ],
+   [
+    "Nhờ người quen giữ chỗ",
+    "Ask someone you know to save a place"
+   ],
+   [
+    "Kiên nhẫn xếp hàng và lịch sự nhường người cần giúp",
+    "Queue patiently and politely offer your place to those who need it"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Buổi sáng, An đang đánh răng thì em gái gõ cửa vì sắp trễ xe đưa đón. An còn nhiều thời gian.",
+     "In the morning, An is brushing her teeth when her little sister knocks because she’s about to miss the school bus. An has plenty of time."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Nhường em dùng trước: “Em vào đi, chị chờ được”",
+      "Let her go first: “Go ahead, I can wait”",
+      1,
+      "Nhường lượt cho người đang vội khi mình còn thời gian là biết nghĩ cho người khác.",
+      "Giving way to someone in a hurry when you have time shows you think of others."
+     ],
+     [
+      "Bảo em chờ vì mình vào trước",
+      "Tell her to wait because she was first",
+      0,
+      "Con vào trước thật, nhưng con còn thời gian còn em thì không. Nhường một chút là đỡ cho em.",
+      "You were first, but you have time and she doesn’t. A small kindness helps her."
+     ],
+     [
+      "Làm thật chậm cho em sốt ruột",
+      "Go extra slowly to wind her up",
+      0,
+      "Làm em sốt ruột có thể khiến em trễ xe và buồn. Nhường em sẽ vui cho cả hai.",
+      "Winding her up could make her miss the bus. Letting her in is better for both."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở quầy thanh toán siêu thị cùng ba, An thấy một bà cụ chỉ mua một chai nước, đứng cuối hàng dài. Vài người chen lên trước.",
+     "At the supermarket checkout with Dad, An sees an elderly lady with just one bottle of water at the back of a long queue. Some people push in."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Hỏi ý ba rồi lịch sự mời: “Bà lên trước cháu ạ”",
+      "Check with Dad, then politely say: “Please go ahead of us”",
+      1,
+      "Kiên nhẫn xếp hàng và nhường người già là phép lịch sự đẹp nơi công cộng.",
+      "Queueing patiently and offering your place to older people is lovely public manners."
+     ],
+     [
+      "Chen lên cho nhanh như người khác",
+      "Push in like the others",
+      0,
+      "Thấy người khác chen không có nghĩa là đúng. Con xếp hàng ngay ngắn là làm gương tốt.",
+      "Others pushing doesn’t make it right. Queueing properly sets a good example."
+     ],
+     [
+      "Làm như không thấy",
+      "Pretend not to notice",
+      0,
+      "Bà phải đứng lâu chỉ vì một chai nước. Một lời mời nhỏ giúp bà nhiều.",
+      "She’d stand ages for one bottle. A small offer helps a lot."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Một lần nhường lượt",
+    "Offering my turn once"
+   ],
+   "s": [
+    "Lần tới khi ở nơi công cộng cùng ba mẹ (siêu thị, căng tin, nhà vệ sinh công cộng), con tự xếp hàng ngay ngắn và nhường lượt một lần cho người cần bằng lời mời lịch sự.",
+    "Next time you’re somewhere public with your parent (supermarket, canteen, public toilets), queue properly and offer your turn once to someone who needs it, with a polite invitation."
+   ],
+   "lv": [
+    [
+     "Ba mẹ chỉ người cần nhường và nói mẫu câu mời.",
+     "Your parent points out who to offer it to and models the words."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự nhận ra và tự mời.",
+     "With one reminder, you spot who needs it and invite them."
+    ],
+    [
+     "Con tự để ý, tự mời lịch sự và kể người đó đã phản ứng thế nào.",
+     "You notice on your own, invite politely and tell how the person reacted."
+    ]
+   ],
+   "rw": [
+    "Con được chọn bài hát cả nhà nghe trên đường đi",
+    "You choose the songs on the next family journey"
+   ]
+  }
+ },
+ {
+  "sk": 1,
+  "t": [
+   "Bình tĩnh nơi đông người",
+   "Staying calm in crowds"
+  ],
+  "m": [
+   "9 phút",
+   "9 min"
+  ],
+  "base": "C",
+  "story": [
+   "Ở lễ hội ẩm thực cuối tuần, người chen lấn, nhạc rất to. An thấy tim đập nhanh, khó chịu và muốn khóc. Mẹ đang nắm tay An.",
+   "At a weekend food festival, the crowd is pushing and the music is loud. An’s heart races; she feels upset and close to tears. Mum is holding her hand."
+  ],
+  "cq": [
+   "An nên làm gì?",
+   "What should An do?"
+  ],
+  "co": [
+   [
+    "Buông tay mẹ, chạy ra chỗ vắng",
+    "Let go of Mum and run to an empty spot",
+    0,
+    "Chạy một mình nơi đông người dễ bị lạc. Luôn đi cùng mẹ khi tìm chỗ thoáng.",
+    "Running alone in a crowd can get you lost. Always move with Mum."
+   ],
+   [
+    "Cố chịu, không nói gì",
+    "Put up with it and say nothing",
+    0,
+    "Mẹ không biết con khó chịu thì không giúp được. Nói ra là dũng cảm.",
+    "Mum can’t help if she doesn’t know. Speaking up is brave."
+   ],
+   [
+    "Nắm chặt tay mẹ, nói “Con thấy khó chịu”, thở chậm và cùng mẹ ra chỗ thoáng",
+    "Hold Mum’s hand tight, say “I don’t feel good,” breathe slowly and move with Mum to a quieter spot",
+    1,
+    "Nhận ra cảm giác và nói với người lớn là bước đầu tiên. Thở chậm giúp tim dịu lại.",
+    "Noticing the feeling and telling an adult comes first. Slow breathing calms your heart."
+   ]
+  ],
+  "qq": [
+   "Khi thấy khó chịu nơi đông người, con nên…",
+   "When crowds make you feel bad, you should…"
+  ],
+  "qo": [
+   [
+    "Thở chậm, nói với người lớn và cùng tìm chỗ thoáng",
+    "Breathe slowly, tell an adult and find a quieter spot together"
+   ],
+   [
+    "Chạy ra chỗ vắng một mình",
+    "Run off alone to an empty spot"
+   ],
+   [
+    "Cố chịu, không nói",
+    "Put up with it silently"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Nhà An có tiệc đông họ hàng, ai cũng nói to, trẻ con chạy khắp nơi. An thấy đau đầu và bực bội.",
+     "An’s home is full of relatives for a party; everyone is loud and children run everywhere. An gets a headache and feels cross."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Quát các em im lặng",
+      "Shout at the little ones to be quiet",
+      0,
+      "Quát làm không khí căng hơn. Tự tìm chỗ yên tĩnh một lát sẽ dễ chịu hơn.",
+      "Shouting adds tension. Finding a quiet spot for a bit works better."
+     ],
+     [
+      "Nói với mẹ, xin vào phòng yên tĩnh nghỉ vài phút, thở chậm rồi quay ra",
+      "Tell Mum, ask to rest a few minutes in a quiet room, breathe slowly, then come back",
+      1,
+      "Nghỉ một chút ở chỗ yên tĩnh giúp con lấy lại bình tĩnh mà vẫn vui với cả nhà.",
+      "A short rest somewhere quiet lets you recover and still enjoy the family."
+     ],
+     [
+      "Vào phòng đóng cửa cả buổi, không nói ai",
+      "Shut herself in all evening without telling anyone",
+      0,
+      "Nghỉ là tốt, nhưng báo mẹ để mẹ biết con ở đâu và quay ra khi đã ổn nhé.",
+      "Resting is fine, but tell Mum where you are and come back when ready."
+     ]
+    ]
+   },
+   "B": {
+    "s": [
+     "Giờ tan học, cổng trường rất đông, phụ huynh và học sinh chen nhau. An không thấy ba đâu và bắt đầu hoảng.",
+     "At home time, the school gate is packed with parents and children. An can’t see Dad and starts to panic."
+    ],
+    "q": [
+     "An nên làm gì?",
+     "What should An do?"
+    ],
+    "o": [
+     [
+      "Chen ra ngoài đường tìm ba",
+      "Push out into the street to look for Dad",
+      0,
+      "Ra đường một mình lúc đông dễ nguy hiểm và khó gặp ba hơn. Ở lại chỗ hẹn nhé.",
+      "Going into the street alone is risky and makes it harder to meet. Stay put."
+     ],
+     [
+      "Đứng yên ở chỗ đã hẹn với ba, thở chậm; nếu lâu quá thì nhờ cô giáo hoặc bác bảo vệ",
+      "Stay at the meeting spot agreed with Dad and breathe slowly; if it’s too long, ask a teacher or the caretaker",
+      1,
+      "Đứng đúng chỗ hẹn giúp ba dễ tìm con. Thở chậm giúp con suy nghĩ rõ hơn.",
+      "Staying at the agreed spot helps Dad find you. Slow breathing clears your head."
+     ],
+     [
+      "Đi theo một phụ huynh lạ ra cổng",
+      "Follow an unfamiliar parent out",
+      0,
+      "Không đi theo người không quen. Cô giáo và bác bảo vệ là người tin cậy ở trường.",
+      "Don’t go with people you don’t know. Teachers and the caretaker are trusted adults."
+     ]
+    ]
+   }
+  },
+  "mi": {
+   "t": [
+    "Hai cách bình tĩnh nơi đông người",
+    "Two crowd-calming tricks"
+   ],
+   "s": [
+    "Con cùng ba mẹ tập 2 cách giữ bình tĩnh dùng khi ở nơi đông người (ví dụ thở hộp 4 nhịp, nắm tay ba mẹ và nói “Con cần ra chỗ thoáng”). Thống nhất một câu ám hiệu riêng của gia đình.",
+    "Practise 2 ways to stay calm in crowds with your parent (like 4-count box breathing, holding hands and saying “I need some space”). Agree on a family code phrase."
+   ],
+   "lv": [
+    [
+     "Ba mẹ làm mẫu, con tập theo mỗi cách 3 lần.",
+     "Your parent demonstrates and you practise each 3 times."
+    ],
+    [
+     "Ba mẹ nhắc một lần, con tự làm lại cả hai cách và nói câu ám hiệu.",
+     "With one reminder, you do both and say the code phrase."
+    ],
+    [
+     "Con tự hướng dẫn lại cho ba mẹ cả hai cách và dùng thử lần tới ở nơi đông người.",
+     "You teach both back to your parent and try them next time you’re in a crowd."
+    ]
+   ],
+   "rw": [
+    "Ba mẹ cùng con đi dạo ở một nơi yên tĩnh, con chọn chỗ",
+    "A quiet walk with your parent somewhere you choose"
+   ]
+  }
+ }
+]

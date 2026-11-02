@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 1,
+  "t": [
+   "Khi thấy ghen tị với bạn",
+   "When I feel jealous"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bài thuyết trình của Vy được cô khen trước lớp và được chọn đi thi cấp trường. Khoa cũng chuẩn bị rất kỹ nhưng không được chọn, trong lòng thấy khó chịu và hơi ghen tị.",
+   "Vy’s presentation is praised in front of the class and picked for the school competition. Khoa prepared hard too but wasn’t chosen, and feels uncomfortable and a bit jealous."
+  ],
+  "cq": [
+   "Khoa nên làm gì với cảm giác này?",
+   "What should Khoa do with this feeling?"
+  ],
+  "co": [
+   [
+    "Thừa nhận với mình “mình đang ghen tị”, chúc mừng Vy, rồi hỏi cô mình cần cải thiện điều gì",
+    "Admit to yourself “I’m jealous”, congratulate Vy, then ask the teacher what to improve",
+    1,
+    "Gọi tên cảm xúc giúp nó nhỏ lại. Biến ghen tị thành câu hỏi “mình học được gì” là cách trưởng thành.",
+    "Naming a feeling shrinks it. Turning jealousy into “what can I learn?” is a grown-up move."
+   ],
+   [
+    "Nói với bạn khác là Vy được chọn chỉ vì may",
+    "Tell others Vy only got picked by luck",
+    0,
+    "Hạ bạn xuống không làm mình nhẹ lòng hơn. Ghen tị là cảm xúc bình thường, quan trọng là mình làm gì với nó.",
+    "Putting Vy down won’t make you feel better. Jealousy is normal — what matters is what you do with it."
+   ],
+   [
+    "Giả vờ không quan tâm",
+    "Pretend not to care",
+    0,
+    "Giấu cảm xúc không làm nó biến mất. Nhẹ nhàng thừa nhận với chính mình sẽ dễ chịu hơn.",
+    "Hiding a feeling doesn’t make it vanish. Gently admitting it to yourself helps more."
+   ]
+  ],
+  "qq": [
+   "Khi thấy ghen tị, cách tốt nhất là…",
+   "When you feel jealous, it’s best to…"
+  ],
+  "qo": [
+   [
+    "Giấu đi",
+    "Hide it"
+   ],
+   [
+    "Tìm lỗi của người kia",
+    "Find faults in the other person"
+   ],
+   [
+    "Thừa nhận và biến nó thành mục tiêu cho mình",
+    "Admit it and turn it into a goal"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Họ hàng đến chơi, ai cũng khen chị họ Linh vừa đỗ vào trường chuyên. Khoa ngồi một góc, thấy mình như bị quên.",
+     "Relatives visit and everyone praises cousin Linh for getting into a specialist school. Khoa sits in a corner, feeling forgotten."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Bỏ vào phòng đóng cửa",
+      "Go to your room and shut the door",
+      0,
+      "Rút đi một mình làm cảm giác bị quên to hơn. Ở lại và tham gia theo cách của mình sẽ dễ chịu hơn.",
+      "Withdrawing makes feeling forgotten worse. Staying and joining in your way feels better."
+     ],
+     [
+      "Kể ngay thành tích của mình cho mọi người nghe",
+      "Immediately list your own achievements to everyone",
+      0,
+      "Tranh phần khen làm không khí kém vui. Thành tích của mình vẫn ở đó, không cần chen vào lúc này.",
+      "Competing for praise dampens the mood. Your achievements are still there — no need to push now."
+     ],
+     [
+      "Chúc mừng chị, hỏi chị đã ôn thế nào, và tối đó kể với mẹ cảm giác của mình",
+      "Congratulate her, ask how she studied, and tell Mum how you felt that evening",
+      1,
+      "Học hỏi từ người khác và chia sẻ cảm xúc với ba mẹ giúp mình nhẹ lòng. Mỗi người có con đường riêng.",
+      "Learning from others and sharing feelings with a parent eases it. Everyone has their own path."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ bơi của phường, Nam đã bơi được 400 mét, còn Khoa mới bơi được 200 mét dù hai bạn tập cùng lúc.",
+     "At the ward swimming club, Nam can swim 400 metres while Khoa manages 200, though they started together."
+    ],
+    "q": [
+     "Khoa nên nghĩ thế nào?",
+     "How should Khoa think about it?"
+    ],
+    "o": [
+     [
+      "“Mình không có năng khiếu, bỏ thôi.”",
+      "“I’m just not talented — I’ll quit.”",
+      0,
+      "So với người khác dễ làm mình nản. So với chính mình tuần trước mới thấy mình đã tiến bộ.",
+      "Comparing with others is discouraging. Comparing with last week’s you shows your progress."
+     ],
+     [
+      "Ghi lại thành tích của mình mỗi tuần, hỏi Nam một mẹo, và đặt mục tiêu 250 mét",
+      "Log your own distance weekly, ask Nam for one tip, and aim for 250 metres",
+      1,
+      "Mục tiêu nhỏ, đo được giúp mình tập trung vào bản thân. Bạn giỏi là người để học hỏi, không phải để ghét.",
+      "A small measurable goal keeps your focus on you. A strong friend is someone to learn from, not resent."
+     ],
+     [
+      "“Chắc Nam tập lén thêm.”",
+      "“Nam must be training in secret.”",
+      0,
+      "Đoán ý xấu làm mình khó chịu thêm. Hỏi Nam bí quyết có khi lại học được điều hay.",
+      "Assuming the worst makes it sting more. Asking Nam’s tips might teach you something."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 2,
+  "t": [
+   "Khi có bạn không làm phần việc",
+   "When a teammate doesn’t pull their weight"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "B",
+  "story": [
+   "Còn ba ngày nữa nộp dự án Địa lý, Huy vẫn chưa gửi phần của mình và không trả lời tin nhắn nhóm. Cả nhóm bắt đầu bực, có bạn muốn báo cô gạch tên Huy.",
+   "Three days before the geography project is due, Huy still hasn’t sent his part or replied to the group chat. Everyone’s getting annoyed and someone wants the teacher to remove his name."
+  ],
+  "cq": [
+   "Khoa nên làm gì trước?",
+   "What should Khoa do first?"
+  ],
+  "co": [
+   [
+    "Cả nhóm chê Huy trong nhóm chat",
+    "The group criticises Huy in the chat",
+    0,
+    "Bị chê trước đông người, bạn sẽ xấu hổ và càng né tránh. Nói riêng hiệu quả hơn.",
+    "Public criticism embarrasses him and he’ll avoid you more. Speak privately."
+   ],
+   [
+    "Làm luôn phần của Huy và không nói gì",
+    "Do Huy’s part and say nothing",
+    0,
+    "Cứu được nhóm lần này nhưng vấn đề vẫn còn. Huy cần biết phần của mình quan trọng.",
+    "It saves this time, but the problem stays. Huy needs to know his part matters."
+   ],
+   [
+    "Nói chuyện riêng với Huy: hỏi có chuyện gì, nhắc hạn và cùng tìm phần Huy làm kịp",
+    "Talk to Huy privately: ask what’s going on, remind him of the deadline, and agree on a part he can finish",
+    1,
+    "Có thể bạn đang gặp khó khăn mà mình chưa biết. Hỏi trước, nhắc rõ, rồi mới tính bước tiếp theo.",
+    "He might be struggling in ways you don’t know. Ask first, be clear, then decide the next step."
+   ]
+  ],
+  "qq": [
+   "Khi một thành viên chậm việc, bước đầu nên là…",
+   "When a teammate falls behind, first…"
+  ],
+  "qo": [
+   [
+    "Báo thầy cô ngay",
+    "Report them to the teacher"
+   ],
+   [
+    "Hỏi riêng và nhắc rõ hạn",
+    "Ask privately and restate the deadline"
+   ],
+   [
+    "Làm thay",
+    "Do it for them"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Cả nhà làm album ảnh kỷ niệm tặng ông bà. Ba giao em Vy dán ảnh, nhưng đã ba ngày Vy vẫn chưa bắt đầu vì mải chơi.",
+     "The family is making a photo album for the grandparents. Dad asked Vy to stick in the photos, but three days on she hasn’t started."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Hỏi em vướng ở đâu, gợi ý làm cùng 15 phút đầu rồi để em làm tiếp",
+      "Ask where she’s stuck, offer to do the first 15 minutes together, then let her carry on",
+      1,
+      "Đôi khi người ta chậm vì chưa biết bắt đầu từ đâu. Giúp một bước đầu, rồi trao lại việc cho em.",
+      "Sometimes people stall because they don’t know where to start. Help the first step, then hand it back."
+     ],
+     [
+      "Mắng em lười",
+      "Tell her she’s lazy",
+      0,
+      "Gắn nhãn “lười” làm em tự ái. Giúp em bắt đầu sẽ có ích hơn.",
+      "Calling her lazy makes her defensive. Helping her start works better."
+     ],
+     [
+      "Mách ba để ba nhắc",
+      "Tell Dad so he nags her",
+      0,
+      "Ba có thể nhắc, nhưng em sẽ thấy bị mách. Thử nói với em trước.",
+      "Dad could, but she’ll feel told on. Try talking to her first."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Nhóm Khoa tham gia buổi dọn vệ sinh công viên do phường tổ chức, có cô tổ trưởng dân phố hướng dẫn. Bảo cứ đứng nghịch điện thoại, các bạn khác phải nhặt rác thay.",
+     "Khoa’s group joins a park clean-up run by the ward, guided by the neighbourhood leader. Bảo keeps fiddling with his phone while the others pick up his share."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Nói to để mọi người cùng nhìn Bảo",
+      "Call him out loudly so everyone looks",
+      0,
+      "Bị chỉ trích trước đông người làm bạn ngượng và khó hợp tác. Nói riêng nhẹ nhàng hơn.",
+      "Being called out in public embarrasses him and blocks cooperation. Speak to him quietly."
+     ],
+     [
+      "Nói nhỏ với Bảo: “Cậu cầm túi giúp tớ đoạn này nhé, mình làm nhanh rồi cùng nghỉ.”",
+      "Quietly say to Bảo, “Can you hold the bag for this bit? Let’s finish fast and rest together.”",
+      1,
+      "Lời mời cụ thể và thân thiện thường hiệu quả hơn trách móc. Ai cũng dễ tham gia khi có một việc rõ ràng.",
+      "A friendly, specific invite works better than blame. People join in when there’s a clear job."
+     ],
+     [
+      "Kệ, mình làm phần mình là được",
+      "Ignore it — just do your bit",
+      0,
+      "Cả nhóm sẽ mệt và bực dần. Một lời mời đúng lúc có thể đổi được không khí.",
+      "The group will tire and get annoyed. A timely invite can change the mood."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 3,
+  "t": [
+   "Tự làm bữa sáng đơn giản",
+   "Making a simple breakfast myself"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "A",
+  "story": [
+   "Cuối tuần này Khoa muốn tự làm bữa sáng cho cả nhà: trứng ốp, bánh mì và sữa. Khoa chưa từng tự dùng bếp lần nào.",
+   "This weekend Khoa wants to make breakfast for the family: fried eggs, bread and milk. Khoa has never used the stove alone."
+  ],
+  "cq": [
+   "Khoa nên bắt đầu thế nào?",
+   "How should Khoa start?"
+  ],
+  "co": [
+   [
+    "Nhờ ba đứng cạnh hướng dẫn lần đầu: để lửa nhỏ, quay cán chảo vào trong, xong việc tắt bếp và kiểm tra lại",
+    "Ask Dad to stand by the first time: low heat, pan handle turned in, turn off and double-check when done",
+    1,
+    "Học từ người lớn và giữ các quy tắc an toàn là tự lập đúng cách. Lần sau mình sẽ tự tin hơn.",
+    "Learning from an adult and following safety rules is real independence. Next time you’ll be more confident."
+   ],
+   [
+    "Tự làm luôn, xem video là đủ",
+    "Just do it — a video’s enough",
+    0,
+    "Video giúp hiểu cách làm, nhưng lần đầu dùng bếp nên có người lớn bên cạnh.",
+    "Videos explain it, but the first time at the stove, have an adult nearby."
+   ],
+   [
+    "Thôi để ba mẹ làm như mọi khi",
+    "Leave it to Mum and Dad as usual",
+    0,
+    "Ai cũng phải có lần đầu tiên. Một món đơn giản là bước tự lập rất tốt.",
+    "Everyone has a first time. One simple dish is a great step."
+   ]
+  ],
+  "qq": [
+   "Lần đầu tự nấu ăn, điều quan trọng nhất là…",
+   "The first time you cook, the most important thing is…"
+  ],
+  "qo": [
+   [
+    "Có người lớn hướng dẫn và giữ an toàn",
+    "An adult guiding and staying safe"
+   ],
+   [
+    "Làm thật nhanh",
+    "Speed"
+   ],
+   [
+    "Nấu món thật cầu kỳ",
+    "A fancy dish"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "B": {
+    "s": [
+     "Lớp Khoa đi trải nghiệm ở một nông trại giáo dục. Mỗi tổ tự chuẩn bị bữa trưa nguội từ nguyên liệu được phát, có cô giáo trông.",
+     "Khoa’s class visits an educational farm. Each group makes a cold lunch from the ingredients provided, with the teacher supervising."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Chờ bạn khéo tay làm hết",
+      "Wait for the handy kid to do it all",
+      0,
+      "Đây là dịp để mình tập. Nhận một việc nhỏ mình làm được.",
+      "This is your chance to practise. Take a small job you can do."
+     ],
+     [
+      "Rửa tay, chia việc: rửa rau, cắt bánh, xếp hộp, và hỏi cô trước khi dùng dao",
+      "Wash hands, split jobs — wash greens, slice bread, pack boxes — and ask the teacher before using a knife",
+      1,
+      "Giữ vệ sinh, chia việc và hỏi người lớn khi dùng dụng cụ sắc giúp cả tổ an toàn.",
+      "Hygiene, shared jobs and asking an adult before using sharp tools keep everyone safe."
+     ],
+     [
+      "Bỏ qua bước rửa tay cho nhanh",
+      "Skip handwashing to save time",
+      0,
+      "Rửa tay là bước đầu tiên của nấu ăn sạch. Chỉ mất một phút thôi.",
+      "Handwashing is step one of clean cooking. It takes a minute."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa theo mẹ đi chợ mua đồ cho bữa tối Chủ nhật do Khoa tự nấu: canh rau và trứng chiên.",
+     "Khoa goes to the market with Mum to buy ingredients for the Sunday dinner Khoa will cook: vegetable soup and an omelette."
+    ],
+    "q": [
+     "Ở chợ, Khoa nên làm gì?",
+     "What should Khoa do at the market?"
+    ],
+    "o": [
+     [
+      "Mẹ chọn hết, mình chỉ xách đồ",
+      "Let Mum choose everything; you carry",
+      0,
+      "Tự chọn đồ cũng là một phần của nấu ăn. Hỏi mẹ cách chọn để lần sau tự làm.",
+      "Choosing is part of cooking. Ask Mum how, so next time you can."
+     ],
+     [
+      "Mua thật nhiều cho chắc",
+      "Buy loads to be safe",
+      0,
+      "Mua thừa dễ bỏ phí. Tính theo số người ăn là vừa.",
+      "Overbuying wastes food. Plan by how many are eating."
+     ],
+     [
+      "Mang danh sách món, nhờ mẹ chỉ cách chọn rau tươi, tự hỏi giá và trả tiền",
+      "Bring a list, ask Mum how to pick fresh greens, ask prices and pay yourself",
+      1,
+      "Có danh sách và học từ mẹ giúp mình tự tin hơn. Mỗi lần tự làm một bước là lớn thêm một chút.",
+      "A list and Mum’s tips build confidence. Each step you take yourself is growing up a bit."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Máy tính hỏng sát hạn nộp bài",
+   "A computer crash before a deadline"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "A",
+  "story": [
+   "Tối thứ Tư, máy tính ở nhà bỗng không bật được. Bài trình chiếu Tiếng Anh nộp sáng mai vẫn đang nằm trong máy.",
+   "On Wednesday night the home computer won’t turn on. The English slideshow due tomorrow morning is still on it."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Khóc rồi đi ngủ",
+    "Cry and go to bed",
+    0,
+    "Buồn là bình thường, nhưng tối nay vẫn còn việc làm được. Thử liệt kê các phương án.",
+    "Being upset is normal, but there’s still something you can do tonight. List the options."
+   ],
+   [
+    "Bình tĩnh liệt kê phương án: nhờ ba mẹ kiểm tra máy, tìm bản lưu trên mạng hoặc trong thư; nếu không được thì soạn bản ngắn và báo cô ngay sáng mai",
+    "Calmly list options: ask a parent to check the computer, look for an online or emailed copy; if not, make a short version and tell the teacher first thing",
+    1,
+    "Có phương án dự phòng và báo sớm cho thầy cô là cách giải quyết có trách nhiệm.",
+    "Backup options and telling the teacher early is the responsible fix."
+   ],
+   [
+    "Mai nói dối cô là quên ở nhà",
+    "Tell the teacher tomorrow you left it at home",
+    0,
+    "Nói dối làm mất lòng tin, trong khi sự cố thật thì thầy cô thường thông cảm. Hãy nói thật và đưa phương án.",
+    "Lying costs trust, and teachers usually understand real accidents. Be honest and offer a plan."
+   ]
+  ],
+  "qq": [
+   "Bài học từ sự cố mất dữ liệu là…",
+   "The lesson from losing files is…"
+  ],
+  "qo": [
+   [
+    "Không dùng máy tính nữa",
+    "Stop using computers"
+   ],
+   [
+    "Làm bài sát giờ",
+    "Work close to the deadline"
+   ],
+   [
+    "Luôn có bản lưu dự phòng",
+    "Always keep a backup"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "B": {
+    "s": [
+     "Đến giờ thuyết trình thì máy chiếu của lớp bị hỏng. Nhóm Khoa là nhóm đầu tiên lên trình bày.",
+     "When it’s presentation time, the class projector breaks. Khoa’s group is first up."
+    ],
+    "q": [
+     "Nhóm nên làm gì?",
+     "What should the group do?"
+    ],
+    "o": [
+     [
+      "Xin cô cho lùi sang tuần sau",
+      "Ask to postpone until next week",
+      0,
+      "Có thể được, nhưng hãy thử phương án tại chỗ trước. Nội dung vẫn nằm trong đầu các bạn.",
+      "Maybe, but try something on the spot first. The content’s still in your heads."
+     ],
+     [
+      "Đứng im chờ máy chạy lại",
+      "Stand still waiting for it to work",
+      0,
+      "Chờ mà không làm gì thì mất giờ của cả lớp. Có thể vừa chờ vừa thử cách khác.",
+      "Waiting idle wastes everyone’s time. Try another way while you wait."
+     ],
+     [
+      "Đề nghị cô cho trình bày trên bảng: vẽ nhanh sơ đồ chính và nói theo dàn ý",
+      "Offer to present on the board: quickly sketch the main diagram and talk from the outline",
+      1,
+      "Linh hoạt chuyển sang công cụ khác cho thấy mình nắm bài. Sự cố ai cũng gặp, cách xử lý mới là điều mọi người nhớ.",
+      "Switching tools shows you know your stuff. Everyone hits hiccups — the response is what people remember."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi đạp xe dã ngoại cùng câu lạc bộ thiếu niên của phường, xe của Khoa bị tuột xích giữa đường trong khi cả đoàn đang đi trước.",
+     "On a ward youth club bike outing, Khoa’s chain comes off mid-route while the group rides ahead."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Gọi to hoặc gọi điện ngay cho anh chị phụ trách, dắt xe vào lề an toàn và chờ",
+      "Shout or phone the group leader straight away, wheel the bike to a safe spot and wait",
+      1,
+      "Báo người phụ trách trước tiên để không bị tách đoàn. An toàn quan trọng hơn sửa xe.",
+      "Telling the leader first keeps you with the group. Safety comes before fixing the bike."
+     ],
+     [
+      "Tự sửa một mình rồi đạp thật nhanh đuổi theo",
+      "Fix it alone and race to catch up",
+      0,
+      "Đạp nhanh một mình trên đường dễ gặp nguy hiểm và lạc đoàn. Báo người phụ trách trước.",
+      "Racing alone on the road is risky and you may lose the group. Tell the leader first."
+     ],
+     [
+      "Đi đường tắt về nhà luôn",
+      "Take a shortcut home",
+      0,
+      "Tự ý rời đoàn làm mọi người lo và không an toàn. Luôn báo người lớn phụ trách.",
+      "Leaving the group alone worries everyone and isn’t safe. Always tell the adult in charge."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Sự thật hay ý kiến?",
+   "Fact or opinion?"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong giờ thảo luận, Bảo nói: “Đọc sách giấy tốt hơn đọc trên máy, ai cũng biết thế.” Vài bạn gật gù, có bạn phản đối, cả lớp bắt đầu ồn.",
+   "In a class discussion, Bảo says, “Paper books are better than screens — everyone knows that.” Some nod, some object, and the room gets noisy."
+  ],
+  "cq": [
+   "Khoa nên góp ý thế nào?",
+   "What should Khoa say?"
+  ],
+  "co": [
+   [
+    "“Bảo nói sai rồi!”",
+    "“Bảo’s wrong!”",
+    0,
+    "Phủ nhận thẳng làm cuộc thảo luận thành cãi nhau. Hãy tách câu nói ra xem phần nào là ý kiến.",
+    "Flat denial turns discussion into argument. Split the claim to see which part is opinion."
+   ],
+   [
+    "Đồng ý cho xong vì nhiều bạn gật",
+    "Agree because lots of people nodded",
+    0,
+    "Nhiều người gật chưa phải bằng chứng. “Ai cũng biết” thường là dấu hiệu của ý kiến.",
+    "Nods aren’t evidence. “Everyone knows” often signals opinion."
+   ],
+   [
+    "“‘Tốt hơn’ là ý kiến. Mình thử tìm xem có nghiên cứu nào so sánh việc nhớ bài khi đọc theo hai cách không?”",
+    "“‘Better’ is an opinion. Could we look for research comparing how well people remember each way?”",
+    1,
+    "Tách ý kiến khỏi sự thật và hỏi bằng chứng giúp cuộc thảo luận đi đúng hướng.",
+    "Separating opinion from fact and asking for evidence keeps the discussion on track."
+   ]
+  ],
+  "qq": [
+   "Câu nào là sự thật, không phải ý kiến?",
+   "Which is a fact, not an opinion?"
+  ],
+  "qo": [
+   [
+    "Môn Toán là môn khó nhất",
+    "Maths is the hardest subject"
+   ],
+   [
+    "Lớp mình có 38 học sinh",
+    "Our class has 38 students"
+   ],
+   [
+    "Mùa hè là mùa đẹp nhất",
+    "Summer is the best season"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Bà xem một chương trình trên ti vi và nói: “Cái nồi này tốt nhất thế giới, người dẫn nói vậy.” Bà định gọi điện đặt mua.",
+     "Grandma watches a TV programme and says, “This pot is the best in the world — the presenter said so.” She’s about to phone and order one."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "“Bà ơi, ti vi lừa đấy!”",
+      "“Grandma, TV’s a con!”",
+      0,
+      "Nói quá có thể làm bà buồn. Giải thích nhẹ nhàng và cùng kiểm tra sẽ tốt hơn.",
+      "Overstating it may upset her. Explain gently and check together."
+     ],
+     [
+      "Nhẹ nhàng nói với bà “tốt nhất” là lời quảng cáo, rồi cùng bà xem thông số và hỏi ý ba mẹ trước khi đặt",
+      "Gently explain “the best” is an ad line, then look at the details together and check with Mum and Dad before ordering",
+      1,
+      "Lời khen trong quảng cáo là ý kiến của người bán. Xem thông tin cụ thể giúp bà chọn đúng.",
+      "Praise in an ad is the seller’s opinion. Checking concrete details helps Grandma choose well."
+     ],
+     [
+      "Để bà tự quyết, không phải việc của mình",
+      "Let her decide — not your business",
+      0,
+      "Giúp bà phân biệt quảng cáo và thông tin cũng là một cách quan tâm. Chỉ cần nói nhẹ nhàng.",
+      "Helping her tell ads from information is a way of caring. Just say it gently."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở hiệu sách, bìa một cuốn truyện ghi “Cuốn sách hay nhất năm”, còn mặt sau ghi “Đã bán 100.000 bản”.",
+     "In a bookshop, a novel’s cover says “Best book of the year” and the back says “100,000 copies sold”."
+    ],
+    "q": [
+     "Khoa nên hiểu thế nào?",
+     "How should Khoa read these?"
+    ],
+    "o": [
+     [
+      "“Đã bán 100.000 bản” là thông tin kiểm chứng được, “hay nhất năm” là ý kiến; đọc thử vài trang để tự đánh giá",
+      "“100,000 sold” is checkable; “best of the year” is opinion — read a few pages and judge for yourself",
+      1,
+      "Biết đâu là ý kiến, đâu là số liệu giúp mình tự quyết. Đọc thử là cách đánh giá của riêng mình.",
+      "Knowing opinion from data lets you decide. Reading a sample is your own test."
+     ],
+     [
+      "Cả hai câu đều là sự thật",
+      "Both lines are facts",
+      0,
+      "“Hay nhất” phụ thuộc vào người đánh giá. Chỉ con số bán hàng là thứ kiểm chứng được.",
+      "“Best” depends on who’s judging. Only the sales figure can be checked."
+     ],
+     [
+      "Cả hai đều là quảng cáo nên bỏ qua",
+      "Both are just ads, so ignore them",
+      0,
+      "Không phải mọi thông tin trên bìa đều vô ích. Tách được phần kiểm chứng được là có ích.",
+      "Not everything on a cover is useless. Picking out the checkable part helps."
+     ]
+    ]
+   }
+  }
+ }
+]

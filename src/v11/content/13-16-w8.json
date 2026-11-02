@@ -1,0 +1,652 @@
+[
+ {
+  "sk": 3,
+  "t": [
+   "Tự lo bài vở sau khi nghỉ ốm",
+   "Catching up after being off sick"
+  ],
+  "m": [
+   "12 phút",
+   "12 min"
+  ],
+  "base": "B",
+  "story": [
+   "Khoa nghỉ ốm ba ngày. Quay lại lớp, Khoa không biết các môn đã học đến đâu, trong khi tuần sau có bài kiểm tra.",
+   "Khoa was off sick for three days. Back in class, Khoa has no idea how far each subject has moved on — and there’s a test next week."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Mượn vở bạn chép lại từng chữ",
+    "Borrow a friend’s notes and copy every word",
+    0,
+    "Chép thì có chữ nhưng chưa chắc hiểu. Hỏi thầy cô phần trọng tâm sẽ hiệu quả hơn.",
+    "Copying gets the words, not the understanding. Asking teachers for key points works better."
+   ],
+   [
+    "Chờ thầy cô nhắc mới làm",
+    "Wait for teachers to remind you",
+    0,
+    "Thầy cô có nhiều học sinh nên có thể không kịp nhắc. Mình hỏi trước sẽ chủ động hơn.",
+    "Teachers have many students and may not remember. Asking first puts you in control."
+   ],
+   [
+    "Lập danh sách các môn bị lỡ, mượn vở một bạn ghi chép kỹ, gặp từng thầy cô hỏi phần trọng tâm và bài cần nộp",
+    "List the missed subjects, borrow notes from a careful note-taker, and ask each teacher for key points and what’s due",
+    1,
+    "Chủ động hỏi thầy cô là tự chịu trách nhiệm với việc học của mình. Danh sách giúp không sót môn nào.",
+    "Asking teachers yourself is owning your learning. A list means nothing slips."
+   ]
+  ],
+  "qq": [
+   "Tự lập trong học tập nghĩa là…",
+   "Being independent in learning means…"
+  ],
+  "qo": [
+   [
+    "Chủ động hỏi khi mình bị thiếu",
+    "Asking when you’ve missed something"
+   ],
+   [
+    "Không bao giờ nhờ ai",
+    "Never asking anyone"
+   ],
+   [
+    "Chờ người khác nhắc",
+    "Waiting for reminders"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba mẹ đi làm, Khoa nghỉ ốm ở nhà với bà. Đến chiều Khoa thấy đỡ hơn và có thời gian rảnh.",
+     "Mum and Dad are at work; Khoa is home sick with Grandma. By afternoon Khoa feels better and has free time."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Xem phim cả chiều vì đang được nghỉ",
+      "Watch films all afternoon — you’re off",
+      0,
+      "Nghỉ ngơi là cần, nhưng nếu đã khỏe hơn thì đọc nhẹ một chút sẽ đỡ dồn bài về sau.",
+      "Rest matters, but if you feel better, a little light reading saves a pile-up later."
+     ],
+     [
+      "Nhắn bạn hỏi bài hôm nay, đọc nhẹ 30 phút nếu thấy khỏe, vẫn nghỉ ngơi và uống thuốc đúng giờ bà nhắc",
+      "Message a friend for today’s work, do 30 minutes of light reading if you feel up to it, and still rest and take your medicine when Grandma says",
+      1,
+      "Cân bằng giữa nghỉ ngơi và theo kịp bài là biết tự lo cho mình. Sức khỏe vẫn là ưu tiên.",
+      "Balancing rest and catching up is looking after yourself. Health comes first."
+     ],
+     [
+      "Cố học bù hết trong một chiều",
+      "Cram everything in one afternoon",
+      0,
+      "Đang ốm mà học quá sức dễ mệt thêm. Từng chút một là đủ.",
+      "Overdoing it while ill wears you out. A little at a time is enough."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa vắng buổi sinh hoạt câu lạc bộ tiếng Anh ở nhà văn hóa vì ốm, đúng buổi các bạn chia vai cho vở kịch ngắn.",
+     "Khoa missed the English club session at the community hall through illness — the one where parts were cast for a short play."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Nhắn chị phụ trách câu lạc bộ hỏi vai còn trống, xin kịch bản và hẹn tập bù",
+      "Message the club leader about open parts, ask for the script and arrange a catch-up rehearsal",
+      1,
+      "Chủ động liên lạc với người phụ trách là cách tự lo phần của mình khi vắng mặt.",
+      "Contacting the person in charge is how you handle your part when you’ve been away."
+     ],
+     [
+      "Thôi không tham gia vở kịch nữa",
+      "Drop out of the play",
+      0,
+      "Lỡ một buổi chưa phải là hết cơ hội. Hỏi lại người phụ trách trước đã.",
+      "Missing one session doesn’t end your chance. Ask the leader first."
+     ],
+     [
+      "Đến buổi sau rồi tính",
+      "Turn up next time and see",
+      0,
+      "Đến buổi sau có thể các bạn đã tập xong cảnh đầu. Hỏi trước giúp mình theo kịp.",
+      "By then they may have rehearsed scene one. Asking now helps you keep up."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 4,
+  "t": [
+   "Cân nhắc khi có nhiều lựa chọn",
+   "Weighing up options"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "A",
+  "story": [
+   "Khoa được mời vào cả câu lạc bộ bóng chuyền lẫn câu lạc bộ khoa học của trường, cả hai đều sinh hoạt chiều thứ Ba và thứ Năm. Khoa thích cả hai và không biết chọn bên nào.",
+   "Khoa is invited to join both the school volleyball club and the science club, which both meet on Tuesday and Thursday afternoons. Khoa loves both and can’t decide."
+  ],
+  "cq": [
+   "Khoa nên quyết định thế nào?",
+   "How should Khoa decide?"
+  ],
+  "co": [
+   [
+    "Kẻ bảng hai cột theo các tiêu chí: học được gì, thời gian, bạn bè, sức khỏe; chấm điểm từng mục rồi bàn với ba mẹ",
+    "Draw a two-column table — what you’ll learn, time, friends, health — score each, then talk it over with your parents",
+    1,
+    "Viết ra và chấm điểm giúp nhìn rõ điều mình coi trọng. Bàn với ba mẹ giúp thấy thêm góc nhìn.",
+    "Writing and scoring shows what you value. Talking to parents adds perspective."
+   ],
+   [
+    "Chọn câu lạc bộ có bạn thân",
+    "Pick the one your best friend’s in",
+    0,
+    "Bạn bè quan trọng nhưng chỉ là một tiêu chí. Hãy xem cả điều mình muốn học.",
+    "Friends matter, but they’re one factor. Consider what you want to learn too."
+   ],
+   [
+    "Đăng ký cả hai rồi buổi nào đi bên nấy",
+    "Join both and alternate",
+    0,
+    "Mỗi bên đi một nửa thì không theo kịp bên nào. Chọn một và theo trọn sẽ tốt hơn.",
+    "Half of each means keeping up with neither. Choose one and commit."
+   ]
+  ],
+  "qq": [
+   "Khi phải chọn giữa hai lựa chọn tốt, nên…",
+   "When choosing between two good options, you should…"
+  ],
+  "qo": [
+   [
+    "Chọn theo bạn bè",
+    "Follow your friends"
+   ],
+   [
+    "So sánh theo tiêu chí mình coi trọng",
+    "Compare against what matters to you"
+   ],
+   [
+    "Chọn cái đầu tiên",
+    "Pick the first"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "B": {
+    "s": [
+     "Nhóm Khoa làm dự án tái chế với ba ý tưởng: làm chậu cây từ chai nhựa, làm đồ chơi từ bìa các-tông, hoặc làm thùng phân loại rác cho lớp. Chỉ còn hai tuần.",
+     "Khoa’s group has three ideas for a recycling project: plant pots from plastic bottles, toys from cardboard, or a sorting bin for the class. Only two weeks left."
+    ],
+    "q": [
+     "Nhóm nên chọn thế nào?",
+     "How should the group choose?"
+    ],
+    "o": [
+     [
+      "Chọn ý tưởng nghe hay nhất",
+      "Go with the coolest-sounding idea",
+      0,
+      "Hay nhưng có làm kịp không? Cần xem cả thời gian và vật liệu.",
+      "Cool, but doable in time? Check time and materials too."
+     ],
+     [
+      "Làm cả ba cho chắc",
+      "Do all three to be safe",
+      0,
+      "Ba việc trong hai tuần dễ thành cả ba đều dở dang. Chọn một và làm tốt sẽ hơn.",
+      "Three in two weeks risks three half-done. One done well is better."
+     ],
+     [
+      "Chấm mỗi ý theo: làm kịp trong hai tuần không, vật liệu có sẵn không, lớp dùng được lâu không; chọn ý điểm cao nhất",
+      "Score each on: doable in two weeks, materials available, useful to the class long-term — then pick the highest",
+      1,
+      "Tiêu chí rõ ràng giúp nhóm chọn được ý vừa hay vừa làm được.",
+      "Clear criteria help the group choose something good and doable."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Khoa và hai bạn được ba mẹ cho đi thư viện quận chiều thứ Bảy. Xe buýt số 12 đi thẳng mất 40 phút, xe số 8 nhanh hơn 10 phút nhưng phải đổi tuyến.",
+     "Khoa and two friends are allowed to go to the district library on Saturday afternoon. Bus 12 goes direct in 40 minutes; bus 8 is 10 minutes quicker but needs a change."
+    ],
+    "q": [
+     "Nhóm nên chọn thế nào?",
+     "How should they choose?"
+    ],
+    "o": [
+     [
+      "Chọn xe số 8 vì nhanh hơn",
+      "Take bus 8 — it’s quicker",
+      0,
+      "Nhanh hơn 10 phút nhưng đổi tuyến thì dễ nhầm và phải chờ thêm. Xem thêm các tiêu chí khác.",
+      "Ten minutes faster, but a change risks mix-ups and extra waiting. Weigh other factors."
+     ],
+     [
+      "So sánh thời gian, độ dễ đi, khả năng lỡ chuyến; chọn xe số 12 đi thẳng cho chắc và báo ba mẹ tuyến đã chọn",
+      "Compare time, ease and the risk of missing a connection; take the direct bus 12 and tell your parents the route",
+      1,
+      "Nhanh nhất chưa chắc là tốt nhất. Lựa chọn đơn giản, an toàn thường đáng giá hơn vài phút.",
+      "Fastest isn’t always best. A simple, safe option is often worth a few minutes."
+     ],
+     [
+      "Để bạn nào biết đường quyết",
+      "Let whoever knows the way decide",
+      0,
+      "Hỏi bạn biết đường là tốt, nhưng cả nhóm nên hiểu vì sao chọn. Thử cùng nhau so sánh.",
+      "Asking is good, but everyone should understand why. Compare together."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 5,
+  "t": [
+   "Khi số liệu đánh lừa mình",
+   "When numbers mislead"
+  ],
+  "m": [
+   "13 phút",
+   "13 min"
+  ],
+  "base": "B",
+  "story": [
+   "Bảo đưa cả lớp xem biểu đồ: “Học sinh mang chai nước riêng có điểm cao hơn, vậy mang chai nước giúp học giỏi hơn!” Cả lớp cười, nhưng vài bạn bắt đầu tin.",
+   "Bảo shows the class a chart: “Students who bring their own water bottle get higher marks — so bottles make you smarter!” Everyone laughs, but some start to believe it."
+  ],
+  "cq": [
+   "Khoa nên đặt câu hỏi gì?",
+   "What should Khoa ask?"
+  ],
+  "co": [
+   [
+    "“Biểu đồ đẹp vậy chắc đúng.”",
+    "“Such a neat chart — must be right.”",
+    0,
+    "Biểu đồ đẹp không đảm bảo kết luận đúng. Cần xem cách đọc số liệu.",
+    "A neat chart doesn’t guarantee a correct conclusion. Look at how the data’s read."
+   ],
+   [
+    "“Vậy mai tớ mang hai chai.”",
+    "“Then I’ll bring two tomorrow.”",
+    0,
+    "Câu đùa vui, và cũng cho thấy kết luận kia có vấn đề. Hỏi thêm sẽ rõ vì sao.",
+    "Funny, and it shows the conclusion’s flawed. Ask more to see why."
+   ],
+   [
+    "“Hai thứ cùng xuất hiện chưa chắc cái này gây ra cái kia. Có khi bạn nào chuẩn bị kỹ thì vừa mang nước vừa học kỹ?”",
+    "“Two things together doesn’t mean one causes the other. Maybe well-prepared students both bring water and study hard?”",
+    1,
+    "Đi cùng nhau chưa phải là nguyên nhân. Hỏi xem có yếu tố thứ ba nào không là tư duy phản biện.",
+    "Going together isn’t causing. Asking about a hidden third factor is critical thinking."
+   ]
+  ],
+  "qq": [
+   "Hai việc thường đi cùng nhau thì…",
+   "When two things often go together…"
+  ],
+  "qo": [
+   [
+    "Chắc chắn cái này gây ra cái kia",
+    "One definitely causes the other"
+   ],
+   [
+    "Không liên quan gì đến nhau",
+    "They’re unrelated"
+   ],
+   [
+    "Chưa chắc có quan hệ nguyên nhân",
+    "It doesn’t prove cause"
+   ]
+  ],
+  "qa": 2,
+  "ctx": {
+   "A": {
+    "s": [
+     "Ba đọc một bài báo: “Số người mua máy lọc không khí tăng 300%!” rồi định mua ngay.",
+     "Dad reads an article: “Air purifier sales up 300%!” and wants to buy one at once."
+    ],
+    "q": [
+     "Khoa nên góp ý gì?",
+     "What should Khoa say?"
+    ],
+    "o": [
+     [
+      "“Tăng 300% từ bao nhiêu hả ba? Mình xem nhà có cần thật không đã.”",
+      "“Up 300% from what, Dad? Let’s check whether we actually need one.”",
+      1,
+      "Phần trăm lớn có thể đến từ con số ban đầu rất nhỏ. Quyết định nên dựa trên nhu cầu của nhà mình.",
+      "A big percentage can start from a tiny number. Decide based on your home’s needs."
+     ],
+     [
+      "“Ai cũng mua thì mình cũng nên mua.”",
+      "“Everyone’s buying, so we should too.”",
+      0,
+      "Nhiều người mua chưa chắc hợp với nhà mình. Kiểm tra nhu cầu thật trước.",
+      "Popularity doesn’t mean it suits us. Check the real need first."
+     ],
+     [
+      "“Báo nói thì đúng rồi.”",
+      "“If the article says so, it’s true.”",
+      0,
+      "Con số có thể đúng nhưng cách hiểu có thể sai. Hãy hỏi thêm “so với cái gì”.",
+      "The number may be right but the takeaway wrong. Ask “compared to what?”"
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Đi siêu thị cùng ba, em Vy thấy hộp bánh ghi “Ít đường hơn 30%” và reo lên: “Vậy ăn bao nhiêu cũng được!”",
+     "Shopping with Dad, Vy spots a biscuit box labelled “30% less sugar” and cries, “So I can eat as many as I want!”"
+    ],
+    "q": [
+     "Khoa nên giải thích thế nào?",
+     "How should Khoa explain?"
+    ],
+    "o": [
+     [
+      "“Đúng rồi, ít đường là tốt.”",
+      "“Right — less sugar is good.”",
+      0,
+      "Ít hơn 30% so với loại cũ vẫn có thể nhiều đường. Cần xem con số thật trên bao bì.",
+      "30% less than before can still be a lot. Check the real figure on the pack."
+     ],
+     [
+      "“Ít hơn so với cái gì? Mình cùng xem bảng thành phần, rồi hỏi ba nên ăn bao nhiêu nhé.”",
+      "“Less than what? Let’s look at the nutrition label together and ask Dad how many is OK.”",
+      1,
+      "So sánh phải có mốc. Đọc nhãn và hỏi người lớn giúp em chọn đúng.",
+      "A comparison needs a baseline. Reading the label and asking an adult helps her choose."
+     ],
+     [
+      "“Đừng tin chữ trên hộp bánh.”",
+      "“Never believe what’s on packets.”",
+      0,
+      "Thông tin trên bao bì có ích nếu đọc đúng cách. Dạy em đọc nhãn sẽ tốt hơn.",
+      "Packaging information helps if read properly. Teach her to read the label."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 6,
+  "t": [
+   "Khi thấy bạn bị bắt nạt trên mạng",
+   "When a classmate is bullied online"
+  ],
+  "m": [
+   "14 phút",
+   "14 min"
+  ],
+  "base": "B",
+  "story": [
+   "Trong nhóm chat lớp, vài bạn liên tục chế ảnh và gọi Huy bằng biệt danh xấu. Huy không nói gì, nhưng mấy hôm nay toàn ngồi một mình.",
+   "In the class group chat, a few people keep editing Huy’s photos and calling him nasty nicknames. Huy says nothing, but has been sitting alone lately."
+  ],
+  "cq": [
+   "Khoa nên làm gì?",
+   "What should Khoa do?"
+  ],
+  "co": [
+   [
+    "Chụp màn hình làm bằng chứng, báo cô chủ nhiệm và ba mẹ, nhắn riêng hỏi thăm Huy",
+    "Screenshot it as evidence, tell the form teacher and your parents, and message Huy privately to check in",
+    1,
+    "Bắt nạt qua mạng cần người lớn can thiệp. Một lời hỏi thăm riêng giúp Huy biết mình không một mình.",
+    "Online bullying needs adults to step in. A private message lets Huy know he’s not alone."
+   ],
+   [
+    "Không tham gia, nhưng cũng im lặng vì sợ bị trêu theo",
+    "Don’t join in, but stay quiet for fear of being next",
+    0,
+    "Không tham gia là tốt, nhưng Huy vẫn một mình. Có những cách giúp an toàn mà không cần đối đầu.",
+    "Not joining is good, but Huy’s still alone. There are safe ways to help without confronting anyone."
+   ],
+   [
+    "Thả biểu tượng cười để không bị lạc lõng",
+    "React with a laugh to fit in",
+    0,
+    "Một biểu tượng cười cũng làm Huy thấy cả lớp đứng về phía kia. Hãy chọn không ủng hộ.",
+    "Even one laughing face tells Huy the class is against him. Choose not to support it."
+   ]
+  ],
+  "qq": [
+   "Khi thấy bắt nạt trên mạng, điều quan trọng nhất là…",
+   "When you see online bullying, the key thing is…"
+  ],
+  "qo": [
+   [
+    "Báo người lớn tin cậy",
+    "Telling a trusted adult"
+   ],
+   [
+    "Trả đũa thay bạn",
+    "Getting revenge for them"
+   ],
+   [
+    "Rời nhóm cho xong",
+    "Leaving the group"
+   ]
+  ],
+  "qa": 0,
+  "ctx": {
+   "A": {
+    "s": [
+     "Em Vy kể với Khoa rằng một bạn cùng lớp em hay nhắn tin chế giễu và dọa nghỉ chơi với Vy, còn dặn Vy đừng kể với ai.",
+     "Vy tells Khoa that a classmate keeps sending her mocking messages and threatening to drop her as a friend — and told her not to tell anyone."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Bảo em mặc kệ, rồi sẽ qua",
+      "Tell her to ignore it — it’ll pass",
+      0,
+      "Mặc kệ có khi làm em thấy một mình. Người lớn có thể giúp chấm dứt chuyện này.",
+      "Ignoring it can leave her feeling alone. Adults can help stop it."
+     ],
+     [
+      "Khen em đã kể, nói rằng chuyện này không nên giữ bí mật, rồi cùng em kể với ba mẹ",
+      "Praise her for telling you, explain this isn’t a secret to keep, and tell your parents together",
+      1,
+      "Kể ra là việc dũng cảm. Những bí mật làm mình buồn hay sợ luôn nên kể với người lớn tin cậy.",
+      "Telling is brave. Secrets that make you sad or scared should always go to a trusted adult."
+     ],
+     [
+      "Nhắn tin mắng bạn kia",
+      "Message the other child and tell them off",
+      0,
+      "Trả đũa có thể làm chuyện căng thêm. Để ba mẹ và cô giáo của em xử lý.",
+      "Retaliating can make it worse. Let your parents and her teacher handle it."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Ở câu lạc bộ cầu lông, Khoa nghe hai bạn bàn nhau lập nhóm chat riêng để chế giễu một bạn mới vì bạn ấy đánh còn vụng.",
+     "At badminton club, Khoa overhears two players planning a private chat to mock a new player for being clumsy."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Xin vào nhóm chat để biết họ nói gì",
+      "Ask to join the chat to see what they say",
+      0,
+      "Vào nhóm dễ bị cuốn theo. Báo người lớn phụ trách mới là cách giúp đúng.",
+      "Joining can pull you in. Telling the adult in charge is the right help."
+     ],
+     [
+      "Coi như không nghe thấy",
+      "Pretend you didn’t hear",
+      0,
+      "Ngăn sớm dễ hơn xử lý sau. Một lời nhẹ nhàng và báo huấn luyện viên có thể thay đổi được chuyện này.",
+      "Stopping it early is easier than fixing it later. A gentle word and telling the coach can change it."
+     ],
+     [
+      "Nói nhẹ nhàng: “Thôi đừng, bạn ấy mới tập mà”, kể với huấn luyện viên, và rủ bạn mới tập cùng",
+      "Say lightly, “Don’t — they’ve only just started,” tell the coach, and invite the new player to practise with you",
+      1,
+      "Ngăn từ đầu, báo người lớn phụ trách và đứng cạnh người bị nhắm đến là ba việc một người tốt làm được.",
+      "Stepping in early, telling the adult in charge and standing by the target — three things a good bystander can do."
+     ]
+    ]
+   }
+  }
+ },
+ {
+  "sk": 7,
+  "t": [
+   "Dự án dài: chia thành từng mốc",
+   "Long projects in milestones"
+  ],
+  "m": [
+   "14 phút",
+   "14 min"
+  ],
+  "base": "B",
+  "story": [
+   "Cô giao dự án Khoa học trong bốn tuần: chọn đề tài, làm thí nghiệm trồng đậu, ghi chép và viết báo cáo. Hai tuần đầu Khoa chưa làm gì vì nghĩ còn nhiều thời gian.",
+   "The teacher set a four-week science project: choose a topic, grow beans as an experiment, record results and write a report. For two weeks Khoa did nothing, thinking there was plenty of time."
+  ],
+  "cq": [
+   "Bây giờ Khoa nên làm gì?",
+   "What should Khoa do now?"
+  ],
+  "co": [
+   [
+    "Đổi sang đề tài làm một tối là xong",
+    "Switch to something you can do in one night",
+    0,
+    "Đổi đề tài vội có thể làm bài sơ sài. Thử chia mốc với thời gian còn lại trước.",
+    "A rushed switch may make it thin. Try milestones with the time left first."
+   ],
+   [
+    "Gieo đậu ngay hôm nay, chia hai tuần còn lại thành mốc: ghi chép mỗi ngày, cuối tuần thứ nhất viết nháp, tuần thứ hai hoàn thiện; báo cô tiến độ",
+    "Plant today and split the two weeks into milestones — daily notes, a draft by the end of week one, the final version in week two — and update the teacher",
+    1,
+    "Việc cần thời gian chờ thì làm trước. Mốc nhỏ có hạn rõ giúp dự án dài không bị dồn về cuối.",
+    "Start whatever needs waiting time first. Small dated milestones stop a long project piling up at the end."
+   ],
+   [
+    "Viết báo cáo trước, kết quả đoán sau",
+    "Write the report first and guess the results",
+    0,
+    "Đoán kết quả là không trung thực với khoa học. Làm thật, ghi thật mới có giá trị.",
+    "Guessing results isn’t honest science. Real work and real notes are what count."
+   ]
+  ],
+  "qq": [
+   "Với dự án dài, cách tránh dồn việc về cuối là…",
+   "To stop a long project piling up at the end…"
+  ],
+  "qo": [
+   [
+    "Làm khi có hứng",
+    "Work when inspired"
+   ],
+   [
+    "Chia thành mốc nhỏ có hạn riêng",
+    "Split it into milestones with their own deadlines"
+   ],
+   [
+    "Bắt đầu ở tuần cuối",
+    "Start in the final week"
+   ]
+  ],
+  "qa": 1,
+  "ctx": {
+   "A": {
+    "s": [
+     "Khoa đặt mục tiêu đọc xong một cuốn sách 300 trang trong tháng này. Đã giữa tháng mà Khoa mới đọc được 50 trang.",
+     "Khoa aims to finish a 300-page book this month. It’s mid-month and Khoa has read 50 pages."
+    ],
+    "q": [
+     "Khoa nên làm gì?",
+     "What should Khoa do?"
+    ],
+    "o": [
+     [
+      "Bỏ mục tiêu vì không kịp",
+      "Give up — it’s too late",
+      0,
+      "Còn nửa tháng vẫn đủ nếu chia lại. Thử tính số trang mỗi ngày.",
+      "Half a month is enough if you re-plan. Work out pages per day."
+     ],
+     [
+      "Đọc dồn vào cuối tháng",
+      "Binge it at the end of the month",
+      0,
+      "Đọc dồn thì nhanh mệt và khó nhớ. Chia đều mỗi ngày nhẹ nhàng hơn.",
+      "Bingeing tires you and you remember less. A daily share is lighter."
+     ],
+     [
+      "Tính lại: 250 trang chia 15 ngày là khoảng 17 trang mỗi ngày, đọc 20 phút trước khi ngủ và đánh dấu tiến độ",
+      "Recalculate: 250 pages over 15 days is about 17 a day — read for 20 minutes before bed and mark your progress",
+      1,
+      "Chia mục tiêu lớn thành phần nhỏ mỗi ngày giúp thấy nó làm được. Tính lại giữa chừng là bình thường.",
+      "Breaking a big goal into daily chunks makes it doable. Re-planning midway is normal."
+     ]
+    ]
+   },
+   "C": {
+    "s": [
+     "Câu lạc bộ thiếu niên của phường giao nhóm Khoa chuẩn bị một tiết mục cho buổi văn nghệ sau sáu tuần, tập vào chiều Chủ nhật.",
+     "The ward youth club asks Khoa’s group to prepare an act for a show in six weeks, rehearsing on Sunday afternoons."
+    ],
+    "q": [
+     "Nhóm nên làm gì?",
+     "What should the group do?"
+    ],
+    "o": [
+     [
+      "Đặt mốc: tuần 1–2 chọn bài và chia phần, tuần 3–4 tập từng phần, tuần 5 ghép lại, tuần 6 tổng duyệt; báo anh chị phụ trách tiến độ",
+      "Set milestones: weeks 1–2 choose and split parts, 3–4 rehearse sections, 5 put it together, 6 dress rehearsal — and update the leaders",
+      1,
+      "Mỗi mốc có mục tiêu rõ giúp cả nhóm biết mình đang ở đâu. Báo người phụ trách giúp được hỗ trợ kịp thời.",
+      "Each milestone with a clear goal shows where the group stands. Updating the leaders gets help in time."
+     ],
+     [
+      "Tập nhiều vào tuần cuối là được",
+      "Rehearse a lot in the final week",
+      0,
+      "Một tuần không đủ để thuộc và nhuần nhuyễn. Chia mốc từ đầu sẽ đỡ áp lực.",
+      "One week isn’t enough to learn and polish. Milestones from the start ease the pressure."
+     ],
+     [
+      "Mỗi buổi tập gì tùy hứng",
+      "Rehearse whatever feels right each time",
+      0,
+      "Không có mốc thì dễ tập đi tập lại phần đã thuộc và bỏ sót phần khó.",
+      "Without milestones you replay what you know and skip the hard bits."
+     ]
+    ]
+   }
+  }
+ }
+]
