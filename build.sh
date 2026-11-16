@@ -8,8 +8,9 @@ OUT="${1:-public}"
 [ -x src/tools/node_modules/.bin/terser ] || (cd src/tools && npm ci)
 rm -rf "$OUT"; cp -r src/base-v13 "$OUT"
 python3 src/v15.py "$OUT"     # tap trung tieu hoc, bo PDF
-python3 src/v16.py "$OUT"     # 12 thang noi dung, danh muc cho ba me, bang gia moi
+python3 src/v16.py "$OUT"     # 12 thang noi dung, danh muc cho ba me
+python3 src/v17.py "$OUT"     # mien phi 100%, moi Sen ly Coffee, dong bo Bamedonghanh
 python3 src/v14.py "$OUT"     # (c), Dieu khoan, thu gon & lam roi ma
 # tang so phien ban bo nho dem khi phat hanh ban moi, de may cac con tai lai App
-sed -i -E "s/const CACHE = 'sen-v[0-9]+';/const CACHE = 'sen-v${SEN_VERSION:-16}';/" "$OUT/sw.js"
+sed -i -E "s/const CACHE = 'sen-v[0-9]+';/const CACHE = 'sen-v${SEN_VERSION:-17}';/" "$OUT/sw.js"
 echo "Xong: $OUT"

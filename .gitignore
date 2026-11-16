@@ -2,5 +2,5 @@ node_modules/
 __pycache__/
 *.pyc
 /build-test/
-*.png
-!public/**/*.png
+src/tools/in.js
+src/tools/out.js

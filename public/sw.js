@@ -1,5 +1,5 @@
 // Sen service worker: uu tien mang, khi mat mang thi dung ban da luu
-const CACHE = 'sen-v16';
+const CACHE = 'sen-v17';
 const ASSETS = ['./', 'trang-chu/', 'manifest.webmanifest', 'favicon.png', 'icon-192.png', 'icon-512.png', 'icon-180.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
