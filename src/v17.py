@@ -38,9 +38,9 @@ const donateImage = (k) => {
     const ox = (W - qs) / 2, oy = 84; x.fillStyle = '#fff'; x.fillRect(ox, oy, qs, qs); x.fillStyle = '#111';
     for (let r = 0; r < n; r++) for (let c = 0; c < n; c++) if (lv.qr[r].charCodeAt(c) === 49) x.fillRect(ox + (c + 4) * cell, oy + (r + 4) * cell, cell, cell);
     x.fillStyle = '#2E9E7E'; x.font = '800 40px "Baloo 2", sans-serif'; x.fillText(lv.name, W / 2, oy + qs + 46);
-    x.fillStyle = '#221A15'; x.font = '800 22px sans-serif'; x.fillText(DONATE.name, W / 2, oy + qs + 82);
-    x.fillStyle = '#6D5B4B'; x.font = '700 18px sans-serif'; x.fillText(DONATE.bank + ' · ' + DONATE.acct, W / 2, oy + qs + 110);
-    x.font = '700 15px sans-serif'; x.fillText('Nội dung: ' + DONATE_NOTE + ' · Ủng hộ tự nguyện', W / 2, oy + qs + 136);
+    x.fillStyle = '#221A15'; x.font = '700 22px "Be Vietnam Pro", sans-serif'; x.fillText(DONATE.name, W / 2, oy + qs + 82);
+    x.fillStyle = '#6D5B4B'; x.font = '700 18px "Be Vietnam Pro", sans-serif'; x.fillText(DONATE.bank + ' · ' + DONATE.acct, W / 2, oy + qs + 110);
+    x.font = '600 15px "Be Vietnam Pro", sans-serif'; x.fillText('Nội dung: ' + DONATE_NOTE + ' · Ủng hộ tự nguyện', W / 2, oy + qs + 136);
     return (DQR[lv.slug] = cv.toDataURL('image/png'));
   } catch (e) { return ''; }
 };
@@ -52,6 +52,8 @@ const donateUrl = (k) => { const lv = DONATE_LEVELS[k] || DONATE_LEVELS[0]; if (
     return (DQRB[lv.slug] = URL.createObjectURL(new Blob([u], { type: 'image/png' }))); } catch (e) { return ''; } };
 const donateBox = (k, w) => { const n = (DONATE_LEVELS[k] || DONATE_LEVELS[0]).qr.length, qs = Math.floor(440 / (n + 8)) * (n + 8);
   return 'width:100%%;max-width:' + w + 'px;align-self:center;aspect-ratio:520/' + (qs + 250) + ';border-radius:18px;border:2px solid #F0E4D4;background:#FFF1E6 center/contain no-repeat url(' + donateUrl(k) + ')'; };
+/* font nhung san tai xong thi ve lai the QR cho dung font */
+try { document.fonts && document.fonts.ready.then(() => { for (const k in DQR) delete DQR[k]; for (const k in DQRB) delete DQRB[k]; }); } catch (e) {}
 const donateSave = (k) => { const lv = DONATE_LEVELS[k] || DONATE_LEVELS[0], a = document.createElement('a');
   a.href = donateImage(k); a.download = 'ma-qr-moi-sen-coffee-' + lv.slug + '.png'; document.body.appendChild(a); a.click(); a.remove(); };
 const donateCopy = () => { try { return navigator.clipboard.writeText(DONATE.acct).then(() => true, () => false); } catch (e) { return Promise.resolve(false); } };
@@ -165,7 +167,11 @@ LAND_FAQ = '''const FAQ = [
 ];'''
 
 
+PRECONNECT = '<link rel="preconnect" href="https://fonts.googleapis.com">\n<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">\n'
+
+
 def landing(t):
+    t = sub(t, PRECONNECT, '')
     t = sub(t, '<a class="lp-navlink" href="#gia" style="font-size:14px;font-weight:600;color:#5C4B3C;padding:8px 10px">Học phí</a>',
                '<a class="lp-navlink" href="#ung-ho" style="font-size:14px;font-weight:600;color:#5C4B3C;padding:8px 10px">Mời Sen ly Coffee ☕</a>')
     t = sub(t, '<a href="#dang-ky" class="lp-regbtn" style="background:#C8102E;color:#FFF;border-radius:99px;padding:10px 20px;font-weight:700;font-size:14px;white-space:nowrap">Đăng ký</a>',
@@ -370,6 +376,7 @@ APP_METHODS = r'''  freeRegister(){
 
 
 def app(t):
+    t = sub(t, PRECONNECT, '')
     # thu vien ung ho, dat sau du lieu bai hoc (v14 lam roi tu "const L" toi "const STAGES")
     t = sub(t, "const saveFamily = (f) =>", DONATE_LIB + "const HUB_URL = '" + HUB + "';\nconst SHARE_TEXT = 'Senapp: App kỹ năng sống miễn phí cho con tiểu học. Học 7 phút, làm một việc thật. Ba mẹ đồng hành cùng con nhé!';\nconst saveFamily = (f) =>")
     t = sub(t, "  if (/[?&#]demo\\b/.test(location.href)) b.demo = true;\n  return b;",

@@ -48,3 +48,9 @@ admin.senapp@gmail.com · Zalo/Viber 0975 860 488
 - Dữ liệu chỉ nằm trong trình duyệt của từng máy. **Quản lý tài khoản → Tải file sao lưu**; trên máy mới bấm **Khôi phục từ file sao lưu**.
 - Link mở thẳng màn tạo tài khoản: `/?dangky`. Gia đình mẫu: `/?demo` (ba mẹ ID `0901234567`, PIN `9999`).
 - Kiểm thử v17 cần thêm `jsqr` và `pngjs` để giải mã thử mã QR: `npm i jsqr pngjs` trong một thư mục rồi chạy `QRDIR=<thư mục đó> node tests/e17.mjs`.
+
+## GitHub Pages
+
+- Repo có `.nojekyll` để GitHub Pages không chạy Jekyll (Jekyll lỗi khi gặp `{{ }}` trong tài liệu và mã nguồn).
+- `index.html` ở gốc repo chuyển sang `public/` (giữ nguyên `?dangky`, `?demo`): https://mhtiny3ds-a11y.github.io/senapp/
+- Font Baloo 2 và Be Vietnam Pro được nhúng sẵn (SIL OFL 1.1, xem `public/OFL-fonts.txt`); không trang nào tải font từ Google.
